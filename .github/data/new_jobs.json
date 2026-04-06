@@ -229,6 +229,35 @@
     "job_posted_at": "2026-04-04T13:00:00.000Z"
   },
   {
+    "job_id": "js-bae-systems-2nmmlcjqwwborqflaaaaaa==",
+    "job_title": "Systems Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/122952BR/Systems-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "86f94c26a110a6058cd3fd66250544bd6f46a59edbf801f18e7cd5fd40daf97f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
     "job_title": "Edison Engineering Development Program Internship - Hardware",
     "employer_name": "GE HEALTHCARE",
@@ -1857,6 +1886,65 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-athena-qjni8cbm6qb02pbtaaaaaa==",
+    "job_title": "Data Science Intern: Build XP-Client Matching Models",
+    "employer_name": "Athena",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-build-xp-client-matching-models--united-states--ea1005464563b83e3f8d9776c7de471a4",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c44f42834520470cff556ebf1da5a10ada4f5c21482baeeb474ca3361c58b30f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-virgin-galactic-t_dfkdycvetdihy2aaaaaa==",
+    "job_title": "Intern, Avionics Systems Engineering",
+    "employer_name": "Virgin Galactic",
+    "job_city": "Tustin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vgcareers.virgingalactic.com/global/en/job/2049/Intern-Avionics-Systems-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "462c0664c00f6e47a73ce88667068f8085d24ec93a6c93760b3c75b9c5981bfa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-taylor-corporation-jdmq2xu2o0potxbiaaaaaa==",
     "job_title": "AI / Machine Learning Intern",
     "employer_name": "Taylor Corporation",
@@ -1945,35 +2033,6 @@
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
-    "job_id": "js-athena-qjni8cbm6qb02pbtaaaaaa==",
-    "job_title": "Data Science Intern: Build XP-Client Matching Models",
-    "employer_name": "Athena",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-build-xp-client-matching-models--united-states--ea1005464563b83e3f8d9776c7de471a4",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c44f42834520470cff556ebf1da5a10ada4f5c21482baeeb474ca3361c58b30f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
     "job_id": "js-hp-3hrz3vukdre-t88paaaaaa==",
     "job_title": "Software Developer Internship",
     "employer_name": "HP",
@@ -1990,36 +2049,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-virgin-galactic-t_dfkdycvetdihy2aaaaaa==",
-    "job_title": "Intern, Avionics Systems Engineering",
-    "employer_name": "Virgin Galactic",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://vgcareers.virgingalactic.com/global/en/job/2049/Intern-Avionics-Systems-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "11c2c3d60873acd713af858a7f6e28c3bfcce2e5887bac1388e3fe96912d9993",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
       ],
       "locations": [
         "us",
@@ -4752,6 +4781,35 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "js-quantco-zvgb6u4w3z0vsaelaaaaaa==",
+    "job_title": "Data Science Intern at QuantCo United States",
+    "employer_name": "QuantCo",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ntnskole.no/vacancies/job/data-science-intern-at-quantco-united-states-WWJPOFVOVEcrOG1YRGJseFBmZTY3OHNnbFE9PQ==",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "95e556d84fb7dcbf5106edf529ed97585f0a9cb0dbbebe744f56dc4cb890c061",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "netflix-790315177455",
     "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
     "employer_name": "Netflix",
@@ -4887,35 +4945,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-quantco-zvgb6u4w3z0vsaelaaaaaa==",
-    "job_title": "Data Science Intern at QuantCo United States",
-    "employer_name": "QuantCo",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ntnskole.no/vacancies/job/data-science-intern-at-quantco-united-states-WWJPOFVOVEcrOG1YRGJseFBmZTY3OHNnbFE9PQ==",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "95e556d84fb7dcbf5106edf529ed97585f0a9cb0dbbebe744f56dc4cb890c061",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -5689,39 +5718,6 @@
     "job_posted_at": "2026-04-01T20:44:23.683Z"
   },
   {
-    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
-    "job_title": "Business Development Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:23.682Z"
-  },
-  {
     "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
     "job_title": "Commercial Partnerships Intern",
     "employer_name": "Samba TV",
@@ -5743,6 +5739,39 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:23.682Z"
+  },
+  {
+    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
+    "job_title": "Business Development Intern",
+    "employer_name": "Samba TV",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -7639,34 +7668,6 @@
     "job_posted_at": "2026-04-01T07:04:42.161Z"
   },
   {
-    "job_id": "workday-rtx-01832669",
-    "job_title": "Manufacturing Engineering Ops (Summer & Fall 2026)(Onsite)",
-    "employer_name": "RTX",
-    "job_city": "IL-ROCKFORD-P1 ~ 2421 11th St ~ 2421 11TH ST-P1",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Manufacturing-Engineering-Ops--Summer---Fall-2026--Onsite-_01832669",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:32.520Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff1c522ede651b0786c17043d1cb331ae5115e50d946a6d3b5a65a13b7511af8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:32.520Z"
-  },
-  {
     "job_id": "workday-rtx-01832438",
     "job_title": "2026 Intern – Environmental, Health & Safety Intern – Onsite (MA)",
     "employer_name": "RTX",
@@ -7683,6 +7684,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:32.520Z"
+  },
+  {
+    "job_id": "workday-rtx-01832669",
+    "job_title": "Manufacturing Engineering Ops (Summer & Fall 2026)(Onsite)",
+    "employer_name": "RTX",
+    "job_city": "IL-ROCKFORD-P1 ~ 2421 11th St ~ 2421 11TH ST-P1",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Manufacturing-Engineering-Ops--Summer---Fall-2026--Onsite-_01832669",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:32.520Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ff1c522ede651b0786c17043d1cb331ae5115e50d946a6d3b5a65a13b7511af8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -8425,62 +8454,6 @@
     "job_posted_at": "2026-04-01T07:02:53.298Z"
   },
   {
-    "job_id": "workday-ge-aerospace-R5032038",
-    "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5032038-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8ebeace1a4586a006ddb218f6bc7386daf3ca4fc8a522ae150d03bbc72dea2e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
-    "job_id": "workday-ge-aerospace-R5032042",
-    "job_title": "Military DoD SkillBridge Internship - On Wing Support Test Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---On-Wing-Support-Test-Technician_R5032042-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
     "job_id": "workday-ge-aerospace-R5032037",
     "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
     "employer_name": "GE Aerospace",
@@ -8521,6 +8494,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032038",
+    "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5032038-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8ebeace1a4586a006ddb218f6bc7386daf3ca4fc8a522ae150d03bbc72dea2e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032042",
+    "job_title": "Military DoD SkillBridge Internship - On Wing Support Test Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---On-Wing-Support-Test-Technician_R5032042-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9448,6 +9477,154 @@
     "job_posted_at": "2026-04-01T02:00:00.000Z"
   },
   {
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Newtown Square",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ametek-inc-jrgwgrzlt5ru7bppaaaaaa==",
+    "job_title": "Data Science and AI Intern",
+    "employer_name": "Ametek, Inc.",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ametek.com/job/San-Diego-Data-Science-and-AI-Intern-CA-92121/1378973100/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "648500c53004e1798660ecdc1bf2a24089bb72984dc8ac9f517969f3ee558a06",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-trane-technologies-bqszjdyfweodltvzaaaaaa==",
+    "job_title": "2026 Analytics & Data Science Intern",
+    "employer_name": "trane technologies",
+    "job_city": "Davidson",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502557/2026-Analytics-Data-Science-Intern",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9dc3f634f46c55d05e018689574be44808610f3636043363c9df3da1afd31499",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-general-motors-jwimwizdmoh8c0fzaaaaaa==",
+    "job_title": "AI/ML Software Engineer Summer Intern - Master's",
+    "employer_name": "General Motors",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/general-motors/jobs-internships/aiml-software-engineer-summer-intern-masters",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5569969b16c791e65dde76ba7c42876cfe7766e8a29cc89eb9a019119cf95ed3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-tyto-athene-gtdk5g68p0jia0otaaaaaa==",
+    "job_title": "AI/ML Engineering Intern",
+    "employer_name": "Tyto Athene",
+    "job_city": "Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://reston.us.expertini.com/job/aiml-engineering-intern-reston-tyto-athene-3d00a5d310944c2e9fd67cdac53fa2d6105/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d0f8e272540a3f695cee61acf9e72a1e8b3377e765270bd5d71469fa28563153",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-crown-equipment-corporation-ve1bhsmq_ysf1glfaaaaaa==",
     "job_title": "Electrical Engineering Intern/Co-op - Fall 2026",
     "employer_name": "Crown Equipment Corporation",
@@ -9524,64 +9701,6 @@
       "domains": [
         "software",
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ametek-inc-jrgwgrzlt5ru7bppaaaaaa==",
-    "job_title": "Data Science and AI Intern",
-    "employer_name": "Ametek, Inc.",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ametek.com/job/San-Diego-Data-Science-and-AI-Intern-CA-92121/1378973100/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "648500c53004e1798660ecdc1bf2a24089bb72984dc8ac9f517969f3ee558a06",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-trane-technologies-bqszjdyfweodltvzaaaaaa==",
-    "job_title": "2026 Analytics & Data Science Intern",
-    "employer_name": "trane technologies",
-    "job_city": "Davidson",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502557/2026-Analytics-Data-Science-Intern",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9dc3f634f46c55d05e018689574be44808610f3636043363c9df3da1afd31499",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -9698,96 +9817,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-general-motors-jwimwizdmoh8c0fzaaaaaa==",
-    "job_title": "AI/ML Software Engineer Summer Intern - Master's",
-    "employer_name": "General Motors",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/general-motors/jobs-internships/aiml-software-engineer-summer-intern-masters",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9dd9b9e47dd397ecbabc4e7975360477bd06bfda0d26b33428222a3a02fc2801",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-tyto-athene-gtdk5g68p0jia0otaaaaaa==",
-    "job_title": "AI/ML Engineering Intern",
-    "employer_name": "Tyto Athene",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://reston.us.expertini.com/job/aiml-engineering-intern-reston-tyto-athene-3d00a5d310944c2e9fd67cdac53fa2d6105/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d0f8e272540a3f695cee61acf9e72a1e8b3377e765270bd5d71469fa28563153",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us",
@@ -12737,6 +12766,183 @@
     "job_posted_at": "2026-03-30T22:56:36-04:00"
   },
   {
+    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
+    "job_title": "2026 Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "87e00c990da413f7a8eeef42b05a3ea4bcab7995b4a88301aff097aeac18ce19",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
+    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
+    "employer_name": "Constellation Energy Generation, LLC.",
+    "job_city": "Marseilles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "74e5281af80d01ab9376a721a40b8266f0e0861842b74bd1535f09146d635194",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
+    "job_title": "2026 Intern - SEI Data Office AI Intern",
+    "employer_name": "SEI1GLOBAL",
+    "job_city": "Oaks",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.seic.com/global/en/job/R0035952/2026-Intern-SEI-Data-Office-AI-Intern",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-analog-devices-yt3cbfo1plumfm_gaaaaaa==",
+    "job_title": "AI/ML Researcher Intern – Co-op",
+    "employer_name": "Analog Devices",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://simplify.jobs/p/576c2feb-295b-4bcd-a126-2751463fe426",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "575651b05f139f556f96fd5b73caa99eddd75cc81bb96d6d21ac1c9d0de8723f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-peregrine-semiconductor-corp-gvrzzvwkq3mognp4aaaaaa==",
+    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026 Job Details | Murata America",
+    "employer_name": "Peregrine Semiconductor Corp.",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.factoryfix.com/jobs/intern-software-engineer-aiml-summer-2026-job-details-murata-america--san-diego--ca--3717444840--V2",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "99c198644c67fedf3cbef5c379218b5d3701dd849f83d9ad2f7f6292d79086b0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-binghamtom-university-p0dlztgimiktmnt2aaaaaa==",
+    "job_title": "AI/ML Research Intern — R&D in Data Science",
+    "employer_name": "BINGHAMTOM UNIVERSITY",
+    "job_city": "Vestal",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/ai-ml-research-intern-r-d-in-data-science--town-of-vestal--e4bb1867ddd83421d056238e40de60f2d",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9b79ae794a8b08e28c1b7617c3d903b5e02da683be0543ebfac7300c6d919b59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "job_id": "js-dover-corporation-uqnmncdgcb7zgezsaaaaaa==",
     "job_title": "Electrical Engineer Intern",
     "employer_name": "Dover Corporation",
@@ -13011,65 +13217,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "7d0fbfe80bab142f730e9c402269ec0026d0b2916eaca67ee3ff0cc08cf45926",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
-    "job_title": "2026 Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d8493cfa2ca30d47b224e333d1729c92ca1c29d2132d1b35040b1a39bda33a7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-constellation-energy-generation-llc-ygwb6k1rq981rfsoaaaaaa==",
-    "job_title": "Strategic/Systems Engineering Intern - Marseilles, IL",
-    "employer_name": "Constellation Energy Generation, LLC.",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.constellationenergy.com/careers-home/jobs/130531?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "907b2c7a1ae495db89232991f7a25c4af9f832fbdc537e370d8a73b261ab92f3",
     "tags": {
       "employment": "internship",
       "domains": [
