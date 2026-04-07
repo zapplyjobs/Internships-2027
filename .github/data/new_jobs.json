@@ -5710,6 +5710,35 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-stantec-zqt2l4c78ixt9nhaaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Water (Summer 2026)",
+    "employer_name": "Stantec",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://stantec.jobs/chandler-az/electrical-engineering-intern-water-summer-2026/C8C3411BC15B430D9DEB9D26B9DC0D1F/job/",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "08c9db6682864216bed6f68d3e7fbe71637d4daa13a635bce4fd03e55ab57831",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
     "job_title": "Co-op Hardware Development Engineer",
     "employer_name": "Rockwell Automation",
@@ -5815,35 +5844,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-stantec-zqt2l4c78ixt9nhaaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Water (Summer 2026)",
-    "employer_name": "Stantec",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://stantec.jobs/chandler-az/electrical-engineering-intern-water-summer-2026/C8C3411BC15B430D9DEB9D26B9DC0D1F/job/",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "08c9db6682864216bed6f68d3e7fbe71637d4daa13a635bce4fd03e55ab57831",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -8664,6 +8664,36 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "netflix-790315177455",
+    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
+    "employer_name": "Netflix",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "netflix",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
     "job_title": "Summer Internship - Hardware Engineering Intern",
     "employer_name": "BAE Systems",
@@ -8720,36 +8750,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "netflix-790315177455",
-    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
-    "employer_name": "Netflix",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "netflix",
     "job_posted_at": "2026-04-02T00:00:00.000Z"
   },
   {
@@ -9716,39 +9716,6 @@
     "job_posted_at": "2026-04-01T20:44:23.683Z"
   },
   {
-    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
-    "job_title": "Business Development Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:23.682Z"
-  },
-  {
     "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
     "job_title": "Commercial Partnerships Intern",
     "employer_name": "Samba TV",
@@ -9770,6 +9737,39 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:23.682Z"
+  },
+  {
+    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
+    "job_title": "Business Development Intern",
+    "employer_name": "Samba TV",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -9846,39 +9846,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
-    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
     "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
     "employer_name": "Hermeus",
@@ -9900,6 +9867,39 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
+    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -11550,35 +11550,6 @@
     "job_posted_at": "2026-04-01T07:04:45.264Z"
   },
   {
-    "job_id": "workday-zayo-R0016191",
-    "job_title": "ServiceNow Intern – Service Order Management, TSM & GenAI Enablement",
-    "employer_name": "Zayo",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/ServiceNow-Intern---Service-Order-Management--TSM---GenAI-Enablement_R0016191",
-    "job_posted_at_datetime_utc": "2026-04-01T07:04:45.264Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f880a7b0ef18e0dfee83cba6d8b46526dd0ca1caa6636d9b71594640680e156",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:04:45.264Z"
-  },
-  {
     "job_id": "workday-zayo-R0016176",
     "job_title": "Network Automation & AI Engineer Intern - WaaS",
     "employer_name": "Zayo",
@@ -11597,6 +11568,35 @@
         "software",
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:04:45.264Z"
+  },
+  {
+    "job_id": "workday-zayo-R0016191",
+    "job_title": "ServiceNow Intern – Service Order Management, TSM & GenAI Enablement",
+    "employer_name": "Zayo",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/ServiceNow-Intern---Service-Order-Management--TSM---GenAI-Enablement_R0016191",
+    "job_posted_at_datetime_utc": "2026-04-01T07:04:45.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5f880a7b0ef18e0dfee83cba6d8b46526dd0ca1caa6636d9b71594640680e156",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
       ],
       "locations": [
         "us"
@@ -11946,6 +11946,35 @@
     "job_posted_at": "2026-04-01T07:03:22.106Z"
   },
   {
+    "job_id": "workday-micron-JR96660",
+    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
+    "employer_name": "Micron",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:22.106Z"
+  },
+  {
     "job_id": "workday-micron-JR91786",
     "job_title": "Intern - Validation Strategy AI/ML",
     "employer_name": "Micron",
@@ -11990,35 +12019,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:22.106Z"
-  },
-  {
-    "job_id": "workday-micron-JR96660",
-    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
-    "employer_name": "Micron",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
       ],
       "locations": [
         "us"
@@ -13419,6 +13419,64 @@
     "job_posted_at": "2026-04-01T02:00:00.000Z"
   },
   {
+    "job_id": "js-crown-equipment-corporation-ve1bhsmq_ysf1glfaaaaaa==",
+    "job_title": "Electrical Engineering Intern/Co-op - Fall 2026",
+    "employer_name": "Crown Equipment Corporation",
+    "job_city": "Kinston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us-careers.crown.com/job/Kinston-Electrical-Engineering-InternCo-op-Fall-2026-NC-28504/1379171800/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "cc75f1653effa532142bb5fef6d74d687c7871731acb87c6204ceb8b8be84d13",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ametek-inc-vz79ljlwomsvbrfuaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Ametek, Inc.",
+    "job_city": "Kent",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ametek.com/job/Kent-Electrical-Engineering-Intern-Summer-2026-OH-44240/1361657000/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5f137b140d20af96fd5236b7db8859841aea2caa3a036e65eee7c48d41306bac",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-xometry-gib_x-h9mj-vnei9aaaaaa==",
     "job_title": "Machine Learning Intern",
     "employer_name": "Xometry",
@@ -13710,35 +13768,6 @@
     "job_posted_at": "2026-04-01T00:00:00.000Z"
   },
   {
-    "job_id": "js-crown-equipment-corporation-ve1bhsmq_ysf1glfaaaaaa==",
-    "job_title": "Electrical Engineering Intern/Co-op - Fall 2026",
-    "employer_name": "Crown Equipment Corporation",
-    "job_city": "Kinston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us-careers.crown.com/job/Kinston-Electrical-Engineering-InternCo-op-Fall-2026-NC-28504/1379171800/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "cc75f1653effa532142bb5fef6d74d687c7871731acb87c6204ceb8b8be84d13",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
     "job_id": "js-spectrum-hhza_g6oo60ns_ataaaaaa==",
     "job_title": "2026 Summer Intern: Associate Data Scientist",
     "employer_name": "Spectrum",
@@ -13755,35 +13784,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ametek-inc-vz79ljlwomsvbrfuaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Ametek, Inc.",
-    "job_city": "Kent",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ametek.com/job/Kent-Electrical-Engineering-Intern-Summer-2026-OH-44240/1361657000/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5f137b140d20af96fd5236b7db8859841aea2caa3a036e65eee7c48d41306bac",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -16372,34 +16372,6 @@
     "job_posted_at": "2026-03-31T07:02:27.562Z"
   },
   {
-    "job_id": "workday-disney-10139196",
-    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Celebration",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
-    "job_posted_at_datetime_utc": "2026-03-31T07:02:10.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:02:10.522Z"
-  },
-  {
     "job_id": "workday-disney-10140055",
     "job_title": "WDI Project Controls Planning Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -16416,6 +16388,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:02:10.522Z"
+  },
+  {
+    "job_id": "workday-disney-10139196",
+    "job_title": "Yellow Shoes Planning Innovation Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Celebration",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Yellow-Shoes-Planning-Innovation-Intern--Summer-Fall-2026_10139196",
+    "job_posted_at_datetime_utc": "2026-03-31T07:02:10.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c1608b7f448f7f36864e28f18ffd0d5e26c744ef9ecead9dd6ddc73adf94a07",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -16513,6 +16513,35 @@
     "job_posted_at": "2026-03-31T07:02:06.632Z"
   },
   {
+    "job_id": "workday-caci-323833",
+    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineer--AI-ML-Intern---Summer-2026_323833",
+    "job_posted_at_datetime_utc": "2026-03-31T07:01:50.331Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f9b3fa0c50a29f70072ef2f10523ce67dc01a68b91ebd43976af7aeafc8d5e24",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-03-31T07:01:50.331Z"
+  },
+  {
     "job_id": "workday-caci-323607",
     "job_title": "AI/ML Data Scientist Intern - Summer 2026",
     "employer_name": "CACI",
@@ -16562,35 +16591,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-31T07:01:50.331Z"
-  },
-  {
-    "job_id": "workday-caci-323833",
-    "job_title": "Software Engineer, AI/ML Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Software-Engineer--AI-ML-Intern---Summer-2026_323833",
-    "job_posted_at_datetime_utc": "2026-03-31T07:01:50.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f9b3fa0c50a29f70072ef2f10523ce67dc01a68b91ebd43976af7aeafc8d5e24",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
       ],
       "experience": "entry_level",
       "special": []
