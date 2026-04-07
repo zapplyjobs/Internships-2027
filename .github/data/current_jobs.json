@@ -57,7 +57,7 @@
   },
   {
     "job_id": "workday-disney-10141472",
-    "job_title": "Finance and Analytics Intern, Summer/Fall 2026",
+    "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
     "job_city": "Anaheim",
     "job_state": "CA",
@@ -67,7 +67,7 @@
     "job_posted_at_datetime_utc": "2026-04-07T23:18:08.213Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8151245ce58415d10a65c6acf52fa8206688d8f845ee2f4b92678022f640c364",
+    "fingerprint": "2d3bbd6dc532f8f83ba7ee041bb9390d3ac90e32c55fb69f397765b699d28840",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -2684,34 +2684,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2025-17738",
-    "job_title": "Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -2868,6 +2840,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-17738",
+    "job_title": "Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -3164,6 +3164,35 @@
     "job_posted_at": "2026-04-06T23:00:00.000Z"
   },
   {
+    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
+    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Cedar Rapids",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-06T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T23:00:00.000Z"
+  },
+  {
     "job_id": "js-lmi-consulting-llc-vhezsut2lbkolbu-aaaaaa==",
     "job_title": "Data Scientist Intern - GenAI & ML Research (Summer 2026)",
     "employer_name": "LMI Consulting, LLC",
@@ -3240,35 +3269,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
-    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Cedar Rapids",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "job_posted_at_datetime_utc": "2026-04-06T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -4469,90 +4469,6 @@
     "job_posted_at": "2026-04-06T19:04:23.348Z"
   },
   {
-    "job_id": "workday-caci-324469",
-    "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Configuration-Management-Co-op-Intern---Summer---Fall-2026_324469",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfbe8223915252f09945e6c158c8d8cfdd09a922d3b1f6cb2a9b0dd126909d90",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324464",
-    "job_title": "Accounting Intern - Year Round",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Accounting-Intern---Year-Round_324464",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfa596d94ce48575fb4a3f131b157f05870d8d7aee8a5897af6328d752e19a42",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324471",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US MI Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
     "job_id": "workday-caci-324266",
     "job_title": "Contracts Intern - Year Round",
     "employer_name": "CACI",
@@ -4796,6 +4712,90 @@
       "domains": [
         "software",
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324469",
+    "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
+    "employer_name": "CACI",
+    "job_city": "US CT Danbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Configuration-Management-Co-op-Intern---Summer---Fall-2026_324469",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfbe8223915252f09945e6c158c8d8cfdd09a922d3b1f6cb2a9b0dd126909d90",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324464",
+    "job_title": "Accounting Intern - Year Round",
+    "employer_name": "CACI",
+    "job_city": "US CT Danbury",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Accounting-Intern---Year-Round_324464",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfa596d94ce48575fb4a3f131b157f05870d8d7aee8a5897af6328d752e19a42",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324471",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US MI Ypsilanti",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -7381,35 +7381,6 @@
     "job_posted_at": "2026-04-04T00:00:00.000Z"
   },
   {
-    "job_id": "js-planet-njo5srbwirwfife-aaaaaa==",
-    "job_title": "Intern, AI/ML",
-    "employer_name": "Planet",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.spacetalent.org/companies/planet/jobs/73351037-intern-ai-ml",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9fba924db377a3e9a91a7b6f637fe17465e5359909fc6ae9bd98b5c368a71da9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
     "job_id": "js-stantec-ivroxevyzlj4ugrwaaaaaa==",
     "job_title": "Data Science Intern - Infrastructure (Summer 2026)",
     "employer_name": "Stantec",
@@ -9037,6 +9008,35 @@
     "_source": "aggregator",
     "_original_source": "lever",
     "job_posted_at": "2026-04-03T00:31:45.758Z"
+  },
+  {
+    "job_id": "js-planet-njo5srbwirwfife-aaaaaa==",
+    "job_title": "Intern, AI/ML",
+    "employer_name": "Planet",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.spacetalent.org/companies/planet/jobs/73351037-intern-ai-ml",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9fba924db377a3e9a91a7b6f637fe17465e5359909fc6ae9bd98b5c368a71da9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
     "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
@@ -11098,6 +11098,34 @@
     "job_posted_at": "2026-04-02T07:03:26.657Z"
   },
   {
+    "job_id": "workday-kbr-R2121145",
+    "job_title": "Space Suit Production Logistics Internship Summer 2026",
+    "employer_name": "KBR",
+    "job_city": "Webster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
+    "job_posted_at_datetime_utc": "2026-04-02T07:03:22.981Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:03:22.981Z"
+  },
+  {
     "job_id": "workday-kbr-R2121279",
     "job_title": "Electrical Engineer Intern - Summer 2026",
     "employer_name": "KBR",
@@ -11142,34 +11170,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:03:22.981Z"
-  },
-  {
-    "job_id": "workday-kbr-R2121145",
-    "job_title": "Space Suit Production Logistics Internship Summer 2026",
-    "employer_name": "KBR",
-    "job_city": "Webster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Webster-Texas/Space-Suit-Production-Logistics-Internship-Summer-2026_R2121145",
-    "job_posted_at_datetime_utc": "2026-04-02T07:03:22.981Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bddafd930df55d93b62bf7030f31385795bd320013b0b2ef7ee39788472af398",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -13106,39 +13106,6 @@
     "job_posted_at": "2026-04-01T20:44:23.683Z"
   },
   {
-    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
-    "job_title": "Business Development Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:23.682Z"
-  },
-  {
     "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
     "job_title": "Commercial Partnerships Intern",
     "employer_name": "Samba TV",
@@ -13160,6 +13127,39 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:23.682Z"
+  },
+  {
+    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
+    "job_title": "Business Development Intern",
+    "employer_name": "Samba TV",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:23.682Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -13236,39 +13236,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
-    "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "40d6c6330bde895d86570b49628dcd8c35b0f04a045d0424fae90bfa1924847a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
     "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
     "employer_name": "Hermeus",
@@ -13290,6 +13257,39 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
+    "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "40d6c6330bde895d86570b49628dcd8c35b0f04a045d0424fae90bfa1924847a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -15448,6 +15448,34 @@
     "job_posted_at": "2026-04-01T07:03:22.106Z"
   },
   {
+    "job_id": "workday-moog-R-26-16887",
+    "job_title": "Intern, Design Engineering",
+    "employer_name": "Moog",
+    "job_city": "Arvada",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Design-Engineering_R-26-16887",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44a5ccfb7f6e95f3d94a481b4d8963d11aead9ff19d92bd26e13c2581b082b3e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:15.302Z"
+  },
+  {
     "job_id": "workday-moog-R-26-16779",
     "job_title": "Intern, Operations",
     "employer_name": "Moog",
@@ -15656,34 +15684,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "61f58abd3868fc817527a81d8895790454704e1b0895176f62a8fac4e5fb69c9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:15.302Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-16887",
-    "job_title": "Intern, Design Engineering",
-    "employer_name": "Moog",
-    "job_city": "Arvada",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Arvada-CO/Intern--Design-Engineering_R-26-16887",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:15.302Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44a5ccfb7f6e95f3d94a481b4d8963d11aead9ff19d92bd26e13c2581b082b3e",
     "tags": {
       "employment": "internship",
       "domains": [
