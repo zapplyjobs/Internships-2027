@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "greenhouse-celonis-7611868003",
+    "job_title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+    "employer_name": "Celonis",
+    "job_city": "Raleigh",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/celonis/jobs/7611868003?gh_jid=7611868003",
+    "job_posted_at_datetime_utc": "2026-04-07T09:37:17-04:00",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a1cad047240f36e39a1c3242d7ef42ec26526e56d231f7a9883577ee5b7635d9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-07T09:37:17-04:00"
+  },
+  {
     "job_id": "workday-philips-580660",
     "job_title": "Intern-Quality Management System-Latham, NY Summer 2026",
     "employer_name": "Philips",
@@ -4014,35 +4042,6 @@
     "job_posted_at": "2026-04-06T13:02:34.712Z"
   },
   {
-    "job_id": "js-cumberland-farms-ozfi879ctpucgrsgaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "Cumberland Farms",
-    "job_city": "Westborough",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4112-4f44a933ff5887c2cc90aed44854fc8f",
-    "job_posted_at_datetime_utc": "2026-04-06T13:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "89690c8e0635f1d7047066d64f37cf3d9556d071c3683cc73e6b6f2e7ff6b8aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T13:00:00.000Z"
-  },
-  {
     "job_id": "js-wsp-xaxxgkfgpvbdehzhaaaaaa==",
     "job_title": "Software Developer Intern- Summer 2026",
     "employer_name": "WSP",
@@ -4112,6 +4111,35 @@
     "job_employment_type": "PART-TIME",
     "salary": null,
     "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cumberland-farms-ozfi879ctpucgrsgaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Cumberland Farms",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-4112-4f44a933ff5887c2cc90aed44854fc8f",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "953f0545960844572a40293c49f48b9b77cde2a7c7faef11a667991be628bd4a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4391,7 +4419,7 @@
     "job_id": "js-null-auto-club-of-southern-calif-5dosbnptpzqxsy5faaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "null, Auto Club Of Southern Calif",
-    "job_city": "Costa Mesa",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -4399,7 +4427,7 @@
     "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "8274e6b72a0904481a72b019e90dc230ebb5633b56b38930b613400fae75c960",
+    "fingerprint": "f7f3d80a30ad96fca6f8f91d24ccda312387b82385a4fb5649e5c9d3142826ed",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9074,6 +9102,34 @@
     "job_posted_at": "2026-04-02T07:02:10.521Z"
   },
   {
+    "job_id": "workday-blue-origin-R54898",
+    "job_title": "Summer 2026 Electrical Systems Engineering Internship - Undergraduate",
+    "employer_name": "Blue Origin",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Internship---Undergraduate_R54898",
+    "job_posted_at_datetime_utc": "2026-04-02T07:01:51.863Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bee28e2a86c81676090c3c39b666b9d38983bc885b0b327bc462c0bdbed734dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-02T07:01:51.863Z"
+  },
+  {
     "job_id": "workday-blue-origin-R54897",
     "job_title": "Summer 2026 Electrical Systems Engineering Intern - Graduate Student",
     "employer_name": "Blue Origin",
@@ -9202,34 +9258,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-02T07:01:51.863Z"
-  },
-  {
-    "job_id": "workday-blue-origin-R54898",
-    "job_title": "Summer 2026 Electrical Systems Engineering Internship - Undergraduate",
-    "employer_name": "Blue Origin",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Summer-2026-Electrical-Systems-Engineering-Internship---Undergraduate_R54898",
-    "job_posted_at_datetime_utc": "2026-04-02T07:01:51.863Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bee28e2a86c81676090c3c39b666b9d38983bc885b0b327bc462c0bdbed734dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us"
@@ -12778,6 +12806,35 @@
     "job_posted_at": "2026-04-01T07:03:22.106Z"
   },
   {
+    "job_id": "workday-micron-JR96660",
+    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
+    "employer_name": "Micron",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:22.106Z"
+  },
+  {
     "job_id": "workday-micron-JR91786",
     "job_title": "Intern - Validation Strategy AI/ML",
     "employer_name": "Micron",
@@ -12822,35 +12879,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:22.106Z"
-  },
-  {
-    "job_id": "workday-micron-JR96660",
-    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
-    "employer_name": "Micron",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
       ],
       "locations": [
         "us"
@@ -13424,34 +13452,6 @@
     "job_posted_at": "2026-04-01T07:02:13.297Z"
   },
   {
-    "job_id": "workday-disney-10143657",
-    "job_title": "Corporate Real Estate Portfolio Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Burbank",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Corporate-Real-Estate-Portfolio-Intern--Summer-Fall-2026_10143657",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:10.522Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff8362ad1c711faa5c59cee303f38cf27de499d1673b9cbefd04e6607baaf7e1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:10.522Z"
-  },
-  {
     "job_id": "workday-disney-10141071",
     "job_title": "WDI Franchise Planning Intern, Glendale, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -13468,6 +13468,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:10.522Z"
+  },
+  {
+    "job_id": "workday-disney-10143657",
+    "job_title": "Corporate Real Estate Portfolio Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Burbank",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Corporate-Real-Estate-Portfolio-Intern--Summer-Fall-2026_10143657",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:10.522Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ff8362ad1c711faa5c59cee303f38cf27de499d1673b9cbefd04e6607baaf7e1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
       ],
       "locations": [
         "us"
@@ -16524,34 +16552,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-31T14:35:48.152Z"
-  },
-  {
-    "job_id": "sr-RedBull-744000117895567",
-    "job_title": "2026 Internship, Summer - FP&A",
-    "employer_name": "Red Bull",
-    "job_city": "Harrison",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/RedBull/744000117895567",
-    "job_posted_at_datetime_utc": "2026-03-31T13:46:06.003Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0cdee8c7b06d892d6f3e23d5249bce0bdf8eb798b08d85f4402e051adc534ff7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-03-31T13:46:06.003Z"
   }
 ]
