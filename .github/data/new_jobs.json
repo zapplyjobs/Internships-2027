@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-allegion-JR33641",
+    "job_title": "Summer Tax Intern",
+    "employer_name": "Allegion",
+    "job_city": "Carmel",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Tax-Intern_JR33641",
+    "job_posted_at_datetime_utc": "2026-04-08T18:42:51.582Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3fd0a3528aff136b770698dfd2b11bdf6ee400fe3fbb089774f4639567d21bdc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T18:42:51.582Z"
+  },
+  {
     "job_id": "workday-kbr-R2121588",
     "job_title": "National Security Solutions (NSS)- Engineering Intern",
     "employer_name": "KBR",
@@ -4694,34 +4722,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2025-17738",
-    "job_title": "Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -4878,6 +4878,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-17738",
+    "job_title": "Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -6512,34 +6540,6 @@
     "job_posted_at": "2026-04-06T07:08:36.526Z"
   },
   {
-    "job_id": "workday-state-street-R-783036",
-    "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
-    "employer_name": "State Street",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Global-Delivery---Alpha-Operations-Summer-Internship-2026_R-783036",
-    "job_posted_at_datetime_utc": "2026-04-06T07:08:27.670Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e540ed6ff931337de81cf8de3c7d2fed38a8d7d792f92603fdd79739f2452d6a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:08:27.670Z"
-  },
-  {
     "job_id": "workday-state-street-R-781935",
     "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
     "employer_name": "State Street",
@@ -6612,6 +6612,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:08:27.670Z"
+  },
+  {
+    "job_id": "workday-state-street-R-783036",
+    "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
+    "employer_name": "State Street",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street---Global-Delivery---Alpha-Operations-Summer-Internship-2026_R-783036",
+    "job_posted_at_datetime_utc": "2026-04-06T07:08:27.670Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e540ed6ff931337de81cf8de3c7d2fed38a8d7d792f92603fdd79739f2452d6a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
       ],
       "locations": [
         "us"
@@ -11489,23 +11517,22 @@
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
-    "job_id": "js-virgin-galactic-t_dfkdycvetdihy2aaaaaa==",
-    "job_title": "Intern, Avionics Systems Engineering",
-    "employer_name": "Virgin Galactic",
-    "job_city": "Tustin",
+    "job_id": "js-beumer-group-0iuzq6sxuhoee9qsaaaaaa==",
+    "job_title": "Systems & Automation Engineering Intern — Hands-on Learning",
+    "employer_name": "BEUMER Group",
+    "job_city": "New Jersey",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://vgcareers.virgingalactic.com/global/en/job/2049/Intern-Avionics-Systems-Engineering",
+    "job_apply_link": "https://www.jobleads.com/us/job/systems-automation-engineering-intern-hands-on-learning--new-jersey--e3457384ccbd6b40e1fefed478d8b9cfe",
     "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "462c0664c00f6e47a73ce88667068f8085d24ec93a6c93760b3c75b9c5981bfa",
+    "fingerprint": "4d655616dbd671ef3bc43fe909535b846d516f262b8fe2eb34b9f65f99a87d56",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software",
-        "hardware"
+        "software"
       ],
       "locations": [
         "us",
@@ -11548,6 +11575,36 @@
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
+    "job_id": "js-virgin-galactic-t_dfkdycvetdihy2aaaaaa==",
+    "job_title": "Intern, Avionics Systems Engineering",
+    "employer_name": "Virgin Galactic",
+    "job_city": "Tustin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://vgcareers.virgingalactic.com/global/en/job/2049/Intern-Avionics-Systems-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "462c0664c00f6e47a73ce88667068f8085d24ec93a6c93760b3c75b9c5981bfa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-athena-qjni8cbm6qb02pbtaaaaaa==",
     "job_title": "Data Science Intern: Build XP-Client Matching Models",
     "employer_name": "Athena",
@@ -11564,35 +11621,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-beumer-group-0iuzq6sxuhoee9qsaaaaaa==",
-    "job_title": "Systems & Automation Engineering Intern — Hands-on Learning",
-    "employer_name": "BEUMER Group",
-    "job_city": "New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/systems-automation-engineering-intern-hands-on-learning--new-jersey--e3457384ccbd6b40e1fefed478d8b9cfe",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "4d655616dbd671ef3bc43fe909535b846d516f262b8fe2eb34b9f65f99a87d56",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -15803,39 +15831,6 @@
     "job_posted_at": "2026-04-01T20:44:13.539Z"
   },
   {
-    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
-    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
-    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-01T20:44:13.190Z"
-  },
-  {
     "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
     "job_title": "Propulsion Engineer Test Intern - (Fall 2026)",
     "employer_name": "Hermeus",
@@ -15857,6 +15852,39 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-01T20:44:13.190Z"
+  },
+  {
+    "job_id": "lever-hermeus-4ae414d2-fac9-4d4c-b7cf-e41577e17892",
+    "job_title": "Inlet Design & Build Engineering intern - (Summer/Fall 2026)",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/hermeus/4ae414d2-fac9-4d4c-b7cf-e41577e17892/apply",
+    "job_posted_at_datetime_utc": "2026-04-01T20:44:13.190Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "3edeec9cc84ca6fb3866078fbb32b6d79e32e4c525d14d55b9ca1294c3d057dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us"
@@ -16038,33 +16066,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-01T19:06:26.577Z"
-  },
-  {
-    "job_id": "greenhouse-rubrik-7761599",
-    "job_title": "Product Management MSP Intern, Summer 2026",
-    "employer_name": "Rubrik",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.rubrik.com/company/careers/departments/job.7761599?gh_jid=7761599",
-    "job_posted_at_datetime_utc": "2026-04-01T14:53:57-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "721ae5b69fd26f1917eb367924e7b4be301a048247a5771da59b532b7343831f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-01T14:53:57-04:00"
   }
 ]
