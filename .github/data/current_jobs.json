@@ -2464,62 +2464,6 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -2786,6 +2730,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3973,18 +3973,18 @@
     "job_posted_at": "2026-04-07T07:07:23.199Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4001,18 +4001,18 @@
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4928,34 +4928,6 @@
     "job_posted_at": "2026-04-07T07:05:52.482Z"
   },
   {
-    "job_id": "workday-disney-10147010",
-    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
-    "employer_name": "Disney",
-    "job_city": "Celebration",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:52.481Z"
-  },
-  {
     "job_id": "workday-disney-10141472",
     "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -5057,6 +5029,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:52.481Z"
+  },
+  {
+    "job_id": "workday-disney-10147010",
+    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
+    "employer_name": "Disney",
+    "job_city": "Celebration",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -8077,6 +8077,34 @@
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
+    "job_id": "workday-kla-2635204",
+    "job_title": "Manufacturing Design Engineer Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Design-Engineer-Intern_2635204-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "276e667fda825daf0b53b4196876f1a055207de81811d959b377ed96704aeb99",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:09.454Z"
+  },
+  {
     "job_id": "workday-kla-2635509",
     "job_title": "Product Sustainability Intern",
     "employer_name": "KLA",
@@ -8117,34 +8145,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c20e7f7894f89a689c8cac2845218df832690d88ab14983e93ac7c48f0da612f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:09.454Z"
-  },
-  {
-    "job_id": "workday-kla-2635204",
-    "job_title": "Manufacturing Design Engineer Intern",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Design-Engineer-Intern_2635204-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "276e667fda825daf0b53b4196876f1a055207de81811d959b377ed96704aeb99",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8245,34 +8245,6 @@
     "job_posted_at": "2026-04-06T07:07:02.919Z"
   },
   {
-    "job_id": "workday-moog-R-26-16547",
-    "job_title": "Intern, Systems Engineering",
-    "employer_name": "Moog",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547",
-    "job_posted_at_datetime_utc": "2026-04-06T07:06:59.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "786cb3b8c54c847cf581ebfa730071bf21d5b61d96705e618fabff7b9e56677c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:06:59.007Z"
-  },
-  {
     "job_id": "workday-moog-R-26-17014",
     "job_title": "Intern, Software Engineering",
     "employer_name": "Moog",
@@ -8341,6 +8313,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "54acb13e2abea5ec365d6ccab6578094b9474cb45368007286ed5b031c7f2e3a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:06:59.007Z"
+  },
+  {
+    "job_id": "workday-moog-R-26-16547",
+    "job_title": "Intern, Systems Engineering",
+    "employer_name": "Moog",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547",
+    "job_posted_at_datetime_utc": "2026-04-06T07:06:59.007Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "786cb3b8c54c847cf581ebfa730071bf21d5b61d96705e618fabff7b9e56677c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8471,34 +8471,6 @@
     "job_posted_at": "2026-04-06T07:06:42.721Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30265127",
-    "job_title": "BEST Sales Intern - Fire Systems - Linthicum, MD",
-    "employer_name": "Johnson Controls",
-    "job_city": "Maryland-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/BEST-Sales-Intern---Fire-Systems---Linthicum--MD_WD30265127",
-    "job_posted_at_datetime_utc": "2026-04-06T07:06:36.691Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "822a348b1a6042bdee7febcae854d16880416f95f5aee55acfaff6791d4ade26",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:06:36.691Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30264894",
     "job_title": "Controls Tech Intern",
     "employer_name": "Johnson Controls",
@@ -8515,6 +8487,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:06:36.691Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30265127",
+    "job_title": "BEST Sales Intern - Fire Systems - Linthicum, MD",
+    "employer_name": "Johnson Controls",
+    "job_city": "Maryland-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/BEST-Sales-Intern---Fire-Systems---Linthicum--MD_WD30265127",
+    "job_posted_at_datetime_utc": "2026-04-06T07:06:36.691Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "822a348b1a6042bdee7febcae854d16880416f95f5aee55acfaff6791d4ade26",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
       ],
       "locations": [
         "us"
@@ -12092,34 +12092,6 @@
     "job_posted_at": "2026-04-03T07:03:03.040Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068168",
-    "job_title": "CAI Compliance Intern",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brunswick-New-Jersey-United-States-of-America/CAI-Compliance-Intern_R-068168",
-    "job_posted_at_datetime_utc": "2026-04-03T07:02:53.297Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "409b0ca5afcdfb27e8f28aa9f3e3cf3ca7c81b2264a8cbbb2994a14142bc5312",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-03T07:02:53.297Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-036099",
     "job_title": "Supply Chain Distributions Medtech - Summer Intern",
     "employer_name": "Johnson & Johnson",
@@ -12136,6 +12108,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-03T07:02:53.297Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068168",
+    "job_title": "CAI Compliance Intern",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brunswick-New-Jersey-United-States-of-America/CAI-Compliance-Intern_R-068168",
+    "job_posted_at_datetime_utc": "2026-04-03T07:02:53.297Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "409b0ca5afcdfb27e8f28aa9f3e3cf3ca7c81b2264a8cbbb2994a14142bc5312",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
