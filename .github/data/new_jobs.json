@@ -1,5 +1,62 @@
 [
   {
+    "job_id": "workday-intel-JR0282584",
+    "job_title": "Physical Design Graduate Intern",
+    "employer_name": "Intel",
+    "job_city": "US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Physical-Design-Graduate-Intern_JR0282584",
+    "job_posted_at_datetime_utc": "2026-04-09T15:19:09.756Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3225e7ac9f436a2b293c18bb7cedb115b3ded5e4cefbb387d79204866a6ae9f6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T15:19:09.756Z"
+  },
+  {
+    "job_id": "sr-VeoliaEnvironnementSA-744000119642077",
+    "job_title": "Assistant Project Engineer Co-Op",
+    "employer_name": "Veolia Environnement SA",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000119642077",
+    "job_posted_at_datetime_utc": "2026-04-09T15:16:02.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cfff9f51645cb6bf02335a9c00dfc8800c6019940498efa8c957d849bbc4a41d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-09T15:16:02.274Z"
+  },
+  {
     "job_id": "workday-philips-577491",
     "job_title": "Intern-Product Quality Engineering-Cambridge, MA-Summer 2026",
     "employer_name": "Philips",
@@ -564,6 +621,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-09T00:02:29.320Z"
+  },
+  {
+    "job_id": "js-concept-plus-kngygljeeamv7ktkaaaaaa==",
+    "job_title": "AI Development Intern",
+    "employer_name": "Concept Plus",
+    "job_city": "Fairfax",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/ai-development-intern/9001100",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3121904fffe7f006cd6e0e60525aa677f810d4e87961567c73b4d4a9c3ba2869",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
     "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
@@ -3169,6 +3255,35 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "js-wsp-qjqr0ussdhhiemsvaaaaaa==",
+    "job_title": "Electrical Engineering Intern- Summer 2026",
+    "employer_name": "WSP",
+    "job_city": "Lakewood",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.ihireengineering.com/jobs/view/516506738",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "29c0ddded7a3ff8298861dacbe07a3ca7f6de8e2ebb5e691cdb866359a2e49be",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-nvidia-usa-mwx101ftn_iztva9aaaaaa==",
     "job_title": "Hardware ASIC Design Internship",
     "employer_name": "NVIDIA USA",
@@ -4699,6 +4814,62 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067039",
+    "job_title": "Electrical Engineer Co-op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067610",
     "job_title": "Customer Service and Channel Ops Co-Op",
     "employer_name": "Johnson & Johnson",
@@ -4827,62 +4998,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067039",
-    "job_title": "Electrical Engineer Co-op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -5318,34 +5433,6 @@
     "job_posted_at": "2026-04-07T07:05:48.392Z"
   },
   {
-    "job_id": "workday-curtiss-wright-JR11555",
-    "job_title": "Manufacturing Intern (3 months)",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "PA-Aston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR11555-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:47.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "286695f9e0aba80fc948cef955be28beb1306d2995fcf758194bed20851e212b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:47.126Z"
-  },
-  {
     "job_id": "workday-curtiss-wright-JR11538",
     "job_title": "Purchasing/Supply Chain Internship (3 months)",
     "employer_name": "Curtiss-Wright",
@@ -5362,6 +5449,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:47.126Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR11555",
+    "job_title": "Manufacturing Intern (3 months)",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Aston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR11555-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:47.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "286695f9e0aba80fc948cef955be28beb1306d2995fcf758194bed20851e212b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -5796,6 +5911,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T01:33:28.233Z"
+  },
+  {
+    "job_id": "js-xometry-00hhqxozjrrmlqrwaaaaaa==",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Xometry",
+    "job_city": "Waltham",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/waltham-massachusetts?id=2614540312",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3d92b438b0fec838d3e58ece07072d65c7bf36193f5e93e4a106b120ce8d6a60",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
     "job_id": "js-athena-athenacom-6krx8uxplbdzxhbjaaaaaa==",
@@ -8865,18 +9010,18 @@
     "job_posted_at": "2026-04-06T07:06:36.691Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-062718",
-    "job_title": "Fall 2026 Quality Engineering Co-op",
+    "job_id": "workday-johnson-&-johnson-R-067622",
+    "job_title": "Chemical Engineering Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Cornelia",
+    "job_city": "Raritan",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
+    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8893,18 +9038,18 @@
     "job_posted_at": "2026-04-06T07:06:34.837Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067622",
-    "job_title": "Chemical Engineering Co-Op - Fall 2026",
+    "job_id": "workday-johnson-&-johnson-R-062718",
+    "job_title": "Fall 2026 Quality Engineering Co-op",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
+    "job_city": "Cornelia",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
+    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9090,34 +9235,6 @@
     "job_posted_at": "2026-04-06T07:06:05.733Z"
   },
   {
-    "job_id": "workday-disney-10147298",
-    "job_title": "Disney Live Entertainment Business Solutions Project Analyst Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Kissimmee",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Business-Solutions-Project-Analyst-Intern--Summer-Fall-2026_10147298",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:48.441Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "96a16a6ec34dc35fca7caa996f8cc341d4efff0dec3b76a456f772eade3eb503",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:48.441Z"
-  },
-  {
     "job_id": "workday-disney-10147814",
     "job_title": "Revenue Planning & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -9134,6 +9251,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:48.441Z"
+  },
+  {
+    "job_id": "workday-disney-10147298",
+    "job_title": "Disney Live Entertainment Business Solutions Project Analyst Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Kissimmee",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Business-Solutions-Project-Analyst-Intern--Summer-Fall-2026_10147298",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:48.441Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "96a16a6ec34dc35fca7caa996f8cc341d4efff0dec3b76a456f772eade3eb503",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
       ],
       "locations": [
         "us"
@@ -9542,34 +9687,6 @@
     "job_posted_at": "2026-04-06T07:05:20.777Z"
   },
   {
-    "job_id": "workday-applied-materials-R2616590",
-    "job_title": "Investor Relations Summer Internship (Bachelors - Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Investor-Relations-Summer-Internship--Bachelors---Santa-Clara--CA-_R2616590-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:05:04.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06d94ef0fa6c5be335c06d62ddaa395daf30297f01fb4ae986305b4f8a177b93",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:05:04.858Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616685",
     "job_title": "2026 Summer Manufacturing Engineer Intern- Bachelor's (Kalispell, MT)",
     "employer_name": "Applied Materials",
@@ -9615,6 +9732,34 @@
       "domains": [
         "software",
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:05:04.858Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616590",
+    "job_title": "Investor Relations Summer Internship (Bachelors - Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Investor-Relations-Summer-Internship--Bachelors---Santa-Clara--CA-_R2616590-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:05:04.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06d94ef0fa6c5be335c06d62ddaa395daf30297f01fb4ae986305b4f8a177b93",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -9729,6 +9874,182 @@
       "domains": [
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
+    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
+    "employer_name": "CMTA, Inc",
+    "job_city": "Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
+    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
+    "employer_name": "The Walt Disney Company (Corporate)",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-blue-origin-w3hit8rnm7k1bin9aaaaaa==",
+    "job_title": "Artificial Intelligence / Machine Learning Intern - Graduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/blue-origin/jobs-internships/artificial-intelligence-machine-learning-intern-graduate-student",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e6ecf6402d0f9bd1260780ebd43998f4946ce590f264c1d8b29ff63a7e44c5b5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
+    "job_title": "Intern: Hardware Developer",
+    "employer_name": "IBM",
+    "job_city": "Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
+    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Cedar Rapids",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-johnson-johnson-services-inc-jo3ahasmlle7yl4zaaaaaa==",
+    "job_title": "Electrical Engineer Co-op",
+    "employer_name": "Johnson & Johnson Services, Inc.",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.careers.jnj.com/en/jobs/r-067039/electrical-engineer-co-op/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "a48e2accf279f7a1edbe2b7d35e794fc0506bbce1a1bf564dcb7cb5fb14d4911",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us",
@@ -9887,36 +10208,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
-    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
-    "employer_name": "The Walt Disney Company (Corporate)",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-canon-usa-inc-6vclsgb8cskrt2elaaaaaa==",
     "job_title": "Vision & AI Research Intern - Hybrid Summer (Paid)",
     "employer_name": "Canon U.S.A., Inc.",
@@ -9967,36 +10258,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-blue-origin-w3hit8rnm7k1bin9aaaaaa==",
-    "job_title": "Artificial Intelligence / Machine Learning Intern - Graduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/blue-origin/jobs-internships/artificial-intelligence-machine-learning-intern-graduate-student",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "f6e773fedb6f3d6fc1451898888bbe1ab96638cfc16d0a663952a17eec935254",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
       ],
       "experience": "entry_level",
       "special": []
@@ -10076,122 +10337,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "60e168f1d0a3129af4b2a9ec632ba0c42f083a8b5827f7e6d37c0edb261fda22",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
-    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
-    "employer_name": "CMTA, Inc",
-    "job_city": "Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-johnson-johnson-services-inc-jo3ahasmlle7yl4zaaaaaa==",
-    "job_title": "Electrical Engineer Co-op",
-    "employer_name": "Johnson & Johnson Services, Inc.",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.careers.jnj.com/en/jobs/r-067039/electrical-engineer-co-op/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a48e2accf279f7a1edbe2b7d35e794fc0506bbce1a1bf564dcb7cb5fb14d4911",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
-    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Cedar Rapids",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
-    "job_title": "Intern: Hardware Developer",
-    "employer_name": "IBM",
-    "job_city": "Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11283,18 +11428,18 @@
     "job_posted_at": "2026-04-04T07:05:46.561Z"
   },
   {
-    "job_id": "js-general-electric-jrsggelfwsaigpu5aaaaaa==",
-    "job_title": "Applied AI Engineer Co-op – Fall 2026 (September Start)",
-    "employer_name": "General Electric",
-    "job_city": "Feasterville-Trevose",
+    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
+    "job_title": "AI & Machine Learning Intern",
+    "employer_name": "Taylor Corporation",
+    "job_city": "Amsterdam",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.localjobs.com/job/feasterville-trevose-pa-applied-ai-engineer-co-op-fall-2026-september-start",
+    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
     "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "1232eb0cdac07bfcfa6f1caf09536cbb3709e9fd551ec25e85bd483dea676dfc",
+    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11313,18 +11458,18 @@
     "job_posted_at": "2026-04-04T00:00:00.000Z"
   },
   {
-    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
-    "job_title": "AI & Machine Learning Intern",
-    "employer_name": "Taylor Corporation",
-    "job_city": "Amsterdam",
+    "job_id": "js-general-electric-jrsggelfwsaigpu5aaaaaa==",
+    "job_title": "Applied AI Engineer Co-op – Fall 2026 (September Start)",
+    "employer_name": "General Electric",
+    "job_city": "Feasterville-Trevose",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
+    "job_apply_link": "https://www.localjobs.com/job/feasterville-trevose-pa-applied-ai-engineer-co-op-fall-2026-september-start",
     "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
+    "fingerprint": "1232eb0cdac07bfcfa6f1caf09536cbb3709e9fd551ec25e85bd483dea676dfc",
     "tags": {
       "employment": "internship",
       "domains": [
