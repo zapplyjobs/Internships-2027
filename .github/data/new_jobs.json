@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-motorola-solutions-R63804",
+    "job_title": "Intern - Embedded Software, System, and Test Engineer - 2026",
+    "employer_name": "Motorola Solutions",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R63804",
+    "job_posted_at_datetime_utc": "2026-04-10T18:48:24.867Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "99e985cce424f0fc0e9f17220e620925abef4e713a5728ca1a9b5a92545b758c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T18:48:24.867Z"
+  },
+  {
+    "job_id": "workday-generac-JR13465",
+    "job_title": "IT Intern - Web Development",
+    "employer_name": "Generac",
+    "job_city": "USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/IT-Intern---Web-Development_JR13465",
+    "job_posted_at_datetime_utc": "2026-04-10T18:46:48.264Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01d276c9dcb2a0524565cb6682b2bfbf15fa95fec86b7e608dda7db0eca272d0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T18:46:48.264Z"
+  },
+  {
     "job_id": "sr-INFICON2-744000120036258",
     "job_title": "Finance/Accounting Summer Intern",
     "employer_name": "INFICON",
@@ -4348,6 +4404,34 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -4444,34 +4528,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5416,6 +5472,62 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -5625,62 +5737,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7327,6 +7383,34 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -7455,34 +7539,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -7637,90 +7693,6 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067039",
-    "job_title": "Electrical Engineer Co-op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067610",
-    "job_title": "Customer Service and Channel Ops Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068293",
-    "job_title": "Offer Development Analyst Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-063875",
     "job_title": "Engineering Co-op",
     "employer_name": "Johnson & Johnson",
@@ -7821,6 +7793,90 @@
       "employment": "internship",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067039",
+    "job_title": "Electrical Engineer Co-op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067610",
+    "job_title": "Customer Service and Channel Ops Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068293",
+    "job_title": "Offer Development Analyst Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -12712,90 +12768,6 @@
     "job_posted_at": "2026-04-06T07:01:20.859Z"
   },
   {
-    "job_id": "workday-state-street-R-787603",
-    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787596",
-    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787592",
-    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
     "job_id": "workday-state-street-R-781935",
     "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
     "employer_name": "State Street",
@@ -12908,6 +12880,90 @@
     "job_posted_at": "2026-04-06T07:01:14.287Z"
   },
   {
+    "job_id": "workday-state-street-R-787603",
+    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787596",
+    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787592",
+    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
     "job_id": "workday-salesforce-JR337175",
     "job_title": "Summer 2026 Intern - Strategy & Change Management Intern",
     "employer_name": "Salesforce",
@@ -13004,6 +13060,35 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "6d2677096fe03a1d115e4783694f060c7227d579255718f64b79ff93d66e94dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-saic-affpst5ioyh6ukfjaaaaaa==",
+    "job_title": "Mission Assurance Engineering Intern",
+    "employer_name": "SAIC",
+    "job_city": "Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.saic.com/jobs/17585480-mission-assurance-engineering-intern",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c489d2486430b815e385e151c0f6a92f2279f4cac6f6800ecc22922b4c9ae6c6",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13217,35 +13302,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-saic-affpst5ioyh6ukfjaaaaaa==",
-    "job_title": "Mission Assurance Engineering Intern",
-    "employer_name": "SAIC",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.saic.com/jobs/17585480-mission-assurance-engineering-intern",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c489d2486430b815e385e151c0f6a92f2279f4cac6f6800ecc22922b4c9ae6c6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -15466,34 +15522,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-03T19:04:44.385Z"
-  },
-  {
-    "job_id": "js-cotton-electric-cooperative-inc-cscmlekse6fqofssaaaaaa==",
-    "job_title": "Engineering Intern",
-    "employer_name": "Cotton Electric Cooperative, Inc.",
-    "job_city": "Walters",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.electric.coop/jobs/22175063/",
-    "job_posted_at_datetime_utc": "2026-04-03T19:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "0146615818b56d2483e33828749c238511b1dc4cefc53d1aa1623886222b6c77",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T19:00:00.000Z"
   }
 ]
