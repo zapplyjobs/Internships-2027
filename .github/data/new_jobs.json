@@ -85,34 +85,6 @@
     "job_posted_at": "2026-04-09T22:07:27-04:00"
   },
   {
-    "job_id": "workday-boston-dynamics-R2423",
-    "job_title": "AI/ML Safety Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-ML-Safety-Intern_R2423",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4bf479faa69d379fa2d96b76f02670b751fe7968925fbd3421e0cc24cb06d7d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2476",
     "job_title": "Mechanical Engineering Co-Op",
     "employer_name": "Boston Dynamics",
@@ -157,6 +129,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2423",
+    "job_title": "AI/ML Safety Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-ML-Safety-Intern_R2423",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4bf479faa69d379fa2d96b76f02670b751fe7968925fbd3421e0cc24cb06d7d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
       ],
       "locations": [
         "us"
@@ -2105,6 +2105,35 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
+    "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
+    "job_title": "2026 Analytics & Data Science Intern",
+    "employer_name": "trane technologies",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502564/2026-Analytics-Data-Science-Intern",
+    "job_posted_at_datetime_utc": "2026-04-08T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f0fac28abdf0a8d6c9076588e119603e14d2252c8d1d97f4a6b35bba3f3597d6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T23:00:00.000Z"
+  },
+  {
     "job_id": "js-uline-5hkoeootlrcqbzztaaaaaa==",
     "job_title": "Software Developer Internship - Summer 2026",
     "employer_name": "Uline",
@@ -2150,35 +2179,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
-    "job_title": "2026 Analytics & Data Science Intern",
-    "employer_name": "trane technologies",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502564/2026-Analytics-Data-Science-Intern",
-    "job_posted_at_datetime_utc": "2026-04-08T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f0fac28abdf0a8d6c9076588e119603e14d2252c8d1d97f4a6b35bba3f3597d6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -3419,6 +3419,62 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068841",
+    "job_title": "Pharm Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -3491,62 +3547,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068841",
-    "job_title": "Pharm Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -5855,18 +5855,18 @@
     "job_posted_at": "2026-04-07T07:07:23.199Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5883,18 +5883,18 @@
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6079,6 +6079,62 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
+    "job_id": "workday-jabil-J2437711",
+    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
+    "employer_name": "Jabil",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -6179,62 +6235,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2437711",
-    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
-    "employer_name": "Jabil",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -6810,6 +6810,34 @@
     "job_posted_at": "2026-04-07T07:05:52.482Z"
   },
   {
+    "job_id": "workday-disney-10147010",
+    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
+    "employer_name": "Disney",
+    "job_city": "Celebration",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:52.481Z"
+  },
+  {
     "job_id": "workday-disney-10141472",
     "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -6911,34 +6939,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:52.481Z"
-  },
-  {
-    "job_id": "workday-disney-10147010",
-    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
-    "employer_name": "Disney",
-    "job_city": "Celebration",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us"
@@ -7628,6 +7628,64 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-athena-athenacom-6krx8uxplbdzxhbjaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Athena (athena.com)",
+    "job_city": "Wilmington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/data-science-intern/8990899",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "1dae1d0115f80351b4984ecedf263d69df0497057483fc98beacdff519e878b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
+    "job_title": "Summer 2026 Internship: Data Science Intern - Princeton, NJ",
+    "employer_name": "dsm-firmenich",
+    "job_city": "Princeton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.dsm-firmenich.com/careers/job/562949975350360?hl=en_us",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "df87f4f2e487c8755bf394311894c78d0527582aeda95a89fa687bd0fa003588",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-the-jackson-laboratory-sgzjvumdaysbz2mqaaaaaa==",
     "job_title": "Summer Intern - Software Engineering",
     "employer_name": "The Jackson Laboratory",
@@ -7698,35 +7756,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "7420cf3fd66f481c263fb0f62f531847775994504c12edd64d3131036bb80fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-4gybwow2nyxjbuzqaaaaaa==",
-    "job_title": "Software Engineering Intern III, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118009BR/Software-Engineering-Intern-III-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cd66a0a839aebcad9da13125c2987e8400f6676b51ef4e547c1567630e6b673c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7819,35 +7848,6 @@
       "employment": "internship",
       "domains": [
         "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
-    "job_title": "Summer 2026 Internship: Data Science Intern - Princeton, NJ",
-    "employer_name": "dsm-firmenich",
-    "job_city": "Princeton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.dsm-firmenich.com/careers/job/562949975350360?hl=en_us",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "df87f4f2e487c8755bf394311894c78d0527582aeda95a89fa687bd0fa003588",
-    "tags": {
-      "employment": "internship",
-      "domains": [
         "data_science"
       ],
       "locations": [
@@ -8049,35 +8049,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "604cba90ec1f45095a70cd44273e56e790a6deb399898f0a9531bc72cc183869",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-athena-athenacom-6krx8uxplbdzxhbjaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "Athena (athena.com)",
-    "job_city": "Wilmington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/data-science-intern/8990899",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "1dae1d0115f80351b4984ecedf263d69df0497057483fc98beacdff519e878b6",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11745,6 +11716,65 @@
     "job_posted_at": "2026-04-06T07:00:17.789Z"
   },
   {
+    "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
+    "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
+    "employer_name": "Logistics Management Institute",
+    "job_city": "Tysons",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers-lmi.icims.com/jobs/13863/data-scientist-intern-%E2%80%93-genai-%26-ml-research-%28summer-2026%29/job",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-fortive-tlbtvflxvdvuvk-raaaaaa==",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Fortive",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://fortive.eightfold.ai/careers/job/893394406106-data-scientist-intern-minneapolis-mn-united-states",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b5150338af09f45c8db3782b4f36a8ffd3ec6e9cbc3df2883bd66fd09ddfcf2d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rtx-omqou25kvyj1ejniaaaaaa==",
     "job_title": "Software Engineering Intern (Summer 2026) (Onsite)",
     "employer_name": "RTX",
@@ -11891,36 +11921,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
-    "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
-    "employer_name": "Logistics Management Institute",
-    "job_city": "Tysons",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers-lmi.icims.com/jobs/13863/data-scientist-intern-%E2%80%93-genai-%26-ml-research-%28summer-2026%29/job",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-first-solar-us-latvrgecg93zxqktaaaaaa==",
     "job_title": "AI Intern (Summer 2026)",
     "employer_name": "First Solar (US)",
@@ -11995,35 +11995,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fortive-tlbtvflxvdvuvk-raaaaaa==",
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Fortive",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://fortive.eightfold.ai/careers/job/893394406106-data-scientist-intern-minneapolis-mn-united-states",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b5150338af09f45c8db3782b4f36a8ffd3ec6e9cbc3df2883bd66fd09ddfcf2d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -12732,6 +12703,93 @@
     "job_posted_at": "2026-04-05T07:03:00.934Z"
   },
   {
+    "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
+    "job_title": "Data Science Summer Intern (Remote & Paid)",
+    "employer_name": "Experian",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e2b0d4df465eca3904792b8abf94a9dc96062333658c4ab1f3d4fed39d64ccb4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
+    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
+    "employer_name": "Mayo Clinic",
+    "job_city": "Rochester",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "327eb20479e654e0e0e72b84e8d4bbc92655cc71a7265be5d62e58f022dc7186",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
+    "job_title": "Intern - Data Science",
+    "employer_name": "Shake Shack",
+    "job_city": "Atlanta",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.shakeshack.com/intern-data-science/job/PAF-SS-D18F239C-3F4C-4F86-AAE6-C55BE7FF26DE_26633_1774304113_0",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cisco-pmbisnrwig_j5jznaaaaaa==",
     "job_title": "Software Engineer I (Intern) - United States",
     "employer_name": "Cisco",
@@ -12806,64 +12864,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
-    "job_title": "Data Science Summer Intern (Remote & Paid)",
-    "employer_name": "Experian",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "e2b0d4df465eca3904792b8abf94a9dc96062333658c4ab1f3d4fed39d64ccb4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
-    "job_title": "Intern Data Science AI&I (Bachelors degree level)",
-    "employer_name": "Mayo Clinic",
-    "job_city": "Rochester",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.mayoclinic.org/job/rochester/intern-data-science-ai-and-i-bachelors-degree-level/33647/93659153744",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "327eb20479e654e0e0e72b84e8d4bbc92655cc71a7265be5d62e58f022dc7186",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -12977,35 +12977,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "bf79d60e48565a12414aca172062665c7fcda9dd1b72e6d0cb0fa4d6d6e4ff2d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
-    "job_title": "Intern - Data Science",
-    "employer_name": "Shake Shack",
-    "job_city": "Atlanta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.shakeshack.com/intern-data-science/job/PAF-SS-D18F239C-3F4C-4F86-AAE6-C55BE7FF26DE_26633_1774304113_0",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "10075366388648954c11a7603ad0dca23c2ed59e5ea20c86d2ba8e822eb49d14",
     "tags": {
       "employment": "internship",
       "domains": [
