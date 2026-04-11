@@ -4581,18 +4581,18 @@
     "job_posted_at": "2026-04-08T07:10:42.530Z"
   },
   {
-    "job_id": "workday-microchip-technology-R1362-26",
-    "job_title": "Intern (Industrial Engineering)",
+    "job_id": "workday-microchip-technology-R1428-26",
+    "job_title": "Intern- Equipment Engineering",
     "employer_name": "Microchip Technology",
-    "job_city": "Lowell",
+    "job_city": "Colorado Springs - East Cheyenne Mountain Blvd",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Lowell/Intern--Industrial-Engineering-_R1362-26",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Equipment-Engineering_R1428-26",
     "job_posted_at_datetime_utc": "2026-04-08T07:10:40.379Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "018dc808b9b621d81922d3d3843f43f93174f34581c9dd936f31004530eb775f",
+    "fingerprint": "423d6e30c5321b18f920a4b3e067c79c23e871516932ac4c2467429490733440",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4609,18 +4609,18 @@
     "job_posted_at": "2026-04-08T07:10:40.379Z"
   },
   {
-    "job_id": "workday-microchip-technology-R1428-26",
-    "job_title": "Intern- Equipment Engineering",
+    "job_id": "workday-microchip-technology-R1362-26",
+    "job_title": "Intern (Industrial Engineering)",
     "employer_name": "Microchip Technology",
-    "job_city": "Colorado Springs - East Cheyenne Mountain Blvd",
+    "job_city": "Lowell",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Equipment-Engineering_R1428-26",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Lowell/Intern--Industrial-Engineering-_R1362-26",
     "job_posted_at_datetime_utc": "2026-04-08T07:10:40.379Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "423d6e30c5321b18f920a4b3e067c79c23e871516932ac4c2467429490733440",
+    "fingerprint": "018dc808b9b621d81922d3d3843f43f93174f34581c9dd936f31004530eb775f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4863,62 +4863,6 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068841",
-    "job_title": "Pharm Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -4991,6 +4935,62 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068841",
+    "job_title": "Pharm Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -5931,6 +5931,62 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -6156,62 +6212,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -6298,6 +6298,35 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
+    "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
+    "job_title": "2026 Analytics & Data Science Intern",
+    "employer_name": "trane technologies",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502564/2026-Analytics-Data-Science-Intern",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f0fac28abdf0a8d6c9076588e119603e14d2252c8d1d97f4a6b35bba3f3597d6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-crum-forster-bh2fsfdlsnarntchaaaaaa==",
     "job_title": "Data Science Intern- Summer 2026 - Morristown, NJ or Remote",
     "employer_name": "Crum & Forster",
@@ -6318,6 +6347,35 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-kjdlfbetfxbs54tmaaaaaa==",
+    "job_title": "Data Science Intern: AI, ML & Strategy Impact",
+    "employer_name": "IBM",
+    "job_city": "California",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-ai-ml-strategy-impact--california--ec89b80a3020250a80e8988e60f52b5a1",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ad5f21130418b9a65b5739a1e057f70682abb71bbff1dd684d9637a3b9485f46",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
       ],
       "experience": "entry_level",
       "special": []
@@ -6704,35 +6762,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-trane-technologies-awnq_tfdc7g3uyzlaaaaaa==",
-    "job_title": "2026 Analytics & Data Science Intern",
-    "employer_name": "trane technologies",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502564/2026-Analytics-Data-Science-Intern",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f0fac28abdf0a8d6c9076588e119603e14d2252c8d1d97f4a6b35bba3f3597d6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-dassault-systmes-6qczxz02ab-xbvu9aaaaaa==",
     "job_title": "Study Experience Software Intern",
     "employer_name": "Dassault Systèmes",
@@ -6749,35 +6778,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-kjdlfbetfxbs54tmaaaaaa==",
-    "job_title": "Data Science Intern: AI, ML & Strategy Impact",
-    "employer_name": "IBM",
-    "job_city": "California",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-ai-ml-strategy-impact--california--ec89b80a3020250a80e8988e60f52b5a1",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ad5f21130418b9a65b5739a1e057f70682abb71bbff1dd684d9637a3b9485f46",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
@@ -7792,18 +7792,18 @@
     "job_posted_at": "2026-04-07T07:07:23.199Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7820,18 +7820,18 @@
     "job_posted_at": "2026-04-07T07:07:13.617Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:07:13.617Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8691,18 +8691,18 @@
     "job_posted_at": "2026-04-07T07:05:58.394Z"
   },
   {
-    "job_id": "workday-disney-10142222",
-    "job_title": "Global Public Relations Intern, Fall 2026",
+    "job_id": "workday-disney-10147951",
+    "job_title": "Disney Live Entertainment Tech Intern, Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Glendale",
-    "job_state": "CA",
+    "job_city": "Kissimmee",
+    "job_state": "FL",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Global-Public-Relations-Intern--Fall-2026_10142222",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Tech-Intern--Fall-2026_10147951",
     "job_posted_at_datetime_utc": "2026-04-07T07:05:52.482Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "223be9bd74b442cf8a4f2c61221299d4d3a5ac701ffe63d8ef7aad2b4947664f",
+    "fingerprint": "4ffaae2f8e1b665d087a5724d0e8bc4db6072e6012e3b9aafa0178220ad6be03",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8719,18 +8719,18 @@
     "job_posted_at": "2026-04-07T07:05:52.482Z"
   },
   {
-    "job_id": "workday-disney-10147951",
-    "job_title": "Disney Live Entertainment Tech Intern, Fall 2026",
+    "job_id": "workday-disney-10142222",
+    "job_title": "Global Public Relations Intern, Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Kissimmee",
-    "job_state": "FL",
+    "job_city": "Glendale",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Tech-Intern--Fall-2026_10147951",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Global-Public-Relations-Intern--Fall-2026_10142222",
     "job_posted_at_datetime_utc": "2026-04-07T07:05:52.482Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4ffaae2f8e1b665d087a5724d0e8bc4db6072e6012e3b9aafa0178220ad6be03",
+    "fingerprint": "223be9bd74b442cf8a4f2c61221299d4d3a5ac701ffe63d8ef7aad2b4947664f",
     "tags": {
       "employment": "internship",
       "domains": [
