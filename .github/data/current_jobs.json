@@ -10835,6 +10835,34 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
+    "job_id": "workday-sel-2025-17738",
+    "job_title": "Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -10991,34 +11019,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2025-17738",
-    "job_title": "Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
