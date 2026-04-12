@@ -114,101 +114,6 @@
     "job_posted_at": "2026-04-11T07:48:13.517Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2536",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2534",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2502",
     "job_title": "Electronics Manufacturing & Supply Chain Engineering Intern",
     "employer_name": "Boston Dynamics",
@@ -393,6 +298,101 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about the intersection of foundation models and physical AI?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2536",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2534",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T07:36:03.652Z"
@@ -3933,18 +3933,18 @@
     "job_posted_at": "2026-04-09T08:09:19.000Z"
   },
   {
-    "job_id": "workday-takeda-R0164416",
-    "job_title": "Takeda Finance Co-op: July-December",
+    "job_id": "workday-takeda-R0165902",
+    "job_title": "2026 U.S Summer Internship Program: Data Platforms - AI Intern",
     "employer_name": "Takeda",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Takeda-Finance-Co-op--January--June_R0164416",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-US-Summer-Internship-Program--Data-Platforms---AI-Intern_R0165902",
     "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5cd4469953c0a3658122ba7a2882dedaee7645b4b508e3efafa31422c7bcd35a",
+    "fingerprint": "3660a5fb7c6afdf8032e57ec2425c9117d9cc0f9af72c4d71060d3c70f3f1ac4",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3961,18 +3961,18 @@
     "job_posted_at": "2026-04-09T07:50:43.142Z"
   },
   {
-    "job_id": "workday-takeda-R0165902",
-    "job_title": "2026 U.S Summer Internship Program: Data Platforms - AI Intern",
+    "job_id": "workday-takeda-R0164416",
+    "job_title": "Takeda Finance Co-op: July-December",
     "employer_name": "Takeda",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-US-Summer-Internship-Program--Data-Platforms---AI-Intern_R0165902",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Takeda-Finance-Co-op--January--June_R0164416",
     "job_posted_at_datetime_utc": "2026-04-09T07:50:43.142Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3660a5fb7c6afdf8032e57ec2425c9117d9cc0f9af72c4d71060d3c70f3f1ac4",
+    "fingerprint": "5cd4469953c0a3658122ba7a2882dedaee7645b4b508e3efafa31422c7bcd35a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4059,18 +4059,18 @@
     "job_posted_at": "2026-04-09T07:50:06.210Z"
   },
   {
-    "job_id": "workday-disney-10146304",
-    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10147808",
+    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
     "employer_name": "Disney",
-    "job_city": "Glendale",
+    "job_city": "Burbank",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
     "job_posted_at_datetime_utc": "2026-04-09T07:47:34.497Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
+    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4087,18 +4087,18 @@
     "job_posted_at": "2026-04-09T07:47:34.497Z"
   },
   {
-    "job_id": "workday-disney-10147808",
-    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
+    "job_id": "workday-disney-10146304",
+    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Burbank",
+    "job_city": "Glendale",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
     "job_posted_at_datetime_utc": "2026-04-09T07:47:34.497Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
+    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4865,6 +4865,268 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
+    "job_title": "Hardware Engineer I (Co-op) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "mentor graphics",
+        "multimeter",
+        "oscilloscope"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-schneider-electric-354qxufwz33wsi9maaaaaa==",
+    "job_title": "Time Series Machine Learning Intern",
+    "employer_name": "Schneider Electric",
+    "job_city": "Andover",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.se.com/jobs/114293?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "05a72b181623737f3758f1ca30f02180d1f277751019b3f9cf65abbed051f346",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data science",
+        "databricks",
+        "github",
+        "https",
+        "machine learning",
+        "neural network",
+        "numpy",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "scipy",
+        "sql",
+        "statistics",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Schneider Electric™ creates connected technologies that reshape industries, transform cities and enrich lives.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-planet-kimvjyv1zoplau8daaaaaa==",
+    "job_title": "Intern, Machine Learning and AI",
+    "employer_name": "Planet",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/intern-machine-learning-ai--san-francisco--ee7fbf6b992fa632aaa45350c004ddf9d",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b71075c63c2e087e007ec5f9cac29595373291a583ade144f89e2b98a40428df",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "data science",
+        "deep learning",
+        "natural language processing",
+        "python",
+        "pytorch",
+        "tensorflow",
+        "vector database"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What You Bring • Currently pursuing a graduate degree in Computer Science, Data Science, Remote Sensing, or a related field • Proficiency in Python and experience with deep learning frameworks (e.g.,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
+    "job_title": "Engineer, Hardware Intern",
+    "employer_name": "Dover Corporation",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
+    "job_title": "Hardware Engineering Internship",
+    "employer_name": "redwire space",
+    "job_city": "Northborough",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "excel",
+        "fpga",
+        "git",
+        "microcontroller",
+        "python",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-keysight-technologies-inc-7szo0xgrsbvaljozaaaaaa==",
+    "job_title": "R&D Hardware Engineering Internship",
+    "employer_name": "Keysight Technologies, Inc.",
+    "job_city": "Calabasas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.keysight.com/external/jobs/52470?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "69cf0522f844b00eeffe738c924e0b4df5282cc85d5efc48518828cf2b4f36e4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "embedded systems",
+        "multimeter",
+        "oscilloscope"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications  • Currently enrolled as a sophomore or junior in a Bachelor’s degree program at a U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-circle-k-k1pdqtxlzm34ivauaaaaaa==",
     "job_title": "Data Science Intern, Global Data & Analytics",
     "employer_name": "Circle K",
@@ -5182,268 +5444,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
-    "job_title": "Hardware Engineer I (Co-op) - United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "mentor graphics",
-        "multimeter",
-        "oscilloscope"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-schneider-electric-354qxufwz33wsi9maaaaaa==",
-    "job_title": "Time Series Machine Learning Intern",
-    "employer_name": "Schneider Electric",
-    "job_city": "Andover",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.se.com/jobs/114293?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "05a72b181623737f3758f1ca30f02180d1f277751019b3f9cf65abbed051f346",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "data science",
-        "databricks",
-        "github",
-        "https",
-        "machine learning",
-        "neural network",
-        "numpy",
-        "pandas",
-        "python",
-        "scikit-learn",
-        "scipy",
-        "sql",
-        "statistics",
-        "xgboost"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Schneider Electric™ creates connected technologies that reshape industries, transform cities and enrich lives.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-planet-kimvjyv1zoplau8daaaaaa==",
-    "job_title": "Intern, Machine Learning and AI",
-    "employer_name": "Planet",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/intern-machine-learning-ai--san-francisco--ee7fbf6b992fa632aaa45350c004ddf9d",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b71075c63c2e087e007ec5f9cac29595373291a583ade144f89e2b98a40428df",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "data science",
-        "deep learning",
-        "natural language processing",
-        "python",
-        "pytorch",
-        "tensorflow",
-        "vector database"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "What You Bring • Currently pursuing a graduate degree in Computer Science, Data Science, Remote Sensing, or a related field • Proficiency in Python and experience with deep learning frameworks (e.g.,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
-    "job_title": "Engineer, Hardware Intern",
-    "employer_name": "Dover Corporation",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
-    "job_title": "Hardware Engineering Internship",
-    "employer_name": "redwire space",
-    "job_city": "Northborough",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "excel",
-        "fpga",
-        "git",
-        "microcontroller",
-        "python",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-keysight-technologies-inc-7szo0xgrsbvaljozaaaaaa==",
-    "job_title": "R&D Hardware Engineering Internship",
-    "employer_name": "Keysight Technologies, Inc.",
-    "job_city": "Calabasas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.keysight.com/external/jobs/52470?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "69cf0522f844b00eeffe738c924e0b4df5282cc85d5efc48518828cf2b4f36e4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "embedded systems",
-        "multimeter",
-        "oscilloscope"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications  • Currently enrolled as a sophomore or junior in a Bachelor’s degree program at a U.S.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -8721,6 +8721,70 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -8954,70 +9018,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -9083,6 +9083,46 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
+    "job_title": "Hardware Engineering Co-op",
+    "employer_name": "Fresenius Medical Care",
+    "job_city": "Lawrence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microprocessor",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
     "job_id": "js-bmw-group-c3um6zi6tj8jjeihaaaaaa==",
@@ -9606,46 +9646,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
-    "job_title": "Hardware Engineering Co-op",
-    "employer_name": "Fresenius Medical Care",
-    "job_city": "Lawrence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microprocessor",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -11979,6 +11979,50 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
+    "job_id": "workday-jabil-J2445426",
+    "job_title": "Information Security Intern",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "iam",
+        "networking",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
     "job_id": "workday-jabil-J2444715",
     "job_title": "Financial Reporting Intern (Consolidations)",
     "employer_name": "Jabil",
@@ -12032,50 +12076,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2445426",
-    "job_title": "Information Security Intern",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "ci/cd",
-        "computer science",
-        "devops",
-        "iam",
-        "networking",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-07T07:06:51.847Z"
   },
   {
@@ -12319,6 +12319,62 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-067610",
+    "job_title": "Customer Service and Channel Ops Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068293",
+    "job_title": "Offer Development Analyst Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "5 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-066944",
     "job_title": "HFE co-op (Fall 2026)",
     "employer_name": "Johnson & Johnson",
@@ -12385,62 +12441,6 @@
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067610",
-    "job_title": "Customer Service and Channel Ops Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Customer-Service-and-Channel-Ops-Co-Op_R-067610",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "903c59ee98a506a496ca94ab1a6d3dd74967ccd556b68671e8ffb4f4a4b75b63",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068293",
-    "job_title": "Offer Development Analyst Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/West-Chester-Pennsylvania-United-States-of-America/Offer-Development-Analyst-Co-Op_R-068293",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c414bffdcc66017e1330bda856a7d75d55b3d4229ed9469be020b5d56e2eca0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:06:42.121Z"
   },
   {
@@ -13842,6 +13842,62 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-nvidia-usa-8wyymtfjkwodhw5iaaaaaa==",
+    "job_title": "Hardware Engineering Internship",
+    "employer_name": "NVIDIA USA",
+    "job_city": "Santa Clara",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/nvidia/jobs-internships/hardware-engineering-internship-0",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "49b63dabfc13a225dd8399b221db0c4a468ffff0f399efb49e5b8635dd12f1de",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "creo",
+        "express",
+        "linux",
+        "matlab",
+        "multimeter",
+        "oscilloscope",
+        "pcb",
+        "perl",
+        "python",
+        "solidworks",
+        "systemverilog",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About You \r \r The company is looking for: \r \r \r • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-athena-athenacom-6krx8uxplbdzxhbjaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Athena (athena.com)",
@@ -14163,62 +14219,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nvidia-usa-8wyymtfjkwodhw5iaaaaaa==",
-    "job_title": "Hardware Engineering Internship",
-    "employer_name": "NVIDIA USA",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/nvidia/jobs-internships/hardware-engineering-internship-0",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "49b63dabfc13a225dd8399b221db0c4a468ffff0f399efb49e5b8635dd12f1de",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "creo",
-        "express",
-        "linux",
-        "matlab",
-        "multimeter",
-        "oscilloscope",
-        "pcb",
-        "perl",
-        "python",
-        "solidworks",
-        "systemverilog",
-        "verilog",
-        "vhdl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About You \r \r The company is looking for: \r \r \r • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -14901,34 +14901,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2026-19530",
-    "job_title": "Marketing Intern - SEO",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19760",
     "job_title": "HR Recruiting Intern",
     "employer_name": "SEL",
@@ -15096,6 +15068,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19530",
+    "job_title": "Marketing Intern - SEO",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
@@ -17606,6 +17606,34 @@
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
+    "job_id": "workday-kla-2635509",
+    "job_title": "Product Sustainability Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:09.454Z"
+  },
+  {
     "job_id": "workday-kla-2635323",
     "job_title": "Digital Transformation & AI Intern",
     "employer_name": "KLA",
@@ -17691,34 +17719,6 @@
       "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-06T07:07:09.454Z"
-  },
-  {
-    "job_id": "workday-kla-2635509",
-    "job_title": "Product Sustainability Intern",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-06T07:07:09.454Z"
   },
   {
@@ -19684,6 +19684,47 @@
     "job_posted_at": "2026-04-06T07:00:17.789Z"
   },
   {
+    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
+    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
+    "employer_name": "The Walt Disney Company (Corporate)",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "https",
+        "spring"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Candidates for this opportunity MUST meet all the below requirements: • Be enrolled in an accredited college/university taking at least one class in the semester/quarter (spring/fall) prior to partici…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
@@ -19731,18 +19772,18 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
-    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
-    "employer_name": "The Walt Disney Company (Corporate)",
-    "job_city": "Seattle",
+    "job_id": "js-coherent-corp-7kmg1eoyv6gy1h8qaaaaaa==",
+    "job_title": "Internship in AI & Machine Learning",
+    "employer_name": "Coherent Corp.",
+    "job_city": "Saxonburg",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_apply_link": "https://www.jobleads.com/us/job/internship-ai-and-machine-learning--saxonburg--e157e3cd947d01234d6fcb60d4c17cbe5",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
+    "fingerprint": "6f51dd615f401f4798d5e6f0acadcb422f6ec5f42228c9d3fab05683875345fb",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -19760,15 +19801,100 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "https",
-        "spring"
+        ".net",
+        "analytics",
+        "c#",
+        "computer science",
+        "deep learning",
+        "javascript",
+        "labview",
+        "network engineering",
+        "neural network",
+        "project management",
+        "python",
+        "sql",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "Candidates for this opportunity MUST meet all the below requirements: • Be enrolled in an accredited college/university taking at least one class in the semester/quarter (spring/fall) prior to partici…",
+      "summary_line": "Requirements  • Computer Science/Network Engineering, Engineering, Statistics, Data Analytics, or Mathematics major.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
+    "job_title": "Intern: Hardware Developer",
+    "employer_name": "IBM",
+    "job_city": "Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "less",
+        "microprocessor",
+        "networking",
+        "python",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a Hardware Test Engineer Intern at IBM, you'll get to work on the systems that are driving the future of computing.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
+    "job_title": "Summer Internship - Hardware Engineering Intern",
+    "employer_name": "BAE Systems",
+    "job_city": "Manassas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jsfirm.com/Engineering/Summer+Internship+-+Hardware+Engineering+Intern/Manassas-Virginia/jobID_1907890",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4274f6a64fbda54b98e665674324867ad3ea69b511e42bbc3311f8dd5827262b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
@@ -19937,102 +20063,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-coherent-corp-7kmg1eoyv6gy1h8qaaaaaa==",
-    "job_title": "Internship in AI & Machine Learning",
-    "employer_name": "Coherent Corp.",
-    "job_city": "Saxonburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/internship-ai-and-machine-learning--saxonburg--e157e3cd947d01234d6fcb60d4c17cbe5",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6f51dd615f401f4798d5e6f0acadcb422f6ec5f42228c9d3fab05683875345fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "analytics",
-        "c#",
-        "computer science",
-        "deep learning",
-        "javascript",
-        "labview",
-        "network engineering",
-        "neural network",
-        "project management",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Requirements  • Computer Science/Network Engineering, Engineering, Statistics, Data Analytics, or Mathematics major.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
-    "job_title": "Intern: Hardware Developer",
-    "employer_name": "IBM",
-    "job_city": "Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "less",
-        "microprocessor",
-        "networking",
-        "python",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "As a Hardware Test Engineer Intern at IBM, you'll get to work on the systems that are driving the future of computing.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
