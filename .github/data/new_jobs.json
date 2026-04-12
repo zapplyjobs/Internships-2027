@@ -1805,6 +1805,34 @@
     "job_posted_at": "2026-04-10T07:05:14.564Z"
   },
   {
+    "job_id": "workday-moog-R-25-13654",
+    "job_title": "Intern, Product Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13654",
+    "job_posted_at_datetime_utc": "2026-04-10T07:05:13.057Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "97944f7af73acf4d8bb7c13842f583feaec5c6f80c27192d1ac63d879328cc77",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:05:13.057Z"
+  },
+  {
     "job_id": "workday-moog-R-26-17145",
     "job_title": "Intern, IT Computer Science - Data Analytics",
     "employer_name": "Moog",
@@ -1897,34 +1925,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c5af997204689d9cf99bf2c7eb6fa5c01b2a218448784489c57245d429a50242",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:05:13.057Z"
-  },
-  {
-    "job_id": "workday-moog-R-25-13654",
-    "job_title": "Intern, Product Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-25-13654",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:13.057Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "97944f7af73acf4d8bb7c13842f583feaec5c6f80c27192d1ac63d879328cc77",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -2167,6 +2167,34 @@
     "job_posted_at": "2026-04-10T07:04:04.241Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0234951",
+    "job_title": "Supply Chain Management Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237476",
     "job_title": "AI Data Analyst Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -2250,34 +2278,6 @@
       "summary_line": "AIOps Engineer Intern The Opportunity : Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for Air Power.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234951",
-    "job_title": "Supply Chain Management Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
@@ -2727,6 +2727,45 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-critical-loop-odpgphj_90cxogfwaaaaaa==",
+    "job_title": "Electrical Engineering Intern (BESS & Energy Systems)",
+    "employer_name": "Critical Loop",
+    "job_city": "Fresno",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://climatebase.org/job/71683933/electrical-engineering-intern-bess--energy-systems",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b71e342f57a5f6a1d3b53047ba2e2314ee4fe8a81ecb42e60913d03465338940",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What We’re Looking For • Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or a related field  • Interest in power systems, renewable energy, or battery energy storage (BESS…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-mid-atlantic-permanente-medical-group-kaiser-permanente-p64ooddgdyhuqbybaaaaaa==",
     "job_title": "Data Analytics Intern: Insight-Driven Projects (Hybrid DC)",
     "employer_name": "Mid-Atlantic Permanente Medical Group | Kaiser Permanente",
@@ -3007,45 +3046,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "What you’ll bring • Strong technical background.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-critical-loop-odpgphj_90cxogfwaaaaaa==",
-    "job_title": "Electrical Engineering Intern (BESS & Energy Systems)",
-    "employer_name": "Critical Loop",
-    "job_city": "Fresno",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://climatebase.org/job/71683933/electrical-engineering-intern-bess--energy-systems",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b71e342f57a5f6a1d3b53047ba2e2314ee4fe8a81ecb42e60913d03465338940",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "What We’re Looking For • Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or a related field  • Interest in power systems, renewable energy, or battery energy storage (BESS…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
@@ -5507,6 +5507,163 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
+    "job_title": "Hardware Engineer I (Co-op) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "mentor graphics",
+        "multimeter",
+        "oscilloscope"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
+    "job_title": "Engineer, Hardware Intern",
+    "employer_name": "Dover Corporation",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
+    "job_title": "Hardware Engineering Internship",
+    "employer_name": "redwire space",
+    "job_city": "Northborough",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "excel",
+        "fpga",
+        "git",
+        "microcontroller",
+        "python",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
+    "job_title": "Electrical Engineer Intern Summer 2026",
+    "employer_name": "Westinghouse Electric Company, LLC",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "http"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-circle-k-k1pdqtxlzm34ivauaaaaaa==",
     "job_title": "Data Science Intern, Global Data & Analytics",
     "employer_name": "Circle K",
@@ -5926,163 +6083,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "## Qualifications * End-to-end AI system design-from data ingestion to user experience * Best practices for scalable, secure, and maintainable AI microservices * Real-world application of agentic AI p…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
-    "job_title": "Electrical Engineer Intern Summer 2026",
-    "employer_name": "Westinghouse Electric Company, LLC",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "http"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
-    "job_title": "Hardware Engineer I (Co-op) - United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "mentor graphics",
-        "multimeter",
-        "oscilloscope"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
-    "job_title": "Engineer, Hardware Intern",
-    "employer_name": "Dover Corporation",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
-    "job_title": "Hardware Engineering Internship",
-    "employer_name": "redwire space",
-    "job_city": "Northborough",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "excel",
-        "fpga",
-        "git",
-        "microcontroller",
-        "python",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -10017,6 +10017,86 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
+    "job_title": "Hardware Engineering Co-op",
+    "employer_name": "Fresenius Medical Care",
+    "job_city": "Lawrence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microprocessor",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
+    "job_title": "Electrical Engineering Intern",
+    "employer_name": "WSP USA",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/wsp/jobs-internships/electrical-engineering-intern-2",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a988f3963edc8d9ce6794b575694d34c41f6919e645f6b0095d17b72563990fc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About You \r \r The company is looking for: \r \r \r • Active enrollment in an accredited Electrical Engineering or related Undergraduate program with anticipated graduation August 2026 or later.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-state-street-corporation-lfo27wmiw3bgyc-xaaaaaa==",
     "job_title": "Software Engineer Intern -6 Month intern- July- Dec | Burlington, VT, USA",
     "employer_name": "State Street Corporation",
@@ -10310,46 +10390,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "WSP USA",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/wsp/jobs-internships/electrical-engineering-intern-2",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a988f3963edc8d9ce6794b575694d34c41f6919e645f6b0095d17b72563990fc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About You \r \r The company is looking for: \r \r \r • Active enrollment in an accredited Electrical Engineering or related Undergraduate program with anticipated graduation August 2026 or later.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-kestra-medical-technologies-inc--havoarrvirh10qjaaaaaa==",
     "job_title": "Electrical Engineering Intern",
     "employer_name": "Kestra Medical Technologies, Inc",
@@ -10428,46 +10468,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening a…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
-    "job_title": "Hardware Engineering Co-op",
-    "employer_name": "Fresenius Medical Care",
-    "job_city": "Lawrence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microprocessor",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -13128,6 +13128,34 @@
     "job_posted_at": "2026-04-07T07:05:01.880Z"
   },
   {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:55.150Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:04:55.150Z"
+  },
+  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -13198,62 +13226,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T07:04:55.150Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:55.150Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:55.150Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30259108",
-    "job_title": "HR Grad Intern - Service Operations",
-    "employer_name": "Johnson Controls",
-    "job_city": "Wisconsin-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/HR-Intern---Service-Operations_WD30259108-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:54.696Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44d7be316f9f9ebc81fc7034809d6ee63d63ae762c9c743226313233978155a3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:54.696Z"
   },
   {
     "job_id": "workday-johnson-controls-WD30265399",
@@ -13341,6 +13313,62 @@
     "job_posted_at": "2026-04-07T07:04:54.696Z"
   },
   {
+    "job_id": "workday-johnson-controls-WD30259108",
+    "job_title": "HR Grad Intern - Service Operations",
+    "employer_name": "Johnson Controls",
+    "job_city": "Wisconsin-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/HR-Intern---Service-Operations_WD30259108-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:54.696Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44d7be316f9f9ebc81fc7034809d6ee63d63ae762c9c743226313233978155a3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:04:54.696Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:54.021Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:04:54.021Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067039",
     "job_title": "Electrical Engineer Co-op",
     "employer_name": "Johnson & Johnson",
@@ -13426,34 +13454,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:54.021Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:54.021Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
       ],
       "locations": [
         "us"
@@ -14827,6 +14827,62 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-nvidia-usa-8wyymtfjkwodhw5iaaaaaa==",
+    "job_title": "Hardware Engineering Internship",
+    "employer_name": "NVIDIA USA",
+    "job_city": "Santa Clara",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/nvidia/jobs-internships/hardware-engineering-internship-0",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "49b63dabfc13a225dd8399b221db0c4a468ffff0f399efb49e5b8635dd12f1de",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "creo",
+        "express",
+        "linux",
+        "matlab",
+        "multimeter",
+        "oscilloscope",
+        "pcb",
+        "perl",
+        "python",
+        "solidworks",
+        "systemverilog",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About You \r \r The company is looking for: \r \r \r • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
     "job_title": "Summer 2026 Internship: Data Science Intern - Princeton, NJ",
     "employer_name": "dsm-firmenich",
@@ -15050,62 +15106,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "JOB DESCRIPTION AND POSITION REQUIREMENTS  We are searching for an undergraduate student to join our Cyber & Information Security Department at the Applied Research Laboratory (ARL) at Penn State Univ…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nvidia-usa-8wyymtfjkwodhw5iaaaaaa==",
-    "job_title": "Hardware Engineering Internship",
-    "employer_name": "NVIDIA USA",
-    "job_city": "Santa Clara",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/nvidia/jobs-internships/hardware-engineering-internship-0",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "49b63dabfc13a225dd8399b221db0c4a468ffff0f399efb49e5b8635dd12f1de",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "creo",
-        "express",
-        "linux",
-        "matlab",
-        "multimeter",
-        "oscilloscope",
-        "pcb",
-        "perl",
-        "python",
-        "solidworks",
-        "systemverilog",
-        "verilog",
-        "vhdl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About You \r \r The company is looking for: \r \r \r • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
@@ -17347,57 +17347,6 @@
     "job_posted_at": "2026-04-06T19:05:16.252Z"
   },
   {
-    "job_id": "workday-caci-324471",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US MI Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "computer science",
-        "devops",
-        "electro-optical",
-        "java",
-        "javascript",
-        "jira",
-        "linux",
-        "python",
-        "radar",
-        "scrum",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
     "job_id": "workday-caci-324469",
     "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
     "employer_name": "CACI",
@@ -17468,6 +17417,57 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-06T19:02:50.882Z"
+  },
+  {
+    "job_id": "workday-caci-324471",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US MI Ypsilanti",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
+    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "computer science",
+        "devops",
+        "electro-optical",
+        "java",
+        "javascript",
+        "jira",
+        "linux",
+        "python",
+        "radar",
+        "scrum",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-06T19:02:50.882Z"
   },
   {
@@ -20521,6 +20521,108 @@
     "job_posted_at": "2026-04-06T07:01:20.859Z"
   },
   {
+    "job_id": "workday-state-street-R-787603",
+    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787596",
+    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c#",
+        "computer science",
+        "https",
+        "java",
+        "networking",
+        "object oriented programming",
+        "perl",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Description State Date: 7/13/2026 End Date: 12/18/2026 Who we are looking for The Software Engineer Intern ill work directly within one of our product development groups in our engineering team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787592",
+    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
     "job_id": "workday-state-street-R-781935",
     "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
     "employer_name": "State Street",
@@ -20633,108 +20735,6 @@
     "job_posted_at": "2026-04-06T07:01:14.287Z"
   },
   {
-    "job_id": "workday-state-street-R-787603",
-    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787596",
-    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "c#",
-        "computer science",
-        "https",
-        "java",
-        "networking",
-        "object oriented programming",
-        "perl",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Description State Date: 7/13/2026 End Date: 12/18/2026 Who we are looking for The Software Engineer Intern ill work directly within one of our product development groups in our engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787592",
-    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
     "job_id": "workday-salesforce-JR337175",
     "job_title": "Summer 2026 Intern - Strategy & Change Management Intern",
     "employer_name": "Salesforce",
@@ -20817,6 +20817,50 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
+    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
+    "job_title": "Intern: Hardware Developer",
+    "employer_name": "IBM",
+    "job_city": "Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "less",
+        "microprocessor",
+        "networking",
+        "python",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "As a Hardware Test Engineer Intern at IBM, you'll get to work on the systems that are driving the future of computing.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
@@ -21173,50 +21217,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Qualifications  Specific experience to include: • Seeking bachelor’s degree in STEM.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
-    "job_title": "Intern: Hardware Developer",
-    "employer_name": "IBM",
-    "job_city": "Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "less",
-        "microprocessor",
-        "networking",
-        "python",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "As a Hardware Test Engineer Intern at IBM, you'll get to work on the systems that are driving the future of computing.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T00:00:00.000Z"
