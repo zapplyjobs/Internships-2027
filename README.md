@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-522-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-524-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-210-blue?style=flat&logo=building)
-![Other Internships](https://img.shields.io/badge/Other_Internships-249-red?style=flat&logo=star)
+![Other Internships](https://img.shields.io/badge/Other_Internships-250-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -71,7 +71,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|------|----------|--------|----------|
 | 🏢 **Motorola Solutions** | 2026 Software Engineering Summer Internship |  | Plantation, FL | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2026-Software-Engineering-Summer-Internship_R59520) |
 | 🏢 **Leidos** | Software Development Intern |  | Gaithersburg, MD | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00180628) |
-| 🏢 **The MITRE Corporation** | Systems Engineering Intern |  | McLean | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R116336/Systems-Engineering-Intern) |
+| 🏢 **The MITRE Corporation** | Systems Engineering Intern |  | McLean | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mitre.org/us/en/job/R116336/Systems-Engineering-Intern) |
 | 🏢 **Cloudflare** | Software Engineer Intern (Summer 2026) at Cloudflare Indiana |  | Unknown | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://seaborne-marine.com/library/job/software-engineer-intern-summer-2026-at-cloudflare-indiana-eDJ3OUQ4UWpkenJGVkJMMkFyelVUYk1uZFE9PQ==) |
 | 🏢 **Thomson Reuters** | Software Engineer Intern |  | Minnesota | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/software-engineer-intern/minnesota?id=2628877155) |
 | 🏢 **Boston Dynamics** | Software Intern, AI/ML — Warehouse Robotics, Stretch Team |  | Waltham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Intern--AI-ML---Warehouse-Robotics--Stretch-Team_R2572) |
@@ -83,7 +83,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Intuitive** | Manufacturing Software Engineering Intern |  | Sunnyvale | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000119712947) |
 | 🏢 **athenahealth** | 2026 Summer Software Engineering Intern | ✅ Sponsor | Boston MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-Summer-Software-Engineering-Intern_R13769) |
 | 🏢 **Lowe's** | Software Engineer – Undergrad Internship – Summer 2026 |  | Lowe's Charlotte ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer--Undergraduate-Internship_JR-02219600) |
-| 🏢 **40 CCC Intelligent Solutions Inc.** | Software Engineer Intern - Payments Summer 2026 |  | Illinois | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.jobsora.com/job-48381141544) |
+| 🏢 **40 CCC Intelligent Solutions Inc.** | Software Engineer Intern - Payments Summer 2026 |  | Illinois | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.jobsora.com/job-48381141544) |
 | 🏢 **Cadence** | Software Engineering Intern |  | BOSTON 02 + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BOSTON-02/Software-Engineering-Intern_R52450-1) |
 | 🏢 **Cadence (University)** | Software Engineering Intern |  | BOSTON 02 + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/BOSTON-02/Software-Engineering-Intern_R52450) |
 | 🏢 **Collins Aerospace** | Software Engineering Intern (Summer 2026) (Onsite) |  | Melbourne | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://career.abilityjobs.com/job/software-engineering-intern-summer-2026-onsite/83180177/) |
@@ -272,7 +272,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Moog** | Intern, Electrical Engineering |  | Buffalo, NY | 22m | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-17160) |
+| 🏢 **Moog** | Intern, Electrical Engineering |  | Buffalo, NY | 37m | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-17160) |
 | 🏢 **Boston Dynamics** | Mechanical Engineering Intern |  | Waltham + 3 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536) |
 | 🏢 **Boston Dynamics** | Mechanical Engineering Co-Op |  | Waltham + 1 more | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Co-Op_R2496) |
 | 🏢 **F5** | Mechanical Engineering Intern |  | Spokane | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Spokane/Mechanical-Engineering-Intern_RP1037164) |
@@ -311,7 +311,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Motorola Solutions** | Intern - Embedded Software, System, and Test Engineer - 2026 |  | Los Angeles, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R63804) |
-| 🔷 **Intel** | STTD Test Engineer Intern |  | US | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/STTD-Test-Engineer-Intern_JR0282093) |
+| 🔷 **Intel** | STTD Test Engineer Intern |  | US | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/STTD-Test-Engineer-Intern_JR0282093) |
 | 🏢 **Philips** | Intern-Product Quality Engineering-Cambridge, MA-Summer 2026 |  | Cambridge (US) | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Product-Quality-Engineering-Cambridge--MA-Summer-2026_577491) |
 | 🏢 **Thermo Fisher Scientific** | Systems Integration and Test Engineering Intern |  | Guilford | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Guilford-Connecticut-USA/Systems-Integration-and-Test-Engineering-Intern_R-01328070) |
 | 🏢 **Rocket Lab - rocketlab** | RF Test Engineering Intern |  | Unknown | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bandana.com/jobs/f1d2e3a5-c7ec-46f8-b589-938678763624) |
@@ -402,6 +402,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
+| 🏢 **Booz Allen Hamilton** | Procurement & Global Supply Chain Intern |  | McLean, VA | 16m | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Procurement---Global-Supply-Chain-Intern_R0237620) |
 | 🏢 **Boston Dynamics** | Electronics Manufacturing & Supply Chain Engineering Intern |  | Waltham | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electronics-Manufacturing---Supply-Chain-Engineering-Intern_R2502) |
 | 🏢 **Curtiss-Wright** | Supply Chain Intern |  | OH-Brecksville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Supply-Chain-Intern_JR11297) |
 | 🏢 **Booz Allen Hamilton** | Supply Chain Management Intern |  | McLean, VA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951) |
@@ -451,9 +452,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Johnson & Johnson** | R&D Engineer Co-Op - Fall 2026 |  | Raritan | 23m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Co-Op---Fall-2026_R-068249) |
-| 🏢 **Globus Medical** | Product Development Co-Op |  | Audubon, PA | 46m | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Development-Co-Op_JR106400-1) |
-| 🏢 **Johnson & Johnson** | NA Outbound Transportation Co-Op |  | 2 Locations | 47m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/NA-Outbound-Transportation-Co-Op_R-067812) |
+| 🏢 **Point72** | 2026 Summer Internship - Third Party Risk Management |  | Stamford, CT | 19m | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8230738002?gh_jid=8230738002) |
+| 🏢 **Johnson & Johnson** | R&D Engineer Co-Op - Fall 2026 |  | Raritan | 38m | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Co-Op---Fall-2026_R-068249) |
+| 🏢 **Globus Medical** | Product Development Co-Op |  | Audubon, PA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Development-Co-Op_JR106400-1) |
+| 🏢 **Johnson & Johnson** | NA Outbound Transportation Co-Op |  | 2 Locations | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/NA-Outbound-Transportation-Co-Op_R-067812) |
 | 🏢 **Bosch Group** | Project Coordinator Intern |  | Londonderry, NH | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000120473409) |
 | 🏢 **RTX** | Stage - Automne 2026 - Ingenierie du développement des systemes de commande / Internship – Fall 2026 – Development Controls Engineering |  | Qc, CA | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingenierie-du-dveloppement-des-systemes-de-commande---Internship---Fall-2026---Development-Controls-Engineering_01837595) |
 | 🏢 **Sierra Nevada Corporation** | Business Applications Analyst Intern - Summer 2026 (For Summer 2025 Interns only) |  | Sparks, NV | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Business-Applications-Analyst-Intern---Summer-2026--For-Summer-2025-Interns-only-_R0029692) |
@@ -545,7 +547,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Okta** | Digital Success Intern (Summer 2026) |  | Bellevue | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7791786?gh_jid=7791786) |
 | 🏢 **Western Digital** | Summer 2026 Intern - Servo Track Write Intern |  | San Jose, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000119390388) |
 | 🔷 **Intel** | Datapath Algorithm Intern (2026 US Intern) |  | US | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Datapath-Algorithm-Intern--2026-US-Intern-_JR0280569) |
-| 🏢 **Disney** | FX Creative and Cultural Diversity Intern, Summer/Fall 2026 |  | Burbank, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/FX-Creative-and-Cultural-Diversity-Intern--Summer-Fall-2026_10142018) |
+| 🏢 **Disney** | Labor Relations Intern - Anaheim, Fall 2026 |  | Anaheim, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095) |
 | 🏢 **Curtiss-Wright** | Planning Intern |  | NY-East Farmingdale | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Planning-Intern_JR11748-1) |
 | 🏢 **Booz Allen Hamilton** | Cyber Intern |  | San Antonio, TX + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0237140) |
 | 🏢 **Allegion** | Summer Tax Intern |  | Carmel, IN | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Tax-Intern_JR33641) |
@@ -593,8 +595,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Takeda** | 2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern |  | Lexington, MA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Lexington-MA/XMLNAME-2026-Summer-Internship-Program--Analytical-Development-Mass-Spectrometry-Informatics-Intern_R0166311) |
 | 🏢 **T. Rowe Price** | Equity Research Internship Opportunity – Summer 2027 |  | Baltimore, MD | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Equity-Research-Internship-Opportunity---Summer-2027_80630) |
 | 🏢 **S&P Global** | Data Operations Summer Intern (Early Careers) |  | New York, NY | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Data-Operations-Summer-Intern--Early-Careers-_326890-2) |
-| 🏢 **KBR** | Project Controls Internship 2026 |  | Houston | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506) |
 | 🏢 **KBR** | National Security Solutions (NSS) - Government Property Specialist Internship |  | Ann Arbor | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411) |
+| 🏢 **KBR** | Project Controls Internship 2026 |  | Houston | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506) |
 | 🏢 **Rockwell Automation** | Intern, Digital Client |  | Mequon | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872) |
 | 🏢 **Philips** | Intern-Quality Management System-Latham, NY Summer 2026 |  | Latham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Intern-Quality-Management-System-Latham--NY-Summer-2026_580660) |
 | 🏢 **Lumentum** | Field Application Engineer Intern |  | CA - San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Field-Application-Engineer-Intern_2026409) |
@@ -678,7 +680,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 522 current opportunities from 210 companies**
+**🎯 524 current opportunities from 210 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

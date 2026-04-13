@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-booz-allen-hamilton-R0237620",
+    "job_title": "Procurement & Global Supply Chain Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Procurement---Global-Supply-Chain-Intern_R0237620",
+    "job_posted_at_datetime_utc": "2026-04-13T15:44:14.174Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f6ec351c0380d327441314f8c15e5776b0bbd8f539db87ded18b4d41d45f83ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T15:44:14.174Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8230738002",
+    "job_title": "2026 Summer Internship - Third Party Risk Management",
+    "employer_name": "Point72",
+    "job_city": "Stamford",
+    "job_state": "CT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8230738002?gh_jid=8230738002",
+    "job_posted_at_datetime_utc": "2026-04-13T15:41:33.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cf319b1fb7ab93099a2663555b2a0cf1e42bd79254cd7a82ae603578eb09e527",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-13T15:41:33.000Z"
+  },
+  {
     "job_id": "workday-moog-R-26-17160",
     "job_title": "Intern, Electrical Engineering",
     "employer_name": "Moog",
@@ -64,6 +120,23 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel",
+        "https",
+        "less",
+        "mechatronics",
+        "microsoft office",
+        "robotics",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T15:22:35.894Z"
   },
   {
@@ -2460,34 +2533,6 @@
     "job_posted_at": "2026-04-10T07:04:42.768Z"
   },
   {
-    "job_id": "workday-generac-JR13527",
-    "job_title": "Operations Finance Intern",
-    "employer_name": "Generac",
-    "job_city": "USA",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Operations-Finance-Intern_JR13527",
-    "job_posted_at_datetime_utc": "2026-04-10T07:04:32.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4cfaf86f001d0448ada90b5dcac5742efb5d025682d9f65e8f89e326de9abb5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:04:32.044Z"
-  },
-  {
     "job_id": "workday-generac-JR13465",
     "job_title": "IT Intern - Web Development",
     "employer_name": "Generac",
@@ -2535,6 +2580,34 @@
       "summary_line": "We are Generac, a leading energy technology company committed to powering a smarter world.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-10T07:04:32.044Z"
+  },
+  {
+    "job_id": "workday-generac-JR13527",
+    "job_title": "Operations Finance Intern",
+    "employer_name": "Generac",
+    "job_city": "USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Operations-Finance-Intern_JR13527",
+    "job_posted_at_datetime_utc": "2026-04-10T07:04:32.044Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4cfaf86f001d0448ada90b5dcac5742efb5d025682d9f65e8f89e326de9abb5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:04:32.044Z"
   },
   {
@@ -6479,6 +6552,21 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "java",
+        "javascript",
+        "kotlin",
+        "python",
+        "typescript"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Requirements • Currently pursuing a bachelor’s degree in computer science or a related technical field • Must be a rising senior (will also consider recent graduates) at the time of the internship • S…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -8943,6 +9031,34 @@
     "job_posted_at": "2026-04-08T07:04:14.443Z"
   },
   {
+    "job_id": "workday-disney-10148095",
+    "job_title": "Labor Relations Intern - Anaheim, Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Anaheim",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095",
+    "job_posted_at_datetime_utc": "2026-04-08T07:04:10.201Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5aa5030ac30b984de4cea08dc68e9f942a5b282e508c89491d471d320312604",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:04:10.201Z"
+  },
+  {
     "job_id": "workday-disney-10142018",
     "job_title": "FX Creative and Cultural Diversity Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -8983,34 +9099,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "9262603dcef97ea45f5395146f1839ff7feb9cc431be29fd0f64da4bc5b664a1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:04:10.201Z"
-  },
-  {
-    "job_id": "workday-disney-10148095",
-    "job_title": "Labor Relations Intern - Anaheim, Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Anaheim",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Labor-Relations-Intern---Anaheim--Fall-2026_10148095",
-    "job_posted_at_datetime_utc": "2026-04-08T07:04:10.201Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5aa5030ac30b984de4cea08dc68e9f942a5b282e508c89491d471d320312604",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15045,18 +15133,18 @@
     "job_posted_at": "2026-04-07T07:01:11.865Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15073,18 +15161,18 @@
     "job_posted_at": "2026-04-07T07:01:03.244Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15264,50 +15352,6 @@
     "job_posted_at": "2026-04-07T07:00:52.007Z"
   },
   {
-    "job_id": "workday-jabil-J2445426",
-    "job_title": "Information Security Intern",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "ci/cd",
-        "computer science",
-        "devops",
-        "iam",
-        "networking",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:00:44.443Z"
-  },
-  {
     "job_id": "workday-jabil-J2444715",
     "job_title": "Financial Reporting Intern (Consolidations)",
     "employer_name": "Jabil",
@@ -15456,6 +15500,50 @@
         "root cause analysis",
         "six sigma",
         "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:00:44.443Z"
+  },
+  {
+    "job_id": "workday-jabil-J2445426",
+    "job_title": "Information Security Intern",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "iam",
+        "networking",
+        "terraform"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
