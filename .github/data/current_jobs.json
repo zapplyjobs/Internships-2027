@@ -1,5 +1,148 @@
 [
   {
+    "job_id": "workday-rtx-01837277",
+    "job_title": "2026 Intern - Production Test Engineering Intern - Onsite (TX)",
+    "employer_name": "RTX",
+    "job_city": "TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-FORT-BLISS-11005-CUST--11005-Fort-Bliss--BLDG-11005-External-Site/XMLNAME-2026-Intern---Production-Test-Engineering-Intern---Onsite--TX-_01837277",
+    "job_posted_at_datetime_utc": "2026-04-13T16:55:07.305Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ffa24e2fdcc99e3a40c16a463b6e782f75f6e50de38d34be1a010fe9cb3e28b2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T16:55:07.305Z"
+  },
+  {
+    "job_id": "workday-rtx-01837215",
+    "job_title": "Electrical Engineering Intern (Summer 2026)(Onsite)",
+    "employer_name": "RTX",
+    "job_city": "IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineering-Intern--Summer-2026--Onsite-_01837215",
+    "job_posted_at_datetime_utc": "2026-04-13T16:55:07.305Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0e95a003247b24468d7b02f78a0ed8d801250040414a68982f99d9da11fba8ad",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T16:55:07.305Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180640",
+    "job_title": "Software Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
+    "job_posted_at_datetime_utc": "2026-04-13T16:54:09.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T16:54:09.302Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30203250",
+    "job_title": "Materials Engineering Intern - Summer",
+    "employer_name": "Carrier Global",
+    "job_city": "Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Materials-Engineering-Intern---Summer_30203250",
+    "job_posted_at_datetime_utc": "2026-04-13T16:52:43.890Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17f382cd251d6ddc0206f2ce060ebee6c3d1327ea5cb0ecf2b68852d7915fab4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T16:52:43.890Z"
+  },
+  {
+    "job_id": "sr-BoschGroup-744000120503077",
+    "job_title": "2026 Summer Materials Engineering Co-Op",
+    "employer_name": "Bosch Group",
+    "job_city": "Charleston",
+    "job_state": "SC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000120503077",
+    "job_posted_at_datetime_utc": "2026-04-13T16:44:39.539Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44f8e421094169cd80c19a4b4f11269a486528cc05ef0c0f748649a0abdbe0be",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-04-13T16:44:39.539Z"
+  },
+  {
     "job_id": "workday-microchip-technology-R695-26",
     "job_title": "Intern- Engineering (Data Engineering)",
     "employer_name": "Microchip Technology",
@@ -25,6 +168,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data modeling",
+        "data pipeline",
+        "data quality",
+        "databricks",
+        "dbt",
+        "iam",
+        "python",
+        "reporting",
+        "s3",
+        "spark",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T16:41:05.336Z"
   },
   {
@@ -1573,6 +1738,50 @@
     "job_posted_at": "2026-04-11T07:02:32.269Z"
   },
   {
+    "job_id": "js-schneider-electric-citpwl86cajaoyooaaaaaa==",
+    "job_title": "Engineering Intern",
+    "employer_name": "Schneider Electric",
+    "job_city": "Maryland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.themuse.com/jobs/schneiderelectric/engineering-intern-05b642",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b2ff496b6a905e241a171c40f65903d422c51369f5c25d9e018ffa600919f610",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cybersecurity",
+        "excel",
+        "microsoft office",
+        "system design",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "based position, the expected compensation range is $22 - $27 per hour.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
+  },
+  {
     "job_id": "js-parsons-corporation-0vjv4zqvgcndizchaaaaaa==",
     "job_title": "Software Engineer Intern",
     "employer_name": "Parsons Corporation",
@@ -1712,50 +1921,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-schneider-electric-citpwl86cajaoyooaaaaaa==",
-    "job_title": "Engineering Intern",
-    "employer_name": "Schneider Electric",
-    "job_city": "Maryland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.themuse.com/jobs/schneiderelectric/engineering-intern-05b642",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b2ff496b6a905e241a171c40f65903d422c51369f5c25d9e018ffa600919f610",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cybersecurity",
-        "excel",
-        "microsoft office",
-        "system design",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "based position, the expected compensation range is $22 - $27 per hour.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-11T00:00:00.000Z"
   },
   {
@@ -2959,43 +3124,6 @@
     "job_posted_at": "2026-04-10T07:03:45.404Z"
   },
   {
-    "job_id": "workday-applied-materials-R2612291",
-    "job_title": "2026 Summer Process Engineering Intern - PhD (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineering-Intern---PhD--Santa-Clara--CA-_R2612291",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:26.417Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f7d043cc2569fd0b8af163b2082ed98ab2cb14a1b06fa2b18b156c388e570de",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:26.417Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616823",
     "job_title": "Internship Opportunity: Computational Materials Science",
     "employer_name": "Applied Materials",
@@ -3028,6 +3156,43 @@
         "linux",
         "python"
       ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:03:26.417Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2612291",
+    "job_title": "2026 Summer Process Engineering Intern - PhD (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineering-Intern---PhD--Santa-Clara--CA-_R2612291",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:26.417Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0f7d043cc2569fd0b8af163b2082ed98ab2cb14a1b06fa2b18b156c388e570de",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
@@ -3885,6 +4050,45 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-critical-loop-odpgphj_90cxogfwaaaaaa==",
+    "job_title": "Electrical Engineering Intern (BESS & Energy Systems)",
+    "employer_name": "Critical Loop",
+    "job_city": "Fresno",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://climatebase.org/job/71683933/electrical-engineering-intern-bess--energy-systems",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b71e342f57a5f6a1d3b53047ba2e2314ee4fe8a81ecb42e60913d03465338940",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "What We’re Looking For • Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or a related field  • Interest in power systems, renewable energy, or battery energy storage (BESS…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
     "job_title": "Machine Learning Internship - PhD: 2027",
     "employer_name": "Susquehanna International Group, LLP (SIG)",
@@ -4233,45 +4437,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Currently pursuing a Bachelor’s degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-critical-loop-odpgphj_90cxogfwaaaaaa==",
-    "job_title": "Electrical Engineering Intern (BESS & Energy Systems)",
-    "employer_name": "Critical Loop",
-    "job_city": "Fresno",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://climatebase.org/job/71683933/electrical-engineering-intern-bess--energy-systems",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b71e342f57a5f6a1d3b53047ba2e2314ee4fe8a81ecb42e60913d03465338940",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "What We’re Looking For • Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or a related field  • Interest in power systems, renewable energy, or battery energy storage (BESS…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
@@ -6704,6 +6869,45 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
+    "job_title": "Electrical Engineer Intern Summer 2026",
+    "employer_name": "Westinghouse Electric Company, LLC",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "http"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
     "job_title": "Hardware Engineer I (Co-op) - United States",
     "employer_name": "Cisco",
@@ -6875,6 +7079,24 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "excel",
+        "https",
+        "machine learning",
+        "microsoft office",
+        "python",
+        "sql",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Interns Job Qualifications: Skills:…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -7400,45 +7622,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "What You Bring • Currently pursuing a graduate degree in Computer Science, Data Science, Remote Sensing, or a related field • Proficiency in Python and experience with deep learning frameworks (e.g.,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
-    "job_title": "Electrical Engineer Intern Summer 2026",
-    "employer_name": "Westinghouse Electric Company, LLC",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "http"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -9505,6 +9688,48 @@
     "job_posted_at": "2026-04-08T07:03:52.798Z"
   },
   {
+    "job_id": "workday-caci-324620",
+    "job_title": "Mechanical Engineer Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US DC Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Mechanical-Engineer-Intern---Summer-2026_324620",
+    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e7a9fb47457f5a67a0830d524ba58f1b1546d2f627456938c8f35d6935b3275",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "solidworks",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Mechanical Engineer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Requ…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T07:03:43.577Z"
+  },
+  {
     "job_id": "workday-caci-324256",
     "job_title": "Software Engineering Intern - Summer 2026",
     "employer_name": "CACI",
@@ -9653,48 +9878,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T07:03:43.577Z"
-  },
-  {
-    "job_id": "workday-caci-324620",
-    "job_title": "Mechanical Engineer Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US DC Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Mechanical-Engineer-Intern---Summer-2026_324620",
-    "job_posted_at_datetime_utc": "2026-04-08T07:03:43.577Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e7a9fb47457f5a67a0830d524ba58f1b1546d2f627456938c8f35d6935b3275",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "solidworks",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Mechanical Engineer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Requ…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T07:03:43.577Z"
@@ -10697,6 +10880,62 @@
     "job_posted_at": "2026-04-08T07:00:33.745Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068841",
+    "job_title": "Pharm Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:33.083Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:33.083Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -10791,62 +11030,6 @@
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-08T07:00:33.083Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068841",
-    "job_title": "Pharm Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:00:33.083Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-08T07:00:33.083Z"
   },
   {
@@ -11361,6 +11544,87 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
+    "job_title": "Electrical Engineering Intern",
+    "employer_name": "WSP USA",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/wsp/jobs-internships/electrical-engineering-intern-2",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a988f3963edc8d9ce6794b575694d34c41f6919e645f6b0095d17b72563990fc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "About You \r \r The company is looking for: \r \r \r • Active enrollment in an accredited Electrical Engineering or related Undergraduate program with anticipated graduation August 2026 or later.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-rocket-lab-rocketlab-z-npuwzftltedi7waaaaaa==",
+    "job_title": "RF Test Engineering Intern",
+    "employer_name": "Rocket Lab - rocketlab",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bandana.com/jobs/f1d2e3a5-c7ec-46f8-b589-938678763624",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "1298c0869a86cb5dad1a16735255c4a36a1b74a4ce5724501a80b58887b9b0a0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "rf"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening a…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
     "job_title": "Hardware Engineering Co-op",
     "employer_name": "Fresenius Medical Care",
@@ -11637,47 +11901,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-rocket-lab-rocketlab-z-npuwzftltedi7waaaaaa==",
-    "job_title": "RF Test Engineering Intern",
-    "employer_name": "Rocket Lab - rocketlab",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bandana.com/jobs/f1d2e3a5-c7ec-46f8-b589-938678763624",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1298c0869a86cb5dad1a16735255c4a36a1b74a4ce5724501a80b58887b9b0a0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening a…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-bmw-group-cva55mjwfqpp4cgeaaaaaa==",
     "job_title": "Intern, Computer Science Emissions Lab",
     "employer_name": "BMW Group",
@@ -11733,46 +11956,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "WSP USA",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/wsp/jobs-internships/electrical-engineering-intern-2",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a988f3963edc8d9ce6794b575694d34c41f6919e645f6b0095d17b72563990fc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "About You \r \r The company is looking for: \r \r \r • Active enrollment in an accredited Electrical Engineering or related Undergraduate program with anticipated graduation August 2026 or later.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -14271,34 +14454,6 @@
     "job_posted_at": "2026-04-07T07:04:24.406Z"
   },
   {
-    "job_id": "workday-disney-10142222",
-    "job_title": "Global Public Relations Intern, Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Glendale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Global-Public-Relations-Intern--Fall-2026_10142222",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:10.201Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "223be9bd74b442cf8a4f2c61221299d4d3a5ac701ffe63d8ef7aad2b4947664f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:10.201Z"
-  },
-  {
     "job_id": "workday-disney-10141472",
     "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -14454,6 +14609,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4ffaae2f8e1b665d087a5724d0e8bc4db6072e6012e3b9aafa0178220ad6be03",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:04:10.201Z"
+  },
+  {
+    "job_id": "workday-disney-10142222",
+    "job_title": "Global Public Relations Intern, Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Glendale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Global-Public-Relations-Intern--Fall-2026_10142222",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:10.201Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "223be9bd74b442cf8a4f2c61221299d4d3a5ac701ffe63d8ef7aad2b4947664f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14970,34 +15153,6 @@
     "job_posted_at": "2026-04-07T07:03:35.731Z"
   },
   {
-    "job_id": "workday-applied-materials-R2616484",
-    "job_title": "Technology Market Research Intern, Strategy and Operations- Master's (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technology-Market-Research-Intern---Strategy-and-Operations--Bachelors-Masters---Santa-Clara--CA-_R2616484",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:26.418Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d2366bdd7a0fa5103e7dc12e24b8370eaab3665f9bb8fb77936a9a46e823b12e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:03:26.418Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616699",
     "job_title": "AI/ML for Chemistry/Materials Intern",
     "employer_name": "Applied Materials",
@@ -15037,6 +15192,34 @@
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-07T07:03:26.418Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616484",
+    "job_title": "Technology Market Research Intern, Strategy and Operations- Master's (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technology-Market-Research-Intern---Strategy-and-Operations--Bachelors-Masters---Santa-Clara--CA-_R2616484",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:26.418Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d2366bdd7a0fa5103e7dc12e24b8370eaab3665f9bb8fb77936a9a46e823b12e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:03:26.418Z"
   },
   {
@@ -15297,18 +15480,18 @@
     "job_posted_at": "2026-04-07T07:01:11.865Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15325,18 +15508,18 @@
     "job_posted_at": "2026-04-07T07:01:03.244Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -19389,90 +19572,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T17:17:33.897Z"
-  },
-  {
-    "job_id": "greenhouse-lucidmotors-4953783007",
-    "job_title": "Intern, CAE Engineer, Summer 2026",
-    "employer_name": "Lucid Motors",
-    "job_city": "Newark",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953783007",
-    "job_posted_at_datetime_utc": "2026-04-06T17:10:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5dc7aa1b90842137e44a80b28956371040a93b419866ff1c577feea166e37359",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": "Leading the future in luxury electric and mobility",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T17:10:39.000Z"
-  },
-  {
-    "job_id": "greenhouse-lucidmotors-4953725007",
-    "job_title": "Intern, Electrical Machines Testing & Data Analytics, Summer 2026",
-    "employer_name": "Lucid Motors",
-    "job_city": "Newark",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953725007",
-    "job_posted_at_datetime_utc": "2026-04-06T17:09:34.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b222e4bc3341e97d0db83071762f42b9b7fb868b884074b9b65d0218d3fa433",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "data quality",
-        "matlab",
-        "python",
-        "reporting",
-        "signal processing",
-        "simulink"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": "Leading the future in luxury electric and mobility",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T17:09:34.000Z"
   }
 ]
