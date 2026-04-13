@@ -1,5 +1,34 @@
 [
   {
+    "job_id": "greenhouse-astranis-4601134006",
+    "job_title": "Embedded Software Developer, Network/Payload Software Intern (Summer 2026)",
+    "employer_name": "Astranis",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/astranis/jobs/4601134006",
+    "job_posted_at_datetime_utc": "2026-04-13T18:57:22.304Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a6a88abbf524830f4a4a04116f79eac720792f3abc1cbb42c5e84bcad28e59c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-13T18:57:22.304Z"
+  },
+  {
     "job_id": "greenhouse-cloudflare-7799344",
     "job_title": "Program Operations Analyst Intern (Summer 2026)",
     "employer_name": "Cloudflare",
@@ -53,6 +82,20 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "microcontroller",
+        "pcb",
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Do you want to change how the world creates?",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T18:35:23.000Z"
   },
   {
@@ -1829,6 +1872,103 @@
     "job_posted_at": "2026-04-11T21:48:14.424Z"
   },
   {
+    "job_id": "workday-boston-dynamics-R2536",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2534",
+    "job_title": "Mechanical Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
+    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "catia",
+        "fea",
+        "gd&t",
+        "labview",
+        "matlab",
+        "python",
+        "robotics",
+        "solidworks",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T07:36:03.652Z"
+  },
+  {
     "job_id": "workday-boston-dynamics-R2502",
     "job_title": "Electronics Manufacturing & Supply Chain Engineering Intern",
     "employer_name": "Boston Dynamics",
@@ -2017,103 +2157,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about the intersection of foundation models and physical AI?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2536",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2536",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2534",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Intern_R2534",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6c452614e441b046558d600c7f28a049989e48b0e0db9cea2131a89b1437216c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "catia",
-        "fea",
-        "gd&t",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T07:36:03.652Z"
@@ -6606,34 +6649,6 @@
     "job_posted_at": "2026-04-09T07:04:10.200Z"
   },
   {
-    "job_id": "workday-entegris-REQ-10193",
-    "job_title": "EHS Co-Op - Fall 2026",
-    "employer_name": "Entegris",
-    "job_city": "Burnet",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Burnet-TX/EHS-Co-Op---Fall-2026_REQ-10193",
-    "job_posted_at_datetime_utc": "2026-04-09T07:04:09.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1bd1c81533ec9e082358eac333174fd5fe97b607eaf75ff4c70b6006e661c3d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:04:09.260Z"
-  },
-  {
     "job_id": "workday-entegris-REQ-10159",
     "job_title": "Reliability Engineer Co-Op - Fall 2026",
     "employer_name": "Entegris",
@@ -6693,6 +6708,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:04:09.260Z"
+  },
+  {
+    "job_id": "workday-entegris-REQ-10193",
+    "job_title": "EHS Co-Op - Fall 2026",
+    "employer_name": "Entegris",
+    "job_city": "Burnet",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Burnet-TX/EHS-Co-Op---Fall-2026_REQ-10193",
+    "job_posted_at_datetime_utc": "2026-04-09T07:04:09.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1bd1c81533ec9e082358eac333174fd5fe97b607eaf75ff4c70b6006e661c3d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -7448,6 +7491,58 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
+    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
+    "job_title": "Software Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "02b038c3f5d4507edf53ea7295f5ad11c8efcc2db88627cf66ee21a91dc85756",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "computer science",
+        "data analysis",
+        "excel",
+        "git",
+        "integration testing",
+        "java",
+        "linux",
+        "microsoft office",
+        "plc",
+        "python",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Job Description This posting is one of several for software summer interns in NH.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-samsung-research-america-internship--yh2aozu6d5ksuycaaaaaa==",
     "job_title": "2026 Intern, Software Engineer (Summer)",
     "employer_name": "Samsung Research America Internship",
@@ -7498,35 +7593,6 @@
       "summary_line": "Requirements • Currently enrolled in a BS/MS program in Computer Science or a related field • Need to be very organized with a program management approach • Flexible, dedicated, and be a fast learner…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
-    "job_title": "Software Engineering Intern II, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "84efd1c022e2f1d130dfd0e61d65e9fa9af043f7884438ed8e826d4afb643351",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -11500,6 +11566,34 @@
     "job_posted_at": "2026-04-08T07:00:33.745Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068836",
+    "job_title": "GET Athens Intern Summer 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/GET-Athens-Co-Op-Fall-2026_R-068836",
+    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3e52b161be33885fadfde7652ac5a8ed91ff0517e1c7985084557c49678e29f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:00:33.083Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068896",
     "job_title": "Operational Excellence Co-Op Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -11567,34 +11661,6 @@
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-08T07:00:33.083Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068836",
-    "job_title": "GET Athens Intern Summer 2026",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/GET-Athens-Co-Op-Fall-2026_R-068836",
-    "job_posted_at_datetime_utc": "2026-04-08T07:00:33.083Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3e52b161be33885fadfde7652ac5a8ed91ff0517e1c7985084557c49678e29f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-08T07:00:33.083Z"
   },
   {
@@ -12211,46 +12277,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-leonardo-drs-inc--vzsb3e3qsd47tncaaaaaa==",
-    "job_title": "2026 Technical Co-Op Intern - Software Engineering - Cypress CA",
-    "employer_name": "Leonardo DRS, Inc.",
-    "job_city": "Cypress",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.leonardodrs.com/job/Cypress-2026-Technical-Co-Op-Intern-Software-Engineering-Cypress-CA-CA-90630/1381187400/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "70ce5529251c52db2400c079722b19787323f1c38926368e9aa0bb7f08f1590d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cypress"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications • High school diploma or GED • Current GPA of 3.5 or higher • Must be able to be onsite in Cypress CA • Engineering student  U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-bmo-financial-group-hqxziztspbqximwwaaaaaa==",
     "job_title": "Software Developer, Summer 2026  (Co-op/Internship) – 10 Weeks",
     "employer_name": "BMO Financial Group",
@@ -12288,6 +12314,46 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications:  Foundational level of proficiency: • Creative thinking.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-leonardo-drs-inc--vzsb3e3qsd47tncaaaaaa==",
+    "job_title": "2026 Technical Co-Op Intern - Software Engineering - Cypress CA",
+    "employer_name": "Leonardo DRS, Inc.",
+    "job_city": "Cypress",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.leonardodrs.com/job/Cypress-2026-Technical-Co-Op-Intern-Software-Engineering-Cypress-CA-CA-90630/1381187400/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "70ce5529251c52db2400c079722b19787323f1c38926368e9aa0bb7f08f1590d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cypress"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications • High school diploma or GED • Current GPA of 3.5 or higher • Must be able to be onsite in Cypress CA • Engineering student  U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -15519,34 +15585,6 @@
     "job_posted_at": "2026-04-07T07:04:09.260Z"
   },
   {
-    "job_id": "workday-curtiss-wright-JR11538",
-    "job_title": "Purchasing/Supply Chain Internship (3 months)",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "PA-Aston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Purchasing-Supply-Chain-Internship--3-months-_JR11538-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:04.241Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf7775b02b547715edc2b29bc7a61646e41e2a1c3d323e1398a01fb544da01cc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:04.241Z"
-  },
-  {
     "job_id": "workday-curtiss-wright-JR11555",
     "job_title": "Manufacturing Intern (3 months)",
     "employer_name": "Curtiss-Wright",
@@ -15670,6 +15708,34 @@
       "summary_line": "Please note that the salary range information provided is a general guideline only, reflecting a position based in Connecticut.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-07T07:04:04.241Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR11538",
+    "job_title": "Purchasing/Supply Chain Internship (3 months)",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Aston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Purchasing-Supply-Chain-Internship--3-months-_JR11538-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:04.241Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf7775b02b547715edc2b29bc7a61646e41e2a1c3d323e1398a01fb544da01cc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:04:04.241Z"
   },
   {
@@ -16431,6 +16497,34 @@
     "job_posted_at": "2026-04-07T07:00:52.007Z"
   },
   {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:00:44.443Z"
+  },
+  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -16605,34 +16699,6 @@
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-07T07:00:44.443Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:00:44.443Z"
   },
   {
@@ -19730,188 +19796,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-06T19:32:19.000Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180059",
-    "job_title": "Engineering Intern – Software/App Development",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern---Software-App-Development_R-00180059",
-    "job_posted_at_datetime_utc": "2026-04-06T19:05:16.252Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "244dd78dc81d33171a03c042308f302f6c13b3d122675afd78882ab089a0747b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "c++",
-        "cad",
-        "computer science",
-        "data analysis",
-        "data visualization",
-        "excel",
-        "javascript",
-        "linux",
-        "matlab",
-        "node.js",
-        "python",
-        "react",
-        "rust",
-        "solidworks",
-        "sql",
-        "tableau",
-        "typescript",
-        "vba"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Advanced Materials Group at Leidos is seeking a motivated Engineering Intern – Software/App Development for Simulating Metal Additive Manufacturing Process to join our team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T19:05:16.252Z"
-  },
-  {
-    "job_id": "workday-caci-324469",
-    "job_title": "Configuration Management Co-op/Intern - Summer & Fall 2026",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Configuration-Management-Co-op-Intern---Summer---Fall-2026_324469",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cfbe8223915252f09945e6c158c8d8cfdd09a922d3b1f6cb2a9b0dd126909d90",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data analysis",
-        "excel",
-        "java",
-        "sap",
-        "spring",
-        "sql",
-        "windchill"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Configuration Management Co-op/Intern - Summer & Fall 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percent…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324464",
-    "job_title": "Accounting Intern - Year Round",
-    "employer_name": "CACI",
-    "job_city": "US CT Danbury",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CT-Danbury/Accounting-Intern---Year-Round_324464",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfa596d94ce48575fb4a3f131b157f05870d8d7aee8a5897af6328d752e19a42",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
-  },
-  {
-    "job_id": "workday-caci-324471",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US MI Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471",
-    "job_posted_at_datetime_utc": "2026-04-06T19:02:50.882Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "266b1e5b97ac6facfe4e48baf2cd7de4121bb23295604b396312e53360a5d539",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "computer science",
-        "devops",
-        "electro-optical",
-        "java",
-        "javascript",
-        "jira",
-        "linux",
-        "python",
-        "radar",
-        "scrum",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T19:02:50.882Z"
   }
 ]
