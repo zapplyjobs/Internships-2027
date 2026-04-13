@@ -2862,6 +2862,35 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
+    "job_title": "Software Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "02b038c3f5d4507edf53ea7295f5ad11c8efcc2db88627cf66ee21a91dc85756",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ttm-technologies-mdcaq20k2nt06-sjaaaaaa==",
     "job_title": "Finance Intern",
     "employer_name": "TTM Technologies",
@@ -5244,18 +5273,18 @@
     "job_posted_at": "2026-04-09T07:04:10.201Z"
   },
   {
-    "job_id": "workday-disney-10146304",
-    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10147808",
+    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
     "employer_name": "Disney",
-    "job_city": "Glendale",
+    "job_city": "Burbank",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
     "job_posted_at_datetime_utc": "2026-04-09T07:04:10.200Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
+    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5272,18 +5301,18 @@
     "job_posted_at": "2026-04-09T07:04:10.200Z"
   },
   {
-    "job_id": "workday-disney-10147808",
-    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
+    "job_id": "workday-disney-10146304",
+    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Burbank",
+    "job_city": "Glendale",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
     "job_posted_at_datetime_utc": "2026-04-09T07:04:10.200Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
+    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5669,6 +5698,104 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-09T01:53:25.361Z"
+  },
+  {
+    "job_id": "js-collins-aerospace-omqou25kvyj1ejniaaaaaa==",
+    "job_title": "Software Engineering Intern (Summer 2026) (Onsite)",
+    "employer_name": "Collins Aerospace",
+    "job_city": "Melbourne",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://career.abilityjobs.com/job/software-engineering-intern-summer-2026-onsite/83180177/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "629add534b36e1827909cdcd1c01d268e8917cbd0a09c5e31eb0e950b13f93f9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "analytics",
+        "ci/cd",
+        "dashboards",
+        "data analysis",
+        "git",
+        "reporting",
+        "requirements management"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Person, or Immigration Status Requirements: Must be authorized to work in the U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-samsung-research-america-internship--yh2aozu6d5ksuycaaaaaa==",
+    "job_title": "2026 Intern, Software Engineer (Summer)",
+    "employer_name": "Samsung Research America Internship",
+    "job_city": "Mountain View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.tealhq.com/job/2026-intern-software-engineer-summer_7ea1a87681f0d4e56d078645819834ef956c0",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "248dac1137b4879245d7cdfadb9b17a464f22fd865e1c64acca5b5d8e3a928a8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "computer science",
+        "django",
+        "html",
+        "java",
+        "langchain",
+        "mysql",
+        "program management",
+        "python",
+        "pytorch",
+        "rag",
+        "react",
+        "rest",
+        "rest api"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Requirements • Currently enrolled in a BS/MS program in Computer Science or a related field • Need to be very organized with a program management approach • Flexible, dedicated, and be a fast learner…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
     "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
@@ -6191,104 +6318,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "What You Bring • Currently pursuing a graduate degree in Computer Science, Data Science, Remote Sensing, or a related field • Proficiency in Python and experience with deep learning frameworks (e.g.,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-collins-aerospace-omqou25kvyj1ejniaaaaaa==",
-    "job_title": "Software Engineering Intern (Summer 2026) (Onsite)",
-    "employer_name": "Collins Aerospace",
-    "job_city": "Melbourne",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://career.abilityjobs.com/job/software-engineering-intern-summer-2026-onsite/83180177/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "629add534b36e1827909cdcd1c01d268e8917cbd0a09c5e31eb0e950b13f93f9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "ci/cd",
-        "dashboards",
-        "data analysis",
-        "git",
-        "reporting",
-        "requirements management"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Person, or Immigration Status Requirements: Must be authorized to work in the U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-samsung-research-america-internship--yh2aozu6d5ksuycaaaaaa==",
-    "job_title": "2026 Intern, Software Engineer (Summer)",
-    "employer_name": "Samsung Research America Internship",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.tealhq.com/job/2026-intern-software-engineer-summer_7ea1a87681f0d4e56d078645819834ef956c0",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "248dac1137b4879245d7cdfadb9b17a464f22fd865e1c64acca5b5d8e3a928a8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "computer science",
-        "django",
-        "html",
-        "java",
-        "langchain",
-        "mysql",
-        "program management",
-        "python",
-        "pytorch",
-        "rag",
-        "react",
-        "rest",
-        "rest api"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Requirements • Currently enrolled in a BS/MS program in Computer Science or a related field • Need to be very organized with a program management approach • Flexible, dedicated, and be a fast learner…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -10283,6 +10312,126 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "js-uline-qcozeri6otzpciapaaaaaa==",
+    "job_title": "Software Developer Internship - Summer 2026",
+    "employer_name": "Uline",
+    "job_city": "Pleasant Prairie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R262813&jobtitle=Software-Developer-Internship---Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "72199ab51bf862adf9131acbe623557fa5eb06f7c5f4c1bf21beed95c616a337",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "networking"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Requirements • This full-time, 12-week internship is open to Junior-status college students only.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bmo-financial-group-hqxziztspbqximwwaaaaaa==",
+    "job_title": "Software Developer, Summer 2026  (Co-op/Internship) – 10 Weeks",
+    "employer_name": "BMO Financial Group",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bmo.jobs/virtual-ny/software-developer-summer-2026-co-opinternship-10-weeks/44A5E22C02BF4190B5A40E4C8E943F78/job/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "PART-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5e70781e303c29c3be6b2631d64d77cf189ef7665515aee60b972297b355159c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "https",
+        "microservices",
+        "test driven development"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  Foundational level of proficiency: • Creative thinking.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-leonardo-drs-inc--vzsb3e3qsd47tncaaaaaa==",
+    "job_title": "2026 Technical Co-Op Intern - Software Engineering - Cypress CA",
+    "employer_name": "Leonardo DRS, Inc.",
+    "job_city": "Cypress",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.leonardodrs.com/job/Cypress-2026-Technical-Co-Op-Intern-Software-Engineering-Cypress-CA-CA-90630/1381187400/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "70ce5529251c52db2400c079722b19787323f1c38926368e9aa0bb7f08f1590d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cypress"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications • High school diploma or GED • Current GPA of 3.5 or higher • Must be able to be onsite in Cypress CA • Engineering student  U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-city-of-austin-tx-uvlusvwx2zalxcgtaaaaaa==",
     "job_title": "Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate)",
     "employer_name": "City of Austin, TX",
@@ -10660,126 +10809,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Requirements:  Currently enrolled in a bachelor or master’s degree program at an accredited college or university  Possess a minimum cumulative GPA of 3.0 (not just in major)  Have completed at least…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-uline-qcozeri6otzpciapaaaaaa==",
-    "job_title": "Software Developer Internship - Summer 2026",
-    "employer_name": "Uline",
-    "job_city": "Pleasant Prairie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R262813&jobtitle=Software-Developer-Internship---Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "72199ab51bf862adf9131acbe623557fa5eb06f7c5f4c1bf21beed95c616a337",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Requirements • This full-time, 12-week internship is open to Junior-status college students only.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bmo-financial-group-hqxziztspbqximwwaaaaaa==",
-    "job_title": "Software Developer, Summer 2026  (Co-op/Internship) – 10 Weeks",
-    "employer_name": "BMO Financial Group",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bmo.jobs/virtual-ny/software-developer-summer-2026-co-opinternship-10-weeks/44A5E22C02BF4190B5A40E4C8E943F78/job/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "PART-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5e70781e303c29c3be6b2631d64d77cf189ef7665515aee60b972297b355159c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "https",
-        "microservices",
-        "test driven development"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  Foundational level of proficiency: • Creative thinking.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-leonardo-drs-inc--vzsb3e3qsd47tncaaaaaa==",
-    "job_title": "2026 Technical Co-Op Intern - Software Engineering - Cypress CA",
-    "employer_name": "Leonardo DRS, Inc.",
-    "job_city": "Cypress",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.leonardodrs.com/job/Cypress-2026-Technical-Co-Op-Intern-Software-Engineering-Cypress-CA-CA-90630/1381187400/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "70ce5529251c52db2400c079722b19787323f1c38926368e9aa0bb7f08f1590d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cypress"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications • High school diploma or GED • Current GPA of 3.5 or higher • Must be able to be onsite in Cypress CA • Engineering student  U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -15020,6 +15049,100 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-citizens-bank-na-ynuevqou7vhzixf1aaaaaa==",
+    "job_title": "Software Engineer Intern | Summer 2026 | Enterprise Technology & Security Summer Internship",
+    "employer_name": "Citizens Bank, N.A.",
+    "job_city": "New Jersey",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.citizensbank.com/job/johnston/software-engineer-intern-summer-2026-enterprise-technology-and-security-summer-internship/288/93722257456",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "914dd4a5c00558f06f1b32c2d98723bd9180d5abe135ea1c7ddaff690dcddf8f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "circleci",
+        "gcp",
+        "jenkins"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-caci-cr6dbq97biqpnygpaaaaaa==",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Ypsilanti",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150240010",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9317839b3fd9fc9a12ca2e05702302a6afda3be109f7592a584c26673b06328f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "computer science",
+        "electro-optical",
+        "java",
+        "javascript",
+        "jira",
+        "linux",
+        "python",
+        "radar",
+        "scrum",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  Required:  · Ability to obtain and maintain a Top Secret U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-penn-state-sxmcabcr3eecb3x1aaaaaa==",
     "job_title": "Cyber Security Systems Engineer Intern",
     "employer_name": "Penn State",
@@ -15086,49 +15209,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-citizens-bank-na-ynuevqou7vhzixf1aaaaaa==",
-    "job_title": "Software Engineer Intern | Summer 2026 | Enterprise Technology & Security Summer Internship",
-    "employer_name": "Citizens Bank, N.A.",
-    "job_city": "New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.citizensbank.com/job/johnston/software-engineer-intern-summer-2026-enterprise-technology-and-security-summer-internship/288/93722257456",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "914dd4a5c00558f06f1b32c2d98723bd9180d5abe135ea1c7ddaff690dcddf8f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "circleci",
-        "gcp",
-        "jenkins"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -15308,57 +15388,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-caci-cr6dbq97biqpnygpaaaaaa==",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Ypsilanti",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://searchcareers.caci.com/careers/job/1443150240010",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9317839b3fd9fc9a12ca2e05702302a6afda3be109f7592a584c26673b06328f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "computer science",
-        "electro-optical",
-        "java",
-        "javascript",
-        "jira",
-        "linux",
-        "python",
-        "radar",
-        "scrum",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  Required:  · Ability to obtain and maintain a Top Secret U.S.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
@@ -21426,61 +21455,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T07:01:12.015Z"
-  },
-  {
-    "job_id": "workday-philips-580384",
-    "job_title": "Intern-Operations, AllParts Medical - Nashville, TN-Summer 2026",
-    "employer_name": "Philips",
-    "job_city": "Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Operations--AllParts-Medical---Nashville--TN-Summer-2026_580384",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:56.711Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e791ed0d5c07ba5b2761b07862e50fcbb32ae06b9522dbbe76082f47ea837d52",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:00:56.711Z"
-  },
-  {
-    "job_id": "workday-northrop-grumman-R10228544",
-    "job_title": "2026 Network Communications Analyst Intern - Rolling Meadows IL",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Illinois-Rolling Meadows",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Network-Communications-Analyst-Intern---Rolling-Meadows-IL_R10228544-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:00:17.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "20d5f1de1cb1b859a4faaa28c60cc782f04d62c386d4991b741fa971ed065655",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:00:17.789Z"
   }
 ]
