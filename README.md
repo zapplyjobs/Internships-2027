@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-576-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-575-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-217-blue?style=flat&logo=building)
 ![Other Internships](https://img.shields.io/badge/Other_Internships-280-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -170,7 +170,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GE Vernova** | Market Analytics & Business Intelligence Intern (Summer 2026) |  | Cambridge | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Cambridge/Market-Analytics---Business-Intelligence-Intern--Summer-2026-_R5037005-2) |
 | 🌐 **Cisco** | Data Science Analyst I (Intern) United States |  | San Jose Californ... + 1 more | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Science-Analyst-I--Intern--United-States_2002648) |
 | ⚗️ **Applied Materials** | Data Science / Optimization Intern |  | Santa ClaraCA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Science---Optimization-Intern_R2616917-1) |
-| 🏢 **Adobe** | 2026 Intern - Machine Learning Engineer |  | San Jose | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer) |
 | 🏢 **BMW Group** | Intern, Data Scientist - DSSC |  | Columbus | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bmwgroup.com/job/Columbus-Intern%2C-Data-Scientist-DSSC-Ohio/1382355333/) |
 | 🔵 **IBM** | Data Science Intern: AI, ML & Strategy Impact |  | California | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/data-science-intern-ai-ml-strategy-impact--california--ec89b80a3020250a80e8988e60f52b5a1) |
 | 🏢 **Waters Corporation** | Summer AI Engineer Intern — ML for Life Sciences |  | Milford | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/summer-ai-engineer-intern-ml-for-life-sciences--milford--e26f6526651d98d016592bb644d3acf7e) |
@@ -183,11 +182,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **FIS** | Intern, Business Analyst, FIS University Program |  | WI MKE 4900 | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-WI-MKE-4900/Intern--Business-Analyst--FIS-University-Program_JR0304445) |
 | 🏢 **Disney** | Finance Data & Analytics Intern, Summer/Fall 2026 |  | Anaheim, CA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance-and-Analytics-Intern--Summer-Fall-2026_10141472) |
 | 🏢 **Disney** | Machine Learning Engineer Intern, Seattle, Summer 2026 |  | Seattle, WA | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Machine-Learning-Engineer-Intern--Seattle--Summer-2026_10143620-1) |
-| 🏢 **The Walt Disney Company (Corporate)** | Machine Learning Engineer Intern, Seattle, Summer 2026 |  | Seattle | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456) |
-| 🏢 **Logistics Management Institute** | Data Scientist Intern – GenAI & ML Research (Summer 2026) |  | Tysons | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-lmi.icims.com/jobs/13863/data-scientist-intern-%E2%80%93-genai-%26-ml-research-%28summer-2026%29/job) |
-| 🔬 **Synopsys** | AI Engineering Internship |  | Sunnyvale | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.synopsys.com/job/sunnyvale/ai-engineering-internship/44408/93705349984) |
 | 🏢 **HealthTrust** | Data Science Intern |  | Nashville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship) |
+| 🏢 **Logistics Management Institute** | Data Scientist Intern – GenAI & ML Research (Summer 2026) |  | Tysons | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-lmi.icims.com/jobs/13863/data-scientist-intern-%E2%80%93-genai-%26-ml-research-%28summer-2026%29/job) |
 | 🏢 **dsm-firmenich** | Summer 2026 Internship: Data Science Intern - Princeton, NJ |  | Princeton | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dsm-firmenich.com/careers/job/562949975350360?domain=dsm.com&triggerGoButton=false) |
+| 🏢 **The Walt Disney Company (Corporate)** | Machine Learning Engineer Intern, Seattle, Summer 2026 |  | Seattle | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456) |
+| 🔬 **Synopsys** | AI Engineering Internship |  | Sunnyvale | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.synopsys.com/job/sunnyvale/ai-engineering-internship/44408/93705349984) |
 | 🏢 **Cerro Wire LLC** | Data Scientist Intern |  | Unknown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Data-Scientist-Intern_JR0000042254-1) |
 | 🏢 **Athena (athena.com)** | Data Science Intern |  | Wilmington | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/data-science-intern/8990899) |
 | 🏢 **Philip Morris International U.S.** | Data Science Summer Intern |  | Stamford | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.trabajo.org/job-4112-a39d34f8327590ee5a8731cb86acfe52) |
@@ -467,7 +466,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Accuray** | Process Optimization Intern - Global Service |  | Madison, WI | 29m | [<img src="images/apply.png" width="75" alt="Apply">](https://accuray.wd5.myworkdayjobs.com/External/job/Madison-WI/Process-Optimization-Intern---Global-Service_3099) |
+| 🏢 **Accuray** | Process Optimization Intern - Global Service |  | Madison, WI | 44m | [<img src="images/apply.png" width="75" alt="Apply">](https://accuray.wd5.myworkdayjobs.com/External/job/Madison-WI/Process-Optimization-Intern---Global-Service_3099) |
 | 🏢 **THE DOW CHEMICAL COMPANY** | Local College Co-op: Computer Science |  | Mt Pleasant + 5 more | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.dow.com/hiring/local-college-co-op-computer-science-mt-pleasant-mi-69d887d2d4486f074b452bd5) |
 | 🔷 **Intel** | CPU Verification Undergraduate Intern |  | Texas Austin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Verification-Undergraudate-Intern_JR0282865) |
 | 🏢 **Trimble** | Technical Writing Intern |  | OR, Lake Oswego | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Technical-Writing-Intern_R53714) |
@@ -570,9 +569,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **State Street** | State Street Custody and Complex Operations - Project Analyst Summer Internship |  | Quincy | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/State-Street-Custody-and-Complex-Operations---Project-Analyst-Summer-Internship_R-787806) |
 | 🏢 **NXP** | NPI Validation Student Intern - Summer 2026 |  | Austin | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://nxp.wd3.myworkdayjobs.com/Careers/job/Austin-Oakhill-Office/NPI-Validation-Student-Intern---Summer-2026_R-10060300-1) |
 | 🏢 **Oshkosh Corporation** | Finance Rotation Intern |  | Hagerstown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Finance-Rotation-Inten_R45303) |
+| 🏢 **SEL** | Engineering Intern - Automation |  | King of Prussia, PA + 1 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358) |
 | 🏢 **SEL** | Project Coordinator Intern |  | Fairview Heights, IL + 2 more | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1) |
 | 🏢 **SEL** | Application Engineering Intern |  | Lewis | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) |
-| 🏢 **SEL** | Equipment Maintenance Technician Intern |  | Lewiston, ID | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395) |
 | 🏢 **BMW Group** | Intern, Computer Science Emissions Lab |  | Oxnard | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bmwgroup.com/job/Oxnard-Intern%2C-Computer-Science-Emissions-Lab-Cali/1382441833/) |
 | 🏢 **Dow Inc** | Local College Co-op: Computer Science |  | Midland | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://corporate.dow.com/en-us/careers/jobs/position.R2064929.html) |
 | 🏢 **City of Austin, TX** | Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate) |  | Austin | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.careersingovernment.com/job/1037238/austin-energy-intern/) |
@@ -709,7 +708,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 576 current opportunities from 217 companies**
+**🎯 575 current opportunities from 217 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
