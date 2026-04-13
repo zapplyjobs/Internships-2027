@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-rtx-01836748",
+    "job_title": "Calibration and Certification Co-Op",
+    "employer_name": "RTX",
+    "job_city": "On",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-OAKVILLE-1400--1400-S-Service-Rd-W--1400-SERVICE/Calibration-and-Certification-Co-Op_01836748",
+    "job_posted_at_datetime_utc": "2026-04-13T19:47:44.166Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ac38d383205f5e8145e329298463e0f5244eb119aaf4191cfee0e4481b94140",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T19:47:44.166Z"
+  },
+  {
+    "job_id": "workday-micron-JR82274",
+    "job_title": "Intern - AI Agent Development",
+    "employer_name": "Micron",
+    "job_city": "Main Site",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---AI-Agent-Development_JR82274",
+    "job_posted_at_datetime_utc": "2026-04-13T19:46:27.815Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92c8dc7a239737c7a29dcaef943b32c151434636d343f880c7848e41c37fd620",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T19:46:27.815Z"
+  },
+  {
     "job_id": "workday-rtx-01827283",
     "job_title": "Manufacturing Engineering Co-op",
     "employer_name": "RTX",
@@ -54,6 +110,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-13T19:34:39.685Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7812290",
+    "job_title": "Business Systems Analyst Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7812290?gh_jid=7812290",
+    "job_posted_at_datetime_utc": "2026-04-13T19:32:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37f73513702380e809bf0ce617c6b0561efc24f54879b4e866f578cb3a68f68e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-13T19:32:30.000Z"
   },
   {
     "job_id": "workday-copart-JR108440",
@@ -4265,6 +4350,49 @@
     "job_posted_at": "2026-04-10T07:00:54.568Z"
   },
   {
+    "job_id": "workday-moog-R-26-17145",
+    "job_title": "Intern, IT Computer Science - Data Analytics",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
+    "job_posted_at_datetime_utc": "2026-04-10T07:00:53.225Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "59a921e5ccb6dbafca3e381a8f2957bceb924bfad5085e9cde580644df0a8c38",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "reporting",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:00:53.225Z"
+  },
+  {
     "job_id": "workday-moog-R-26-17104",
     "job_title": "Intern, Social Sustainability",
     "employer_name": "Moog",
@@ -4318,49 +4446,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:00:53.225Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-17145",
-    "job_title": "Intern, IT Computer Science - Data Analytics",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
-    "job_posted_at_datetime_utc": "2026-04-10T07:00:53.225Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "59a921e5ccb6dbafca3e381a8f2957bceb924bfad5085e9cde580644df0a8c38",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-10T07:00:53.225Z"
   },
   {
@@ -7124,18 +7209,18 @@
     "job_posted_at": "2026-04-09T07:03:29.091Z"
   },
   {
-    "job_id": "workday-takeda-R0165902",
-    "job_title": "2026 U.S Summer Internship Program: Data Platforms - AI Intern",
+    "job_id": "workday-takeda-R0164416",
+    "job_title": "Takeda Finance Co-op: July-December",
     "employer_name": "Takeda",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-US-Summer-Internship-Program--Data-Platforms---AI-Intern_R0165902",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Takeda-Finance-Co-op--January--June_R0164416",
     "job_posted_at_datetime_utc": "2026-04-09T07:02:45.419Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3660a5fb7c6afdf8032e57ec2425c9117d9cc0f9af72c4d71060d3c70f3f1ac4",
+    "fingerprint": "5cd4469953c0a3658122ba7a2882dedaee7645b4b508e3efafa31422c7bcd35a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7152,18 +7237,18 @@
     "job_posted_at": "2026-04-09T07:02:45.419Z"
   },
   {
-    "job_id": "workday-takeda-R0164416",
-    "job_title": "Takeda Finance Co-op: July-December",
+    "job_id": "workday-takeda-R0165902",
+    "job_title": "2026 U.S Summer Internship Program: Data Platforms - AI Intern",
     "employer_name": "Takeda",
     "job_city": "Boston",
     "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Takeda-Finance-Co-op--January--June_R0164416",
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-US-Summer-Internship-Program--Data-Platforms---AI-Intern_R0165902",
     "job_posted_at_datetime_utc": "2026-04-09T07:02:45.419Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "5cd4469953c0a3658122ba7a2882dedaee7645b4b508e3efafa31422c7bcd35a",
+    "fingerprint": "3660a5fb7c6afdf8032e57ec2425c9117d9cc0f9af72c4d71060d3c70f3f1ac4",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7278,6 +7363,34 @@
     "job_posted_at": "2026-04-09T07:02:16.340Z"
   },
   {
+    "job_id": "workday-rtx-01836572",
+    "job_title": "Stage Automne 2026 - Responsable de la gestion des stocks / Internship - Fall 2026 - Material Management Lead",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Responsable-de-la-gestion-des-stocks---Internship---Fall-2026---Material-Management-Lead_01836572",
+    "job_posted_at_datetime_utc": "2026-04-09T07:02:10.252Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91af3e01ac7dc53aae72e4f5ab0cf33b0573bb461d6526e375bde5b5c80663e0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:02:10.252Z"
+  },
+  {
     "job_id": "workday-rtx-01836934",
     "job_title": "Stage Automne 2026 - Analyste MBDMI (Gestion des données basée sur le modèle et inspection) / Internship Fall 2026 - MBDMI Analyst (Model Based Design, Manufacturing and Inspection)",
     "employer_name": "RTX",
@@ -7346,34 +7459,6 @@
       "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 Position Role Type: Onsite U.S.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T07:02:10.252Z"
-  },
-  {
-    "job_id": "workday-rtx-01836572",
-    "job_title": "Stage Automne 2026 - Responsable de la gestion des stocks / Internship - Fall 2026 - Material Management Lead",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Responsable-de-la-gestion-des-stocks---Internship---Fall-2026---Material-Management-Lead_01836572",
-    "job_posted_at_datetime_utc": "2026-04-09T07:02:10.252Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91af3e01ac7dc53aae72e4f5ab0cf33b0573bb461d6526e375bde5b5c80663e0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-09T07:02:10.252Z"
   },
   {
@@ -7569,35 +7654,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-09T01:53:25.361Z"
-  },
-  {
-    "job_id": "js-aem-xev5ykv9tupoeuxdaaaaaa==",
-    "job_title": "Sr. Computer Science Intern",
-    "employer_name": "AEM",
-    "job_city": "Victoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobsora.com/job-48381619205",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a98aa576a09f115003df086c0abf5f6d5582649db31ef61fe9b9879e342ae512",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
     "job_id": "js-cisco-flsfhugrbrzxjxz-aaaaaa==",
@@ -11973,71 +12029,6 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -12272,6 +12263,71 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -12340,46 +12396,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "js-trane-technologies-jrdtiqsswvrjtxpjaaaaaa==",
-    "job_title": "2026 Engineering Intern (Computer Science / Computer Engineering / Software Engineering)",
-    "employer_name": "trane technologies",
-    "job_city": "St Paul",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://release-qa-new.webscribble.com/job/2026-engineering-intern-computer-science-computer-engineering-software-engineering-st-paul-mn-38c21da351811d2a0425cc060eac7c22b",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5e18bf026a56f2f38162ae01250b0784eda33e33b25ce1085ecba0fb81bfe350",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "• We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-rocket-lab-rocketlab-z-npuwzftltedi7waaaaaa==",
     "job_title": "RF Test Engineering Intern",
     "employer_name": "Rocket Lab - rocketlab",
@@ -12417,6 +12433,46 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening a…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-trane-technologies-jrdtiqsswvrjtxpjaaaaaa==",
+    "job_title": "2026 Engineering Intern (Computer Science / Computer Engineering / Software Engineering)",
+    "employer_name": "trane technologies",
+    "job_city": "St Paul",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://release-qa-new.webscribble.com/job/2026-engineering-intern-computer-science-computer-engineering-software-engineering-st-paul-mn-38c21da351811d2a0425cc060eac7c22b",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5e18bf026a56f2f38162ae01250b0784eda33e33b25ce1085ecba0fb81bfe350",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "• We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -16380,18 +16436,18 @@
     "job_posted_at": "2026-04-07T07:01:11.865Z"
   },
   {
-    "job_id": "workday-kbr-R2121506",
-    "job_title": "Project Controls Internship 2026",
+    "job_id": "workday-kbr-R2121411",
+    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
     "employer_name": "KBR",
-    "job_city": "Houston",
+    "job_city": "Ann Arbor",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
+    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -16408,18 +16464,18 @@
     "job_posted_at": "2026-04-07T07:01:03.244Z"
   },
   {
-    "job_id": "workday-kbr-R2121411",
-    "job_title": "National Security Solutions (NSS) - Government Property Specialist Internship",
+    "job_id": "workday-kbr-R2121506",
+    "job_title": "Project Controls Internship 2026",
     "employer_name": "KBR",
-    "job_city": "Ann Arbor",
+    "job_city": "Houston",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Ann-Arbor-Michigan/National-Security-Solutions--NSS----Government-Property-Specialist-Internship_R2121411",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Project-Controls-Internship-2026_R2121506",
     "job_posted_at_datetime_utc": "2026-04-07T07:01:03.244Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d54611bdb6ab77aeeb868ec1aed902cdb5842e5747dea82f746e710cbc7f1196",
+    "fingerprint": "814ccfa0fa38802ef3d511d89c993ca8f98ea9c120abbd3c597eea8f604156dd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -18629,6 +18685,34 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
+    "job_id": "workday-sel-2026-19530",
+    "job_title": "Marketing Intern - SEO",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
     "job_id": "workday-sel-2026-19324",
     "job_title": "Marketing Intern",
     "employer_name": "SEL",
@@ -18769,34 +18853,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19530",
-    "job_title": "Marketing Intern - SEO",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Marketing-Operations-Intern_2026-19530",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "775a99d3ebb4b5006dcf3e24e3a7205a5febd9c5cb6f6d370acd2a45802198d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
       ],
       "locations": [
         "us"
@@ -19786,33 +19842,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T20:11:29.000Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR334490",
-    "job_title": "Summer 2026 Intern - Undergrad User Research - Slack",
-    "employer_name": "Salesforce",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Undergrad-User-Research---Slack_JR334490",
-    "job_posted_at_datetime_utc": "2026-04-06T19:47:03.301Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "effe069e2d8ba3a076e428767346f25464c96589dada11407d8cf2bb9103e9bc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T19:47:03.301Z"
   }
 ]
