@@ -28,34 +28,6 @@
     "job_posted_at": "2026-04-13T15:58:51.019Z"
   },
   {
-    "job_id": "workday-cisco-2001200",
-    "job_title": "FLEX- Rising Leaders II (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "Chicago",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern----United-States_2001200",
-    "job_posted_at_datetime_utc": "2026-04-13T15:57:07.948Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ac21da97ca98d3535304eaa398f11b804046037457054c984c39e7d7b46e037",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T15:57:07.948Z"
-  },
-  {
     "job_id": "sr-BoschGroup-744000120493195",
     "job_title": "End-to-End Autonomous Driving - Intern",
     "employer_name": "Bosch Group",
@@ -3829,6 +3801,76 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-baird-cvapfplrormwtuqfaaaaaa==",
+    "job_title": "Internship - Data & Analytics (Milwaukee, WI) | Milwaukee, WI, USA",
+    "employer_name": "Baird",
+    "job_city": "Milwaukee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-WI-Milwaukee-Internship_-_Data__Analytics_Milwaukee_WI.id24109970",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "556f4b7b207a1b0d95d993d8ad6206f2a54d46944444b0152011f4a70e492989",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-mid-atlantic-permanente-medical-group-kaiser-permanente-p64ooddgdyhuqbybaaaaaa==",
+    "job_title": "Data Analytics Intern: Insight-Driven Projects (Hybrid DC)",
+    "employer_name": "Mid-Atlantic Permanente Medical Group | Kaiser Permanente",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-analytics-intern-insight-driven-projects-hybrid-dc--washington--ed8b53924a08bfe699b14a111be72b674",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d3f21c127fb995fc53f8043650699e072645ad2be10c2b1f695247c460601413",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data science",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "A leading healthcare organization in Washington, D.C., is seeking a full-time Data Analyst Intern.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-scorpion-therapeutics-_c3dba6vhs_iyadgaaaaaa==",
     "job_title": "Intern, Artificial Intelligence / Machine Learning",
     "employer_name": "Scorpion Therapeutics",
@@ -4148,76 +4190,6 @@
       "summary_line": "Hybrid SSM‑Transformer models have a unique advantage for on‑chip memory efficiency: • SSM layers compress sequence history into a fixed‑size recurrent state • Attention layers store key‑value caches…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mid-atlantic-permanente-medical-group-kaiser-permanente-p64ooddgdyhuqbybaaaaaa==",
-    "job_title": "Data Analytics Intern: Insight-Driven Projects (Hybrid DC)",
-    "employer_name": "Mid-Atlantic Permanente Medical Group | Kaiser Permanente",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-analytics-intern-insight-driven-projects-hybrid-dc--washington--ed8b53924a08bfe699b14a111be72b674",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d3f21c127fb995fc53f8043650699e072645ad2be10c2b1f695247c460601413",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data science",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "A leading healthcare organization in Washington, D.C., is seeking a full-time Data Analyst Intern.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-baird-cvapfplrormwtuqfaaaaaa==",
-    "job_title": "Internship - Data & Analytics (Milwaukee, WI) | Milwaukee, WI, USA",
-    "employer_name": "Baird",
-    "job_city": "Milwaukee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-WI-Milwaukee-Internship_-_Data__Analytics_Milwaukee_WI.id24109970",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "556f4b7b207a1b0d95d993d8ad6206f2a54d46944444b0152011f4a70e492989",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -6648,6 +6620,115 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-circle-k-k1pdqtxlzm34ivauaaaaaa==",
+    "job_title": "Data Science Intern, Global Data & Analytics",
+    "employer_name": "Circle K",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://workwithus.circlek.com/global/en/job/CIKCGLOBALR565962EXTERNALENGLOBAL/Data-Science-Intern-Global-Data-Analytics",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9c14f1cfc609ed128d005bf9a1ad225ba8b40ead44b72e1f0c88b37429c2561b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "azure",
+        "computer science",
+        "data science",
+        "forecasting",
+        "gcp",
+        "git",
+        "machine learning",
+        "python",
+        "regression",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Here's what we're looking for:  Knowledge and skills: • Ability to program with SQL, R and Python.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-z_8bunx40moymabdaaaaaa==",
+    "job_title": "Data Science Analyst I Intern United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.wayup.com/i-j-Data-Science-Analyst-I-Intern-United-States-Cisco-631467400418251/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "2cde0804e5850c333037069a0bd6f6acc553a95fe319518fb774f779c20c352b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cisco",
+        "dashboards",
+        "data science",
+        "data visualization",
+        "etl",
+        "excel",
+        "hadoop",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "reporting",
+        "scikit-learn",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-anduril-aez1yrmv50ukvjuoaaaaaa==",
     "job_title": "Software Engineer Intern at Anduril",
     "employer_name": "Anduril",
@@ -6734,35 +6815,6 @@
       "summary_line": "Person, or Immigration Status Requirements: Must be authorized to work in the U.S.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
-    "job_title": "Software Engineering Intern II, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Nashua",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "02b038c3f5d4507edf53ea7295f5ad11c8efcc2db88627cf66ee21a91dc85756",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -7317,115 +7369,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "What You Need: • Proficiency in Python.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-circle-k-k1pdqtxlzm34ivauaaaaaa==",
-    "job_title": "Data Science Intern, Global Data & Analytics",
-    "employer_name": "Circle K",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://workwithus.circlek.com/global/en/job/CIKCGLOBALR565962EXTERNALENGLOBAL/Data-Science-Intern-Global-Data-Analytics",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9c14f1cfc609ed128d005bf9a1ad225ba8b40ead44b72e1f0c88b37429c2561b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "computer science",
-        "data science",
-        "forecasting",
-        "gcp",
-        "git",
-        "machine learning",
-        "python",
-        "regression",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "xgboost"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Here's what we're looking for:  Knowledge and skills: • Ability to program with SQL, R and Python.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-z_8bunx40moymabdaaaaaa==",
-    "job_title": "Data Science Analyst I Intern United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.wayup.com/i-j-Data-Science-Analyst-I-Intern-United-States-Cisco-631467400418251/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "2cde0804e5850c333037069a0bd6f6acc553a95fe319518fb774f779c20c352b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "cisco",
-        "dashboards",
-        "data science",
-        "data visualization",
-        "etl",
-        "excel",
-        "hadoop",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "power bi",
-        "python",
-        "reporting",
-        "scikit-learn",
-        "sql",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -10940,6 +10883,98 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -11145,98 +11180,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -11302,6 +11245,54 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "js-bmw-group-c3um6zi6tj8jjeihaaaaaa==",
+    "job_title": "Intern, Data Scientist - DSSC",
+    "employer_name": "BMW Group",
+    "job_city": "Columbus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.bmwgroup.com/job/Columbus-Intern%2C-Data-Scientist-DSSC-Ohio/1382355333/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "bb7b582f35804cbe8c1a1509f1195d2fcdf6c8191f993d99709107413f5d9ecc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "computer science",
+        "css",
+        "django",
+        "html",
+        "python",
+        "react",
+        "react.js",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Requirements:  Currently enrolled in a bachelor or master’s degree program at an accredited college or university  Possess a minimum cumulative GPA of 3.0 (not just in major)  Have completed at least…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
     "job_id": "js-uline-qcozeri6otzpciapaaaaaa==",
@@ -11666,54 +11657,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bmw-group-c3um6zi6tj8jjeihaaaaaa==",
-    "job_title": "Intern, Data Scientist - DSSC",
-    "employer_name": "BMW Group",
-    "job_city": "Columbus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.bmwgroup.com/job/Columbus-Intern%2C-Data-Scientist-DSSC-Ohio/1382355333/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "bb7b582f35804cbe8c1a1509f1195d2fcdf6c8191f993d99709107413f5d9ecc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "computer science",
-        "css",
-        "django",
-        "html",
-        "python",
-        "react",
-        "react.js",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Requirements:  Currently enrolled in a bachelor or master’s degree program at an accredited college or university  Possess a minimum cumulative GPA of 3.0 (not just in major)  Have completed at least…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -16095,6 +16038,156 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "HealthTrust",
+    "job_city": "Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data pipeline",
+        "data quality",
+        "elt",
+        "etl",
+        "python",
+        "reporting",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Job Summary and Qualifications  A Data Engineering Intern supports the design, development, and maintenance of data pipelines and data systems that enable reliable reporting, analytics, and applicatio…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
+    "job_title": "Summer 2026 Internship: Data Science Intern - Princeton, NJ",
+    "employer_name": "dsm-firmenich",
+    "job_city": "Princeton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.dsm-firmenich.com/careers/job/562949975350360?domain=dsm.com&triggerGoButton=false",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "df87f4f2e487c8755bf394311894c78d0527582aeda95a89fa687bd0fa003588",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "computer science",
+        "data quality",
+        "data science",
+        "feature engineering",
+        "machine learning",
+        "python",
+        "reporting",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Summer 2026 Internship: Data Science",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-pmbisnrwig_j5jznaaaaaa==",
+    "job_title": "Data Science Analyst I (Intern) United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/2002648/Data-Science-Analyst-I-Intern-United-States",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b2e8d12ab145c3664baf295933eee78ba9bb5a0a20f101265d7aaddc242a3747",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "cisco",
+        "dashboards",
+        "data science",
+        "data visualization",
+        "etl",
+        "excel",
+        "hadoop",
+        "machine learning",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "reporting",
+        "scikit-learn",
+        "sql",
+        "statistical analysis",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-citizens-bank-na-ynuevqou7vhzixf1aaaaaa==",
     "job_title": "Software Engineer Intern | Summer 2026 | Enterprise Technology & Security Summer Internship",
     "employer_name": "Citizens Bank, N.A.",
@@ -16237,53 +16330,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "First Solar reserves the right to offer you a role most applicable to your experience and skillset.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
-    "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
-    "employer_name": "Logistics Management Institute",
-    "job_city": "Tysons",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers-lmi.icims.com/jobs/13863/data-scientist-intern-%E2%80%93-genai-%26-ml-research-%28summer-2026%29/job",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "data science",
-        "machine learning",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "python",
-        "r"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications • Proficiency in programming languages such as Python, R, or similar.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
@@ -16543,156 +16589,6 @@
       "visa_question_present": false,
       "is_simple_apply": false,
       "summary_line": "Preferred Requirements • Radar, spectrum sensing, and communication systems • Digital signal processing, Fourier theory, complex analysis • Lab experience using RF test equipment (oscilloscope, spectr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "HealthTrust",
-    "job_city": "Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data pipeline",
-        "data quality",
-        "elt",
-        "etl",
-        "python",
-        "reporting",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Job Summary and Qualifications  A Data Engineering Intern supports the design, development, and maintenance of data pipelines and data systems that enable reliable reporting, analytics, and applicatio…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dsm-firmenich-fdvff0h7lo7mfssyaaaaaa==",
-    "job_title": "Summer 2026 Internship: Data Science Intern - Princeton, NJ",
-    "employer_name": "dsm-firmenich",
-    "job_city": "Princeton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.dsm-firmenich.com/careers/job/562949975350360?domain=dsm.com&triggerGoButton=false",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "df87f4f2e487c8755bf394311894c78d0527582aeda95a89fa687bd0fa003588",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "computer science",
-        "data quality",
-        "data science",
-        "feature engineering",
-        "machine learning",
-        "python",
-        "reporting",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Summer 2026 Internship: Data Science",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-pmbisnrwig_j5jznaaaaaa==",
-    "job_title": "Data Science Analyst I (Intern) United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/2002648/Data-Science-Analyst-I-Intern-United-States",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b2e8d12ab145c3664baf295933eee78ba9bb5a0a20f101265d7aaddc242a3747",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "cisco",
-        "dashboards",
-        "data science",
-        "data visualization",
-        "etl",
-        "excel",
-        "hadoop",
-        "machine learning",
-        "numpy",
-        "pandas",
-        "power bi",
-        "python",
-        "reporting",
-        "scikit-learn",
-        "sql",
-        "statistical analysis",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-07T00:00:00.000Z"
@@ -17960,7 +17856,7 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": "What We Are Looking For:  MAXISIQ is seeking a self-motivated, curious, and creative Software Engineer Intern to join our team in Arlington, VA (Ballston neighborhood) for the spring or summer (10-12���",
+      "summary_line": "What We Are Looking For:  MAXISIQ is seeking a self-motivated, curious, and creative Software Engineer Intern to join our team in Arlington, VA (Ballston neighborhood) for the spring or summer (10-12…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T23:00:00.000Z"
@@ -19535,118 +19431,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-06T16:58:05.000Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4670548006",
-    "job_title": "Fall 2026: Employer Brand Intern (September to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670548006",
-    "job_posted_at_datetime_utc": "2026-04-06T16:41:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "df9cfb355ebb88648dc2fad600cc0e183ccc611ca536f4e678588614ac3435d2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T16:41:31.000Z"
-  },
-  {
-    "job_id": "workday-zendesk-R34507",
-    "job_title": "GTM Strategy & AI Operations Intern",
-    "employer_name": "Zendesk",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Austin-Texas-United-States-of-America/GTM-Strategy---AI-Operations-Intern_R34507",
-    "job_posted_at_datetime_utc": "2026-04-06T16:31:11.180Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da5f58f43b1306fc71a2173d5eaa9c8eef80acccdf1ce8f24afd340bb2cb744c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T16:31:11.180Z"
-  },
-  {
-    "job_id": "workday-zendesk-R34508",
-    "job_title": "GTM Strategy & AI Operations Intern",
-    "employer_name": "Zendesk",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://zendesk.wd1.myworkdayjobs.com/Zendesk/job/Remote-Texas-United-States-of-America/GTM-Strategy---AI-Operations-Intern_R34508",
-    "job_posted_at_datetime_utc": "2026-04-06T16:31:11.180Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c9f774605f9737bf52fc9aa3d594f5585e33cd5446cb06049028fcb7fcf6e859",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T16:31:11.180Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787579",
-    "job_title": "State Steet - Securities Valuation Summer Internship 2026",
-    "employer_name": "State Street",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Steet---Securities-Valuation-Summer-Internship-2026_R-787579",
-    "job_posted_at_datetime_utc": "2026-04-06T16:31:02.064Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7d1038afb92fed3fc98f24c18350f1c3a108fa904e0cead5fdea18b46fc1e47f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T16:31:02.064Z"
   }
 ]
