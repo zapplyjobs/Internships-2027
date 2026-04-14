@@ -8448,18 +8448,18 @@
     "job_posted_at": "2026-04-09T07:04:10.201Z"
   },
   {
-    "job_id": "workday-disney-10146304",
-    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
+    "job_id": "workday-disney-10147808",
+    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
     "employer_name": "Disney",
-    "job_city": "Glendale",
+    "job_city": "Burbank",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
     "job_posted_at_datetime_utc": "2026-04-09T07:04:10.200Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
+    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8476,18 +8476,18 @@
     "job_posted_at": "2026-04-09T07:04:10.200Z"
   },
   {
-    "job_id": "workday-disney-10147808",
-    "job_title": "Antipiracy Technical Operations Intern, Summer 2026",
+    "job_id": "workday-disney-10146304",
+    "job_title": "ABC News Newsgathering Intern, Summer/Fall 2026",
     "employer_name": "Disney",
-    "job_city": "Burbank",
+    "job_city": "Glendale",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Antipiracy-Technical-Operations-Intern--Summer-2026_10147808",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/ABC-News-Newsgathering-Intern--Summer-Fall-2026_10146304",
     "job_posted_at_datetime_utc": "2026-04-09T07:04:10.200Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "651783402eb8c66d7ccb4727535e247550ff4bca20901a49876e0dc24555defe",
+    "fingerprint": "0dd46739a007934fed95b55230b1a23748af2cd8ab9742111ef45875f8c8775c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9378,6 +9378,22 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "java",
+        "javascript",
+        "kotlin",
+        "python",
+        "typescript"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Requirements • Currently pursuing a bachelor’s degree in computer science or a related technical field • Must be a rising senior (will also consider recent graduates) at the time of the internship • S…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -9407,6 +9423,20 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "change management",
+        "computer science",
+        "data analysis",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Software Development (AI/ML) Intern Company: University of Michigan Job Location: Ann Arbor Category: Software Engineer/Programmer Type: Adjunct/Part-Time JOB OPENING ID: 275805 MODES OF WORK Hybrid R…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -14277,6 +14307,47 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
+    "job_id": "js-city-of-austin-tx-uvlusvwx2zalxcgtaaaaaa==",
+    "job_title": "Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate)",
+    "employer_name": "City of Austin, TX",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.careersingovernment.com/job/1037238/austin-energy-intern/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8e92216e2cde20af976d64164ce4bef9102ac7e2d259e7531877a6a9967347b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications: • Graduation from an accredited high school or equivalent.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
     "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
     "job_title": "2026 Intern - Machine Learning Engineer",
     "employer_name": "Adobe",
@@ -14304,6 +14375,26 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "express",
+        "llm",
+        "machine learning",
+        "python",
+        "pytorch",
+        "rag",
+        "sql",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "What You Need to Succeed • Currently enrolled full-time and pursuing a Master’s or PhD degree in Computer Science, Data Science, Machine Learning, or a related field, with an expected graduation date…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -15028,47 +15119,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "A leading technology company in San Jose is looking for enthusiastic undergraduate students in Electrical Engineering or related fields to join their Creative Hardware Engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-city-of-austin-tx-uvlusvwx2zalxcgtaaaaaa==",
-    "job_title": "Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate)",
-    "employer_name": "City of Austin, TX",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.careersingovernment.com/job/1037238/austin-energy-intern/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8e92216e2cde20af976d64164ce4bef9102ac7e2d259e7531877a6a9967347b6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications: • Graduation from an accredited high school or equivalent.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -18895,51 +18945,6 @@
     "job_posted_at": "2026-04-07T07:00:52.007Z"
   },
   {
-    "job_id": "workday-jabil-J2445426",
-    "job_title": "Information Security Intern",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "ci/cd",
-        "computer science",
-        "devops",
-        "iam",
-        "networking",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:00:44.443Z"
-  },
-  {
     "job_id": "workday-jabil-J2444715",
     "job_title": "Financial Reporting Intern (Consolidations)",
     "employer_name": "Jabil",
@@ -18993,6 +18998,51 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:00:44.443Z"
+  },
+  {
+    "job_id": "workday-jabil-J2445426",
+    "job_title": "Information Security Intern",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Information-Security-Intern_J2445426",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26949433972d362bf781759a28e0e8a3d58f0ddc7e3938a322eaca2757387372",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "ci/cd",
+        "computer science",
+        "devops",
+        "iam",
+        "networking",
+        "terraform"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-07T07:00:44.443Z"
   },
   {
