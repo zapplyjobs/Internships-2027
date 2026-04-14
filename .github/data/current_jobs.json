@@ -2679,7 +2679,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://careers.se.com/event-5433/jobs/110404?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-04-13T12:00:00.000Z",
+    "job_posted_at_datetime_utc": "2026-04-13T11:00:00.000Z",
     "job_employment_type": "FULL-TIME AND INTERNSHIP",
     "salary": null,
     "fingerprint": "bb17044cebd49b82d6552a134e25af43e0522c23f4ab4611c1738a0edd0ac2c2",
@@ -2714,7 +2714,7 @@
       "summary_line": "Schneider Electric has an opportunity for an Electrical Engineering Co-Op at our Andover, MA facility, starting June 2026.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T12:00:00.000Z"
+    "job_posted_at": "2026-04-13T11:00:00.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7729700",
@@ -5114,6 +5114,34 @@
     "job_posted_at": "2026-04-10T07:04:04.241Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0234951",
+    "job_title": "Supply Chain Management Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237476",
     "job_title": "AI Data Analyst Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -5199,34 +5227,6 @@
       "summary_line": "AIOps Engineer Intern The Opportunity : Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for Air Power.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234951",
-    "job_title": "Supply Chain Management Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
@@ -8347,34 +8347,6 @@
     "job_posted_at": "2026-04-09T07:04:10.200Z"
   },
   {
-    "job_id": "workday-entegris-REQ-10193",
-    "job_title": "EHS Co-Op - Fall 2026",
-    "employer_name": "Entegris",
-    "job_city": "Burnet",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Burnet-TX/EHS-Co-Op---Fall-2026_REQ-10193",
-    "job_posted_at_datetime_utc": "2026-04-09T07:04:09.260Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1bd1c81533ec9e082358eac333174fd5fe97b607eaf75ff4c70b6006e661c3d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-09T07:04:09.260Z"
-  },
-  {
     "job_id": "workday-entegris-REQ-10159",
     "job_title": "Reliability Engineer Co-Op - Fall 2026",
     "employer_name": "Entegris",
@@ -8434,6 +8406,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-09T07:04:09.260Z"
+  },
+  {
+    "job_id": "workday-entegris-REQ-10193",
+    "job_title": "EHS Co-Op - Fall 2026",
+    "employer_name": "Entegris",
+    "job_city": "Burnet",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Burnet-TX/EHS-Co-Op---Fall-2026_REQ-10193",
+    "job_posted_at_datetime_utc": "2026-04-09T07:04:09.260Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1bd1c81533ec9e082358eac333174fd5fe97b607eaf75ff4c70b6006e661c3d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -9372,6 +9372,46 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
+    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
+    "job_title": "Electrical Engineer Intern Summer 2026",
+    "employer_name": "Westinghouse Electric Company, LLC",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "http"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
     "job_title": "Hardware Engineering Internship",
     "employer_name": "redwire space",
@@ -9414,46 +9454,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
-    "job_title": "Electrical Engineer Intern Summer 2026",
-    "employer_name": "Westinghouse Electric Company, LLC",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "http"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -13964,44 +13964,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-cisco-uosgbf0ooh-kecwnaaaaaa==",
-    "job_title": "Hardware Engineer I — Co-op (6 Months)",
-    "employer_name": "Cisco",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/hardware-engineer-i-co-op-6-months--san-jose--ee8f3e3371631c37fb84eaa9745c9e0e2",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5b2d76a7f81e9d8f21075b102907580d15ad19453140b242939fc24689963d73",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "A leading technology company in San Jose is looking for enthusiastic undergraduate students in Electrical Engineering or related fields to join their Creative Hardware Engineering team.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
     "job_title": "Electrical Engineering Intern",
     "employer_name": "WSP USA",
@@ -14095,6 +14057,44 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical Engineeri…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-uosgbf0ooh-kecwnaaaaaa==",
+    "job_title": "Hardware Engineer I — Co-op (6 Months)",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/hardware-engineer-i-co-op-6-months--san-jose--ee8f3e3371631c37fb84eaa9745c9e0e2",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5b2d76a7f81e9d8f21075b102907580d15ad19453140b242939fc24689963d73",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "A leading technology company in San Jose is looking for enthusiastic undergraduate students in Electrical Engineering or related fields to join their Creative Hardware Engineering team.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-08T00:00:00.000Z"
@@ -17392,34 +17392,6 @@
     "job_posted_at": "2026-04-07T07:04:24.406Z"
   },
   {
-    "job_id": "workday-disney-10141472",
-    "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "Anaheim",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance-and-Analytics-Intern--Summer-Fall-2026_10141472",
-    "job_posted_at_datetime_utc": "2026-04-07T07:04:10.201Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2d3bbd6dc532f8f83ba7ee041bb9390d3ac90e32c55fb69f397765b699d28840",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:04:10.201Z"
-  },
-  {
     "job_id": "workday-disney-10143620",
     "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
     "employer_name": "Disney",
@@ -17576,6 +17548,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "223be9bd74b442cf8a4f2c61221299d4d3a5ac701ffe63d8ef7aad2b4947664f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:04:10.201Z"
+  },
+  {
+    "job_id": "workday-disney-10141472",
+    "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Anaheim",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Finance-and-Analytics-Intern--Summer-Fall-2026_10141472",
+    "job_posted_at_datetime_utc": "2026-04-07T07:04:10.201Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d3bbd6dc532f8f83ba7ee041bb9390d3ac90e32c55fb69f397765b699d28840",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -18171,48 +18171,6 @@
     "job_posted_at": "2026-04-07T07:03:26.418Z"
   },
   {
-    "job_id": "workday-analog-devices-R256572",
-    "job_title": "RF Design Engineering Intern",
-    "employer_name": "Analog Devices",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering-Intern_R256572",
-    "job_posted_at_datetime_utc": "2026-04-07T07:03:22.185Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fe8896d8a10678d799b83d075e86851c28508b28239c81ff45e25bacef1bf6b4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microwave",
-        "oscilloscope",
-        "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T07:03:22.185Z"
-  },
-  {
     "job_id": "workday-analog-devices-R257656",
     "job_title": "AI/ML Researcher Intern - Co-op",
     "employer_name": "Analog Devices",
@@ -18246,6 +18204,48 @@
         "pytorch",
         "tensorflow",
         "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-07T07:03:22.185Z"
+  },
+  {
+    "job_id": "workday-analog-devices-R256572",
+    "job_title": "RF Design Engineering Intern",
+    "employer_name": "Analog Devices",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/RF-Design-Engineering-Intern_R256572",
+    "job_posted_at_datetime_utc": "2026-04-07T07:03:22.185Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fe8896d8a10678d799b83d075e86851c28508b28239c81ff45e25bacef1bf6b4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microwave",
+        "oscilloscope",
+        "rf"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -18653,34 +18653,6 @@
     "job_posted_at": "2026-04-07T07:00:52.007Z"
   },
   {
-    "job_id": "workday-jabil-J2445379",
-    "job_title": "Talent Acquisition Intern",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Talent-Acquisition-Intern_J2445379",
-    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d757d9d54c6831a0735125762294e9ee03f8d60dc1ad288c65cf3ab46657f61a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:00:44.443Z"
-  },
-  {
     "job_id": "workday-jabil-J2445426",
     "job_title": "Information Security Intern",
     "employer_name": "Jabil",
@@ -18742,6 +18714,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:00:44.443Z"
+  },
+  {
+    "job_id": "workday-jabil-J2445379",
+    "job_title": "Talent Acquisition Intern",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Talent-Acquisition-Intern_J2445379",
+    "job_posted_at_datetime_utc": "2026-04-07T07:00:44.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d757d9d54c6831a0735125762294e9ee03f8d60dc1ad288c65cf3ab46657f61a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
       ],
       "locations": [
         "us"
@@ -19067,60 +19067,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T07:00:05.970Z"
-  },
-  {
-    "job_id": "workday-cisco-2000445",
-    "job_title": "Software Engineer Embedded/Network Systems I (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "15 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Intern----United-States_2000445",
-    "job_posted_at_datetime_utc": "2026-04-07T03:36:06.945Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8343b24a678756fc83e24467c82d8b27850c3b7a4e3e12bce8a3ac5eb2967bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "ci/cd",
-        "cisco",
-        "cybersecurity",
-        "devsecops",
-        "firmware",
-        "fpga",
-        "github",
-        "github actions",
-        "jenkins",
-        "linux",
-        "networking",
-        "pcb",
-        "pcb design",
-        "python",
-        "routing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Please note this posting is to advertise potential job opportunities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-07T03:36:06.945Z"
   }
 ]
