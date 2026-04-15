@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-state-street-R-788449",
+    "job_title": "State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026",
+    "employer_name": "State Street",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street----Global-Corporate-Secretarial-and-Administration-Team---Summer-Internship-2026_R-788449",
+    "job_posted_at_datetime_utc": "2026-04-15T14:35:48.977Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b741ce0218409009ad8ff7a2d306eba47fb69f6685cd7078b63dbd722517791",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T14:35:48.977Z"
+  },
+  {
     "job_id": "workday-rtx-01838101",
     "job_title": "Stage Automne 2026 - Dessinateur, definition du produit - transmission / Internship - Fall 2026 - Drafter, Product Definition - Transmission",
     "employer_name": "RTX",
@@ -606,6 +634,64 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-14T23:51:36.430Z"
+  },
+  {
+    "job_id": "js-rtx--vxyb7jsh8kn-h8naaaaaa==",
+    "job_title": "USNA Research Intern – Engineering/Materials (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "East Hartford",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.rtx.com/global/en/job/01836028/USNA-Research-Intern-Engineering-Materials-Onsite",
+    "job_posted_at_datetime_utc": "2026-04-14T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "070fe69efd7646e8a18ca2a3449ca0e153110acc06ae1fcbf275359df6ba24ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-14T23:00:00.000Z"
+  },
+  {
+    "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
+    "job_title": "Finance Business Operations Intern",
+    "employer_name": "Cloudflare",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinsf.com/job/finance-business-operations-intern/9048215",
+    "job_posted_at_datetime_utc": "2026-04-14T23:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "255b660a53afb89905bdd52eb7e49ca16b699426af8f481cebb35c8f48797d57",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-14T23:00:00.000Z"
   },
   {
     "job_id": "workday-sel-2026-20824",
@@ -1379,6 +1465,47 @@
     "job_posted_at": "2026-04-14T19:17:12.997Z"
   },
   {
+    "job_id": "workday-caci-316653",
+    "job_title": "Software Engineer Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US TX Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653",
+    "job_posted_at_datetime_utc": "2026-04-14T19:05:00.446Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21d130a260a4f43162b90176785ce0cb30cbec213ec20662459672622e2068eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "distributed systems",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Software Engineer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Requir…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T19:05:00.446Z"
+  },
+  {
     "job_id": "workday-caci-324806",
     "job_title": "Data Science Intern - Summer 2026",
     "employer_name": "CACI",
@@ -1433,47 +1560,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Data Science Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: TS/SCI Employee Type: Part-Time On-Call Percentage of Travel Required:…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T19:05:00.446Z"
-  },
-  {
-    "job_id": "workday-caci-316653",
-    "job_title": "Software Engineer Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US TX Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653",
-    "job_posted_at_datetime_utc": "2026-04-14T19:05:00.446Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "21d130a260a4f43162b90176785ce0cb30cbec213ec20662459672622e2068eb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "distributed systems",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Software Engineer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Requir…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T19:05:00.446Z"
@@ -1777,6 +1863,51 @@
     "job_posted_at": "2026-04-14T18:05:02.529Z"
   },
   {
+    "job_id": "js-amentum-ei9piil4mofx3hu2aaaaaa==",
+    "job_title": "Intern - Software Systems Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/intern-software-systems-engineer-huntsville-alabama-united-states",
+    "job_posted_at_datetime_utc": "2026-04-14T18:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "59a0641a187e72f517d1196ca4716e4805e65c09650f0469c41634ab3b15cbbc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel",
+        "git",
+        "jira",
+        "reporting",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: • Current enrollment in a Bachelor of Science degree program in Engineering or related STEM degree (from an ABET accredited institution preferred) is required.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T18:00:00.000Z"
+  },
+  {
     "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
     "job_title": "Electrical Engineering Intern - Summer 2026",
     "employer_name": "Amentum",
@@ -1813,51 +1944,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T18:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-ei9piil4mofx3hu2aaaaaa==",
-    "job_title": "Intern - Software Systems Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/intern-software-systems-engineer-huntsville-alabama-united-states",
-    "job_posted_at_datetime_utc": "2026-04-14T18:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ff53eefd81cdcc3f70d7791ad64a44cb5fb907dc0a962f4c2f98ff7622ad9a42",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "git",
-        "jira",
-        "reporting",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: • Current enrollment in a Bachelor of Science degree program in Engineering or related STEM degree (from an ABET accredited institution preferred) is required.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T18:00:00.000Z"
@@ -2280,6 +2366,55 @@
     "job_posted_at": "2026-04-14T16:09:23.111Z"
   },
   {
+    "job_id": "js-hologic-careers-h5k4x8oivexoeie_aaaaaa==",
+    "job_title": "Software Engineering Internship",
+    "employer_name": "Hologic Careers",
+    "job_city": "Delaware",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/11406",
+    "job_posted_at_datetime_utc": "2026-04-14T16:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "eb5c4e51dd770d4d3e208531447c99132efb104d03c6d3f38e37543286ab084d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "c#",
+        "c++",
+        "computer science",
+        "continuous integration",
+        "design patterns",
+        "git",
+        "networking",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a Hologic Summer Intern, you are not just taking a job; you are taking your place on a global team of motivated, creative, and dedicated people!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T16:00:00.000Z"
+  },
+  {
     "job_id": "js-fresenius-medical-care-f08njjfvqut56teqaaaaaa==",
     "job_title": "Computer Science Co-op",
     "employer_name": "Fresenius Medical Care",
@@ -2344,55 +2479,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Education and Experience • Enrolled in an ABET accredited university in pursuit of a Bachelor’s or higher degree in Electrical Engineering  Typical office environment working with computers and remain…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T16:00:00.000Z"
-  },
-  {
-    "job_id": "js-hologic-careers-h5k4x8oivexoeie_aaaaaa==",
-    "job_title": "Software Engineering Internship",
-    "employer_name": "Hologic Careers",
-    "job_city": "Delaware",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/11406",
-    "job_posted_at_datetime_utc": "2026-04-14T16:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "eb5c4e51dd770d4d3e208531447c99132efb104d03c6d3f38e37543286ab084d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "c#",
-        "c++",
-        "computer science",
-        "continuous integration",
-        "design patterns",
-        "git",
-        "networking",
-        "scrum"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a Hologic Summer Intern, you are not just taking a job; you are taking your place on a global team of motivated, creative, and dedicated people!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T16:00:00.000Z"
@@ -2719,6 +2805,23 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "anthropic",
+        "excel",
+        "github",
+        "nlp",
+        "numpy",
+        "pandas",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Requirements: • Current student enrolled in BS or MS with major in CS or equivalent • Strong Python, coding, and analytical skills • Experience with data handling (Pandas / NumPy / Excel) • Experience…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T15:00:00.000Z"
   },
   {
@@ -2844,6 +2947,46 @@
     "job_posted_at": "2026-04-14T14:06:38.986Z"
   },
   {
+    "job_id": "js-sierra-space-djn9vaytwzrg5am0aaaaaa==",
+    "job_title": "Summer 2026 Systems Engineer Intern",
+    "employer_name": "Sierra Space",
+    "job_city": "Louisville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.jobsora.com/job-48545287078",
+    "job_posted_at_datetime_utc": "2026-04-14T14:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "7a8b7085ba645d3a785a31479587eb1f2a664d0aeee3ff0a00fcad2f54448fbd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "integration testing"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About the RoleAbout You  Our mission is driven by an unyielding commitment to advancing space-based technology in service of our customers and safeguarding national security.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T14:00:00.000Z"
+  },
+  {
     "job_id": "js-cruze-t_ekuchyuxuezsveaaaaaa==",
     "job_title": "Machine Learning Intern",
     "employer_name": "Cruze",
@@ -2885,46 +3028,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Technical Requirements Math Heavy: Strong foundation in Linear Algebra, Calculus, and Differential Equations.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T14:00:00.000Z"
-  },
-  {
-    "job_id": "js-sierra-space-djn9vaytwzrg5am0aaaaaa==",
-    "job_title": "Summer 2026 Systems Engineer Intern",
-    "employer_name": "Sierra Space",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobsora.com/job-48545287078",
-    "job_posted_at_datetime_utc": "2026-04-14T14:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "14ee68584d643ef3c7948399674b1c8c3accd31b4a3a3781ddb764eb3b22fdc5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "integration testing"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About the RoleAbout You  Our mission is driven by an unyielding commitment to advancing space-based technology in service of our customers and safeguarding national security.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T14:00:00.000Z"
@@ -5083,6 +5186,34 @@
     "job_posted_at": "2026-04-13T07:21:44.558Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068080",
+    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
+    "job_posted_at_datetime_utc": "2026-04-13T07:21:43.268Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:21:43.268Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068249",
     "job_title": "R&D Engineer Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -5141,34 +5272,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "589ca4ce6d758b7f24575402ab3b5680e8c5d1e653a6bb7c708a2f9107fef0d4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:21:43.268Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068080",
-    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:43.268Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6027,76 +6130,6 @@
     "job_posted_at": "2026-04-13T07:00:33.255Z"
   },
   {
-    "job_id": "workday-leidos-R-00177513",
-    "job_title": "Transportation Engineering Lab Intern",
-    "employer_name": "Leidos",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00177513",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6d92d28bf74ef64659ab05c6146d46f86e9738bb1a6fa694fc6e7fd0cf7bb65b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180640",
-    "job_title": "Software Intern",
-    "employer_name": "Leidos",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "matlab",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180628",
     "job_title": "Software Development Intern",
     "employer_name": "Leidos",
@@ -6200,6 +6233,76 @@
     "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
+    "job_id": "workday-leidos-R-00177513",
+    "job_title": "Transportation Engineering Lab Intern",
+    "employer_name": "Leidos",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00177513",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6d92d28bf74ef64659ab05c6146d46f86e9738bb1a6fa694fc6e7fd0cf7bb65b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180640",
+    "job_title": "Software Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "matlab",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
     "job_id": "workday-kla-2532514",
     "job_title": "System Engineering Intern",
     "employer_name": "KLA",
@@ -6297,57 +6400,6 @@
     "job_posted_at": "2026-04-13T05:01:27.673Z"
   },
   {
-    "job_id": "js-earnin-yb8i6cavaiuqrv1haaaaaa==",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Earnin",
-    "job_city": "Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/mountain-view-wyoming?id=2633384898",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4cc5fc8b5cc35e0e2b3888a13df381e3e09681c8a306ea770761b1d0a3ef3e9f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "computer science",
-        "data analysis",
-        "databricks",
-        "deep learning",
-        "fine-tuning",
-        "kafka",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About EarnIn As one of the first pioneers of earned wage access, our passion at EarnIn is building products that deliver real-time financial flexibility for those with the unique needs of living paych…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "js-five9-qk0akaxhipklrus3aaaaaa==",
     "job_title": "Financial Analyst Intern",
     "employer_name": "Five9",
@@ -6425,6 +6477,57 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "• Typical Qualifications • Bachelor’s or Master’s degree in Computer Science, AI, or related field Or equivalent hands-on experience with AI/ML projects Responsibilities: • AI Software Engineer will d…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-earnin-yb8i6cavaiuqrv1haaaaaa==",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Earnin",
+    "job_city": "Mountain View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/mountain-view-wyoming?id=2633384898",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4cc5fc8b5cc35e0e2b3888a13df381e3e09681c8a306ea770761b1d0a3ef3e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "data analysis",
+        "databricks",
+        "deep learning",
+        "fine-tuning",
+        "kafka",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About EarnIn As one of the first pioneers of earned wage access, our passion at EarnIn is building products that deliver real-time financial flexibility for those with the unique needs of living paych…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T00:00:00.000Z"
@@ -6803,6 +6906,174 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-northrop-grumman-b_r9u6n5jxiq3obvaaaaaa==",
+    "job_title": "2026 Systems Engineer Intern - Baltimore MD",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/6aMFVjdfnfYPoNEgyolIji",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "00ebd1e0e4a71d466aab670b3ece2a86e4dbff185b84a440deb927ed106c5c61",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications • Must be a full-time student pursuing an undergraduate or graduate degree from an accredited college/university and enrolled full-time in Fall 2026.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-ws_txrllxclmy1rhaaaaaa==",
+    "job_title": "Internship- Operations Engineer Intern (Summer 2026)",
+    "employer_name": "BAE Systems",
+    "job_city": "Greenlawn",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/121901BR/Internship-Operations-Engineer-Intern-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f1b8a8fff61fe67ab27f8f0c6f3d3d11e0effea81f418505fe02f89d5a372a6d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "lean manufacturing",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Full-time onsite: Because of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be pe…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
+    "job_title": "Information Technology Internship - Finance & IT",
+    "employer_name": "Amneal USA",
+    "job_city": "Piscataway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data lake",
+        "power bi",
+        "s3",
+        "sap"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-carrier-1mnwzgshdemqa1ygaaaaaa==",
+    "job_title": "Software Engineering Intern - Summer",
+    "employer_name": "Carrier",
+    "job_city": "East Syracuse",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.carrier.com/en/job/east-syracuse/software-engineering-intern-summer/29289/93922847360",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "fdd7c2033c8b103d8b3f6f1ebed6270e5a8ff163bd2451ea886fc5af4a165a5d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "java",
+        "kaizen",
+        "networking"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "The successful candidate will work on programming and optimizing of selection software and other software tools for new products and options to support the growth of the Commercial Airside business.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
     "job_title": "RF Engineering Intern",
     "employer_name": "Nightwing",
@@ -7131,136 +7402,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Requirements • Must be pursuing a degree in computer science or related field (e.g., Software Engineering, Computer Engineering, Information Sciences), • Completed at least two years of an undergradua…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
-    "job_title": "Information Technology Internship - Finance & IT",
-    "employer_name": "Amneal USA",
-    "job_city": "Piscataway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "data lake",
-        "power bi",
-        "s3",
-        "sap"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-carrier-1mnwzgshdemqa1ygaaaaaa==",
-    "job_title": "Software Engineering Intern - Summer",
-    "employer_name": "Carrier",
-    "job_city": "East Syracuse",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.carrier.com/en/job/east-syracuse/software-engineering-intern-summer/29289/93922847360",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "fdd7c2033c8b103d8b3f6f1ebed6270e5a8ff163bd2451ea886fc5af4a165a5d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "java",
-        "kaizen",
-        "networking"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "The successful candidate will work on programming and optimizing of selection software and other software tools for new products and options to support the growth of the Commercial Airside business.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-ws_txrllxclmy1rhaaaaaa==",
-    "job_title": "Internship- Operations Engineer Intern (Summer 2026)",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/121901BR/Internship-Operations-Engineer-Intern-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f80e9b4f2c562424c8353032c5259fcdb3bff1025684d148275d6f55a0f91d4d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "lean manufacturing",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Full-time onsite: Because of the need for consistent, in-person collaboration and/or the requirement to perform all work onsite due to the nature of this particular role, it will be pe…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -8071,6 +8212,107 @@
     "job_posted_at": "2026-04-11T07:00:57.788Z"
   },
   {
+    "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "Essential Utilities",
+    "job_city": "North Shore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/finance-intern/8783873",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "57bae6ab29a66b357a117bfc1fb74f9f36215a251e925608ca76b43718594fe8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-mckinney-dz8kwc3jrqdndqhjaaaaaa==",
+    "job_title": "2026 Summer Agency Operations (PM/Finance) Internship",
+    "employer_name": "McKinney",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/2026-summer-agency-operations-pm-finance-internship/8551932",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "59ec67e9614285a79d13dddb612e5227e863be489c80b2c0907716ae6a75037d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-parsons-corporation-0vjv4zqvgcndizchaaaaaa==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Parsons Corporation",
+    "job_city": "Camarillo",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.parsons.com/jobs/software-engineer-intern-camarillo-r-179340-jobs--internship-program--",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "b91b0a022ef277939ba58445cef588efbfe521a155b7e9dc794651ca6f9f6403",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c#",
+        "c++",
+        "java",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications: • Must be currently enrolled in a college/university program and in pursuit of a degree in engineering.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
+  },
+  {
     "job_id": "js-the-dow-chemical-company-qpbzrdjeitj48uraaaaaaa==",
     "job_title": "Local College Co-op: Computer Science",
     "employer_name": "THE DOW CHEMICAL COMPANY",
@@ -8345,107 +8587,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "Essential Utilities",
-    "job_city": "North Shore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-intern/8783873",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "57bae6ab29a66b357a117bfc1fb74f9f36215a251e925608ca76b43718594fe8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mckinney-dz8kwc3jrqdndqhjaaaaaa==",
-    "job_title": "2026 Summer Agency Operations (PM/Finance) Internship",
-    "employer_name": "McKinney",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/2026-summer-agency-operations-pm-finance-internship/8551932",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "59ec67e9614285a79d13dddb612e5227e863be489c80b2c0907716ae6a75037d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-parsons-corporation-0vjv4zqvgcndizchaaaaaa==",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Parsons Corporation",
-    "job_city": "Camarillo",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.parsons.com/jobs/software-engineer-intern-camarillo-r-179340-jobs--internship-program--",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "b91b0a022ef277939ba58445cef588efbfe521a155b7e9dc794651ca6f9f6403",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c#",
-        "c++",
-        "java",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications: • Must be currently enrolled in a college/university program and in pursuit of a degree in engineering.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T00:00:00.000Z"
@@ -13706,22 +13847,51 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
-    "job_id": "js-aem-xev5ykv9tupoeuxdaaaaaa==",
-    "job_title": "Sr. Computer Science Intern",
-    "employer_name": "AEM",
-    "job_city": "Victoria",
+    "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
+    "job_title": "Operations Finance Intern",
+    "employer_name": "Generac",
+    "job_city": "Waukesha",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://us.jobsora.com/job-48381619205",
+    "job_apply_link": "https://careers.generac.com/it/lavoro/jr13527/operations-finance-intern/",
     "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "PART-TIME",
     "salary": null,
-    "fingerprint": "a98aa576a09f115003df086c0abf5f6d5582649db31ef61fe9b9879e342ae512",
+    "fingerprint": "484ecd80b4d27a937ee925fa24cd6b53c37abd41a19340cc4f73d2a294e723b2",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-nichols-college-vw7l8csrefta2sjxaaaaaa==",
+    "job_title": "Operations Intern: Learn Finance, HR & Tech for Good",
+    "employer_name": "Nichols College",
+    "job_city": "Dudley",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/operations-intern-learn-finance-hr-tech-for-good--dudley--e656cc7c8914236578d7e0681b895512f",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5f043fb32c02799305f51c16956d2c6d8c966767fd2906d1155ab90cafbdd7c7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us",
@@ -14138,64 +14308,6 @@
       "summary_line": "Job Summary and Qualifications  A Data Science Intern supports the team by analyzing data, building basic models, and helping turn raw information into useful insights for the business.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
-    "job_title": "Operations Finance Intern",
-    "employer_name": "Generac",
-    "job_city": "Waukesha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.generac.com/it/lavoro/jr13527/operations-finance-intern/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "484ecd80b4d27a937ee925fa24cd6b53c37abd41a19340cc4f73d2a294e723b2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nichols-college-vw7l8csrefta2sjxaaaaaa==",
-    "job_title": "Operations Intern: Learn Finance, HR & Tech for Good",
-    "employer_name": "Nichols College",
-    "job_city": "Dudley",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/operations-intern-learn-finance-hr-tech-for-good--dudley--e656cc7c8914236578d7e0681b895512f",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5f043fb32c02799305f51c16956d2c6d8c966767fd2906d1155ab90cafbdd7c7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
@@ -16185,75 +16297,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-08T14:58:42.000Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7781953",
-    "job_title": "Product Marketing Engineer Intern (AI & Automation) - Intern (Summer/Spring/Fall 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7781953?gh_jid=7781953",
-    "job_posted_at_datetime_utc": "2026-04-08T14:45:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a0cbec189aa382e8eba6e234f3197da6ac6415b2bb86115b6b0438d85422cae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T14:45:19.000Z"
-  },
-  {
-    "job_id": "sr-WesternDigital-744000119390388",
-    "job_title": "Summer 2026 Intern - Servo Track Write Intern",
-    "employer_name": "Western Digital",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.smartrecruiters.com/WesternDigital/744000119390388",
-    "job_posted_at_datetime_utc": "2026-04-08T14:41:54.359Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aa2480bed3473819ae64264b6b140ed8e90d668c4ffbddcf495dbebe989ed78c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "data visualization",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a Servo Track Write intern, you will participate in various stages of analyzing large datasets collected from hard disk drive manufacturing processes.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-08T14:41:54.359Z"
   }
 ]
