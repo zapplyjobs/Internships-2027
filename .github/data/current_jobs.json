@@ -1310,6 +1310,75 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
+    "job_id": "workday-sel-2026-19395",
+    "job_title": "Equipment Maintenance Technician Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "python",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional and dynamic college student for an Engineering Intern position in Research & Development Department.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
     "job_id": "workday-sel-2026-19311",
     "job_title": "Compliance Engineering Intern",
     "employer_name": "SEL",
@@ -1738,75 +1807,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19395",
-    "job_title": "Equipment Maintenance Technician Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "matlab",
-        "python",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional and dynamic college student for an Engineering Intern position in Research & Development Department.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
@@ -5147,48 +5147,6 @@
     "job_posted_at": "2026-04-14T07:02:03.162Z"
   },
   {
-    "job_id": "workday-rtx-01838010",
-    "job_title": "Stage - Automne 2026 - Génie électrique - Ingénierie des installations d'essais / Internship - Fall 2026 - Electrical Engineering - Test Facilities Engineering",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gnie-lectrique---Ingnierie-des-installations-d-essais---Internship---Fall-2026---Electrical-Engineering---Test-Facilities-Engineering_01838010",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:59.789Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "07c8b98c2b5c4b93ed3bbddec9fb2f38d56c698eebea18e568c57b8b9fd7582c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "hmi",
-        "https",
-        "mes",
-        "plc"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date d’affichag e / Date Posted: 2026-04-14 Pays / Country: Canada Emplacement / Location: CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG À propos de Pratt & Whitney Canada Pratt & Whitney…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:01:59.789Z"
-  },
-  {
     "job_id": "workday-rtx-01838018",
     "job_title": "Stage - Automne 2026 - Conception pour Ingénierie, centre de produit - Composantes Externes Contrôle et Nacelle / Internship - Fall 2026 - Design for Product Center Engineering - External Component Control and Nacelle",
     "employer_name": "RTX",
@@ -5242,6 +5200,48 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:59.789Z"
+  },
+  {
+    "job_id": "workday-rtx-01838010",
+    "job_title": "Stage - Automne 2026 - Génie électrique - Ingénierie des installations d'essais / Internship - Fall 2026 - Electrical Engineering - Test Facilities Engineering",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gnie-lectrique---Ingnierie-des-installations-d-essais---Internship---Fall-2026---Electrical-Engineering---Test-Facilities-Engineering_01838010",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:59.789Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "07c8b98c2b5c4b93ed3bbddec9fb2f38d56c698eebea18e568c57b8b9fd7582c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "hmi",
+        "https",
+        "mes",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date d’affichag e / Date Posted: 2026-04-14 Pays / Country: Canada Emplacement / Location: CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG À propos de Pratt & Whitney Canada Pratt & Whitney…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T07:01:59.789Z"
   },
   {
@@ -5313,47 +5313,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:01:49.892Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177432",
-    "job_title": "Mechanical Design Engineer Summer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00177432",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c3720e172a0c36642ff164c4aa32dd465463f3d8b5682670a22a64ffd6fb8318",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "gd&t",
-        "solidworks"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "The Small Airborne Effectors Division, within the Leidos Kinetic Effects Business Area, currently has an opportunity for a Mechanical Design Engineer Summer Intern to work at our Huntsville, AL campus…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
   },
   {
     "job_id": "workday-leidos-R-00180806",
@@ -5437,6 +5396,47 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:58.430Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177432",
+    "job_title": "Mechanical Design Engineer Summer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00177432",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c3720e172a0c36642ff164c4aa32dd465463f3d8b5682670a22a64ffd6fb8318",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "gd&t",
+        "solidworks"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "The Small Airborne Effectors Division, within the Leidos Kinetic Effects Business Area, currently has an opportunity for a Mechanical Design Engineer Summer Intern to work at our Huntsville, AL campus…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-14T07:00:58.430Z"
   },
   {
@@ -5722,34 +5722,6 @@
     "job_posted_at": "2026-04-14T07:00:31.934Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266824",
-    "job_title": "BEST Sales Intern HVAC Controls",
-    "employer_name": "Johnson Controls",
-    "job_city": "Texas-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/BEST-Sales-Intern-HVAC-Controls_WD30266824",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:20.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62f6fefd6c27d0ccd9c05c7eef875cccb134e4f804b98b71d0c206e69236d117",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:20.056Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30264162",
     "job_title": "Fire Installer Intern",
     "employer_name": "Johnson Controls",
@@ -5787,6 +5759,34 @@
       "summary_line": "Are you looking for an exciting opportunity to gain valuable hands-on career experience while working on meaningful strategic projects?",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-14T07:00:20.056Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266824",
+    "job_title": "BEST Sales Intern HVAC Controls",
+    "employer_name": "Johnson Controls",
+    "job_city": "Texas-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/BEST-Sales-Intern-HVAC-Controls_WD30266824",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:20.056Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "62f6fefd6c27d0ccd9c05c7eef875cccb134e4f804b98b71d0c206e69236d117",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:00:20.056Z"
   },
   {
@@ -5900,6 +5900,35 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
+    "job_id": "js-arrivia-b9ugo5kbntgtybvaaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "arrivia",
+    "job_city": "Scottsdale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/finance-intern/9058073",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "884bf288b1bdffde4aa31c0aee526398e5d695e99968e8ee7baa5bf5256f7f83",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
     "job_title": "Finance Business Operations Intern",
     "employer_name": "Cloudflare",
@@ -5926,51 +5955,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-ei9piil4mofx3hu2aaaaaa==",
-    "job_title": "Intern - Software Systems Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Huntsville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/intern-software-systems-engineer-huntsville-alabama-united-states",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "59a0641a187e72f517d1196ca4716e4805e65c09650f0469c41634ab3b15cbbc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "git",
-        "jira",
-        "reporting",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Basic Qualifications: • Current enrollment in a Bachelor of Science degree program in Engineering or related STEM degree (from an ABET accredited institution preferred) is required.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -6067,6 +6051,51 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amentum-ei9piil4mofx3hu2aaaaaa==",
+    "job_title": "Intern - Software Systems Engineer",
+    "employer_name": "Amentum",
+    "job_city": "Huntsville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/intern-software-systems-engineer-huntsville-alabama-united-states",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "59a0641a187e72f517d1196ca4716e4805e65c09650f0469c41634ab3b15cbbc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel",
+        "git",
+        "jira",
+        "reporting",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: • Current enrollment in a Bachelor of Science degree program in Engineering or related STEM degree (from an ABET accredited institution preferred) is required.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -6395,35 +6424,6 @@
       "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-arrivia-b9ugo5kbntgtybvaaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "arrivia",
-    "job_city": "Scottsdale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-intern/9058073",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "884bf288b1bdffde4aa31c0aee526398e5d695e99968e8ee7baa5bf5256f7f83",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -8901,6 +8901,48 @@
     "job_posted_at": "2026-04-13T07:00:32.310Z"
   },
   {
+    "job_id": "workday-leidos-R-00180640",
+    "job_title": "Software Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "matlab",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180628",
     "job_title": "Software Development Intern",
     "employer_name": "Leidos",
@@ -9001,48 +9043,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180640",
-    "job_title": "Software Intern",
-    "employer_name": "Leidos",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "matlab",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
@@ -9171,6 +9171,34 @@
     "job_posted_at": "2026-04-13T07:00:19.755Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-068080",
+    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-068249",
     "job_title": "R&D Engineer Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -9229,34 +9257,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "589ca4ce6d758b7f24575402ab3b5680e8c5d1e653a6bb7c708a2f9107fef0d4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:19.016Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068080",
-    "job_title": "J&J Innovative Medicine North America Operations Undergrad Summer Intern",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Washington-District-of-Columbia-United-States-of-America/J-J-Innovative-Medicine-North-America-Operations-Undergrad-Summer-Intern_R-068080",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "68a8083efa8fec488f59971f99b8f8879473b41596546668e9db9ec9e78ebcc7",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -14417,6 +14417,37 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
+    "job_id": "js-databricks-o0jsqrjtgvp-pfueaaaaaa==",
+    "job_title": "Student Intern-Business/Finance (Remote)",
+    "employer_name": "Databricks",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://globaljobs.iblogger.org/job/student-intern-business-finance-remote-3",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "da7511a9bd39629741cc617d7f42126430338bccc789d9c896856dbee1678827",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
     "job_title": "Operations Finance Intern",
     "employer_name": "Generac",
@@ -14469,37 +14500,6 @@
       ],
       "experience": "entry_level",
       "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-databricks-o0jsqrjtgvp-pfueaaaaaa==",
-    "job_title": "Student Intern-Business/Finance (Remote)",
-    "employer_name": "Databricks",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://globaljobs.iblogger.org/job/student-intern-business-finance-remote-3",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "da7511a9bd39629741cc617d7f42126430338bccc789d9c896856dbee1678827",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
