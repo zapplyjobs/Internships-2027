@@ -738,45 +738,6 @@
     "job_posted_at": "2026-04-15T19:09:56.015Z"
   },
   {
-    "job_id": "workday-applied-materials-R2519420",
-    "job_title": "2026 Summer Intern - Technical Project/Program Manager",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Technical-Project-Program-Manager_R2519420",
-    "job_posted_at_datetime_utc": "2026-04-15T19:06:36.217Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01aa235ee47908a2458f8935742642dbdb10047f0cc927b25b3a0a5c275f66e3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T19:06:36.217Z"
-  },
-  {
     "job_id": "workday-asml-J-00327822",
     "job_title": "Co-Op - Learning Specialist -Fall 2026 (Internship)",
     "employer_name": "ASML",
@@ -2897,58 +2858,6 @@
     "job_posted_at": "2026-04-15T00:20:08.048Z"
   },
   {
-    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
-    "job_title": "Software Engineering Intern II, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "84efd1c022e2f1d130dfd0e61d65e9fa9af043f7884438ed8e826d4afb643351",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "computer science",
-        "data analysis",
-        "excel",
-        "git",
-        "integration testing",
-        "java",
-        "linux",
-        "microsoft office",
-        "plc",
-        "python",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description This posting is one of several for software summer interns in NH.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
     "job_id": "js-al-warren-oil-stg20gkt0_d3bqzraaaaaa==",
     "job_title": "Software Developer Internship",
     "employer_name": "Al Warren Oil",
@@ -3336,73 +3245,6 @@
     "job_posted_at": "2026-04-14T22:16:35.370Z"
   },
   {
-    "job_id": "workday-applied-materials-R2519238",
-    "job_title": "2026 Summer Mechanical Engineer Intern - PhD (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Mechanical-Engineer-Intern---PhD--Santa-Clara--CA-_R2519238-1",
-    "job_posted_at_datetime_utc": "2026-04-14T21:49:53.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7e88363b258587b6f2d989d429727e01e5f0593e2ed4d197b19a52c83126237",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "go"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T21:49:53.698Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2616255",
-    "job_title": "Mechnical Engineer Intern",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255",
-    "job_posted_at_datetime_utc": "2026-04-14T21:17:14.056Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b42081eb63f5ce9f6d8aa2758259fe9c1d40bb56b53080ed3cff54c42134f2e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T21:17:14.056Z"
-  },
-  {
     "job_id": "sr-VeoliaEnvironnementSA-744000120805918",
     "job_title": "Finance Intern",
     "employer_name": "Veolia Environnement SA",
@@ -3556,49 +3398,6 @@
     "job_posted_at": "2026-04-14T20:19:34.863Z"
   },
   {
-    "job_id": "workday-analog-devices-R257312",
-    "job_title": "AI/ML Design Layout Intern",
-    "employer_name": "Analog Devices",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/AI-ML-Design-Layout-Intern_R257312",
-    "job_posted_at_datetime_utc": "2026-04-14T20:19:24.824Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "26137aee800448c5e3f882c35e3dd379282b96d12d49df3a42d5996f6bbef32c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "git",
-        "llm",
-        "python",
-        "pytorch",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T20:19:24.824Z"
-  },
-  {
     "job_id": "workday-moog-R-26-17084",
     "job_title": "Intern, Design Engineering",
     "employer_name": "Moog",
@@ -3747,132 +3546,6 @@
     "job_posted_at": "2026-04-14T19:33:07.472Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237793",
-    "job_title": "Human Resources Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
-    "job_posted_at_datetime_utc": "2026-04-14T19:32:31.511Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T19:32:31.511Z"
-  },
-  {
-    "job_id": "workday-cadence-R54380",
-    "job_title": "Software Intern",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R54380-1",
-    "job_posted_at_datetime_utc": "2026-04-14T19:17:27.561Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d0bd66fc675c331be7c471060d23e4c78ab77aadcaca6897a77a85aa25ebdb46",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "c++",
-        "cad",
-        "cadence",
-        "deep learning",
-        "keras",
-        "linux",
-        "machine learning",
-        "python",
-        "system design",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Cadence Digital and Signoff Group Machine learning team is a high energy team which explores and implements Deep and Machine Learning techniques to Electronic Design Automation [EDA] tools.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T19:17:27.561Z"
-  },
-  {
-    "job_id": "workday-cadence-(university)-R54380",
-    "job_title": "Software Intern",
-    "employer_name": "Cadence (University)",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R54380",
-    "job_posted_at_datetime_utc": "2026-04-14T19:17:12.997Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "506da6818b3446080393d61da177d33504850354128085d38f7adca49d8df35a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "c++",
-        "cad",
-        "cadence",
-        "deep learning",
-        "keras",
-        "linux",
-        "machine learning",
-        "python",
-        "system design",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Cadence Digital and Signoff Group Machine learning team is a high energy team which explores and implements Deep and Machine Learning techniques to Electronic Design Automation [EDA] tools.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T19:17:12.997Z"
-  },
-  {
     "job_id": "workday-caci-316653",
     "job_title": "Software Engineer Intern - Summer 2026",
     "employer_name": "CACI",
@@ -3914,107 +3587,6 @@
     "job_posted_at": "2026-04-14T19:05:00.446Z"
   },
   {
-    "job_id": "workday-caci-324806",
-    "job_title": "Data Science Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US CO Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Science-Intern---Summer-2026_324806",
-    "job_posted_at_datetime_utc": "2026-04-14T19:05:00.446Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "005f429626814613920b63a3cdea14b6896455ec63849e5db04868814c025e2d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "classification",
-        "computer science",
-        "computer vision",
-        "data analysis",
-        "data science",
-        "deep learning",
-        "docker",
-        "git",
-        "kubeflow",
-        "kubernetes",
-        "machine learning",
-        "mlflow",
-        "mongodb",
-        "mysql",
-        "postgresql",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Data Science Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: TS/SCI Employee Type: Part-Time On-Call Percentage of Travel Required:…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T19:05:00.446Z"
-  },
-  {
-    "job_id": "workday-disney-10147928",
-    "job_title": "ABC News Product Management and Engineering Intern, Summer/Fall 2026",
-    "employer_name": "Disney",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Product-Management-and-Engineering-Intern--Summer-Fall-2026_10147928",
-    "job_posted_at_datetime_utc": "2026-04-14T18:43:56.042Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "651d4a26c62994c4b14e35d5cdd73b60815d1f4fdf0ff26634676d079b30e772",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "https",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Posting Title: ABC News Product Management and Engineering Intern, Summer/Fall 2026 Req ID: 10147928 Job Description: About the Role & Program The ABC News Product Management and Engineering teams…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T18:43:56.042Z"
-  },
-  {
     "job_id": "workday-moog-R-26-16918",
     "job_title": "Intern, Supplier Quality Excellence",
     "employer_name": "Moog",
@@ -4041,34 +3613,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-14T18:34:15.645Z"
-  },
-  {
-    "job_id": "workday-genentech-55438",
-    "job_title": "Intern, Sales Operations",
-    "employer_name": "Genentech",
-    "job_city": "California, Mountain View",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Intern--Sales-Operations_55438",
-    "job_posted_at_datetime_utc": "2026-04-14T18:33:14.161Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9d9884655859905ae07a54550c141dad4dbaeb3723ed5d721e86db31f1fc12ac",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T18:33:14.161Z"
   },
   {
     "job_id": "sr-BoschGroup-744000120782717",
@@ -4214,50 +3758,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-14T17:34:57.183Z"
-  },
-  {
-    "job_id": "workday-caci-324875",
-    "job_title": "Space Systems Cyber Security Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US CO Colorado Springs",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Space-Systems-Cyber-Security-Intern---Summer-2026_324875",
-    "job_posted_at_datetime_utc": "2026-04-14T17:17:49.182Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "637c913fba24e24632466bd11f3e6bd1c6cfe56315db6b52547f085640d8008e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "ansible",
-        "ci/cd",
-        "computer science",
-        "cyber security",
-        "cybersecurity",
-        "firmware"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Space Systems Cyber Security Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Tr…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T17:17:49.182Z"
   },
   {
     "job_id": "greenhouse-contentful-7793670",
@@ -4539,75 +4039,6 @@
     "job_posted_at": "2026-04-14T15:45:08.471Z"
   },
   {
-    "job_id": "workday-applied-materials-R2518403",
-    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403",
-    "job_posted_at_datetime_utc": "2026-04-14T15:43:23.306Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35fdfb1a2a283b3ff27a6c14d96fe2ddfab8e00cb555e4fad98fe8830024a8f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T15:43:23.306Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0235629",
-    "job_title": "Data Analyst Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/Data-Analyst_R0235629",
-    "job_posted_at_datetime_utc": "2026-04-14T15:33:00.331Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "73ce6a8f16589e66504bc3191d60ff66f2578b64297d633f5eef4860585628bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "data science"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Data Analyst The Opportunity: As an analytics intern, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T15:33:00.331Z"
-  },
-  {
     "job_id": "greenhouse-samsara-7793470",
     "job_title": "Supply Planning Intern - Summer Intern",
     "employer_name": "Samsara",
@@ -4692,49 +4123,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-14T15:06:26.458Z"
-  },
-  {
-    "job_id": "workday-caci-324850",
-    "job_title": "Mechanical Engineer Summer Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US DC Washington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Mechanical-Engineer-Summer-Intern---Summer-2026_324850",
-    "job_posted_at_datetime_utc": "2026-04-14T14:06:38.986Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5717ec36081d1d0f294e96a78dff1373b12f7fd349550f6e50b3a840da41cca4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "solidworks",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Title: Mechanical Engineer Summer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Trav…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T14:06:38.986Z"
   },
   {
     "job_id": "workday-caci-324804",
@@ -4852,34 +4240,6 @@
     "job_posted_at": "2026-04-14T11:48:41.546Z"
   },
   {
-    "job_id": "workday-ameriprise-financial-R26_0476",
-    "job_title": "Financial Planning Tools Intern (CFP® Pathway)",
-    "employer_name": "Ameriprise Financial",
-    "job_city": "Minneapolis",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Planning-Scientist-Intern_R26_0476",
-    "job_posted_at_datetime_utc": "2026-04-14T08:31:47.125Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbf0b0df4037befeed96d6a8ba45db05de16321041f8529393111b07199c5d0e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T08:31:47.125Z"
-  },
-  {
     "job_id": "greenhouse-cloudflare-7733377",
     "job_title": "Marketing Campaigns and Account Based Marketing Intern  (3 months - Fall 2026))",
     "employer_name": "Cloudflare",
@@ -4906,6 +4266,594 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-14T08:16:34.546Z"
+  },
+  {
+    "job_id": "workday-genentech-55438",
+    "job_title": "Intern, Sales Operations",
+    "employer_name": "Genentech",
+    "job_city": "California, Mountain View",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://gen.wd1.myworkdayjobs.com/careers/job/USA---California-Mountain-View/Intern--Sales-Operations_55438",
+    "job_posted_at_datetime_utc": "2026-04-14T07:11:19.899Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9d9884655859905ae07a54550c141dad4dbaeb3723ed5d721e86db31f1fc12ac",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:11:19.899Z"
+  },
+  {
+    "job_id": "workday-disney-10147928",
+    "job_title": "ABC News Product Management and Engineering Intern, Summer/Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Product-Management-and-Engineering-Intern--Summer-Fall-2026_10147928",
+    "job_posted_at_datetime_utc": "2026-04-14T07:11:00.951Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "651d4a26c62994c4b14e35d5cdd73b60815d1f4fdf0ff26634676d079b30e772",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "https",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Posting Title: ABC News Product Management and Engineering Intern, Summer/Fall 2026 Req ID: 10147928 Job Description: About the Role & Program The ABC News Product Management and Engineering teams…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:11:00.951Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237793",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:47.769Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:10:47.769Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0235629",
+    "job_title": "Data Analyst Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Lexington",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/Data-Analyst_R0235629",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:47.769Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "73ce6a8f16589e66504bc3191d60ff66f2578b64297d633f5eef4860585628bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "dashboards",
+        "data science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Data Analyst The Opportunity: As an analytics intern, you love diving into data and turning it into meaningful insights.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:47.769Z"
+  },
+  {
+    "job_id": "workday-cadence-R54380",
+    "job_title": "Software Intern",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R54380-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:42.395Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d0bd66fc675c331be7c471060d23e4c78ab77aadcaca6897a77a85aa25ebdb46",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "c++",
+        "cad",
+        "cadence",
+        "deep learning",
+        "keras",
+        "linux",
+        "machine learning",
+        "python",
+        "system design",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Cadence Digital and Signoff Group Machine learning team is a high energy team which explores and implements Deep and Machine Learning techniques to Electronic Design Automation [EDA] tools.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:42.395Z"
+  },
+  {
+    "job_id": "workday-caci-324806",
+    "job_title": "Data Science Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US CO Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Denver/Data-Science-Intern---Summer-2026_324806",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:38.935Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "005f429626814613920b63a3cdea14b6896455ec63849e5db04868814c025e2d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "classification",
+        "computer science",
+        "computer vision",
+        "data analysis",
+        "data science",
+        "deep learning",
+        "docker",
+        "git",
+        "kubeflow",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "mongodb",
+        "mysql",
+        "postgresql",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Data Science Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: TS/SCI Employee Type: Part-Time On-Call Percentage of Travel Required:…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:38.935Z"
+  },
+  {
+    "job_id": "workday-caci-324875",
+    "job_title": "Space Systems Cyber Security Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US CO Colorado Springs",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Space-Systems-Cyber-Security-Intern---Summer-2026_324875",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:38.935Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "637c913fba24e24632466bd11f3e6bd1c6cfe56315db6b52547f085640d8008e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "ansible",
+        "ci/cd",
+        "computer science",
+        "cyber security",
+        "cybersecurity",
+        "firmware"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Space Systems Cyber Security Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Tr…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:38.935Z"
+  },
+  {
+    "job_id": "workday-caci-324850",
+    "job_title": "Mechanical Engineer Summer Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US DC Washington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-DC-Washington/Mechanical-Engineer-Summer-Intern---Summer-2026_324850",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:38.935Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5717ec36081d1d0f294e96a78dff1373b12f7fd349550f6e50b3a840da41cca4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "solidworks",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Title: Mechanical Engineer Summer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Trav…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:38.935Z"
+  },
+  {
+    "job_id": "workday-cadence-(university)-R54380",
+    "job_title": "Software Intern",
+    "employer_name": "Cadence (University)",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R54380",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:26.942Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "506da6818b3446080393d61da177d33504850354128085d38f7adca49d8df35a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "c++",
+        "cad",
+        "cadence",
+        "deep learning",
+        "keras",
+        "linux",
+        "machine learning",
+        "python",
+        "system design",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Cadence Digital and Signoff Group Machine learning team is a high energy team which explores and implements Deep and Machine Learning techniques to Electronic Design Automation [EDA] tools.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:26.942Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2519420",
+    "job_title": "2026 Summer Intern - Technical Project/Program Manager",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Technical-Project-Program-Manager_R2519420",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:11.542Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01aa235ee47908a2458f8935742642dbdb10047f0cc927b25b3a0a5c275f66e3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:11.542Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2519238",
+    "job_title": "2026 Summer Mechanical Engineer Intern - PhD (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Mechanical-Engineer-Intern---PhD--Santa-Clara--CA-_R2519238-1",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:11.542Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7e88363b258587b6f2d989d429727e01e5f0593e2ed4d197b19a52c83126237",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "go"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:11.542Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2616255",
+    "job_title": "Mechnical Engineer Intern",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:11.542Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1b42081eb63f5ce9f6d8aa2758259fe9c1d40bb56b53080ed3cff54c42134f2e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:10:11.542Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2518403",
+    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:11.542Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35fdfb1a2a283b3ff27a6c14d96fe2ddfab8e00cb555e4fad98fe8830024a8f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:10:11.542Z"
+  },
+  {
+    "job_id": "workday-analog-devices-R257312",
+    "job_title": "AI/ML Design Layout Intern",
+    "employer_name": "Analog Devices",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/AI-ML-Design-Layout-Intern_R257312",
+    "job_posted_at_datetime_utc": "2026-04-14T07:10:08.328Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "26137aee800448c5e3f882c35e3dd379282b96d12d49df3a42d5996f6bbef32c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "git",
+        "llm",
+        "python",
+        "pytorch",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:10:08.328Z"
+  },
+  {
+    "job_id": "workday-ameriprise-financial-R26_0476",
+    "job_title": "Financial Planning Tools Intern (CFP® Pathway)",
+    "employer_name": "Ameriprise Financial",
+    "job_city": "Minneapolis",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Planning-Scientist-Intern_R26_0476",
+    "job_posted_at_datetime_utc": "2026-04-14T07:09:59.824Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbf0b0df4037befeed96d6a8ba45db05de16321041f8529393111b07199c5d0e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:09:59.824Z"
   },
   {
     "job_id": "workday-merck-&-co.-R392762",
@@ -5839,22 +5787,22 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
-    "job_id": "js-panasonic-global-iupje0rnexfuzbc-aaaaaa==",
-    "job_title": "Software Engineering Intern - JL",
-    "employer_name": "Panasonic Global",
-    "job_city": "Irvine",
+    "job_id": "js-ecs-sqi820xnhqgh0fwqaaaaaa==",
+    "job_title": "Junior Data Scientist Intern",
+    "employer_name": "ECS",
+    "job_city": "Fairfax",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/panasonic-global/jobs-internships/software-engineering-intern-jl",
+    "job_apply_link": "https://www.jobleads.com/us/job/junior-data-scientist-intern--fairfax--e0aaee2b3e2cb02c15edb6f78b4afaa0a",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "fa39bfafa2ae160f6d896480a3a8baed592336edd6a3ff666960c34b0a4669e8",
+    "fingerprint": "54f0768a31df0e850c66953aeeb6368c04df42d4ecca141509775fe85604e9cc",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "data_science"
       ],
       "locations": [
         "us",
@@ -5868,14 +5816,28 @@
     "enrichment": {
       "required_skills": [
         "computer science",
-        "excel",
-        "python"
+        "computer vision",
+        "data science",
+        "data visualization",
+        "databricks",
+        "ecs",
+        "git",
+        "hugging face",
+        "matplotlib",
+        "nlp",
+        "numpy",
+        "pandas",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow",
+        "transformers"
       ],
-      "sponsors_visa": false,
+      "sponsors_visa": null,
       "visa_question_present": false,
-      "possible_sponsor": null,
+      "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Undergraduate students pursuing a BS in Computer Engineering or Computer Science.",
+      "summary_line": "Required Skills • Must be a US Citizen • Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related field • Strong foundat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -5925,6 +5887,48 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-panasonic-global-iupje0rnexfuzbc-aaaaaa==",
+    "job_title": "Software Engineering Intern - JL",
+    "employer_name": "Panasonic Global",
+    "job_city": "Irvine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/panasonic-global/jobs-internships/software-engineering-intern-jl",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "fa39bfafa2ae160f6d896480a3a8baed592336edd6a3ff666960c34b0a4669e8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "python"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Undergraduate students pursuing a BS in Computer Engineering or Computer Science.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -6342,62 +6346,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ecs-sqi820xnhqgh0fwqaaaaaa==",
-    "job_title": "Junior Data Scientist Intern",
-    "employer_name": "ECS",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/junior-data-scientist-intern--fairfax--e0aaee2b3e2cb02c15edb6f78b4afaa0a",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "d98e99ce404dcb4a1ea146cdbd7d3d4f831fd82c09252a298e1dddbf2722386e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "data science",
-        "data visualization",
-        "databricks",
-        "ecs",
-        "git",
-        "hugging face",
-        "matplotlib",
-        "nlp",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "statistics",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Skills • Must be a US Citizen • Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related field • Strong foundat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -7927,6 +7875,34 @@
     "job_posted_at": "2026-04-13T07:21:17.834Z"
   },
   {
+    "job_id": "workday-cisco-2000139",
+    "job_title": "Business Analyst I (Intern) United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose California US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2000139-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:20:49.923Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f080d8e359c4bc0b8c728efa74657c19c9a9846ca7c139084eae4cb644825d7b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:20:49.923Z"
+  },
+  {
     "job_id": "workday-carrier-global-30203896",
     "job_title": "Software Engineering Intern - Summer",
     "employer_name": "Carrier Global",
@@ -7935,7 +7911,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30203896-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:01.300Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:11:08.623Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "fef98a913e730acb883fb0be68e85e411cf5447a9c6a26910152ea0ff8b7d9eb",
@@ -7976,7 +7952,7 @@
       "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:21:01.300Z"
+    "job_posted_at": "2026-04-13T07:11:08.623Z"
   },
   {
     "job_id": "workday-carrier-global-30203250",
@@ -7987,7 +7963,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Materials-Engineering-Intern---Summer_30203250",
-    "job_posted_at_datetime_utc": "2026-04-13T07:21:01.300Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:11:08.623Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "17f382cd251d6ddc0206f2ce060ebee6c3d1327ea5cb0ecf2b68852d7915fab4",
@@ -8016,97 +7992,7 @@
       "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:21:01.300Z"
-  },
-  {
-    "job_id": "workday-cisco-2008901",
-    "job_title": "AI/ML Modeling Engineer II (Intern)- United States",
-    "employer_name": "Cisco",
-    "job_city": "San Francisco California US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-ML-Modeling-Engineer-II--Intern---United-States_2008901",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:49.923Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61c85e6f2f9d89b3b600e2086d6386d932169f42136d8caf4004b45d6393e135",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "cisco",
-        "computer science",
-        "data analysis",
-        "data pipeline",
-        "data science",
-        "git",
-        "java",
-        "jupyter",
-        "jupyter notebook",
-        "linear",
-        "machine learning",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "regression",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Please note this posting is to advertise potential job opportunities.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:20:49.923Z"
-  },
-  {
-    "job_id": "workday-cisco-2000139",
-    "job_title": "Business Analyst I (Intern) United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose California US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2000139-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:49.923Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f080d8e359c4bc0b8c728efa74657c19c9a9846ca7c139084eae4cb644825d7b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:49.923Z"
+    "job_posted_at": "2026-04-13T07:11:08.623Z"
   },
   {
     "job_id": "workday-copart-JR108440",
@@ -8117,7 +8003,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Sales-Administrative-Intern_JR108440",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:49.470Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:10:57.457Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "774935cf1c45928ccd3df80aecaae679426caea60065d2dc29c5af1472b649b0",
@@ -8134,7 +8020,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:49.470Z"
+    "job_posted_at": "2026-04-13T07:10:57.457Z"
   },
   {
     "job_id": "workday-caci-322570",
@@ -8145,7 +8031,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Recruitment-Marketing-Intern---Summer-2026_322570",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:30.329Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:10:38.935Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0f661538810a4435f265c3893fc28c61f96337dcead021c512e27ac72508c370",
@@ -8162,7 +8048,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:20:30.329Z"
+    "job_posted_at": "2026-04-13T07:10:38.935Z"
   },
   {
     "job_id": "workday-applied-materials-R2617469",
@@ -8173,7 +8059,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Electrical-Engineer-Intern_R2617469",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:11.628Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:10:11.543Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d618e39b95269b77630a2bb2e7ed9978f84092c0024ed816b569f78128ca1d55",
@@ -8201,7 +8087,7 @@
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:20:11.628Z"
+    "job_posted_at": "2026-04-13T07:10:11.543Z"
   },
   {
     "job_id": "workday-analog-devices-R261623",
@@ -8212,7 +8098,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Internship---Robotics_R261623",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:07.528Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:10:08.328Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "29b9fb8b2b0562f98795536c2ca5becd084f0be9d14019b190dd9a9cce50d143",
@@ -8243,7 +8129,7 @@
       "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:20:07.528Z"
+    "job_posted_at": "2026-04-13T07:10:08.328Z"
   },
   {
     "job_id": "workday-analog-devices-R256352",
@@ -8254,7 +8140,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:20:07.528Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:10:08.328Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "163efdb7a85b5c6e136250f16e861be685036708d1c28f5afa53a7c6c2dace32",
@@ -8289,7 +8175,7 @@
       "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:20:07.528Z"
+    "job_posted_at": "2026-04-13T07:10:08.328Z"
   },
   {
     "job_id": "workday-s&p-global-327949",
@@ -8614,34 +8500,6 @@
     "job_posted_at": "2026-04-13T07:01:25.560Z"
   },
   {
-    "job_id": "workday-microchip-technology-R667-26",
-    "job_title": "Intern- Administrative (Logistics Analyst)",
-    "employer_name": "Microchip Technology",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Logistics-Analyst-_R667-26",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:49.302Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "579d8bde0149e682c779ac1dbd330cc435a38fe019360d8cc2f909a698272ca4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:49.302Z"
-  },
-  {
     "job_id": "workday-microchip-technology-R1465-26",
     "job_title": "Intern (Electrical & Computer Engineering)",
     "employer_name": "Microchip Technology",
@@ -8731,6 +8589,34 @@
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-13T07:00:49.302Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R667-26",
+    "job_title": "Intern- Administrative (Logistics Analyst)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Logistics-Analyst-_R667-26",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:49.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "579d8bde0149e682c779ac1dbd330cc435a38fe019360d8cc2f909a698272ca4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:49.302Z"
   },
   {
@@ -8902,6 +8788,34 @@
     "job_posted_at": "2026-04-13T07:00:32.310Z"
   },
   {
+    "job_id": "workday-leidos-R-00180628",
+    "job_title": "Software Development Intern",
+    "employer_name": "Leidos",
+    "job_city": "Gaithersburg",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00180628",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cc435937b31523f6b789d0cf0daabdc6abadccef821846293117781dd4b80459",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
     "job_id": "workday-leidos-R-00180501",
     "job_title": "Computer Vision/Machine Learning Intern",
     "employer_name": "Leidos",
@@ -9016,34 +8930,6 @@
       "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180628",
-    "job_title": "Software Development Intern",
-    "employer_name": "Leidos",
-    "job_city": "Gaithersburg",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00180628",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cc435937b31523f6b789d0cf0daabdc6abadccef821846293117781dd4b80459",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
@@ -10124,6 +10010,110 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
+    "job_title": "Data Science Intern (Usps) - Summer 2026",
+    "employer_name": "LMI Consulting, LLC",
+    "job_city": "Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/data-science-intern-usps/arlington-virginia?id=2632455762",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "40739b11c767c5363c654729492da2600d9804bddb56ca8f6cbf4748dd09a33b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "computer science",
+        "data science",
+        "data visualization",
+        "machine learning",
+        "matplotlib",
+        "power bi",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications Current enrollment in a degree seeking program required Availability to work full-time for at least 10-12 weeks for summer 2026 Must be available starting at the end of May 2026 Current…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ucla-health-careers-fs4d3nfxys6woghtaaaaaa==",
+    "job_title": "Undergraduate Summer Intern -UCLA Health Information Technology's Advanced Analytics (Data Science) Team",
+    "employer_name": "UCLA Health Careers",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "http://www.uclahealthcareers.org/job/23256108/undergraduate-summer-intern-ucla-health-information-technologys-advanced-analytics-data-science-team-los-angeles-ca/",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "f61c38a17bc2c77b274cd6fdd664dbd8ba89647127c655dd03c27f80c541a5c6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "api",
+        "aws",
+        "azure",
+        "ci/cd",
+        "data pipeline",
+        "data quality",
+        "databricks",
+        "feature engineering",
+        "machine learning",
+        "observability"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "This internship is embedded within UCLA Health Information Technology’s Office of Health Informatics and Analytics Teams, supporting analytics and AI/ML use cases across clinical, operations, finance,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-parsons-corporation-esejvopfknfhz46vaaaaaa==",
     "job_title": "Space Ops Software Engineer Intern (Summer 2026)",
     "employer_name": "Parsons Corporation",
@@ -10296,110 +10286,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
-    "job_title": "Data Science Intern (Usps) - Summer 2026",
-    "employer_name": "LMI Consulting, LLC",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/data-science-intern-usps/arlington-virginia?id=2632455762",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3ad7f34dace0a2f7721c8593f85f6925e0da45040bf9152847da331f652a1848",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "computer science",
-        "data science",
-        "data visualization",
-        "machine learning",
-        "matplotlib",
-        "power bi",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "sql",
-        "tableau",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications Current enrollment in a degree seeking program required Availability to work full-time for at least 10-12 weeks for summer 2026 Must be available starting at the end of May 2026 Current…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ucla-health-careers-fs4d3nfxys6woghtaaaaaa==",
-    "job_title": "Undergraduate Summer Intern -UCLA Health Information Technology's Advanced Analytics (Data Science) Team",
-    "employer_name": "UCLA Health Careers",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://www.uclahealthcareers.org/job/23256108/undergraduate-summer-intern-ucla-health-information-technologys-advanced-analytics-data-science-team-los-angeles-ca/",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "fba7dd4c460b6c9d980e3972e8bc3b102e370284a905fa803ac7f629e5c1656d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "api",
-        "aws",
-        "azure",
-        "ci/cd",
-        "data pipeline",
-        "data quality",
-        "databricks",
-        "feature engineering",
-        "machine learning",
-        "observability"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "This internship is embedded within UCLA Health Information Technology’s Office of Health Informatics and Analytics Teams, supporting analytics and AI/ML use cases across clinical, operations, finance,…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -11430,50 +11316,6 @@
     "job_posted_at": "2026-04-11T07:00:57.788Z"
   },
   {
-    "job_id": "workday-general-motors-JR-202607778",
-    "job_title": "Sr Program Manager, Campus & Intern Programs",
-    "employer_name": "General Motors",
-    "job_city": "2 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Sr-Program-Manager--Campus---Intern-Programs_JR-202607778",
-    "job_posted_at_datetime_utc": "2026-04-11T03:49:50.552Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4bcc34346a5fd5ff1525b83d09234d0ffa745a6f805bb8afde099a7d948a542a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data quality",
-        "networking",
-        "program management",
-        "stakeholder management",
-        "workday"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Work Arrangement This role is categorized as hybrid.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T03:49:50.552Z"
-  },
-  {
     "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
     "job_title": "Finance Intern",
     "employer_name": "Essential Utilities",
@@ -12469,55 +12311,6 @@
     "job_posted_at": "2026-04-10T15:37:54.434Z"
   },
   {
-    "job_id": "workday-applied-materials-R2614626",
-    "job_title": "2026 Summer - AI Algorithm Intern - MS/PhD (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
-    "job_posted_at_datetime_utc": "2026-04-10T15:31:45.247Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2e05bc2596556bcc86ceeef4fe841421dbc6f51242b3f5c1146caa8229ac7e16",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "deep learning",
-        "fine-tuning",
-        "large language model",
-        "llm",
-        "machine learning",
-        "nlp",
-        "python",
-        "pytorch",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T15:31:45.247Z"
-  },
-  {
     "job_id": "workday-moog-R-26-16987",
     "job_title": "Intern, Engineering",
     "employer_name": "Moog",
@@ -12916,6 +12709,50 @@
     "job_posted_at": "2026-04-10T11:37:47.000Z"
   },
   {
+    "job_id": "workday-general-motors-JR-202607778",
+    "job_title": "Sr Program Manager, Campus & Intern Programs",
+    "employer_name": "General Motors",
+    "job_city": "2 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Sr-Program-Manager--Campus---Intern-Programs_JR-202607778",
+    "job_posted_at_datetime_utc": "2026-04-10T07:11:36.140Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4bcc34346a5fd5ff1525b83d09234d0ffa745a6f805bb8afde099a7d948a542a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data quality",
+        "networking",
+        "program management",
+        "stakeholder management",
+        "workday"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description Work Arrangement This role is categorized as hybrid.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:11:36.140Z"
+  },
+  {
     "job_id": "workday-biogen-REQ22620",
     "job_title": "Intern, Customer Data and Insights",
     "employer_name": "Biogen",
@@ -12924,7 +12761,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Intern--Customer-Data-and-Insights_REQ22620",
-    "job_posted_at_datetime_utc": "2026-04-10T07:20:29.080Z",
+    "job_posted_at_datetime_utc": "2026-04-10T07:10:35.892Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "88e9a40a22190a464f7d4361771b2894bc7c6711d557a8ee81df9dbbef635170",
@@ -12941,7 +12778,56 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:20:29.080Z"
+    "job_posted_at": "2026-04-10T07:10:35.892Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2614626",
+    "job_title": "2026 Summer - AI Algorithm Intern - MS/PhD (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Algorithm---Intern_R2614626",
+    "job_posted_at_datetime_utc": "2026-04-10T07:10:11.543Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e05bc2596556bcc86ceeef4fe841421dbc6f51242b3f5c1146caa8229ac7e16",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "deep learning",
+        "fine-tuning",
+        "large language model",
+        "llm",
+        "machine learning",
+        "nlp",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T07:10:11.543Z"
   },
   {
     "job_id": "workday-moog-R-26-16875",
@@ -13140,6 +13026,34 @@
     "job_posted_at": "2026-04-10T07:04:04.241Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0234951",
+    "job_title": "Supply Chain Management Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
+    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T07:03:52.797Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0237476",
     "job_title": "AI Data Analyst Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -13225,34 +13139,6 @@
       "summary_line": "AIOps Engineer Intern The Opportunity : Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for Air Power.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234951",
-    "job_title": "Supply Chain Management Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:03:52.797Z"
   },
   {
@@ -14221,6 +14107,50 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "HealthTrust",
+    "job_city": "Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data science",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Job Summary and Qualifications  A Data Science Intern supports the team by analyzing data, building basic models, and helping turn raw information into useful insights for the business.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-collins-aerospace-omqou25kvyj1ejniaaaaaa==",
     "job_title": "Software Engineering Intern (Summer 2026) (Onsite)",
     "employer_name": "Collins Aerospace",
@@ -14911,50 +14841,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Schneider Electric™ creates connected technologies that reshape industries, transform cities and enrich lives.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "HealthTrust",
-    "job_city": "Nashville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "data science",
-        "machine learning",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Job Summary and Qualifications  A Data Science Intern supports the team by analyzing data, building basic models, and helping turn raw information into useful insights for the business.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
