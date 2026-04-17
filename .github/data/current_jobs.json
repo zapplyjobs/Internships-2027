@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-moog-R-26-17245",
+    "job_title": "Intern, Design Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Design-Engineering_R-26-17245",
+    "job_posted_at_datetime_utc": "2026-04-17T18:44:20.292Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "45372c4b67e22520a0a901823721af28554034d48127687d16032f1bc3de867a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-17T18:44:20.292Z"
+  },
+  {
     "job_id": "sr-BoschGroup-744000121495427",
     "job_title": "Venture Capital Intern",
     "employer_name": "Bosch Group",
@@ -1859,6 +1887,27 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "ci/cd",
+        "computer science",
+        "docker",
+        "fastapi",
+        "go",
+        "javascript",
+        "move",
+        "python",
+        "react",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Nuclearn.ai builds AI-powered software for the nuclear and utility industries—tools that keep critical infrastructure reliable, efficient, and safe.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T23:00:00.000Z"
   },
   {
@@ -4653,6 +4702,74 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
+    "job_id": "workday-sel-2025-18339",
+    "job_title": "Drafter/ Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Lakewood",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19609",
+    "job_title": "Account Administrator Intern",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -5026,74 +5143,6 @@
       "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18339",
-    "job_title": "Drafter/ Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Lakewood",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19609",
-    "job_title": "Account Administrator Intern",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
@@ -6489,6 +6538,34 @@
     "job_posted_at": "2026-04-15T07:01:19.426Z"
   },
   {
+    "job_id": "workday-rtx-01835278",
+    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
     "job_id": "workday-rtx-01838232",
     "job_title": "Summer 2026 Contracts Intern (Remote)",
     "employer_name": "RTX",
@@ -6723,34 +6800,6 @@
     "job_posted_at": "2026-04-15T07:01:19.425Z"
   },
   {
-    "job_id": "workday-rtx-01835278",
-    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
     "job_id": "workday-philips-580076",
     "job_title": "Intern – Service Design Developer Support – Cambridge, MA – Summer 2026",
     "employer_name": "Philips",
@@ -6777,93 +6826,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T07:01:08.009Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180874",
-    "job_title": "Systems, Integration and Software Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Eagan",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems--Integration-and-Software-Engineer-Intern_R-00180874",
-    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e12fddb909a98173dc5ac799fb861f1879ccde5c29be7b5daf73c2476470e42f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "java",
-        "javascript",
-        "machine learning",
-        "object oriented programming",
-        "python",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Transportation Solution Division within the Leidos Homeland group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of severa…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:00:17.245Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180937",
-    "job_title": "IT Support Technician Level 1 Depot - Intern",
-    "employer_name": "Leidos",
-    "job_city": "Elkridge",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Elkridge-MD/IT-Support-Technician-Level-1-Depot---Intern_R-00180937",
-    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5a2306fe85e380a570db1143acf24f3b98eddb4022737e0b17aa7723f7be10e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "servicenow",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The IT Support Technician Level 1 (Depot Technician) is responsible for supporting daily depot operations, including receiving, processing, diagnosing, cleaning, and preparing computer equipment for d…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:00:17.245Z"
   },
   {
     "job_id": "workday-leidos-R-00174970",
@@ -6984,6 +6946,93 @@
     "job_posted_at": "2026-04-15T07:00:17.245Z"
   },
   {
+    "job_id": "workday-leidos-R-00180874",
+    "job_title": "Systems, Integration and Software Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Eagan",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems--Integration-and-Software-Engineer-Intern_R-00180874",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e12fddb909a98173dc5ac799fb861f1879ccde5c29be7b5daf73c2476470e42f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "java",
+        "javascript",
+        "machine learning",
+        "object oriented programming",
+        "python",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Transportation Solution Division within the Leidos Homeland group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of severa…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180937",
+    "job_title": "IT Support Technician Level 1 Depot - Intern",
+    "employer_name": "Leidos",
+    "job_city": "Elkridge",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Elkridge-MD/IT-Support-Technician-Level-1-Depot---Intern_R-00180937",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5a2306fe85e380a570db1143acf24f3b98eddb4022737e0b17aa7723f7be10e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "servicenow",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The IT Support Technician Level 1 (Depot Technician) is responsible for supporting daily depot operations, including receiving, processing, diagnosing, cleaning, and preparing computer equipment for d…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
     "job_id": "greenhouse-cloudflare-7733168",
     "job_title": "Content Marketing Intern (July to December 2026)",
     "employer_name": "Cloudflare",
@@ -7066,6 +7115,23 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "golang",
+        "java",
+        "python",
+        "r",
+        "rest"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "What you'll bring • Currently enrolled in an Undergraduate degree in Computer Science, Software Engineering, or a related field • Available to work for 12 weeks during Summer 2026, beginning in May or…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
@@ -8755,6 +8821,34 @@
     "job_posted_at": "2026-04-14T07:21:40.014Z"
   },
   {
+    "job_id": "workday-booz-allen-hamilton-R0237793",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
+    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:21:23.469Z"
+  },
+  {
     "job_id": "workday-booz-allen-hamilton-R0235629",
     "job_title": "Data Analyst Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -8793,34 +8887,6 @@
       "summary_line": "Data Analyst The Opportunity: As an analytics intern, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T07:21:23.469Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237793",
-    "job_title": "Human Resources Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
-    "job_posted_at_datetime_utc": "2026-04-14T07:21:23.469Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:21:23.469Z"
   },
   {
@@ -16176,58 +16242,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Procurement Internship Program Boston Dynamics in partnership with Hyundai Motor Group About The program Boston Dynamics is offering a unique Procurement Internship experience in partnership with Hyun…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T07:36:03.652Z"
-  },
-  {
-    "job_id": "workday-boston-dynamics-R2496",
-    "job_title": "Mechanical Engineering Co-Op",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Mechanical-Engineering-Co-Op_R2496",
-    "job_posted_at_datetime_utc": "2026-04-11T07:36:03.652Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ecb90eb6553f77c2a8482bf2c726f8d6176582bd315e1799bab12627f2a6a86",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "cad",
-        "catia",
-        "cfd",
-        "extrusion",
-        "fea",
-        "gd&t",
-        "injection molding",
-        "labview",
-        "matlab",
-        "python",
-        "robotics",
-        "solidworks",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description Boston Dynamics is seeking an ambitious engineer to join our Atlas Platform Mechanical team.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T07:36:03.652Z"
