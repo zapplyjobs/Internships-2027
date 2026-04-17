@@ -2674,34 +2674,6 @@
     "job_posted_at": "2026-04-16T01:00:00.000Z"
   },
   {
-    "job_id": "workday-trimble-R55692",
-    "job_title": "Software Product Management Intern",
-    "employer_name": "Trimble",
-    "job_city": "US CO Westminster",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Product-Management-Intern_R55692",
-    "job_posted_at_datetime_utc": "2026-04-16T00:35:45.309Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dfd324f7bd8aaeb7c086fbc6b7a437f0f525e382195feb714140388d7245b105",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T00:35:45.309Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2614549",
     "job_title": "2026 Summer Intern - Software Engineer",
     "employer_name": "Applied Materials",
@@ -3066,52 +3038,6 @@
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
-    "job_id": "workday-leidos-R-00180874",
-    "job_title": "Systems, Integration and Software Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Eagan",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems--Integration-and-Software-Engineer-Intern_R-00180874",
-    "job_posted_at_datetime_utc": "2026-04-15T23:04:03.394Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e12fddb909a98173dc5ac799fb861f1879ccde5c29be7b5daf73c2476470e42f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "java",
-        "javascript",
-        "machine learning",
-        "object oriented programming",
-        "python",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Transportation Solution Division within the Leidos Homeland group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of severa…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T23:04:03.394Z"
-  },
-  {
     "job_id": "workday-intel-JR0282042",
     "job_title": "2026 Summer Supply Chain Undergraduate Intern",
     "employer_name": "Intel",
@@ -3354,34 +3280,6 @@
     "job_posted_at": "2026-04-15T20:43:40.000Z"
   },
   {
-    "job_id": "workday-rtx-01835278",
-    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
-    "job_posted_at_datetime_utc": "2026-04-15T20:20:24.255Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T20:20:24.255Z"
-  },
-  {
     "job_id": "workday-moog-R-26-17150",
     "job_title": "Intern, Electrical Engineering",
     "employer_name": "Moog",
@@ -3458,75 +3356,6 @@
     "job_posted_at": "2026-04-15T20:05:39.886Z"
   },
   {
-    "job_id": "workday-rtx-01838232",
-    "job_title": "Summer 2026 Contracts Intern (Remote)",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
-    "job_posted_at_datetime_utc": "2026-04-15T19:45:56.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T19:45:56.750Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180937",
-    "job_title": "IT Support Technician Level 1 Depot - Intern",
-    "employer_name": "Leidos",
-    "job_city": "Elkridge",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Elkridge-MD/IT-Support-Technician-Level-1-Depot---Intern_R-00180937",
-    "job_posted_at_datetime_utc": "2026-04-15T19:44:58.004Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5a2306fe85e380a570db1143acf24f3b98eddb4022737e0b17aa7723f7be10e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "servicenow",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The IT Support Technician Level 1 (Depot Technician) is responsible for supporting daily depot operations, including receiving, processing, diagnosing, cleaning, and preparing computer equipment for d…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T19:44:58.004Z"
-  },
-  {
     "job_id": "workday-kbr-R2122071",
     "job_title": "Engineering Intern",
     "employer_name": "KBR",
@@ -3571,68 +3400,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T19:33:53.396Z"
-  },
-  {
-    "job_id": "workday-rtx-01838467",
-    "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
-    "employer_name": "RTX",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/XMLNAME-2026-Raytheon-Part-Time-Co-op---SW-Platform-Engineer--Remote-_01838467",
-    "job_posted_at_datetime_utc": "2026-04-15T19:09:56.015Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7ff142b335c40acd80835f19fde75e19cb8e67ab223b107a7cbf714bb938ba",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "ansible",
-        "aws",
-        "bash",
-        "chef",
-        "computer science",
-        "confluence",
-        "continuous delivery",
-        "continuous integration",
-        "cyber security",
-        "devops",
-        "devsecops",
-        "docker",
-        "git",
-        "https",
-        "jenkins",
-        "jira",
-        "kubernetes",
-        "linux",
-        "perl",
-        "python",
-        "ruby",
-        "shell",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 Position Role Type: Remote U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T19:09:56.015Z"
   },
   {
     "job_id": "workday-asml-J-00327822",
@@ -3818,34 +3585,6 @@
     "job_posted_at": "2026-04-15T18:46:41.229Z"
   },
   {
-    "job_id": "workday-takeda-R0165901",
-    "job_title": "2026 Summer Internship Program: Engineering Validation Intern – Operational Technology and Computerized Systems Validation",
-    "employer_name": "Takeda",
-    "job_city": "Brooklyn Park",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/XMLNAME-2026-Summer-Internship-Program--Engineering-Validation-Intern---Operational-Technology-and-Computerized-Systems-Validation_R0165901",
-    "job_posted_at_datetime_utc": "2026-04-15T18:37:16.833Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "28bf5e93ba32e6fcf58932f5a071bec0d1799168e57de6abcc70d50144ea6b88",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T18:37:16.833Z"
-  },
-  {
     "job_id": "greenhouse-waymo-7235071",
     "job_title": "2026 Summer Intern, PhD, Perception",
     "employer_name": "Waymo",
@@ -3872,75 +3611,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-15T18:32:07.741Z"
-  },
-  {
-    "job_id": "workday-merck-&-co.-R378010",
-    "job_title": "2027 Future Talent Program - Packaging Technology Co-op",
-    "employer_name": "Merck & Co.",
-    "job_city": "Pennsylvania - West Point",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Packaging-Technology-Co-op_R378010",
-    "job_posted_at_datetime_utc": "2026-04-15T18:25:20.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "724864e32f2dfd04b64b6895a62e8fd0fab34e1a74c83f7469c3535288443f96",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T18:25:20.391Z"
-  },
-  {
-    "job_id": "workday-rtx-01838491",
-    "job_title": "Mechanical Engineer Intern (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Mechanical-Engineer-Intern--Onsite-_01838491",
-    "job_posted_at_datetime_utc": "2026-04-15T18:24:13.639Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "60e8c721495781abb0bd42957f620c781498831fff652a65649baa7930d8d114",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "cad",
-        "https"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T18:24:13.639Z"
   },
   {
     "job_id": "workday-polaris-R29436",
@@ -3999,109 +3669,6 @@
     "job_posted_at": "2026-04-15T18:21:38.031Z"
   },
   {
-    "job_id": "workday-rtx-01837942",
-    "job_title": "Summer 2026 - Environmental Health & Safety Intern - CFD (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Environmental-Health---Safety-Intern---CFD--Onsite-_01837942",
-    "job_posted_at_datetime_utc": "2026-04-15T17:58:51.610Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9ca272808d70fdf306f91ff80141a421fde250471f6c2a04ca2bf2dfee5739b7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:58:51.610Z"
-  },
-  {
-    "job_id": "workday-rtx-01837940",
-    "job_title": "Summer 2026 - Manufacturing Engineering Intern - CFD (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Manufacturing-Engineering-Intern---CFD--Onsite-_01837940",
-    "job_posted_at_datetime_utc": "2026-04-15T17:58:51.610Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01c3ae171b5f9b7198acfa9dc9eafc48169e393af8678f76198022793ea510a4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "microsoft office",
-        "minitab",
-        "nx",
-        "project management",
-        "statistical analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:58:51.610Z"
-  },
-  {
-    "job_id": "workday-rtx-01837820",
-    "job_title": "Summer 2026 - Ops Continuous Improvement Intern (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Ops-Continuous-Improvement-Intern--Onsite-_01837820",
-    "job_posted_at_datetime_utc": "2026-04-15T17:58:51.610Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6085d70876752927b0f10abf1d2d823d2c7c78a62f2e09b42ec99c5de3e3866c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:58:51.610Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0237855",
     "job_title": "University, 2026 Summer Games Software Developer Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -4149,6 +3716,111 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T17:55:53.491Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "visio",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19425",
+    "job_title": "Purchasing Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
     "job_id": "workday-sel-2026-20327",
@@ -4490,111 +4162,6 @@
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "visio",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19425",
-    "job_title": "Purchasing Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
     "job_id": "workday-sel-2025-18515",
     "job_title": "Project Coordinator Intern",
     "employer_name": "SEL",
@@ -4651,52 +4218,6 @@
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
-    "job_id": "workday-leidos-R-00174970",
-    "job_title": "Software Engineer - Intern",
-    "employer_name": "Leidos",
-    "job_city": "Atlantic City",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Software-Engineer---Intern_R-00174970",
-    "job_posted_at_datetime_utc": "2026-04-15T17:46:01.706Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e581b512921236b63a151aa3fc71ff312986b12462f673a765d03bd0d1c290b1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "java",
-        "javascript",
-        "machine learning",
-        "object oriented programming",
-        "python",
-        "risk management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The Transportation Solution Division within the Leidos Civil group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of several A…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:46:01.706Z"
-  },
-  {
     "job_id": "workday-general-motors-JR-202607603",
     "job_title": "2026 Kettering Co-Op - Product Development Engineering",
     "employer_name": "General Motors",
@@ -4735,34 +4256,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T17:45:08.481Z"
-  },
-  {
-    "job_id": "workday-rtx-01837829",
-    "job_title": "Summer 2026 - Materials Intern - CFD (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Materials-Intern---CFD--Onsite-_01837829",
-    "job_posted_at_datetime_utc": "2026-04-15T16:57:38.775Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ca769f75a7977e4c56dc59d1da8e2cee4a5fea255539e4f9c6d7f46641a8b63",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T16:57:38.775Z"
   },
   {
     "job_id": "workday-caterpillar-R0000363692",
@@ -4915,81 +4408,6 @@
     "job_posted_at": "2026-04-15T16:03:09.558Z"
   },
   {
-    "job_id": "workday-rtx-01838378",
-    "job_title": "2026 Raytheon Summer Intern- Software Engineer (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/XMLNAME-2026-Raytheon-Summer-Intern--Software-Engineer--Onsite-_01838378",
-    "job_posted_at_datetime_utc": "2026-04-15T15:58:37.884Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fc3e84e5b88d27156069d9694b7d8e579a2912a50352cd719579b61423f5d482",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "c++",
-        "computer science",
-        "continuous delivery",
-        "continuous integration",
-        "devsecops",
-        "https",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T15:58:37.884Z"
-  },
-  {
-    "job_id": "workday-rtx-01838292",
-    "job_title": "Internship - Fall 2026 - Engineering Product Integrity tools and process improvements",
-    "employer_name": "RTX",
-    "job_city": "On",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Engineering-Product-Integrity-tools-and-process-improvements_01838292",
-    "job_posted_at_datetime_utc": "2026-04-15T15:47:13.584Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e1d8faf481ba7583bcf7a96a44cb9b4af59e51ee49389f17db5fd8fe09d4e224",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T15:47:13.584Z"
-  },
-  {
     "job_id": "workday-moog-R-25-12749",
     "job_title": "Intern, Quality Engineering",
     "employer_name": "Moog",
@@ -5070,34 +4488,6 @@
     "job_posted_at": "2026-04-15T15:45:51.141Z"
   },
   {
-    "job_id": "workday-takeda-R0166357",
-    "job_title": "2026 Summer Internship Program: Manufacturing Sciences - Analytical Intern",
-    "employer_name": "Takeda",
-    "job_city": "Brooklyn Park",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Manufacturing-Sciences---Analytical-Intern_R0166357",
-    "job_posted_at_datetime_utc": "2026-04-15T15:35:45.638Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fa72e5eefe3fae6fcf206fa217e3bc64f7553069521243e811f89a70efd11f6f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T15:35:45.638Z"
-  },
-  {
     "job_id": "workday-genentech-55457",
     "job_title": "FP&A Intern",
     "employer_name": "Genentech",
@@ -5124,34 +4514,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T15:32:47.151Z"
-  },
-  {
-    "job_id": "workday-rtx-01838329",
-    "job_title": "Stage - Automne 2026 - Conception d’Aérostructures et de Systèmes / Internship  - Fall 2026 – Airframe & Systems Design",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Conception-d-Arostructures-et-de-Systmes---Internship----Fall-2026---Airframe---Systems-Design_01838329",
-    "job_posted_at_datetime_utc": "2026-04-15T15:22:00.543Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "590c86635b2c09fe614b45a16d8abeeca799a59bbe8cd96f02cffe02a8a3131a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T15:22:00.543Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000121000498",
@@ -5229,90 +4591,6 @@
     "job_posted_at": "2026-04-15T14:43:59.274Z"
   },
   {
-    "job_id": "workday-state-street-R-788449",
-    "job_title": "State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026",
-    "employer_name": "State Street",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street----Global-Corporate-Secretarial-and-Administration-Team---Summer-Internship-2026_R-788449",
-    "job_posted_at_datetime_utc": "2026-04-15T14:35:48.977Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5b741ce0218409009ad8ff7a2d306eba47fb69f6685cd7078b63dbd722517791",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T14:35:48.977Z"
-  },
-  {
-    "job_id": "workday-rtx-01838101",
-    "job_title": "Stage Automne 2026 - Dessinateur, definition du produit - transmission / Internship - Fall 2026 - Drafter, Product Definition - Transmission",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Dessinateur--definition-du-produit---transmission---Internship---Fall-2026---Drafter--Product-Definition---Transmission_01838101",
-    "job_posted_at_datetime_utc": "2026-04-15T14:22:51.537Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c53963ee271512f1ed40d9b6d4d5ea5b45cd368809cbadf4ff66e017c7b53df",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T14:22:51.537Z"
-  },
-  {
-    "job_id": "workday-philips-580076",
-    "job_title": "Intern – Service Design Developer Support – Cambridge, MA – Summer 2026",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Service-Design-Developer-Support---Cambridge--MA---Summer-2026_580076",
-    "job_posted_at_datetime_utc": "2026-04-15T14:22:40.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03bc4701995f5147c21ee3f0aa3095f12bdfb598a3abb316dd8a85ed9e7f9652",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T14:22:40.287Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30266697",
     "job_title": "HVAC Intern - Controls Tech School",
     "employer_name": "Johnson Controls",
@@ -5339,62 +4617,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-15T14:08:38.261Z"
-  },
-  {
-    "job_id": "workday-rtx-01838426",
-    "job_title": "Stage - Automne 2026 - Analyste gestion des projets / Internship - Fall 2026 - Project Management Analyst",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-gestion-des-projets---Internship---Fall-2026---Project-Management-Analyst_01838426",
-    "job_posted_at_datetime_utc": "2026-04-15T13:58:48.670Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41111db36b2e08f2f120352256dec107f7ed3cd824aaa97aa2fd970d0a6c726b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T13:58:48.670Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00173168",
-    "job_title": "Business Analytics and Automation Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Analytics-and-Automation-Intern_R-00173168",
-    "job_posted_at_datetime_utc": "2026-04-15T13:45:56.773Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "11dbb4cee815b76e9bd9313cb4e740020f134bc8cb6b3247af49afb912cca3d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T13:45:56.773Z"
   },
   {
     "job_id": "workday-guidehouse-32773",
@@ -5464,50 +4686,6 @@
       "is_remote": true
     },
     "job_posted_at": "2026-04-15T13:43:45.237Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180867",
-    "job_title": "Data Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
-    "job_posted_at_datetime_utc": "2026-04-15T13:34:24.706Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "53c1d714e9a58eeefe409bb977c1bcca4f22f0da1d5c8e3ff0fb47e27d2f84bc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "data lake",
-        "fine-tuning",
-        "information security",
-        "infrastructure as code",
-        "llm"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "This internship will provide rotational exposure to the Defense Threat Reduction Agency (DTRA) Experimentation Lab (DEL) operations within a cleared DoW environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T13:34:24.706Z"
   },
   {
     "job_id": "sr-BoschGroup-744000120962972",
@@ -5658,6 +4836,828 @@
     "job_posted_at": "2026-04-15T13:09:32.715Z"
   },
   {
+    "job_id": "workday-merck-&-co.-R378010",
+    "job_title": "2027 Future Talent Program - Packaging Technology Co-op",
+    "employer_name": "Merck & Co.",
+    "job_city": "Pennsylvania - West Point",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Packaging-Technology-Co-op_R378010",
+    "job_posted_at_datetime_utc": "2026-04-15T07:02:36.148Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "724864e32f2dfd04b64b6895a62e8fd0fab34e1a74c83f7469c3535288443f96",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:02:36.148Z"
+  },
+  {
+    "job_id": "workday-takeda-R0165901",
+    "job_title": "2026 Summer Internship Program: Engineering Validation Intern – Operational Technology and Computerized Systems Validation",
+    "employer_name": "Takeda",
+    "job_city": "Brooklyn Park",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/XMLNAME-2026-Summer-Internship-Program--Engineering-Validation-Intern---Operational-Technology-and-Computerized-Systems-Validation_R0165901",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "28bf5e93ba32e6fcf58932f5a071bec0d1799168e57de6abcc70d50144ea6b88",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0166357",
+    "job_title": "2026 Summer Internship Program: Manufacturing Sciences - Analytical Intern",
+    "employer_name": "Takeda",
+    "job_city": "Brooklyn Park",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Brooklyn-Park-MN/Manufacturing-Sciences---Analytical-Intern_R0166357",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa72e5eefe3fae6fcf206fa217e3bc64f7553069521243e811f89a70efd11f6f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-trimble-R55692",
+    "job_title": "Software Product Management Intern",
+    "employer_name": "Trimble",
+    "job_city": "US CO Westminster",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Product-Management-Intern_R55692",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:43.343Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dfd324f7bd8aaeb7c086fbc6b7a437f0f525e382195feb714140388d7245b105",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:43.343Z"
+  },
+  {
+    "job_id": "workday-state-street-R-788449",
+    "job_title": "State Street - ​Global Corporate Secretarial and Administration Team - Summer Internship 2026",
+    "employer_name": "State Street",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street----Global-Corporate-Secretarial-and-Administration-Team---Summer-Internship-2026_R-788449",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:27.172Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5b741ce0218409009ad8ff7a2d306eba47fb69f6685cd7078b63dbd722517791",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:27.172Z"
+  },
+  {
+    "job_id": "workday-rtx-01837829",
+    "job_title": "Summer 2026 - Materials Intern - CFD (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Materials-Intern---CFD--Onsite-_01837829",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ca769f75a7977e4c56dc59d1da8e2cee4a5fea255539e4f9c6d7f46641a8b63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01838378",
+    "job_title": "2026 Raytheon Summer Intern- Software Engineer (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/XMLNAME-2026-Raytheon-Summer-Intern--Software-Engineer--Onsite-_01838378",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc3e84e5b88d27156069d9694b7d8e579a2912a50352cd719579b61423f5d482",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "c++",
+        "computer science",
+        "continuous delivery",
+        "continuous integration",
+        "devsecops",
+        "https",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01838292",
+    "job_title": "Internship - Fall 2026 - Engineering Product Integrity tools and process improvements",
+    "employer_name": "RTX",
+    "job_city": "On",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026---Engineering-Product-Integrity-tools-and-process-improvements_01838292",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e1d8faf481ba7583bcf7a96a44cb9b4af59e51ee49389f17db5fd8fe09d4e224",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01838329",
+    "job_title": "Stage - Automne 2026 - Conception d’Aérostructures et de Systèmes / Internship  - Fall 2026 – Airframe & Systems Design",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Conception-d-Arostructures-et-de-Systmes---Internship----Fall-2026---Airframe---Systems-Design_01838329",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "590c86635b2c09fe614b45a16d8abeeca799a59bbe8cd96f02cffe02a8a3131a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01838101",
+    "job_title": "Stage Automne 2026 - Dessinateur, definition du produit - transmission / Internship - Fall 2026 - Drafter, Product Definition - Transmission",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Dessinateur--definition-du-produit---transmission---Internship---Fall-2026---Drafter--Product-Definition---Transmission_01838101",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c53963ee271512f1ed40d9b6d4d5ea5b45cd368809cbadf4ff66e017c7b53df",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01838426",
+    "job_title": "Stage - Automne 2026 - Analyste gestion des projets / Internship - Fall 2026 - Project Management Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-gestion-des-projets---Internship---Fall-2026---Project-Management-Analyst_01838426",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.426Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41111db36b2e08f2f120352256dec107f7ed3cd824aaa97aa2fd970d0a6c726b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.426Z"
+  },
+  {
+    "job_id": "workday-rtx-01835278",
+    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838232",
+    "job_title": "Summer 2026 Contracts Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838467",
+    "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
+    "employer_name": "RTX",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/XMLNAME-2026-Raytheon-Part-Time-Co-op---SW-Platform-Engineer--Remote-_01838467",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7ff142b335c40acd80835f19fde75e19cb8e67ab223b107a7cbf714bb938ba",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "ansible",
+        "aws",
+        "bash",
+        "chef",
+        "computer science",
+        "confluence",
+        "continuous delivery",
+        "continuous integration",
+        "cyber security",
+        "devops",
+        "devsecops",
+        "docker",
+        "git",
+        "https",
+        "jenkins",
+        "jira",
+        "kubernetes",
+        "linux",
+        "perl",
+        "python",
+        "ruby",
+        "shell",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 Position Role Type: Remote U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838491",
+    "job_title": "Mechanical Engineer Intern (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Mechanical-Engineer-Intern--Onsite-_01838491",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "60e8c721495781abb0bd42957f620c781498831fff652a65649baa7930d8d114",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "cad",
+        "https"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3 Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01837942",
+    "job_title": "Summer 2026 - Environmental Health & Safety Intern - CFD (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Environmental-Health---Safety-Intern---CFD--Onsite-_01837942",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9ca272808d70fdf306f91ff80141a421fde250471f6c2a04ca2bf2dfee5739b7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01837940",
+    "job_title": "Summer 2026 - Manufacturing Engineering Intern - CFD (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Manufacturing-Engineering-Intern---CFD--Onsite-_01837940",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01c3ae171b5f9b7198acfa9dc9eafc48169e393af8678f76198022793ea510a4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "microsoft office",
+        "minitab",
+        "nx",
+        "project management",
+        "statistical analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01837820",
+    "job_title": "Summer 2026 - Ops Continuous Improvement Intern (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Summer-2026---Ops-Continuous-Improvement-Intern--Onsite-_01837820",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6085d70876752927b0f10abf1d2d823d2c7c78a62f2e09b42ec99c5de3e3866c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-philips-580076",
+    "job_title": "Intern – Service Design Developer Support – Cambridge, MA – Summer 2026",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Service-Design-Developer-Support---Cambridge--MA---Summer-2026_580076",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:08.009Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "03bc4701995f5147c21ee3f0aa3095f12bdfb598a3abb316dd8a85ed9e7f9652",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:08.009Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180874",
+    "job_title": "Systems, Integration and Software Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Eagan",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Systems--Integration-and-Software-Engineer-Intern_R-00180874",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e12fddb909a98173dc5ac799fb861f1879ccde5c29be7b5daf73c2476470e42f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "java",
+        "javascript",
+        "machine learning",
+        "object oriented programming",
+        "python",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Transportation Solution Division within the Leidos Homeland group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of severa…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180937",
+    "job_title": "IT Support Technician Level 1 Depot - Intern",
+    "employer_name": "Leidos",
+    "job_city": "Elkridge",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Elkridge-MD/IT-Support-Technician-Level-1-Depot---Intern_R-00180937",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5a2306fe85e380a570db1143acf24f3b98eddb4022737e0b17aa7723f7be10e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "servicenow",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The IT Support Technician Level 1 (Depot Technician) is responsible for supporting daily depot operations, including receiving, processing, diagnosing, cleaning, and preparing computer equipment for d…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00174970",
+    "job_title": "Software Engineer - Intern",
+    "employer_name": "Leidos",
+    "job_city": "Atlantic City",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Software-Engineer---Intern_R-00174970",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e581b512921236b63a151aa3fc71ff312986b12462f673a765d03bd0d1c290b1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "java",
+        "javascript",
+        "machine learning",
+        "object oriented programming",
+        "python",
+        "risk management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Transportation Solution Division within the Leidos Civil group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of several A…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00173168",
+    "job_title": "Business Analytics and Automation Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Analytics-and-Automation-Intern_R-00173168",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "11dbb4cee815b76e9bd9313cb4e740020f134bc8cb6b3247af49afb912cca3d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180867",
+    "job_title": "Data Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "53c1d714e9a58eeefe409bb977c1bcca4f22f0da1d5c8e3ff0fb47e27d2f84bc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data lake",
+        "fine-tuning",
+        "information security",
+        "infrastructure as code",
+        "llm"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "This internship will provide rotational exposure to the Defense Threat Reduction Agency (DTRA) Experimentation Lab (DEL) operations within a cleared DoW environment.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
     "job_id": "workday-applied-materials-R2519420",
     "job_title": "2026 Summer Intern - Technical Project/Program Manager",
     "employer_name": "Applied Materials",
@@ -5779,6 +5779,29 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "c++",
+        "computer science",
+        "data analysis",
+        "excel",
+        "git",
+        "integration testing",
+        "java",
+        "linux",
+        "microsoft office",
+        "plc",
+        "python",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description This posting is one of several for software summer interns in NH.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
@@ -7223,34 +7246,6 @@
     "job_posted_at": "2026-04-14T07:22:25.487Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0237793",
-    "job_title": "Human Resources Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
-    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:22:10.858Z"
-  },
-  {
     "job_id": "workday-booz-allen-hamilton-R0235629",
     "job_title": "Data Analyst Intern",
     "employer_name": "Booz Allen Hamilton",
@@ -7289,6 +7284,34 @@
       "summary_line": "Data Analyst The Opportunity: As an analytics intern, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-14T07:22:10.858Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237793",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237793",
+    "job_posted_at_datetime_utc": "2026-04-14T07:22:10.858Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:22:10.858Z"
   },
   {
@@ -7612,7 +7635,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Kansas---De-Soto/XMLNAME-2026-Future-Talent-Program---Associate-Specialist--Process-Engineer---Global-Engineering-Solutions-Co-op--Summer-Fall-2026-Start-_R392762",
-    "job_posted_at_datetime_utc": "2026-04-14T07:03:20.242Z",
+    "job_posted_at_datetime_utc": "2026-04-14T07:02:36.149Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3f6f675c5cf8d06c403195c892c2798f3202f6672f4ab581869a4d222ada556a",
@@ -7644,142 +7667,7 @@
       "summary_line": "Job Description The Future Talent Program features Cooperative (Co-op) education that lasts up to 6 months and will include one or more projects.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T07:03:20.242Z"
-  },
-  {
-    "job_id": "workday-takeda-R0166341",
-    "job_title": "2026 Summer Internship Program: Global Procurement Intern",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Global-Procurement-Intern_R0166341",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:35.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dbce57fc5ad0f77077ae1e7189af22c9cf1f9700bb8d9455897078ca6c69c151",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:02:35.747Z"
-  },
-  {
-    "job_id": "workday-takeda-R0169608",
-    "job_title": "2026 Summer Internship Program: Machine Learning Research Intern",
-    "employer_name": "Takeda",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Machine-Learning-Research-Intern_R0169608",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:35.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8b6d835c09b43beccbda1e7e778225ca053e6fc2abba203c963a67174ad83c44",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "matplotlib",
-        "networking",
-        "pandas",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:02:35.747Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787195",
-    "job_title": "State Street Audit Team - Business/Operational Auditor - Summer Internship 2026",
-    "employer_name": "State Street",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Audit-Team---Business-Operational-Auditor---Summer-Internship-2026_R-787195",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:08.376Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ebf2abe581c4a6a56e92116de391631d027abd5eaad428ea0012f3d6affb1ff",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:02:08.376Z"
-  },
-  {
-    "job_id": "workday-resmed-JR_050337",
-    "job_title": "Product Lifecycle (Mechanical) Engineer Intern",
-    "employer_name": "ResMed",
-    "job_city": "Chatsworth CA United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Chatsworth-CA-United-States/Product-Lifecycle--Mechanical--Engineer-Intern_JR_050337",
-    "job_posted_at_datetime_utc": "2026-04-14T07:02:03.162Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81537badb629bf18425d231ceb0cfcd8143e08274ccf3aa39be495e2b6429bd5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:02:03.162Z"
+    "job_posted_at": "2026-04-14T07:02:36.149Z"
   },
   {
     "job_id": "workday-rtx-01838018",
@@ -7922,6 +7810,141 @@
     "job_posted_at": "2026-04-14T07:01:59.788Z"
   },
   {
+    "job_id": "workday-takeda-R0166341",
+    "job_title": "2026 Summer Internship Program: Global Procurement Intern",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Global-Procurement-Intern_R0166341",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dbce57fc5ad0f77077ae1e7189af22c9cf1f9700bb8d9455897078ca6c69c151",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-takeda-R0169608",
+    "job_title": "2026 Summer Internship Program: Machine Learning Research Intern",
+    "employer_name": "Takeda",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/Machine-Learning-Research-Intern_R0169608",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:55.336Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8b6d835c09b43beccbda1e7e778225ca053e6fc2abba203c963a67174ad83c44",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "matplotlib",
+        "networking",
+        "pandas",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:01:55.336Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787195",
+    "job_title": "State Street Audit Team - Business/Operational Auditor - Summer Internship 2026",
+    "employer_name": "State Street",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Audit-Team---Business-Operational-Auditor---Summer-Internship-2026_R-787195",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:27.173Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ebf2abe581c4a6a56e92116de391631d027abd5eaad428ea0012f3d6affb1ff",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:27.173Z"
+  },
+  {
+    "job_id": "workday-resmed-JR_050337",
+    "job_title": "Product Lifecycle (Mechanical) Engineer Intern",
+    "employer_name": "ResMed",
+    "job_city": "Chatsworth CA United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Chatsworth-CA-United-States/Product-Lifecycle--Mechanical--Engineer-Intern_JR_050337",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:19.846Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81537badb629bf18425d231ceb0cfcd8143e08274ccf3aa39be495e2b6429bd5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:01:19.846Z"
+  },
+  {
     "job_id": "workday-rockwell-automation-R26-1872",
     "job_title": "Intern, Digital Client",
     "employer_name": "Rockwell Automation",
@@ -7930,7 +7953,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872",
-    "job_posted_at_datetime_utc": "2026-04-14T07:01:49.892Z",
+    "job_posted_at_datetime_utc": "2026-04-14T07:01:08.852Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0fc7b5a3b035a29615f55d6685046bc1d2ca130f738f9ee8be718c92f638d710",
@@ -7947,132 +7970,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:01:49.892Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00177432",
-    "job_title": "Mechanical Design Engineer Summer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00177432",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c3720e172a0c36642ff164c4aa32dd465463f3d8b5682670a22a64ffd6fb8318",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "gd&t",
-        "solidworks"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "The Small Airborne Effectors Division, within the Leidos Kinetic Effects Business Area, currently has an opportunity for a Mechanical Design Engineer Summer Intern to work at our Huntsville, AL campus…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180806",
-    "job_title": "Inventory Control Co-op",
-    "employer_name": "Leidos",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Inventory-Control-Co-op_R-00180806",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84a1a36661c3113a2cd2830240036e5c002bce975fc169d299e428f7ea06a69d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00178838",
-    "job_title": "Project Management Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Project-Management-Intern_R-00178838",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2059ac13bbf4cf038b9d6adc60433861ffea76e2c1e6c07381d2b941412769d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180737",
-    "job_title": "Business Development High School Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "397d5934e2cb010f62d57c4aeac46e6a21204093fa6a85efba2d094dab54f265",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
+    "job_posted_at": "2026-04-14T07:01:08.852Z"
   },
   {
     "job_id": "workday-microchip-technology-R1598-26",
@@ -8400,6 +8298,131 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-14T07:00:19.015Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180806",
+    "job_title": "Inventory Control Co-op",
+    "employer_name": "Leidos",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Inventory-Control-Co-op_R-00180806",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:17.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84a1a36661c3113a2cd2830240036e5c002bce975fc169d299e428f7ea06a69d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:17.246Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00178838",
+    "job_title": "Project Management Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Project-Management-Intern_R-00178838",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:17.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2059ac13bbf4cf038b9d6adc60433861ffea76e2c1e6c07381d2b941412769d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:17.246Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180737",
+    "job_title": "Business Development High School Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:17.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "397d5934e2cb010f62d57c4aeac46e6a21204093fa6a85efba2d094dab54f265",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:17.246Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177432",
+    "job_title": "Mechanical Design Engineer Summer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00177432",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c3720e172a0c36642ff164c4aa32dd465463f3d8b5682670a22a64ffd6fb8318",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "gd&t",
+        "solidworks"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "The Small Airborne Effectors Division, within the Leidos Kinetic Effects Business Area, currently has an opportunity for a Mechanical Design Engineer Summer Intern to work at our Huntsville, AL campus…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T07:00:17.245Z"
   },
   {
     "job_id": "js-circle-k-stores--bbhwllkeyzbsyqbaaaaaa==",
@@ -11089,90 +11112,6 @@
     "job_posted_at": "2026-04-13T07:20:07.528Z"
   },
   {
-    "job_id": "workday-s&p-global-327949",
-    "job_title": "Polk Automotive Solutions Production Intern (Early Careers)",
-    "employer_name": "S&P Global",
-    "job_city": "Michigan",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Polk-Automotive-Solutions-Production-Intern--Early-Careers-_327949-2",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:40.051Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e30ccf5246482bf1691dd7824f345d7bba1a207dcbb1bae9be325b837bf406f1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:40.051Z"
-  },
-  {
-    "job_id": "workday-s&p-global-327951",
-    "job_title": "Product Management Intern (Early Careers)",
-    "employer_name": "S&P Global",
-    "job_city": "Michigan",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Product-Management-Intern--Early-Careers-_327951-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:40.051Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6be7caf0e973a36f8c2cc8fab94c47043e943905843709c6a058754ffbe4ecd6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:40.051Z"
-  },
-  {
-    "job_id": "workday-s&p-global-327950",
-    "job_title": "Polk Automotive Solutions Sales Intern (Early Careers)",
-    "employer_name": "S&P Global",
-    "job_city": "Michigan",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Polk-Automotive-Solutions-Sales-Intern--Early-Careers-_327950-1",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:40.051Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e2a48ccc8a0e7898a279ed9f1fc2ca7999eba63cf538dab9b58fa242df97251e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:40.051Z"
-  },
-  {
     "job_id": "workday-s&p-global-324230",
     "job_title": "Summer Intern, Software Quality Engineer (Early Career)",
     "employer_name": "S&P Global",
@@ -11223,6 +11162,90 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T07:01:40.051Z"
+  },
+  {
+    "job_id": "workday-s&p-global-327949",
+    "job_title": "Polk Automotive Solutions Production Intern (Early Careers)",
+    "employer_name": "S&P Global",
+    "job_city": "Michigan",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Polk-Automotive-Solutions-Production-Intern--Early-Careers-_327949-2",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:30.375Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e30ccf5246482bf1691dd7824f345d7bba1a207dcbb1bae9be325b837bf406f1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:30.375Z"
+  },
+  {
+    "job_id": "workday-s&p-global-327951",
+    "job_title": "Product Management Intern (Early Careers)",
+    "employer_name": "S&P Global",
+    "job_city": "Michigan",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Product-Management-Intern--Early-Careers-_327951-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:30.375Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6be7caf0e973a36f8c2cc8fab94c47043e943905843709c6a058754ffbe4ecd6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:30.375Z"
+  },
+  {
+    "job_id": "workday-s&p-global-327950",
+    "job_title": "Polk Automotive Solutions Sales Intern (Early Careers)",
+    "employer_name": "S&P Global",
+    "job_city": "Michigan",
+    "job_state": "US",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Michigan-US/Polk-Automotive-Solutions-Sales-Intern--Early-Careers-_327950-1",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:30.375Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2a48ccc8a0e7898a279ed9f1fc2ca7999eba63cf538dab9b58fa242df97251e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:01:30.375Z"
   },
   {
     "job_id": "workday-rtx-01837277",
@@ -11391,7 +11414,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Business-Applications-Analyst-Intern---Summer-2026--For-Summer-2025-Interns-only-_R0029692",
-    "job_posted_at_datetime_utc": "2026-04-13T07:01:25.560Z",
+    "job_posted_at_datetime_utc": "2026-04-13T07:01:14.139Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "263971726f945cd7033f8860efed4ec573f432bfef3a075168164ea742fe0de5",
@@ -11408,7 +11431,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:01:25.560Z"
+    "job_posted_at": "2026-04-13T07:01:14.139Z"
   },
   {
     "job_id": "workday-microchip-technology-R667-26",
@@ -11559,34 +11582,6 @@
     "job_posted_at": "2026-04-13T07:00:40.509Z"
   },
   {
-    "job_id": "workday-polaris-R29375",
-    "job_title": "Manufacturing Engineer Intern",
-    "employer_name": "Polaris",
-    "job_city": "Roseau",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Manufacturing-Engineer-Intern_R29375",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:34.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "09b458d73257c43f9ca95173f42c8c7b95a35c848925f1bb67a56d96f707f5b0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:34.177Z"
-  },
-  {
     "job_id": "workday-ncino-R6141",
     "job_title": "Marketing Communications Intern",
     "employer_name": "nCino",
@@ -11697,48 +11692,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:32.310Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180640",
-    "job_title": "Software Intern",
-    "employer_name": "Leidos",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:25.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "matlab",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:00:25.402Z"
   },
   {
     "job_id": "workday-leidos-R-00180501",
@@ -11870,6 +11823,34 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:25.402Z"
+  },
+  {
+    "job_id": "workday-polaris-R29375",
+    "job_title": "Manufacturing Engineer Intern",
+    "employer_name": "Polaris",
+    "job_city": "Roseau",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Roseau-MN-USA/Manufacturing-Engineer-Intern_R29375",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:23.165Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "09b458d73257c43f9ca95173f42c8c7b95a35c848925f1bb67a56d96f707f5b0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:23.165Z"
   },
   {
     "job_id": "workday-kla-2532514",
@@ -12069,6 +12050,48 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180640",
+    "job_title": "Software Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Intern_R-00180640",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:17.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aad30bb8fd5ebec9c5f47974aae4be20888eada99a2f2d54882abef9b7d13648",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "matlab",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T07:00:17.246Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7729700",
@@ -15928,34 +15951,6 @@
     "job_posted_at": "2026-04-10T14:09:21.058Z"
   },
   {
-    "job_id": "workday-rtx-01828471",
-    "job_title": "Stage - Automne 2026 - Membre de l’équipe Transmission de puissance par engrenages / Internship - Fall 2026 - Gear Team Member",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Membre-de-l-quipe-Transmission-de-puissance-par-engrenages---Internship---Fall-2026---Gear-Team-Member_01828471",
-    "job_posted_at_datetime_utc": "2026-04-10T14:09:21.057Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3d8b79e9408659e4e6522131056cdcab5df792a325441f7989ab0727731c387d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T14:09:21.057Z"
-  },
-  {
     "job_id": "workday-rtx-01833284",
     "job_title": "Internship - Fall 2026 - Drafting Intern",
     "employer_name": "RTX",
@@ -16000,6 +15995,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T14:09:21.057Z"
+  },
+  {
+    "job_id": "workday-rtx-01828471",
+    "job_title": "Stage - Automne 2026 - Membre de l’équipe Transmission de puissance par engrenages / Internship - Fall 2026 - Gear Team Member",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Membre-de-l-quipe-Transmission-de-puissance-par-engrenages---Internship---Fall-2026---Gear-Team-Member_01828471",
+    "job_posted_at_datetime_utc": "2026-04-10T14:09:21.057Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3d8b79e9408659e4e6522131056cdcab5df792a325441f7989ab0727731c387d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "retail"
       ],
       "locations": [
         "us"
@@ -16373,565 +16396,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-10T07:20:29.080Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-16875",
-    "job_title": "Intern, Manufacturing & Industrial Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-16875",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:13.057Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "61f58abd3868fc817527a81d8895790454704e1b0895176f62a8fac4e5fb69c9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:05:13.057Z"
-  },
-  {
-    "job_id": "workday-microchip-technology-R299-26",
-    "job_title": "Intern- Engineering (Electrical/Analog)",
-    "employer_name": "Microchip Technology",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Engineering--Electrical-Analog-_R299-26",
-    "job_posted_at_datetime_utc": "2026-04-10T07:05:12.835Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8d4988a86115623182e5b03d4e25726a21a7d7f50575907f2947209e5b89fd21",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "c++",
-        "cad",
-        "data analysis",
-        "embedded systems",
-        "excel",
-        "jmp",
-        "labview",
-        "matlab",
-        "oscilloscope",
-        "python",
-        "simulink"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:05:12.835Z"
-  },
-  {
-    "job_id": "workday-generac-JR13465",
-    "job_title": "IT Intern - Web Development",
-    "employer_name": "Generac",
-    "job_city": "USA",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/IT-Intern---Web-Development_JR13465",
-    "job_posted_at_datetime_utc": "2026-04-10T07:04:32.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01d276c9dcb2a0524565cb6682b2bfbf15fa95fec86b7e608dda7db0eca272d0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "angular",
-        "api",
-        "computer science",
-        "css",
-        "data science",
-        "git",
-        "github",
-        "gitlab",
-        "html",
-        "javascript",
-        "jira",
-        "vue"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "We are Generac, a leading energy technology company committed to powering a smarter world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:04:32.044Z"
-  },
-  {
-    "job_id": "workday-generac-JR13527",
-    "job_title": "Operations Finance Intern",
-    "employer_name": "Generac",
-    "job_city": "USA",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Operations-Finance-Intern_JR13527",
-    "job_posted_at_datetime_utc": "2026-04-10T07:04:32.044Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4cfaf86f001d0448ada90b5dcac5742efb5d025682d9f65e8f89e326de9abb5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:04:32.044Z"
-  },
-  {
-    "job_id": "workday-curtiss-wright-JR11297",
-    "job_title": "Supply Chain Intern",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "OH-Brecksville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Supply-Chain-Intern_JR11297",
-    "job_posted_at_datetime_utc": "2026-04-10T07:04:04.241Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "add813210c886d1f4f88c859bd5ab9afb8fe10b37f72467a849b9d7b120fd6f1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:04:04.241Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0234951",
-    "job_title": "Supply Chain Management Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Supply-Chain-Management-Intern_R0234951",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b367728d0a45a437cb993420da4d9d222b7c658ea2d55658c4d21593c75e8572",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237476",
-    "job_title": "AI Data Analyst Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/AI-Data-Analyst-Intern_R0237476",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a1216bdcc8b71cf19869ad3252114239b240f62a8a8fb5b9d066f0873de1921f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "dashboards",
-        "hugging face",
-        "langchain",
-        "llm"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "AI Data Analyst Intern The Opportunity : As a data analyst, you love diving into data and turning it into meaningful insights.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237477",
-    "job_title": "AIOps Engineer Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Lexington",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/AIOps-Engineer-Intern_R0237477",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:52.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "40b4f81a7571cbc815dab4acdc08dc61724edac4cc896682da541e74eaa94142",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "azure",
-        "devops",
-        "kubernetes",
-        "machine learning",
-        "splunk"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "AIOps Engineer Intern The Opportunity : Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for Air Power.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:52.797Z"
-  },
-  {
-    "job_id": "workday-biogen-REQ23048",
-    "job_title": "Intern, US Neuropsychiatry Franchise",
-    "employer_name": "Biogen",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Intern--US-Neuropsychiatry-Franchise_REQ23048",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:45.404Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ca843c7c52a54e732c6306859215e1b1ce3712c7721884104855dfa34412a40",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:03:45.404Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2612291",
-    "job_title": "2026 Summer Process Engineering Intern - PhD (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Process-Engineering-Intern---PhD--Santa-Clara--CA-_R2612291",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:26.417Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0f7d043cc2569fd0b8af163b2082ed98ab2cb14a1b06fa2b18b156c388e570de",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:26.417Z"
-  },
-  {
-    "job_id": "workday-applied-materials-R2616823",
-    "job_title": "Internship Opportunity: Computational Materials Science",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Internship-Opportunity--Computational-Materials-Science_R2616823",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:26.417Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5b8de79c3c776fe522ef8cc110ee17eab3c8f538a5fd5c01f7940c29cacb61a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computational materials",
-        "data analysis",
-        "linux",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T07:03:26.417Z"
-  },
-  {
-    "job_id": "workday-aes-corporation-R1063295",
-    "job_title": "Summer Intern",
-    "employer_name": "AES Corporation",
-    "job_city": "US",
-    "job_state": "HI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Honolulu-County-HI/Summer-Intern_R1063295-2",
-    "job_posted_at_datetime_utc": "2026-04-10T07:03:11.248Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "837312e61c69bcbb34eea9c0919de7bd7dbb43c6fb6e2a5bc93e36087fd22930",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:03:11.248Z"
-  },
-  {
-    "job_id": "workday-t.-rowe-price-77526",
-    "job_title": "2026 Fund Accounting Internship",
-    "employer_name": "T. Rowe Price",
-    "job_city": "Owings Mills",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Fund-Accounting-Internship_77526",
-    "job_posted_at_datetime_utc": "2026-04-10T07:02:25.854Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1b62666b569a971f0c2b8586a68a1881e5b189729afd476fa5e427dcde285bae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:02:25.854Z"
-  },
-  {
-    "job_id": "workday-s&p-global-327158",
-    "job_title": "People Team Intern",
-    "employer_name": "S&P Global",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/People-Team-Intern_327158-1",
-    "job_posted_at_datetime_utc": "2026-04-10T07:02:20.095Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57f41b9bf76d85888984f2f609a3008ef1d465cb35d7ea848bafbc855c5259d2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:02:20.095Z"
-  },
-  {
-    "job_id": "workday-motorola-solutions-R63822",
-    "job_title": "Marketing - 2026 Summer Internship",
-    "employer_name": "Motorola Solutions",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Marketing---2026-Summer-Internship_R63822",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:35.310Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b59fbed3282aa71862769d55b704753d6a867df3f922d0b0a66d0159a710c3bd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:35.310Z"
-  },
-  {
-    "job_id": "workday-workday-inc-JR-0106040",
-    "job_title": "Summer Sanian Intern",
-    "employer_name": "Workday Inc",
-    "job_city": "USA",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-New-York-City/Summer-Sanian-Intern_JR-0106040",
-    "job_posted_at_datetime_utc": "2026-04-10T07:01:30.579Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "755d3fecbb88867ae76afb11bb49379a17f4aca28445d5e6ffed3b674fef4a1f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T07:01:30.579Z"
   }
 ]
