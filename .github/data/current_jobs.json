@@ -2914,6 +2914,35 @@
     "job_posted_at": "2026-04-16T23:01:59.419Z"
   },
   {
+    "job_id": "js-finance-intern-united-states-of-america-cdd-qmvz6lpedb0t-l2eaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "Finance Intern, United States of America, CDD",
+    "job_city": "Paramus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veolia.com/en/job/paramus/finance-intern/3091/37368348928",
+    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f29ae1867212ccbac8df6dd657180f424711e9ecb58dec7c1f2f0750aa823c4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-16T23:00:00.000Z"
+  },
+  {
     "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
     "job_title": "Electric Substation engineering Business Operations Intern",
     "employer_name": "PG&E Corporation",
@@ -2955,35 +2984,6 @@
       "summary_line": "Qualifications",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-16T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-finance-intern-united-states-of-america-cdd-qmvz6lpedb0t-l2eaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "Finance Intern, United States of America, CDD",
-    "job_city": "Paramus",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.veolia.com/en/job/paramus/finance-intern/3091/37368348928",
-    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f29ae1867212ccbac8df6dd657180f424711e9ecb58dec7c1f2f0750aa823c4c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-16T23:00:00.000Z"
   },
   {
@@ -5316,6 +5316,104 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
+    "job_id": "js-caci-international-inc-lk8b9b8pbhkdmkpuaaaaaa==",
+    "job_title": "Software Engineering Intern - Summer 2026",
+    "employer_name": "CACI International Inc",
+    "job_city": "Lisle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinchicago.org/job/software-engineering-intern-summer-2026/9072069",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c8c37e66ee60fad3f74343b6b3efeb53669f26a9736f8c83c5d28d24aad5570d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "bash",
+        "c++",
+        "computer science",
+        "java",
+        "linux",
+        "microcontroller",
+        "networking",
+        "python"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications:  Required: • Currently pursuing an undergraduate or graduate degree in Computer Science, Computer Engineering, Electrical Engineering or related discipline • Must be legally authorized…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-equinix-xqp44lni2eerzn35aaaaaa==",
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Equinix",
+    "job_city": "Dallas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.equinix.com/jobs/software-engineering-intern-dallas-texas-united-states",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ad154a191d5b7109e84648f546369509f9020f61d474056a43c54081bdb94157",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "ci/cd",
+        "computer science",
+        "css",
+        "git",
+        "html",
+        "java",
+        "javascript",
+        "networking",
+        "python",
+        "unit testing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Equinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-73e494e5-df59-4b02-93aa-75ee7285d916",
     "job_title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -5492,104 +5590,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications  • Must be currently enrolled in an undergraduate or graduate program  • Attention to detail a must  • Must possess strong problem-solving and communication skills  • Basic Mic…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-caci-international-inc-lk8b9b8pbhkdmkpuaaaaaa==",
-    "job_title": "Software Engineering Intern - Summer 2026",
-    "employer_name": "CACI International Inc",
-    "job_city": "Lisle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinchicago.org/job/software-engineering-intern-summer-2026/9072069",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c8c37e66ee60fad3f74343b6b3efeb53669f26a9736f8c83c5d28d24aad5570d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "bash",
-        "c++",
-        "computer science",
-        "java",
-        "linux",
-        "microcontroller",
-        "networking",
-        "python"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications:  Required: • Currently pursuing an undergraduate or graduate degree in Computer Science, Computer Engineering, Electrical Engineering or related discipline • Must be legally authorized…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-equinix-xqp44lni2eerzn35aaaaaa==",
-    "job_title": "Software Engineering Intern",
-    "employer_name": "Equinix",
-    "job_city": "Dallas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.equinix.com/jobs/software-engineering-intern-dallas-texas-united-states",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ad154a191d5b7109e84648f546369509f9020f61d474056a43c54081bdb94157",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "ci/cd",
-        "computer science",
-        "css",
-        "git",
-        "html",
-        "java",
-        "javascript",
-        "networking",
-        "python",
-        "unit testing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Equinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -8281,6 +8281,48 @@
     "job_posted_at": "2026-04-15T00:20:08.048Z"
   },
   {
+    "job_id": "js-thales-zq0syqoug_nw6xq8aaaaaa==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Thales",
+    "job_city": "Plantation",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.thalesgroup.com/global/en/job/R0323979/Software-Engineer-Intern",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "464d4fc4e83b425c57c5f1a084a85c38e36bbaa3625123457a3bdfb4aca0740a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "continuous deployment",
+        "continuous integration"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Special Position Requirements  Core Business Hours Monday-Friday.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "js-poshmark-06fjte4pkzxf80ruaaaaaa==",
     "job_title": "AI/ML Engineering Intern (Summer 2026)",
     "employer_name": "Poshmark",
@@ -8309,6 +8351,46 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "classification",
+        "computer science",
+        "data science",
+        "databricks",
+        "datadog",
+        "docker",
+        "fastapi",
+        "flask",
+        "grafana",
+        "java",
+        "jenkins",
+        "kafka",
+        "kibana",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "mongodb",
+        "python",
+        "pytorch",
+        "rabbitmq",
+        "redis",
+        "redshift",
+        "regression",
+        "scala",
+        "sklearn",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "💡 What You’ll Bring • Pursuing or just finished a degree in relevant quantitative field such as Statistics, Math, Computer Science or Data Science  • Familiarity with Machine Learning techniques and…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
@@ -8339,6 +8421,20 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "python",
+        "robotics",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications  • Currently enrolled in a PhD program in a quantitative field (Computer Science, Mathematics, Engineering, Statistics/Biostatistics, Physics, Robotics, Operations Research, etc.)…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
@@ -8425,48 +8521,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Requirements  In addition to pursuing a degree in Electrical Engineering, Computer Science, Mathematics, Physics, or a related field from an accredited college or university, qualified interns…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-thales-zq0syqoug_nw6xq8aaaaaa==",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Thales",
-    "job_city": "Plantation",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.thalesgroup.com/global/en/job/R0323979/Software-Engineer-Intern",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "464d4fc4e83b425c57c5f1a084a85c38e36bbaa3625123457a3bdfb4aca0740a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "continuous deployment",
-        "continuous integration"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Special Position Requirements  Core Business Hours Monday-Friday.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -11519,6 +11573,133 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
+    "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
+    "job_title": "Finance Business Operations Intern",
+    "employer_name": "Cloudflare",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinsf.com/job/finance-business-operations-intern/9048215",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "255b660a53afb89905bdd52eb7e49ca16b699426af8f481cebb35c8f48797d57",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-hologic-96k2xobneouc2tuqaaaaaa==",
+    "job_title": "Software Engineering Internship",
+    "employer_name": "Hologic",
+    "job_city": "Newark",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://na.careers.hologic.com/en/search/300000447085490/software-engineering-internship",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8f70a9713433368be9431a6b8c62e564b3dccaf68f273096a3427c87871aeec7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "c#",
+        "c++",
+        "computer science",
+        "continuous integration",
+        "design patterns",
+        "git",
+        "networking",
+        "scrum"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "As a Hologic Summer Intern, you are not just taking a job; you are taking your place on a global team of motivated, creative, and dedicated people!",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
+    "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f74b281ec341ff107820ab01bff75e8e4175dad041d2da677cf1cd34b890f0d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "distributed systems",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "neural network",
+        "palo alto"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ge-healthcare-jcrhbziezspta3qgaaaaaa==",
     "job_title": "Full-Stack Software Engineering Intern – Commercialized Web Applications",
     "employer_name": "GE HEALTHCARE",
@@ -11575,55 +11756,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Description Summary As a Software Engineering Intern at GE Healthcare for our MIM Commercialized Web Applications team, you will contribute to our web applications sold to customers – MIMcloud and…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-hologic-96k2xobneouc2tuqaaaaaa==",
-    "job_title": "Software Engineering Internship",
-    "employer_name": "Hologic",
-    "job_city": "Newark",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://na.careers.hologic.com/en/search/300000447085490/software-engineering-internship",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8f70a9713433368be9431a6b8c62e564b3dccaf68f273096a3427c87871aeec7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "c#",
-        "c++",
-        "computer science",
-        "continuous integration",
-        "design patterns",
-        "git",
-        "networking",
-        "scrum"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "As a Hologic Summer Intern, you are not just taking a job; you are taking your place on a global team of motivated, creative, and dedicated people!",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -11712,55 +11844,6 @@
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
-    "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
-    "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f74b281ec341ff107820ab01bff75e8e4175dad041d2da677cf1cd34b890f0d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "distributed systems",
-        "large language model",
-        "machine learning",
-        "natural language processing",
-        "neural network",
-        "palo alto"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
     "job_title": "Electrical Engineering Intern - Summer 2026",
     "employer_name": "Amentum",
@@ -11843,35 +11926,6 @@
       "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
-    "job_title": "Finance Business Operations Intern",
-    "employer_name": "Cloudflare",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinsf.com/job/finance-business-operations-intern/9048215",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "255b660a53afb89905bdd52eb7e49ca16b699426af8f481cebb35c8f48797d57",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -16455,6 +16509,152 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-carrier-1mnwzgshdemqa1ygaaaaaa==",
+    "job_title": "Software Engineering Intern - Summer",
+    "employer_name": "Carrier",
+    "job_city": "East Syracuse",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.carrier.com/en/job/east-syracuse/software-engineering-intern-summer/29289/93922847360",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "fdd7c2033c8b103d8b3f6f1ebed6270e5a8ff163bd2451ea886fc5af4a165a5d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "java",
+        "kaizen",
+        "networking"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "The successful candidate will work on programming and optimizing of selection software and other software tools for new products and options to support the growth of the Commercial Airside business.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
+    "job_title": "Information Technology Internship - Finance & IT",
+    "employer_name": "Amneal USA",
+    "job_city": "Piscataway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data lake",
+        "power bi",
+        "s3",
+        "sap"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "Essential Utilities",
+    "job_city": "North Shore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/finance-intern/8783873",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "57bae6ab29a66b357a117bfc1fb74f9f36215a251e925608ca76b43718594fe8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-mckinney-dz8kwc3jrqdndqhjaaaaaa==",
+    "job_title": "2026 Summer Agency Operations (PM/Finance) Internship",
+    "employer_name": "McKinney",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/2026-summer-agency-operations-pm-finance-internship/8551932",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "f884aeeef556624f925231b77c2f7ad2b44b5550f6a4604f2f934932002a095c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
     "job_title": "RF Engineering Intern",
     "employer_name": "Nightwing",
@@ -16715,152 +16915,6 @@
       "summary_line": "Requirements • Must be pursuing a degree in computer science or related field (e.g., Software Engineering, Computer Engineering, Information Sciences), • Completed at least two years of an undergradua…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-carrier-1mnwzgshdemqa1ygaaaaaa==",
-    "job_title": "Software Engineering Intern - Summer",
-    "employer_name": "Carrier",
-    "job_city": "East Syracuse",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.carrier.com/en/job/east-syracuse/software-engineering-intern-summer/29289/93922847360",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "fdd7c2033c8b103d8b3f6f1ebed6270e5a8ff163bd2451ea886fc5af4a165a5d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "java",
-        "kaizen",
-        "networking"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "The successful candidate will work on programming and optimizing of selection software and other software tools for new products and options to support the growth of the Commercial Airside business.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
-    "job_title": "Information Technology Internship - Finance & IT",
-    "employer_name": "Amneal USA",
-    "job_city": "Piscataway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "data lake",
-        "power bi",
-        "s3",
-        "sap"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "Essential Utilities",
-    "job_city": "North Shore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-intern/8783873",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "57bae6ab29a66b357a117bfc1fb74f9f36215a251e925608ca76b43718594fe8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-mckinney-dz8kwc3jrqdndqhjaaaaaa==",
-    "job_title": "2026 Summer Agency Operations (PM/Finance) Internship",
-    "employer_name": "McKinney",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/2026-summer-agency-operations-pm-finance-internship/8551932",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "f884aeeef556624f925231b77c2f7ad2b44b5550f6a4604f2f934932002a095c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
   {
