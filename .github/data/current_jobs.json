@@ -2737,6 +2737,35 @@
     "job_posted_at": "2026-04-17T00:06:52.835Z"
   },
   {
+    "job_id": "js-adobe-ymfofn0cubgowndlaaaaaa==",
+    "job_title": "2026 Intern - Applied Scientist",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R161660/2026-Intern-Applied-Scientist",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5d57ab85da8b231f4c7bbcdcedb304bba3d537a4d726b5cce7b2d7e18edf14fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
     "job_id": "js-western-union-bdox2pozdt20ajgpaaaaaa==",
     "job_title": "Software Engineer - Intern",
     "employer_name": "Western Union",
@@ -5337,46 +5366,6 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
-    "job_id": "js-hdr-7ranribwhf-ajxxlaaaaaa==",
-    "job_title": "Data Science and Analysis Intern",
-    "employer_name": "HDR",
-    "job_city": "Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analysis-intern--salt-lake-city--eaa7c9efe08d1b4eb7ef2983afbbaacc3",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6861db2fbddecb4fefd2d38c499d83f916763690f9090f2506e276084bdbd631",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications  • Must be currently enrolled in an undergraduate or graduate program  • Attention to detail a must  • Must possess strong problem-solving and communication skills  • Basic Mic…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-73e494e5-df59-4b02-93aa-75ee7285d916",
     "job_title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -5513,6 +5502,46 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Are 18 years of age or older - Currently working towards Bachelor's, Master's, or higher in Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Computer Engi…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-hdr-7ranribwhf-ajxxlaaaaaa==",
+    "job_title": "Data Science and Analysis Intern",
+    "employer_name": "HDR",
+    "job_city": "Salt Lake City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analysis-intern--salt-lake-city--eaa7c9efe08d1b4eb7ef2983afbbaacc3",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "6861db2fbddecb4fefd2d38c499d83f916763690f9090f2506e276084bdbd631",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Must be currently enrolled in an undergraduate or graduate program  • Attention to detail a must  • Must possess strong problem-solving and communication skills  • Basic Mic…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -5943,6 +5972,197 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
+    "job_id": "workday-sel-2026-20327",
+    "job_title": "Human Resources Intern - Immigration",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20283",
+    "job_title": "Project Coordinator Intern",
+    "employer_name": "SEL",
+    "job_city": "Fairview Heights",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20357",
+    "job_title": "Application Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewis Center",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0811306d747869b44eb09b34d8998256a197b2d0762e38a43868b1320125fc6d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20182",
+    "job_title": "Property Management Intern (Design)",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Property-Management-Intern--Design-_2026-20182",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8b16e612831128ffee6dcffd51b1e18006089b94e0375a89f85a61a43476cd1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19395",
+    "job_title": "Equipment Maintenance Technician Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "python",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional and dynamic college student for an Engineering Intern position in Research & Development Department.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
     "job_id": "workday-sel-2026-19311",
     "job_title": "Compliance Engineering Intern",
     "employer_name": "SEL",
@@ -6193,197 +6413,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20327",
-    "job_title": "Human Resources Intern - Immigration",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20283",
-    "job_title": "Project Coordinator Intern",
-    "employer_name": "SEL",
-    "job_city": "Fairview Heights",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20357",
-    "job_title": "Application Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewis Center",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0811306d747869b44eb09b34d8998256a197b2d0762e38a43868b1320125fc6d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20182",
-    "job_title": "Property Management Intern (Design)",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Property-Management-Intern--Design-_2026-20182",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d8b16e612831128ffee6dcffd51b1e18006089b94e0375a89f85a61a43476cd1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19395",
-    "job_title": "Equipment Maintenance Technician Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "matlab",
-        "python",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional and dynamic college student for an Engineering Intern position in Research & Development Department.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
@@ -7086,34 +7115,6 @@
     "job_posted_at": "2026-04-15T07:22:31.440Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266697",
-    "job_title": "HVAC Intern - Controls Tech School",
-    "employer_name": "Johnson Controls",
-    "job_city": "North Dakota-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Minot-North-Dakota-United-States-of-America/HVAC-Intern---Controls-Tech-School_WD30266697",
-    "job_posted_at_datetime_utc": "2026-04-15T07:22:27.254Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c06f38d9c723d3560f69c00188aeaffbf34dfae53ccc592e1be9fd4d1fb2e7bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:22:27.254Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30266948",
     "job_title": "BEST - Technical Sales Intern - Controls",
     "employer_name": "Johnson Controls",
@@ -7130,6 +7131,34 @@
       "employment": "internship",
       "domains": [
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:22:27.254Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266697",
+    "job_title": "HVAC Intern - Controls Tech School",
+    "employer_name": "Johnson Controls",
+    "job_city": "North Dakota-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Minot-North-Dakota-United-States-of-America/HVAC-Intern---Controls-Tech-School_WD30266697",
+    "job_posted_at_datetime_utc": "2026-04-15T07:22:27.254Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c06f38d9c723d3560f69c00188aeaffbf34dfae53ccc592e1be9fd4d1fb2e7bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -7779,124 +7808,6 @@
     "job_posted_at": "2026-04-15T07:01:19.426Z"
   },
   {
-    "job_id": "workday-rtx-01835278",
-    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
-    "job_id": "workday-rtx-01838232",
-    "job_title": "Summer 2026 Contracts Intern (Remote)",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
-    "job_id": "workday-rtx-01838467",
-    "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
-    "employer_name": "RTX",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/XMLNAME-2026-Raytheon-Part-Time-Co-op---SW-Platform-Engineer--Remote-_01838467",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7ff142b335c40acd80835f19fde75e19cb8e67ab223b107a7cbf714bb938ba",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "ansible",
-        "aws",
-        "bash",
-        "chef",
-        "computer science",
-        "confluence",
-        "continuous delivery",
-        "continuous integration",
-        "cyber security",
-        "devops",
-        "devsecops",
-        "docker",
-        "git",
-        "https",
-        "jenkins",
-        "jira",
-        "kubernetes",
-        "linux",
-        "perl",
-        "python",
-        "ruby",
-        "shell",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 Position Role Type: Remote U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
     "job_id": "workday-rtx-01838491",
     "job_title": "Mechanical Engineer Intern (Onsite)",
     "employer_name": "RTX",
@@ -8038,6 +7949,124 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01835278",
+    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838232",
+    "job_title": "Summer 2026 Contracts Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838467",
+    "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
+    "employer_name": "RTX",
+    "job_city": "4 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/XMLNAME-2026-Raytheon-Part-Time-Co-op---SW-Platform-Engineer--Remote-_01838467",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7ff142b335c40acd80835f19fde75e19cb8e67ab223b107a7cbf714bb938ba",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "ansible",
+        "aws",
+        "bash",
+        "chef",
+        "computer science",
+        "confluence",
+        "continuous delivery",
+        "continuous integration",
+        "cyber security",
+        "devops",
+        "devsecops",
+        "docker",
+        "git",
+        "https",
+        "jenkins",
+        "jira",
+        "kubernetes",
+        "linux",
+        "perl",
+        "python",
+        "ruby",
+        "shell",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-15 Country: United States of America Location: US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27 Position Role Type: Remote U.S.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-15T07:01:19.425Z"
   },
   {
@@ -8330,6 +8359,149 @@
     "job_posted_at": "2026-04-15T00:20:08.048Z"
   },
   {
+    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
+    "job_title": "Machine Learning Internship - PhD: 2027",
+    "employer_name": "Susquehanna International Group, LLP (SIG)",
+    "job_city": "Bala Cynwyd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "machine learning",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "What we're looking for • Currently pursuing a PhD in Computer Science, Machine Learning, Statistics, Physics, Applied Mathematics, or a closely related field • Proven experience applying machine learn…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cambium-assessment-ywqibddzo74rkhwdaaaaaa==",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Cambium Assessment",
+    "job_city": "Concord",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/concord-massachusetts?id=2638312087",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "382e26559f2860605a053984db4323b738946df867d141cfe0bc13bf3401f7e0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "deep learning",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "python",
+        "r",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Cambium Learning® Group is an award-winning educational technology solutions leader dedicated to helping all students reach their potential through individualized and differentiated instruction.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-nano-ic-n9fjln3wnaputddxaaaaaa==",
+    "job_title": "Machine Learning/AI Software Intern",
+    "employer_name": "Nano IC",
+    "job_city": "Milpitas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-ai-software-intern/milpitas-california?id=2638272688",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b5e1a1d2f53c3f2288f7eb29a3516fd53d6b4bd80e62641836bdbd26c92e82b1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "keras",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Location Milpitas, California (Remote work available for out-of-state candidates) About Us Nano IC (nano-ic.com) is a dynamic seed‑stage company with a focus on innovation in machine learning and arti…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "js-thales-zq0syqoug_nw6xq8aaaaaa==",
     "job_title": "Software Engineer Intern",
     "employer_name": "Thales",
@@ -8546,149 +8718,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
-    "job_title": "Machine Learning Internship - PhD: 2027",
-    "employer_name": "Susquehanna International Group, LLP (SIG)",
-    "job_city": "Bala Cynwyd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "machine learning",
-        "pytorch",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "What we're looking for • Currently pursuing a PhD in Computer Science, Machine Learning, Statistics, Physics, Applied Mathematics, or a closely related field • Proven experience applying machine learn…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nano-ic-n9fjln3wnaputddxaaaaaa==",
-    "job_title": "Machine Learning/AI Software Intern",
-    "employer_name": "Nano IC",
-    "job_city": "Milpitas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-ai-software-intern/milpitas-california?id=2638272688",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b5e1a1d2f53c3f2288f7eb29a3516fd53d6b4bd80e62641836bdbd26c92e82b1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "keras",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location Milpitas, California (Remote work available for out-of-state candidates) About Us Nano IC (nano-ic.com) is a dynamic seed‑stage company with a focus on innovation in machine learning and arti…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cambium-assessment-ywqibddzo74rkhwdaaaaaa==",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Cambium Assessment",
-    "job_city": "Concord",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/concord-massachusetts?id=2638312087",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "382e26559f2860605a053984db4323b738946df867d141cfe0bc13bf3401f7e0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "deep learning",
-        "large language model",
-        "machine learning",
-        "natural language processing",
-        "python",
-        "r",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Cambium Learning® Group is an award-winning educational technology solutions leader dedicated to helping all students reach their potential through individualized and differentiated instruction.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -9156,18 +9185,18 @@
     "job_posted_at": "2026-04-14T20:44:44.786Z"
   },
   {
-    "job_id": "greenhouse-xometry-5008904007",
+    "job_id": "greenhouse-xometry-5008903007",
     "job_title": "Accounting Intern",
     "employer_name": "Xometry",
-    "job_city": "Lexington",
-    "job_state": "KY",
+    "job_city": "North Bethesda",
+    "job_state": "MD",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008904007",
+    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008903007",
     "job_posted_at_datetime_utc": "2026-04-14T20:19:34.863Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bcf0430c8b5bed6ff64b83f7699b718a00a2a0462ce41c673f33289f9c9fd51d",
+    "fingerprint": "125ca9ca1165f2b06906a303af5c130dbd30e8d95280a1a5958fed3001bf2bf2",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9184,18 +9213,18 @@
     "job_posted_at": "2026-04-14T20:19:34.863Z"
   },
   {
-    "job_id": "greenhouse-xometry-5008903007",
+    "job_id": "greenhouse-xometry-5008904007",
     "job_title": "Accounting Intern",
     "employer_name": "Xometry",
-    "job_city": "North Bethesda",
-    "job_state": "MD",
+    "job_city": "Lexington",
+    "job_state": "KY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008903007",
+    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008904007",
     "job_posted_at_datetime_utc": "2026-04-14T20:19:34.863Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "125ca9ca1165f2b06906a303af5c130dbd30e8d95280a1a5958fed3001bf2bf2",
+    "fingerprint": "bcf0430c8b5bed6ff64b83f7699b718a00a2a0462ce41c673f33289f9c9fd51d",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11500,45 +11529,56 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
-    "job_id": "js-ul-standards-engagement-rlu4efupioaunnkzaaaaaa==",
-    "job_title": "Data Science & Engineering Intern - Hybrid, 3-Month Summer",
-    "employer_name": "UL Standards & Engagement",
-    "job_city": "Evanston",
+    "job_id": "js-unitedhealth-group-x-jb7npylchotnrjaaaaaa==",
+    "job_title": "AI/ML Research Intern - PHD Level - Remote",
+    "employer_name": "UnitedHealth Group",
+    "job_city": "Eden Prairie",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-engineering-intern-hybrid-3-month-summer--evanston--eeadaad37221f1e98fc37826d3d49b985",
+    "job_is_remote": true,
+    "job_apply_link": "https://careers.unitedhealthgroup.com/job/eden-prairie/ai-ml-research-intern-phd-level-remote/34088/92872076752",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
     "salary": null,
-    "fingerprint": "e1585a1f3c03808f965465da8e6a57e24f553a7263f0c80f83e51bbc3b6eb498",
+    "fingerprint": "4491408217d096488735f2b0cc3d5cb8d4dcd16325a74958246ec63df0d93c6d",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software",
-        "data_science"
+        "ai"
       ],
       "locations": [
         "us",
-        "on_site"
+        "remote"
       ],
       "experience": "entry_level",
-      "special": []
+      "special": [
+        "fortune500"
+      ]
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "data analysis",
+        "c++",
+        "computer science",
         "data science",
-        "reporting"
+        "deep learning",
+        "java",
+        "machine learning",
+        "matlab",
+        "python",
+        "pytorch",
+        "r",
+        "statistical analysis",
+        "statistics",
+        "tensorflow"
       ],
-      "sponsors_visa": null,
+      "sponsors_visa": false,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
-      "summary_line": "A global standards organization offers a Data Science & Engineering Intern position in Evanston or Raleigh-Durham for Summer 2026.",
-      "is_remote": false
+      "summary_line": "Required Qualifications: • Currently enrolled in a PhD degree program with a concentration in machine learning, artificial intelligence, data science, computer science, statistics, biomedical informat…",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
@@ -11587,6 +11627,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ul-standards-engagement-rlu4efupioaunnkzaaaaaa==",
+    "job_title": "Data Science & Engineering Intern - Hybrid, 3-Month Summer",
+    "employer_name": "UL Standards & Engagement",
+    "job_city": "Evanston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-engineering-intern-hybrid-3-month-summer--evanston--eeadaad37221f1e98fc37826d3d49b985",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e1585a1f3c03808f965465da8e6a57e24f553a7263f0c80f83e51bbc3b6eb498",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "data science",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "A global standards organization offers a Data Science & Engineering Intern position in Evanston or Raleigh-Durham for Summer 2026.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -11777,60 +11860,6 @@
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Current student or recent graduate in Computer Science, Software Engineering, or a related field.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-unitedhealth-group-x-jb7npylchotnrjaaaaaa==",
-    "job_title": "AI/ML Research Intern - PHD Level - Remote",
-    "employer_name": "UnitedHealth Group",
-    "job_city": "Eden Prairie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://careers.unitedhealthgroup.com/job/eden-prairie/ai-ml-research-intern-phd-level-remote/34088/92872076752",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4491408217d096488735f2b0cc3d5cb8d4dcd16325a74958246ec63df0d93c6d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "deep learning",
-        "java",
-        "machine learning",
-        "matlab",
-        "python",
-        "pytorch",
-        "r",
-        "statistical analysis",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications: • Currently enrolled in a PhD degree program with a concentration in machine learning, artificial intelligence, data science, computer science, statistics, biomedical informat…",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
@@ -16392,6 +16421,48 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
+    "job_title": "Engineering Intern - Hardware Engineering",
+    "employer_name": "Veralto Global",
+    "job_city": "Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "regression"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
     "job_title": "Data Science Intern (Usps) - Summer 2026",
     "employer_name": "LMI Consulting, LLC",
@@ -16900,48 +16971,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You • You are genuinely passionate about our purpose  • You bring precision and excellence to all that you do  • You believe in our rooted-in-science approach to problem-solving  • You are a gen…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
-    "job_title": "Engineering Intern - Hardware Engineering",
-    "employer_name": "Veralto Global",
-    "job_city": "Loveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "regression"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
