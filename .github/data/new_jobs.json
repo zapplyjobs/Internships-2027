@@ -46,49 +46,6 @@
     "job_posted_at": "2026-04-18T10:16:43.510Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2502",
-    "job_title": "Electronics Manufacturing & Supply Chain Engineering Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electronics-Manufacturing---Supply-Chain-Engineering-Intern_R2502",
-    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "18815ee815bad817ba0dd07263fd770d09330eef6da9cdcd981fc0c64e5d26ac",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "robotics",
-        "stakeholder management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Procurement Internship Program Boston Dynamics in partnership with Hyundai Motor Group About The program Boston Dynamics is offering a unique Procurement Internship experience in partnership with Hyun…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T09:32:54.726Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2495",
     "job_title": "Mechanical Engineering Intern",
     "employer_name": "Boston Dynamics",
@@ -180,6 +137,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about the intersection of foundation models and physical AI?",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T09:32:54.726Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2502",
+    "job_title": "Electronics Manufacturing & Supply Chain Engineering Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electronics-Manufacturing---Supply-Chain-Engineering-Intern_R2502",
+    "job_posted_at_datetime_utc": "2026-04-18T09:32:54.726Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18815ee815bad817ba0dd07263fd770d09330eef6da9cdcd981fc0c64e5d26ac",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel",
+        "robotics",
+        "stakeholder management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Procurement Internship Program Boston Dynamics in partnership with Hyundai Motor Group About The program Boston Dynamics is offering a unique Procurement Internship experience in partnership with Hyun…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-18T09:32:54.726Z"
@@ -2840,6 +2840,56 @@
     "job_posted_at": "2026-04-17T00:06:52.835Z"
   },
   {
+    "job_id": "js-fullsteam-sbp1hqxdhleijkt9aaaaaa==",
+    "job_title": "Data Science, Machine Learning & AI Intern",
+    "employer_name": "Fullsteam",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://builtin.com/job/data-science-machine-learning-ai-intern/9087628",
+    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "8c7335ce477be0a78ae700a74946774ccc3f9b7973273d521426f3523c60e2d4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications: • Currently pursuing or recently completed a Master’s degree in Statistics, Data Science, Computer Science, Machine Learning, Mathematics, or a related quantitative field • Cou…",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-17T00:00:00.000Z"
+  },
+  {
     "job_id": "js-asure-software-ubt5tnvefngeshw7aaaaaa==",
     "job_title": "Intern - Finance",
     "employer_name": "Asure Software",
@@ -2915,56 +2965,6 @@
       "is_simple_apply": false,
       "summary_line": "Role Requirements • Must be at least 18 years of age or older.",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-17T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fullsteam-sbp1hqxdhleijkt9aaaaaa==",
-    "job_title": "Data Science, Machine Learning & AI Intern",
-    "employer_name": "Fullsteam",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://builtin.com/job/data-science-machine-learning-ai-intern/9087628",
-    "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8c7335ce477be0a78ae700a74946774ccc3f9b7973273d521426f3523c60e2d4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "machine learning",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications: • Currently pursuing or recently completed a Master’s degree in Statistics, Data Science, Computer Science, Machine Learning, Mathematics, or a related quantitative field • Cou…",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
@@ -3079,6 +3079,50 @@
     "job_posted_at": "2026-04-16T23:01:59.419Z"
   },
   {
+    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
+    "job_title": "Electric Substation engineering Business Operations Intern",
+    "employer_name": "PG&E Corporation",
+    "job_city": "West Sacramento",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
+    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware",
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "excel",
+        "program management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T23:00:00.000Z"
+  },
+  {
     "job_id": "js-dont-panic-labs-n-zgpdwflfi8sdufaaaaaa==",
     "job_title": "Software Engineering Intern (Summer 2026)",
     "employer_name": "Don't Panic Labs",
@@ -3143,50 +3187,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-16T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
-    "job_title": "Electric Substation engineering Business Operations Intern",
-    "employer_name": "PG&E Corporation",
-    "job_city": "West Sacramento",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
-    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware",
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "excel",
-        "program management",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-16T23:00:00.000Z"
   },
   {
@@ -6045,6 +6045,69 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
+    "job_id": "js-datavisor-ywf_kn38v0my4uyyaaaaaa==",
+    "job_title": "AI/Machine Learning Engineering Summer Internship",
+    "employer_name": "DataVisor",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://apply.workable.com/datavisor-jobs/j/8EA46581E0/",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "CONTRACTOR",
+    "salary": null,
+    "fingerprint": "47ee8b23e7b85d41385474add75b35c972b13864057b5b45c2f46c35c171716a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "anthropic",
+        "api",
+        "aws",
+        "computer science",
+        "data pipeline",
+        "data science",
+        "distributed systems",
+        "docker",
+        "kafka",
+        "langchain",
+        "large language model",
+        "llm",
+        "machine learning",
+        "openai",
+        "python",
+        "rag",
+        "real-time systems",
+        "scalability",
+        "spark",
+        "system design",
+        "unsupervised learning",
+        "vector database"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "DataVisor is the world’s leading AI-powered Fraud and Risk Platform that delivers the best overall detection coverage in the industry.",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-73e494e5-df59-4b02-93aa-75ee7285d916",
     "job_title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -6229,69 +6292,6 @@
       "is_simple_apply": false,
       "summary_line": "Qualifications:  Required: • Currently pursuing an undergraduate or graduate degree in Computer Science, Computer Engineering, Electrical Engineering or related discipline • Must be legally authorized…",
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-datavisor-ywf_kn38v0my4uyyaaaaaa==",
-    "job_title": "AI/Machine Learning Engineering Summer Internship",
-    "employer_name": "DataVisor",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://apply.workable.com/datavisor-jobs/j/8EA46581E0/",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "CONTRACTOR",
-    "salary": null,
-    "fingerprint": "47ee8b23e7b85d41385474add75b35c972b13864057b5b45c2f46c35c171716a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "anthropic",
-        "api",
-        "aws",
-        "computer science",
-        "data pipeline",
-        "data science",
-        "distributed systems",
-        "docker",
-        "kafka",
-        "langchain",
-        "large language model",
-        "llm",
-        "machine learning",
-        "openai",
-        "python",
-        "rag",
-        "real-time systems",
-        "scalability",
-        "spark",
-        "system design",
-        "unsupervised learning",
-        "vector database"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "DataVisor is the world’s leading AI-powered Fraud and Risk Platform that delivers the best overall detection coverage in the industry.",
-      "is_remote": true
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
@@ -6707,6 +6707,74 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
+    "job_id": "workday-sel-2025-18339",
+    "job_title": "Drafter/ Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Lakewood",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19609",
+    "job_title": "Account Administrator Intern",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -7080,74 +7148,6 @@
       "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2025-18339",
-    "job_title": "Drafter/ Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Lakewood",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19609",
-    "job_title": "Account Administrator Intern",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
@@ -8543,6 +8543,34 @@
     "job_posted_at": "2026-04-15T07:01:19.426Z"
   },
   {
+    "job_id": "workday-rtx-01835278",
+    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
     "job_id": "workday-rtx-01838467",
     "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
     "employer_name": "RTX",
@@ -8737,34 +8765,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
-    "job_id": "workday-rtx-01835278",
-    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
       ],
       "locations": [
         "us"
@@ -9094,6 +9094,142 @@
     "job_posted_at": "2026-04-15T00:20:08.048Z"
   },
   {
+    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
+    "job_title": "Machine Learning Internship - PhD: 2027",
+    "employer_name": "Susquehanna International Group, LLP (SIG)",
+    "job_city": "Bala Cynwyd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "machine learning",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "What we're looking for • Currently pursuing a PhD in Computer Science, Machine Learning, Statistics, Physics, Applied Mathematics, or a closely related field • Proven experience applying machine learn…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-nano-ic-n9fjln3wnaputddxaaaaaa==",
+    "job_title": "Machine Learning/AI Software Intern",
+    "employer_name": "Nano IC",
+    "job_city": "Milpitas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-ai-software-intern/milpitas-california?id=2638272688",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b5e1a1d2f53c3f2288f7eb29a3516fd53d6b4bd80e62641836bdbd26c92e82b1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "keras",
+        "machine learning",
+        "neural network",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Location Milpitas, California (Remote work available for out-of-state candidates) About Us Nano IC (nano-ic.com) is a dynamic seed‑stage company with a focus on innovation in machine learning and arti…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-pge-corporation-_ywewmfu9dcarj3eaaaaaa==",
+    "job_title": "Substation Engineering Intern",
+    "employer_name": "PG&E Corporation",
+    "job_city": "Sacramento",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/substation-engineering-intern/29673/94035532112",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "029bc5d3a33f40b9f580a4f0bcba153e7936ea8c836bb9321da79d7ef78e1509",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "sap",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rtx-crcavx4gk90qhw1maaaaaa==",
     "job_title": "Software Engineering Intern - (Summer 2026)  (Onsite)",
     "employer_name": "RTX",
@@ -9343,94 +9479,6 @@
     "job_posted_at": "2026-04-15T00:00:00.000Z"
   },
   {
-    "job_id": "js-pge-corporation-_ywewmfu9dcarj3eaaaaaa==",
-    "job_title": "Substation Engineering Intern",
-    "employer_name": "PG&E Corporation",
-    "job_city": "Sacramento",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/substation-engineering-intern/29673/94035532112",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "029bc5d3a33f40b9f580a4f0bcba153e7936ea8c836bb9321da79d7ef78e1509",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "sap",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
-    "job_title": "Machine Learning Internship - PhD: 2027",
-    "employer_name": "Susquehanna International Group, LLP (SIG)",
-    "job_city": "Bala Cynwyd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "machine learning",
-        "pytorch",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "What we're looking for • Currently pursuing a PhD in Computer Science, Machine Learning, Statistics, Physics, Applied Mathematics, or a closely related field • Proven experience applying machine learn…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
     "job_id": "js-cambium-assessment-ywqibddzo74rkhwdaaaaaa==",
     "job_title": "Machine Learning Intern",
     "employer_name": "Cambium Assessment",
@@ -9475,54 +9523,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cambium Learning® Group is an award-winning educational technology solutions leader dedicated to helping all students reach their potential through individualized and differentiated instruction.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nano-ic-n9fjln3wnaputddxaaaaaa==",
-    "job_title": "Machine Learning/AI Software Intern",
-    "employer_name": "Nano IC",
-    "job_city": "Milpitas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-ai-software-intern/milpitas-california?id=2638272688",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b5e1a1d2f53c3f2288f7eb29a3516fd53d6b4bd80e62641836bdbd26c92e82b1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "keras",
-        "machine learning",
-        "neural network",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Location Milpitas, California (Remote work available for out-of-state candidates) About Us Nano IC (nano-ic.com) is a dynamic seed‑stage company with a focus on innovation in machine learning and arti…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -12465,21 +12465,76 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
-    "job_id": "js-coherent-corp-8zgwb7mmvs5cf8isaaaaaa==",
-    "job_title": "Intern - Data Scientist",
-    "employer_name": "Coherent Corp.",
-    "job_city": "Easton",
+    "job_id": "js-unitedhealth-group-x-jb7npylchotnrjaaaaaa==",
+    "job_title": "AI/ML Research Intern - PHD Level - Remote",
+    "employer_name": "UnitedHealth Group",
+    "job_city": "Eden Prairie",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/intern-data-scientist/8824204",
+    "job_is_remote": true,
+    "job_apply_link": "https://careers.unitedhealthgroup.com/job/eden-prairie/ai-ml-research-intern-phd-level-remote/34088/92872076752",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
     "salary": null,
-    "fingerprint": "71e8677dbf481a6a0fa3792dfd9166e39f22baff840a82f8cc49dadfb9335d5f",
+    "fingerprint": "4491408217d096488735f2b0cc3d5cb8d4dcd16325a74958246ec63df0d93c6d",
     "tags": {
       "employment": "internship",
       "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "data science",
+        "deep learning",
+        "java",
+        "machine learning",
+        "matlab",
+        "python",
+        "pytorch",
+        "r",
+        "statistical analysis",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications: • Currently enrolled in a PhD degree program with a concentration in machine learning, artificial intelligence, data science, computer science, statistics, biomedical informat…",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-general-dynamics-information-technology-mbll2her6-w2gjjdaaaaaa==",
+    "job_title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
+    "employer_name": "General Dynamics Information Technology",
+    "job_city": "Falls Church",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.gdit.com/careers/job/50fcc9afa/summer-2026-artificial-intelligencemachine-learning-associate-internship/",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "6bb382a122d9880001a25b2bcc95cfb84163d1c22c25ded6151a7986097a4130",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -12493,13 +12548,102 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "computer science"
+        "computer science",
+        "excel",
+        "machine learning",
+        "microsoft office",
+        "python"
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
-      "summary_line": "Education & Experience • Open to currently enrolled students or those who have graduated within one year of the internship start date.",
+      "summary_line": "Sponsorship is not available for this role.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-9mgcpxw4_c_6nh3uaaaaaa==",
+    "job_title": "Hardware Engineer I (Co-op) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.career.com/job/cisco/hardware-engineer-i-co-op-united-states/j202511131828362763140",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "mentor graphics",
+        "multimeter",
+        "oscilloscope"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Amentum",
+    "job_city": "Oak Ridge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -12549,6 +12693,46 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-coherent-corp-8zgwb7mmvs5cf8isaaaaaa==",
+    "job_title": "Intern - Data Scientist",
+    "employer_name": "Coherent Corp.",
+    "job_city": "Easton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/intern-data-scientist/8824204",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "71e8677dbf481a6a0fa3792dfd9166e39f22baff840a82f8cc49dadfb9335d5f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Education & Experience • Open to currently enrolled students or those who have graduated within one year of the internship start date.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -12737,60 +12921,6 @@
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
-    "job_id": "js-unitedhealth-group-x-jb7npylchotnrjaaaaaa==",
-    "job_title": "AI/ML Research Intern - PHD Level - Remote",
-    "employer_name": "UnitedHealth Group",
-    "job_city": "Eden Prairie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://careers.unitedhealthgroup.com/job/eden-prairie/ai-ml-research-intern-phd-level-remote/34088/92872076752",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4491408217d096488735f2b0cc3d5cb8d4dcd16325a74958246ec63df0d93c6d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "data science",
-        "deep learning",
-        "java",
-        "machine learning",
-        "matlab",
-        "python",
-        "pytorch",
-        "r",
-        "statistical analysis",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications: • Currently enrolled in a PhD degree program with a concentration in machine learning, artificial intelligence, data science, computer science, statistics, biomedical informat…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "js-fresenius-medical-care-f08njjfvqut56teqaaaaaa==",
     "job_title": "Computer Science Co-op",
     "employer_name": "Fresenius Medical Care",
@@ -12817,136 +12947,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-9mgcpxw4_c_6nh3uaaaaaa==",
-    "job_title": "Hardware Engineer I (Co-op) - United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.career.com/job/cisco/hardware-engineer-i-co-op-united-states/j202511131828362763140",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "mentor graphics",
-        "multimeter",
-        "oscilloscope"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Amentum",
-    "job_city": "Oak Ridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-general-dynamics-information-technology-mbll2her6-w2gjjdaaaaaa==",
-    "job_title": "Summer 2026 Artificial Intelligence/Machine Learning Associate Internship",
-    "employer_name": "General Dynamics Information Technology",
-    "job_city": "Falls Church",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.gdit.com/careers/job/50fcc9afa/summer-2026-artificial-intelligencemachine-learning-associate-internship/",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "6bb382a122d9880001a25b2bcc95cfb84163d1c22c25ded6151a7986097a4130",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "machine learning",
-        "microsoft office",
-        "python"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Sponsorship is not available for this role.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -16544,6 +16544,144 @@
     "job_posted_at": "2026-04-13T05:01:27.673Z"
   },
   {
+    "job_id": "js-american-honda-motor-co-inc-vjtvvk7kp2rc3v08aaaaaa==",
+    "job_title": "Electrical Engineering Co-op/Intern - Fall 2026",
+    "employer_name": "American Honda Motor Co., Inc.",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.honda.com/us/en/job/9633/Electrical-Engineering-Co-op-Intern-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "a70c7a8b1061ef94a36409aa28dd4db42e45239b6bcc3a3b868dafa12d6b3b4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "express",
+        "networking",
+        "performance testing",
+        "project management",
+        "reporting"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Electrical Engineering Co-op/Intern – Fall 2026",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-magna-international-v33ewujpuhwoedtaaaaaaa==",
+    "job_title": "Electrical Engineering Intern",
+    "employer_name": "Magna International",
+    "job_city": "Southfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/magna-international/jobs-internships/electrical-engineering-intern",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "037491bc74839ad024d3e071ab824c89740ccafd45fe2e9caad48f5b2a500a45",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "embedded systems",
+        "excel",
+        "mechatronics",
+        "microsoft office",
+        "pcb",
+        "pcb design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Currently pursuing a B.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-schneider-electric-jax7mpaybb4bfjvmaaaaaa==",
+    "job_title": "Electrical Engineering Co-Op",
+    "employer_name": "Schneider Electric",
+    "job_city": "Andover",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.se.com/jobs/110404?lang=en-us",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "bb17044cebd49b82d6552a134e25af43e0522c23f4ab4611c1738a0edd0ac2c2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cadence",
+        "cybersecurity",
+        "dsp",
+        "firmware",
+        "ltspice",
+        "matlab",
+        "simulink"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Schneider Electric has an opportunity for an Electrical Engineering Co-Op at our Andover, MA facility, starting June 2026.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ecs-sqi820xnhqgh0fwqaaaaaa==",
     "job_title": "Junior Data Scientist Intern",
     "employer_name": "ECS",
@@ -16719,144 +16857,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-american-honda-motor-co-inc-vjtvvk7kp2rc3v08aaaaaa==",
-    "job_title": "Electrical Engineering Co-op/Intern - Fall 2026",
-    "employer_name": "American Honda Motor Co., Inc.",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.honda.com/us/en/job/9633/Electrical-Engineering-Co-op-Intern-Fall-2026",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a70c7a8b1061ef94a36409aa28dd4db42e45239b6bcc3a3b868dafa12d6b3b4c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "express",
-        "networking",
-        "performance testing",
-        "project management",
-        "reporting"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Electrical Engineering Co-op/Intern – Fall 2026",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-magna-international-v33ewujpuhwoedtaaaaaaa==",
-    "job_title": "Electrical Engineering Intern",
-    "employer_name": "Magna International",
-    "job_city": "Southfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/magna-international/jobs-internships/electrical-engineering-intern",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "037491bc74839ad024d3e071ab824c89740ccafd45fe2e9caad48f5b2a500a45",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "embedded systems",
-        "excel",
-        "mechatronics",
-        "microsoft office",
-        "pcb",
-        "pcb design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Currently pursuing a B.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-schneider-electric-jax7mpaybb4bfjvmaaaaaa==",
-    "job_title": "Electrical Engineering Co-Op",
-    "employer_name": "Schneider Electric",
-    "job_city": "Andover",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.se.com/jobs/110404?lang=en-us",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "bb17044cebd49b82d6552a134e25af43e0522c23f4ab4611c1738a0edd0ac2c2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "cadence",
-        "cybersecurity",
-        "dsp",
-        "firmware",
-        "ltspice",
-        "matlab",
-        "simulink"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Schneider Electric has an opportunity for an Electrical Engineering Co-Op at our Andover, MA facility, starting June 2026.",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
@@ -17474,6 +17474,96 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-general-dynamics-information-technology-bnmrht36asuypkgaaaaaaa==",
+    "job_title": "Artificial Intelligence & Machine Learning Associate Intern",
+    "employer_name": "General Dynamics Information Technology",
+    "job_city": "Springfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/artificial-intelligence-machine-learning-associate-intern--springfield--ebcad10cfeaff6201c13f2c0531eeb920",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "30903449c60f77f0cd10c4805714b5de464c2a0efb0b5572442d3397bbfd1b7f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "excel",
+        "machine learning",
+        "microsoft office",
+        "python",
+        "sql",
+        "statistical analysis"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Job Qualifications • Problem Solving • Programming Languages • Statistical Analysis Techniques  Job Description • Type of Requisition: Regular • Clearance Level Must Currently Possess: None • Clearanc…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
+    "job_title": "Engineering Intern - Hardware Engineering",
+    "employer_name": "Veralto Global",
+    "job_city": "Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "regression"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ucla-health-careers-fs4d3nfxys6woghtaaaaaa==",
     "job_title": "Undergraduate Summer Intern -UCLA Health Information Technology's Advanced Analytics (Data Science) Team",
     "employer_name": "UCLA Health Careers",
@@ -18032,96 +18122,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You • You are genuinely passionate about our purpose  • You bring precision and excellence to all that you do  • You believe in our rooted-in-science approach to problem-solving  • You are a gen…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
-    "job_title": "Engineering Intern - Hardware Engineering",
-    "employer_name": "Veralto Global",
-    "job_city": "Loveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "regression"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-general-dynamics-information-technology-bnmrht36asuypkgaaaaaaa==",
-    "job_title": "Artificial Intelligence & Machine Learning Associate Intern",
-    "employer_name": "General Dynamics Information Technology",
-    "job_city": "Springfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/artificial-intelligence-machine-learning-associate-intern--springfield--ebcad10cfeaff6201c13f2c0531eeb920",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "30903449c60f77f0cd10c4805714b5de464c2a0efb0b5572442d3397bbfd1b7f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "excel",
-        "machine learning",
-        "microsoft office",
-        "python",
-        "sql",
-        "statistical analysis"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Job Qualifications • Problem Solving • Programming Languages • Statistical Analysis Techniques  Job Description • Type of Requisition: Regular • Clearance Level Must Currently Possess: None • Clearanc…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
