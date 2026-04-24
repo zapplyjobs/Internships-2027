@@ -1,5 +1,93 @@
 [
   {
+    "job_id": "greenhouse-cloudflare-7822668",
+    "job_title": "Procurement Analyst Intern",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7822668?gh_jid=7822668",
+    "job_posted_at_datetime_utc": "2026-04-24T00:31:45.901Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b11f5e6773e4a4a346b4b7a2c13114786ccc2897243ec666a933c79040ee1f75",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance",
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-24T00:31:45.901Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7822659",
+    "job_title": "Procurement Intern (JD)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7822659?gh_jid=7822659",
+    "job_posted_at_datetime_utc": "2026-04-24T00:31:45.901Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec9dfbcf5d5ce00c128cfd921e9b192e3280d32557ab11ca833ceee95f00916b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-24T00:31:45.901Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7822643",
+    "job_title": "Procurement Strategy & Operations Intern",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7822643?gh_jid=7822643",
+    "job_posted_at_datetime_utc": "2026-04-24T00:31:45.901Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "662afc1bcebeb4146f460fbc65196549669f2a9085b493a04a0be316a124fa86",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "hybrid"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-24T00:31:45.901Z"
+  },
+  {
     "job_id": "workday-microchip-technology-R696-26",
     "job_title": "Intern- Engineering (Data Engineering)",
     "employer_name": "Microchip Technology",
@@ -2068,6 +2156,34 @@
     "job_posted_at": "2026-04-23T07:34:41.499Z"
   },
   {
+    "job_id": "greenhouse-knowbe4-8485631002",
+    "job_title": "Demand Generation Intern",
+    "employer_name": "KnowBe4",
+    "job_city": "Arlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/knowbe4/jobs/8485631002",
+    "job_posted_at_datetime_utc": "2026-04-23T07:34:36.795Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c819c1793ce4345182130bd5624da3d2f546c76ad0dffd449bae58283fe50c25",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-23T07:34:36.795Z"
+  },
+  {
     "job_id": "greenhouse-knowbe4-8284134002",
     "job_title": "Sales Development Intern (Hybrid)",
     "employer_name": "KnowBe4",
@@ -2112,34 +2228,6 @@
       "employment": "internship",
       "domains": [
         "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-23T07:34:36.795Z"
-  },
-  {
-    "job_id": "greenhouse-knowbe4-8485631002",
-    "job_title": "Demand Generation Intern",
-    "employer_name": "KnowBe4",
-    "job_city": "Arlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/knowbe4/jobs/8485631002",
-    "job_posted_at_datetime_utc": "2026-04-23T07:34:36.795Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c819c1793ce4345182130bd5624da3d2f546c76ad0dffd449bae58283fe50c25",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -2900,6 +2988,36 @@
     "job_posted_at": "2026-04-23T00:06:59.858Z"
   },
   {
+    "job_id": "js-enersys-uyhjmqacdmrsr25oaaaaaa==",
+    "job_title": "Graduate ML Engineering Intern",
+    "employer_name": "EnerSys",
+    "job_city": "Pennsylvania",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://powertofly.com/jobs/detail/2534533",
+    "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e4fd4682cd68a2d411cb0695a534c8a82d9042a683d8511055f82da2442051f0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-23T00:00:00.000Z"
+  },
+  {
     "job_id": "js-adobe-_dwbeiasbndx-blgaaaaaa==",
     "job_title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
     "employer_name": "Adobe",
@@ -3003,6 +3121,54 @@
     "job_posted_at": "2026-04-22T23:29:55.784Z"
   },
   {
+    "job_id": "js-adobe-lxjaziwhxk0wxlcwaaaaaa==",
+    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
+    "job_posted_at_datetime_utc": "2026-04-22T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9f43ab4fe94b82adb30d2a4681920a1482c1356d6612a6c8163e2bf0d4c5b8c0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "deep learning",
+        "express",
+        "java",
+        "machine learning",
+        "matlab",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-22T23:00:00.000Z"
+  },
+  {
     "job_id": "js-hntb-nwvgwwy-tzvq6zfbaaaaaa==",
     "job_title": "GIS Data Scientist Intern - Summer 2026",
     "employer_name": "HNTB",
@@ -3096,54 +3262,6 @@
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": true
-    },
-    "job_posted_at": "2026-04-22T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-adobe-lxjaziwhxk0wxlcwaaaaaa==",
-    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
-    "job_posted_at_datetime_utc": "2026-04-22T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9f43ab4fe94b82adb30d2a4681920a1482c1356d6612a6c8163e2bf0d4c5b8c0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "deep learning",
-        "express",
-        "java",
-        "machine learning",
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
     },
     "job_posted_at": "2026-04-22T23:00:00.000Z"
   },
@@ -5521,6 +5639,50 @@
     "job_posted_at": "2026-04-22T00:06:05.756Z"
   },
   {
+    "job_id": "js-glenn-research-center-lzqyc_un_78zbu5haaaaaa==",
+    "job_title": "AI and Machine Learning Intern",
+    "employer_name": "Glenn Research Center",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/glenn-research-center/jobs-internships/ai-and-machine-learning-intern",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "72961dea2cbec7493a547fe8aaad1519cb44c83fd8a82c62735bf472f784d713",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data visualization",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-22T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-3963e5dd-8114-4dbc-9024-1a4e0ee5f56c",
     "job_title": "Data Engineer Internship - Fall 2026 (US)",
     "employer_name": "Amazon.com Services LLC",
@@ -5654,50 +5816,6 @@
         "windows"
       ],
       "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-glenn-research-center-lzqyc_un_78zbu5haaaaaa==",
-    "job_title": "AI and Machine Learning Intern",
-    "employer_name": "Glenn Research Center",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/glenn-research-center/jobs-internships/ai-and-machine-learning-intern",
-    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "72961dea2cbec7493a547fe8aaad1519cb44c83fd8a82c62735bf472f784d713",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data visualization",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
@@ -7527,6 +7645,74 @@
     "job_posted_at": "2026-04-21T07:01:22.858Z"
   },
   {
+    "job_id": "workday-rtx-01839357",
+    "job_title": "Stage - Automne - Stagiaire en Gestion de Talent / Internship - Fall - Talent Management Intern",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-Gestion-de-Talent---Internship---Fall---Talent-Management-Intern_01839357",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:22.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4f5c3367cf43badb81e410435722352a9fa218dc4267b1f2fb0abd48af130ff",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-21T07:01:22.857Z"
+  },
+  {
+    "job_id": "workday-rtx-01838836",
+    "job_title": "Stage - Automne 2026 - Ingénieur client et Nouveau programme moteur /Internship - Fall 2026 - Customer Engineering & New Engine Program",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingnieur-client-et-Nouveau-programme-moteur--Internship---Fall-2026---Customer-Engineering---New-Engine-Program_01838836",
+    "job_posted_at_datetime_utc": "2026-04-21T07:01:22.857Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "267b98a5e65eef9049b5b8d6bf21246bbf77df476d045c5d6b8dd0f7ebba0235",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T07:01:22.857Z"
+  },
+  {
     "job_id": "workday-rtx-01839124",
     "job_title": "Stage Automne 2026 - Maintenance, Réparation, Révision et Gestion des coûts / Internship Fall 2026 - Maintenance, Repair, Overhaul and Cost Management",
     "employer_name": "RTX",
@@ -7636,74 +7822,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:22.857Z"
-  },
-  {
-    "job_id": "workday-rtx-01839357",
-    "job_title": "Stage - Automne - Stagiaire en Gestion de Talent / Internship - Fall - Talent Management Intern",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-Gestion-de-Talent---Internship---Fall---Talent-Management-Intern_01839357",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:22.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4f5c3367cf43badb81e410435722352a9fa218dc4267b1f2fb0abd48af130ff",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T07:01:22.857Z"
-  },
-  {
-    "job_id": "workday-rtx-01838836",
-    "job_title": "Stage - Automne 2026 - Ingénieur client et Nouveau programme moteur /Internship - Fall 2026 - Customer Engineering & New Engine Program",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingnieur-client-et-Nouveau-programme-moteur--Internship---Fall-2026---Customer-Engineering---New-Engine-Program_01838836",
-    "job_posted_at_datetime_utc": "2026-04-21T07:01:22.857Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "267b98a5e65eef9049b5b8d6bf21246bbf77df476d045c5d6b8dd0f7ebba0235",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-21T07:01:22.857Z"
   },
   {
@@ -7996,72 +8114,23 @@
     "job_posted_at": "2026-04-21T00:48:32.708Z"
   },
   {
-    "job_id": "js-airbnb-lfav2zjexcjekwwwaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "Airbnb",
-    "job_city": "Gunnison",
+    "job_id": "js-the-aerospace-corporation-bgrwlxq4s3f4u2rkaaaaaa==",
+    "job_title": "2026 Machine Learning Engineering Grad Intern",
+    "employer_name": "The Aerospace Corporation",
+    "job_city": "Chantilly",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.themuse.com/jobs/airbnb/data-science-intern-073fc5",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a8d4c5568c85926bf6786cb3500cb520df12313bb216b6ff335ee02926a59ccc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "computer science",
-        "data science",
-        "genai",
-        "llm",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-yes-communities-aw3uqcnnfn1jobqjaaaaaa==",
-    "job_title": "Data Science Intern – FP&A Analytics & Modeling",
-    "employer_name": "YES! Communities",
-    "job_city": "Denver",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-fp-a-analytics-modeling--denver--edd9faab26ab931c11d23c5067e01cd63",
+    "job_apply_link": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
     "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "9691ac5114a1b8aa555cf54dca90f259e561282e09c9e6f41e95508acd7194bb",
+    "fingerprint": "1988fe99ecef8c7e1d76abee3ee1b983cfee99ba55d8d5fc3383564aa647cc71",
     "tags": {
       "employment": "internship",
       "domains": [
-        "data_science",
-        "finance"
+        "ai",
+        "data_science"
       ],
       "locations": [
         "us",
@@ -8074,10 +8143,83 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "analytics",
+        "agentic",
+        "arm",
+        "computer science",
+        "computer vision",
+        "cyber security",
         "data science",
-        "excel",
-        "sql"
+        "devops",
+        "docker",
+        "generative ai",
+        "hadoop",
+        "kubernetes",
+        "linux",
+        "machine learning",
+        "microservices",
+        "mlflow",
+        "natural language processing",
+        "process improvement",
+        "project management",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "spark",
+        "statistics",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-8onzyxrtczwwte9saaaaaa==",
+    "job_title": "Hardware Intern, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Plymouth",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123842BR/Hardware-Intern-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "151277dc74be26c00d2f0d43fb97ffa7d9164c352aac499adf7d58358907f105",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "ansys",
+        "assembly",
+        "autocad",
+        "cadence",
+        "creo",
+        "hfss",
+        "labview",
+        "matlab",
+        "networking",
+        "nx",
+        "plc",
+        "solidworks",
+        "verilog",
+        "vhdl"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -8086,6 +8228,35 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-panasonic-fm9a1vwbcqy_ljpdaaaaaa==",
+    "job_title": "Intern-Hardware Engineering",
+    "employer_name": "Panasonic",
+    "job_city": "Irvine",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/6p3cMmnSGF7QB2WunVgj8Y",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a9f02ad2c99a18b498c1c8996d10bd4f91e3ec14db0c1005dad82bd2cb1a22c2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-21T00:00:00.000Z"
   },
   {
@@ -8234,6 +8405,99 @@
     "job_posted_at": "2026-04-21T00:00:00.000Z"
   },
   {
+    "job_id": "js-airbnb-lfav2zjexcjekwwwaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "Airbnb",
+    "job_city": "Gunnison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.themuse.com/jobs/airbnb/data-science-intern-073fc5",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a8d4c5568c85926bf6786cb3500cb520df12313bb216b6ff335ee02926a59ccc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "computer science",
+        "data science",
+        "genai",
+        "llm",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-yes-communities-aw3uqcnnfn1jobqjaaaaaa==",
+    "job_title": "Data Science Intern – FP&A Analytics & Modeling",
+    "employer_name": "YES! Communities",
+    "job_city": "Denver",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-fp-a-analytics-modeling--denver--edd9faab26ab931c11d23c5067e01cd63",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "9691ac5114a1b8aa555cf54dca90f259e561282e09c9e6f41e95508acd7194bb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science",
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data science",
+        "excel",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rtx-crcavx4gk90qhw1maaaaaa==",
     "job_title": "Software Engineering Intern - (Summer 2026)  (Onsite)",
     "employer_name": "RTX",
@@ -8321,123 +8585,6 @@
         "spark",
         "sql",
         "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-aerospace-corporation-bgrwlxq4s3f4u2rkaaaaaa==",
-    "job_title": "2026 Machine Learning Engineering Grad Intern",
-    "employer_name": "The Aerospace Corporation",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1988fe99ecef8c7e1d76abee3ee1b983cfee99ba55d8d5fc3383564aa647cc71",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "arm",
-        "computer science",
-        "computer vision",
-        "cyber security",
-        "data science",
-        "devops",
-        "docker",
-        "generative ai",
-        "hadoop",
-        "kubernetes",
-        "linux",
-        "machine learning",
-        "microservices",
-        "mlflow",
-        "natural language processing",
-        "process improvement",
-        "project management",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "spark",
-        "statistics",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-8onzyxrtczwwte9saaaaaa==",
-    "job_title": "Hardware Intern, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Plymouth",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123842BR/Hardware-Intern-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "151277dc74be26c00d2f0d43fb97ffa7d9164c352aac499adf7d58358907f105",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "assembly",
-        "autocad",
-        "cadence",
-        "creo",
-        "hfss",
-        "labview",
-        "matlab",
-        "networking",
-        "nx",
-        "plc",
-        "solidworks",
-        "verilog",
-        "vhdl"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -11190,52 +11337,6 @@
     "job_posted_at": "2026-04-20T07:01:35.092Z"
   },
   {
-    "job_id": "workday-state-street-R-787197",
-    "job_title": "State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026",
-    "employer_name": "State Street",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Audit-Team---Integrated-Audit-Data-Analyst---Summer-Internship-2026_R-787197",
-    "job_posted_at_datetime_utc": "2026-04-20T07:01:28.730Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a6ce1511ed4715e6de2a75968ea042e580164f7d814e381c7940ddf12b566f03",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "data science",
-        "machine learning",
-        "project management",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T07:01:28.730Z"
-  },
-  {
     "job_id": "workday-state-street-R-788829",
     "job_title": "Professional Services Operations Intern- July- Dec (6 Month)",
     "employer_name": "State Street",
@@ -11289,6 +11390,52 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-20T07:01:28.730Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787197",
+    "job_title": "State Street Audit Team - Integrated Audit Data Analyst - Summer Internship 2026",
+    "employer_name": "State Street",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Audit-Team---Integrated-Audit-Data-Analyst---Summer-Internship-2026_R-787197",
+    "job_posted_at_datetime_utc": "2026-04-20T07:01:28.730Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a6ce1511ed4715e6de2a75968ea042e580164f7d814e381c7940ddf12b566f03",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "data science",
+        "machine learning",
+        "project management",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T07:01:28.730Z"
   },
   {
@@ -12775,14 +12922,14 @@
     "job_posted_at": "2026-04-20T01:58:52.591Z"
   },
   {
-    "job_id": "lever-multiplylabs-8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
-    "job_title": "Software Intern",
+    "job_id": "lever-multiplylabs-acca98ab-c206-4f71-b7a5-6977e4828586",
+    "job_title": "Robotics Software Intern",
     "employer_name": "Multiply Labs",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
+    "job_apply_link": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:58:52.463Z",
     "job_employment_type": "FULLTIME",
     "salary": {
@@ -12791,11 +12938,12 @@
       "currency": "USD",
       "interval": "per-month-salary"
     },
-    "fingerprint": "50c22b619b9acbb00db0f309e17ad00f71bdf9ce94b01f9817fa386c9528ab14",
+    "fingerprint": "09f68ff3b1ecbb15c9424672eab4dd76b7899b7e813537e388a06c53a655c835",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "software",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -12824,14 +12972,14 @@
     "job_posted_at": "2026-04-20T01:58:52.463Z"
   },
   {
-    "job_id": "lever-multiplylabs-acca98ab-c206-4f71-b7a5-6977e4828586",
-    "job_title": "Robotics Software Intern",
+    "job_id": "lever-multiplylabs-8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b",
+    "job_title": "Software Intern",
     "employer_name": "Multiply Labs",
     "job_city": "San Francisco",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply",
+    "job_apply_link": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply",
     "job_posted_at_datetime_utc": "2026-04-20T01:58:52.463Z",
     "job_employment_type": "FULLTIME",
     "salary": {
@@ -12840,12 +12988,11 @@
       "currency": "USD",
       "interval": "per-month-salary"
     },
-    "fingerprint": "09f68ff3b1ecbb15c9424672eab4dd76b7899b7e813537e388a06c53a655c835",
+    "fingerprint": "50c22b619b9acbb00db0f309e17ad00f71bdf9ce94b01f9817fa386c9528ab14",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software",
-        "hardware"
+        "software"
       ],
       "locations": [
         "us"
@@ -13883,105 +14030,6 @@
     "job_posted_at": "2026-04-20T01:58:01.219Z"
   },
   {
-    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
-    "job_title": "Programmatic Analyst Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:57:59.349Z"
-  },
-  {
-    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
-    "job_title": "Business Development Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:57:59.349Z"
-  },
-  {
-    "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
-    "job_title": "Commercial Partnerships Intern",
-    "employer_name": "Samba TV",
-    "job_city": "New York City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.lever.co/sambatv/a80bdcb6-caba-48ec-8f99-f5351bdee7a2/apply",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "5097de64404f2c5fd80591e1cf821804f6b4b4ba16b3f4033595825e824d91ba",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-20T01:57:59.349Z"
-  },
-  {
     "job_id": "lever-sambatv-9aea066a-f48a-4d67-a942-31401f8c334d",
     "job_title": "HR Intern",
     "employer_name": "Samba TV",
@@ -14069,6 +14117,105 @@
       "employment": "internship",
       "domains": [
         "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:57:59.349Z"
+  },
+  {
+    "job_id": "lever-sambatv-00567176-7d88-40b5-9741-3d2f57e5ad00",
+    "job_title": "Programmatic Analyst Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "12cc0966041648f90fa92f828bfcc37ca4366f9cd4d2d70f59657a3eef99f371",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:57:59.349Z"
+  },
+  {
+    "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
+    "job_title": "Business Development Intern",
+    "employer_name": "Samba TV",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/37f2461d-8c6c-4b05-9140-3c1c2e22f3fb/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "624acea9a177510a46768b378350d3f987a4974db589c4a31cedc2588f37f679",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-20T01:57:59.349Z"
+  },
+  {
+    "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
+    "job_title": "Commercial Partnerships Intern",
+    "employer_name": "Samba TV",
+    "job_city": "New York City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.lever.co/sambatv/a80bdcb6-caba-48ec-8f99-f5351bdee7a2/apply",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:59.349Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "5097de64404f2c5fd80591e1cf821804f6b4b4ba16b3f4033595825e824d91ba",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
       ],
       "locations": [
         "us"
@@ -14224,35 +14371,6 @@
     "job_posted_at": "2026-04-20T01:57:57.172Z"
   },
   {
-    "job_id": "greenhouse-zscaler-5100618007",
-    "job_title": "Insider Risk Analyst - SkillBridge Intern",
-    "employer_name": "Zscaler",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100618007",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:57.171Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d176d8ed150cd11a09f74b6f29e9edbbea543a4d116359e3d6b24b6efd2cbb46",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:57.171Z"
-  },
-  {
     "job_id": "greenhouse-zscaler-5100450007",
     "job_title": "Marketing Intern, LabThreatz",
     "employer_name": "Zscaler",
@@ -14297,6 +14415,35 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:57.171Z"
+  },
+  {
+    "job_id": "greenhouse-zscaler-5100618007",
+    "job_title": "Insider Risk Analyst - SkillBridge Intern",
+    "employer_name": "Zscaler",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100618007",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:57.171Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d176d8ed150cd11a09f74b6f29e9edbbea543a4d116359e3d6b24b6efd2cbb46",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
       ],
       "locations": [
         "us",
@@ -15232,6 +15379,34 @@
     "job_posted_at": "2026-04-20T01:57:57.133Z"
   },
   {
+    "job_id": "greenhouse-xometry-5008795007",
+    "job_title": "Assembly and Rework Intern",
+    "employer_name": "Xometry",
+    "job_city": "Gaithersburg",
+    "job_state": "MD",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008795007",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:57.132Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "efe499e662fde928448c05044ee1916fc88e61c4998a2b5279dd4b4cf34acfa3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:57.132Z"
+  },
+  {
     "job_id": "greenhouse-xometry-5008904007",
     "job_title": "Accounting Intern",
     "employer_name": "Xometry",
@@ -15276,34 +15451,6 @@
       "employment": "internship",
       "domains": [
         "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:57.132Z"
-  },
-  {
-    "job_id": "greenhouse-xometry-5008795007",
-    "job_title": "Assembly and Rework Intern",
-    "employer_name": "Xometry",
-    "job_city": "Gaithersburg",
-    "job_state": "MD",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5008795007",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:57.132Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "efe499e662fde928448c05044ee1916fc88e61c4998a2b5279dd4b4cf34acfa3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
       ],
       "locations": [
         "us"
@@ -16343,52 +16490,6 @@
     "job_posted_at": "2026-04-20T01:57:48.826Z"
   },
   {
-    "job_id": "greenhouse-truveta-5837714004",
-    "job_title": "Agentic AI Software Testing Intern – Intelligence Platform (IPA)",
-    "employer_name": "Truveta",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5837714004",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:48.675Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "203bb0421267dc8f6a13a1da29b41ed5cc8061edfd1ed3b11531a492c6a19d8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "azure",
-        "azure devops",
-        "computer science",
-        "devops",
-        "end-to-end testing",
-        "jira",
-        "regression"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "possible_sponsor": null,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:48.675Z"
-  },
-  {
     "job_id": "greenhouse-truveta-5712997004",
     "job_title": "ML PhD Intern - LLMs & Generative AI",
     "employer_name": "Truveta",
@@ -16429,6 +16530,52 @@
       "sponsors_visa": null,
       "visa_question_present": true,
       "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:48.675Z"
+  },
+  {
+    "job_id": "greenhouse-truveta-5837714004",
+    "job_title": "Agentic AI Software Testing Intern – Intelligence Platform (IPA)",
+    "employer_name": "Truveta",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5837714004",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:48.675Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "203bb0421267dc8f6a13a1da29b41ed5cc8061edfd1ed3b11531a492c6a19d8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "azure",
+        "azure devops",
+        "computer science",
+        "devops",
+        "end-to-end testing",
+        "jira",
+        "regression"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": true,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
@@ -16969,48 +17116,6 @@
     "job_posted_at": "2026-04-20T01:57:40.828Z"
   },
   {
-    "job_id": "greenhouse-stripe-7216664",
-    "job_title": "PhD Machine Learning Engineer, Intern",
-    "employer_name": "Stripe",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7216664",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:39.785Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "737512ea293a717eb97ab2bb15eaa0af9c21e8a8626ab1086e5e61ff9e82a1c7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "machine learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:39.785Z"
-  },
-  {
     "job_id": "greenhouse-stripe-7210115",
     "job_title": "Software Engineer, Intern (Summer)",
     "employer_name": "Stripe",
@@ -17048,6 +17153,48 @@
         "ruby",
         "scala",
         "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:39.785Z"
+  },
+  {
+    "job_id": "greenhouse-stripe-7216664",
+    "job_title": "PhD Machine Learning Engineer, Intern",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7216664",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:39.785Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "737512ea293a717eb97ab2bb15eaa0af9c21e8a8626ab1086e5e61ff9e82a1c7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "machine learning"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -18800,35 +18947,6 @@
     "job_posted_at": "2026-04-20T01:57:36.351Z"
   },
   {
-    "job_id": "ashby-illumio-58e64006-2332-4988-bd9e-d47d6f8df0bf",
-    "job_title": "Technical Product Management Intern",
-    "employer_name": "Illumio",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/illumio/58e64006-2332-4988-bd9e-d47d6f8df0bf/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:36.338Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "3ddba49f59f7d8d16d2ad00b80de814123af3b3241b137250b1231ae678daf3a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-20T01:57:36.338Z"
-  },
-  {
     "job_id": "ashby-illumio-da9e6331-07ec-46f9-b4b6-b5c4f0b6d21b",
     "job_title": "Technical Program Management Intern",
     "employer_name": "Illumio",
@@ -18917,6 +19035,35 @@
       "summary_line": "Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-20T01:57:36.338Z"
+  },
+  {
+    "job_id": "ashby-illumio-58e64006-2332-4988-bd9e-d47d6f8df0bf",
+    "job_title": "Technical Product Management Intern",
+    "employer_name": "Illumio",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/illumio/58e64006-2332-4988-bd9e-d47d6f8df0bf/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:36.338Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "3ddba49f59f7d8d16d2ad00b80de814123af3b3241b137250b1231ae678daf3a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
     "job_posted_at": "2026-04-20T01:57:36.338Z"
   },
   {
@@ -19337,122 +19484,6 @@
     "job_posted_at": "2026-04-20T01:57:34.561Z"
   },
   {
-    "job_id": "greenhouse-point72-7297613002",
-    "job_title": "Summer 2027 Quantitative Developer Internship",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "32714e853f6141a79572ad0a3ccb1bf1273055c626ad8e91227199a5c731c417",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7297642002",
-    "job_title": "Summer 2027 Quantitative Research Internship",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78309d02c878fe39914d597cf5ad841266bc50c7ef15dace1368685ee22166fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "python",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7302611002",
-    "job_title": "Machine Learning Researcher - Intern",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "machine learning",
-        "matlab",
-        "natural language processing",
-        "python",
-        "r",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:34.130Z"
-  },
-  {
     "job_id": "greenhouse-point72-7609197002",
     "job_title": "Quantitative Developer Intern",
     "employer_name": "Point72",
@@ -19657,6 +19688,122 @@
         "mysql",
         "networking",
         "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297613002",
+    "job_title": "Summer 2027 Quantitative Developer Internship",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "32714e853f6141a79572ad0a3ccb1bf1273055c626ad8e91227199a5c731c417",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7297642002",
+    "job_title": "Summer 2027 Quantitative Research Internship",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78309d02c878fe39914d597cf5ad841266bc50c7ef15dace1368685ee22166fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "python",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:34.130Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7302611002",
+    "job_title": "Machine Learning Researcher - Intern",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:34.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "python",
+        "r",
+        "statistics"
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
@@ -20601,90 +20748,6 @@
     "job_posted_at": "2026-04-20T01:57:33.094Z"
   },
   {
-    "job_id": "greenhouse-olsson-4632038008",
-    "job_title": "General Internship Application",
-    "employer_name": "Olsson",
-    "job_city": "Baton Rouge",
-    "job_state": "LA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4632038008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "441129f363bed95fe5fdc7f5cbb964d81a6c8116d5fd8d0168b67c86e56f753e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:33.081Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5182689008",
-    "job_title": "Government Affairs Internship",
-    "employer_name": "Olsson",
-    "job_city": "Lincoln",
-    "job_state": "NE",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5182689008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ab3aabc8df846db3a5f6f6deda2b4c509294be17dc93b89ddbc9f258640a2369",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:33.081Z"
-  },
-  {
-    "job_id": "greenhouse-olsson-5142358008",
-    "job_title": "Marketing Student Internship",
-    "employer_name": "Olsson",
-    "job_city": "Lincoln",
-    "job_state": "NE",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5142358008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e192a876782173bf6770bb7b0f3cef87c993d2daf8913ff74c7a8ebff1626352",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:33.081Z"
-  },
-  {
     "job_id": "greenhouse-olsson-5130732008",
     "job_title": "Structural Drafting Internship",
     "employer_name": "Olsson",
@@ -20785,6 +20848,90 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:33.081Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-4632038008",
+    "job_title": "General Internship Application",
+    "employer_name": "Olsson",
+    "job_city": "Baton Rouge",
+    "job_state": "LA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/4632038008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "441129f363bed95fe5fdc7f5cbb964d81a6c8116d5fd8d0168b67c86e56f753e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:33.081Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5182689008",
+    "job_title": "Government Affairs Internship",
+    "employer_name": "Olsson",
+    "job_city": "Lincoln",
+    "job_state": "NE",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5182689008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ab3aabc8df846db3a5f6f6deda2b4c509294be17dc93b89ddbc9f258640a2369",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:33.081Z"
+  },
+  {
+    "job_id": "greenhouse-olsson-5142358008",
+    "job_title": "Marketing Student Internship",
+    "employer_name": "Olsson",
+    "job_city": "Lincoln",
+    "job_state": "NE",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5142358008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:33.081Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e192a876782173bf6770bb7b0f3cef87c993d2daf8913ff74c7a8ebff1626352",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
@@ -22103,202 +22250,6 @@
     "job_posted_at": "2026-04-20T01:57:31.320Z"
   },
   {
-    "job_id": "greenhouse-lgelectronics-5156404008",
-    "job_title": "Public Relations Intern (PR/Marketing)",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5156404008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b82a76b241218d33cdce56720879db406670253145307799a62da874bd29ae33",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5149281008",
-    "job_title": "Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)",
-    "employer_name": "LG Electronics",
-    "job_city": "Bloomington",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5149281008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05dac3a3d35225e8b6956447b7ad1f82b86ce92a4c33403aae138fc5e0536ce1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5148889008",
-    "job_title": "Sales Intern (Home Appliance Solutions)",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5148889008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b2ca12793a089b5c67f34d2eef85672a078aaf9a2e64ccfaef889ab8b566198",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5165773008",
-    "job_title": "Sales Intern - Home Depot Account - Alpharetta, GA",
-    "employer_name": "LG Electronics",
-    "job_city": "Alpharetta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5165773008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41748a08f95ec4dc3c46907ccd850252ba96d80bd06849b863b8e654a019a677",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5170240008",
-    "job_title": "SCM - Intern - National Operations (Best Buy Accounts)",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5170240008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dec2d568fb35cefafe533d88245536536aef4f34d92c4f3a923931700c14bebf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5160590008",
-    "job_title": "SEO/GEO Specialist - Intern",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5160590008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f74de2093214494c9fa30fc8f6791209181548d0f5bf6ae3251180bd9ffb4eb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5155926008",
-    "job_title": "Social Media Intern (CXM)",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5155926008",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5eac6aaeeebc4791b31f18249635bc7456380dc01ce664d81354d06f27f1d37",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:31.200Z"
-  },
-  {
     "job_id": "greenhouse-lgelectronics-5170017008",
     "job_title": "Energy Solutions (ES) SCM Intern",
     "employer_name": "LG Electronics",
@@ -22479,6 +22430,202 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b96984ef084fe136fafc7834e86f218b6770855efe119f39c1776dd185dfcb3d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5156404008",
+    "job_title": "Public Relations Intern (PR/Marketing)",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5156404008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b82a76b241218d33cdce56720879db406670253145307799a62da874bd29ae33",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5149281008",
+    "job_title": "Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)",
+    "employer_name": "LG Electronics",
+    "job_city": "Bloomington",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5149281008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05dac3a3d35225e8b6956447b7ad1f82b86ce92a4c33403aae138fc5e0536ce1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5148889008",
+    "job_title": "Sales Intern (Home Appliance Solutions)",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5148889008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b2ca12793a089b5c67f34d2eef85672a078aaf9a2e64ccfaef889ab8b566198",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5165773008",
+    "job_title": "Sales Intern - Home Depot Account - Alpharetta, GA",
+    "employer_name": "LG Electronics",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5165773008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41748a08f95ec4dc3c46907ccd850252ba96d80bd06849b863b8e654a019a677",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5170240008",
+    "job_title": "SCM - Intern - National Operations (Best Buy Accounts)",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5170240008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dec2d568fb35cefafe533d88245536536aef4f34d92c4f3a923931700c14bebf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5160590008",
+    "job_title": "SEO/GEO Specialist - Intern",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5160590008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f74de2093214494c9fa30fc8f6791209181548d0f5bf6ae3251180bd9ffb4eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:31.200Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5155926008",
+    "job_title": "Social Media Intern (CXM)",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5155926008",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:31.200Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5eac6aaeeebc4791b31f18249635bc7456380dc01ce664d81354d06f27f1d37",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -22713,149 +22860,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-20T01:57:29.933Z"
-  },
-  {
-    "job_id": "ashby-etched-0321523b-f0c3-44cd-9c46-cf318a1cad9e",
-    "job_title": "GTM Intern",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "d5633db8b7dd482f03be51d2ac77a8074b4649a90f862bf6113ad9a016844065",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-20T01:57:29.724Z"
-  },
-  {
-    "job_id": "ashby-etched-f32908bd-8abc-495c-ab69-ac893b6c924d",
-    "job_title": "Core Ops Intern",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "5f620b654cb01a2ed73edd5075d13e8be8b6f43f9a9fdf9bfd0ea916ed118212",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "html",
-        "http",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:29.724Z"
-  },
-  {
-    "job_id": "ashby-etched-097cf1d6-592c-4ce4-910e-401512278368",
-    "job_title": "Platform Intern",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/097cf1d6-592c-4ce4-910e-401512278368/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "70d9af01427aebcee92531f78d0d380e4495252a01114de033ff6f3d9c02cfd8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "html",
-        "http",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:29.724Z"
-  },
-  {
-    "job_id": "ashby-etched-639fe410-56a4-44aa-ac93-8ee7c10c7d75",
-    "job_title": "Talent Intern",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "c7e717be08988a0edc1f2d059d03beb04ae56bfc66eb12d564d1371ccde4a91e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-20T01:57:29.724Z"
   },
   {
     "job_id": "ashby-etched-982a8ee4-5e1e-43c7-a918-6dac285cdddd",
@@ -23236,6 +23240,149 @@
     "job_posted_at": "2026-04-20T01:57:29.724Z"
   },
   {
+    "job_id": "ashby-etched-0321523b-f0c3-44cd-9c46-cf318a1cad9e",
+    "job_title": "GTM Intern",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/0321523b-f0c3-44cd-9c46-cf318a1cad9e/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "d5633db8b7dd482f03be51d2ac77a8074b4649a90f862bf6113ad9a016844065",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-20T01:57:29.724Z"
+  },
+  {
+    "job_id": "ashby-etched-f32908bd-8abc-495c-ab69-ac893b6c924d",
+    "job_title": "Core Ops Intern",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/f32908bd-8abc-495c-ab69-ac893b6c924d/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "5f620b654cb01a2ed73edd5075d13e8be8b6f43f9a9fdf9bfd0ea916ed118212",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "html",
+        "http",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:29.724Z"
+  },
+  {
+    "job_id": "ashby-etched-097cf1d6-592c-4ce4-910e-401512278368",
+    "job_title": "Platform Intern",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/097cf1d6-592c-4ce4-910e-401512278368/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "70d9af01427aebcee92531f78d0d380e4495252a01114de033ff6f3d9c02cfd8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "html",
+        "http",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:29.724Z"
+  },
+  {
+    "job_id": "ashby-etched-639fe410-56a4-44aa-ac93-8ee7c10c7d75",
+    "job_title": "Talent Intern",
+    "employer_name": "Etched",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/etched/639fe410-56a4-44aa-ac93-8ee7c10c7d75/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.724Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "c7e717be08988a0edc1f2d059d03beb04ae56bfc66eb12d564d1371ccde4a91e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-20T01:57:29.724Z"
+  },
+  {
     "job_id": "greenhouse-intrinsicrobotics-5743849004",
     "job_title": "Deep Learning Intern, Model Optimization",
     "employer_name": "Intrinsic Robotics",
@@ -23273,35 +23420,6 @@
     "job_posted_at": "2026-04-20T01:57:29.546Z"
   },
   {
-    "job_id": "ashby-crusoe-8d07e3e4-290e-48f3-8ff2-30c4c0ada05e",
-    "job_title": "Construction Management Intern, 2026",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8d07e3e4-290e-48f3-8ff2-30c4c0ada05e/application",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.504Z",
-    "job_employment_type": "Intern",
-    "salary": null,
-    "fingerprint": "d643fdda83dfd2c78f3405d7acc6fb5c240d6c90a43f9d1083423c0963b6f47a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-20T01:57:29.504Z"
-  },
-  {
     "job_id": "ashby-crusoe-f65fd49b-650e-46e4-b3b7-f7d9cdc610e7",
     "job_title": "Motion Design Intern",
     "employer_name": "Crusoe",
@@ -23318,6 +23436,35 @@
       "employment": "internship",
       "domains": [
         "marketing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-04-20T01:57:29.504Z"
+  },
+  {
+    "job_id": "ashby-crusoe-8d07e3e4-290e-48f3-8ff2-30c4c0ada05e",
+    "job_title": "Construction Management Intern, 2026",
+    "employer_name": "Crusoe",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/8d07e3e4-290e-48f3-8ff2-30c4c0ada05e/application",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:29.504Z",
+    "job_employment_type": "Intern",
+    "salary": null,
+    "fingerprint": "d643fdda83dfd2c78f3405d7acc6fb5c240d6c90a43f9d1083423c0963b6f47a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us",
@@ -23359,6 +23506,34 @@
     "job_posted_at": "2026-04-20T01:57:29.064Z"
   },
   {
+    "job_id": "greenhouse-graphcore-8441356002",
+    "job_title": "2026 Summer Intern - Software Engineering - Drivers",
+    "employer_name": "Graphcore",
+    "job_city": "Cambridge",
+    "job_state": "UK",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.837Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d028e3ca99966b87af245f9fa5adf466306f4c2e656944c8bb2a846d15820b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:28.837Z"
+  },
+  {
     "job_id": "greenhouse-graphcore-8287389002",
     "job_title": "Intern - Research",
     "employer_name": "Graphcore",
@@ -23398,34 +23573,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-20T01:57:28.837Z"
-  },
-  {
-    "job_id": "greenhouse-graphcore-8441356002",
-    "job_title": "2026 Summer Intern - Software Engineering - Drivers",
-    "employer_name": "Graphcore",
-    "job_city": "Cambridge",
-    "job_state": "UK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/graphcore/jobs/8441356002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.837Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d028e3ca99966b87af245f9fa5adf466306f4c2e656944c8bb2a846d15820b6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-04-20T01:57:28.837Z"
   },
   {
@@ -23492,34 +23639,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:28.522Z"
-  },
-  {
-    "job_id": "greenhouse-formlabs-7723608",
-    "job_title": "Supply Planning Intern (Summer 2026)",
-    "employer_name": "Formlabs",
-    "job_city": "Somerville",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.127Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58bd1d4b674242226375c8248b494a08d97b21e0ae1ffd60c58afacf0510f94b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:28.127Z"
   },
   {
     "job_id": "greenhouse-formlabs-7365384",
@@ -23846,6 +23965,34 @@
     "job_posted_at": "2026-04-20T01:57:28.127Z"
   },
   {
+    "job_id": "greenhouse-formlabs-7723608",
+    "job_title": "Supply Planning Intern (Summer 2026)",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.127Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58bd1d4b674242226375c8248b494a08d97b21e0ae1ffd60c58afacf0510f94b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:28.127Z"
+  },
+  {
     "job_id": "greenhouse-formlabs-7488269",
     "job_title": "Video Content Creator Intern (Summer 2026)",
     "employer_name": "Formlabs",
@@ -23928,6 +24075,80 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-20T01:57:28.105Z"
+  },
+  {
+    "job_id": "greenhouse-flyzipline-7692662003",
+    "job_title": "Digital Experiences Intern (New Grad - Summer 2026)",
+    "employer_name": "Zipline",
+    "job_city": "South San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.zipline.com/careers?gh_jid=7692662003",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.104Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5d62df01bf4e3341b0e053e22a96b8ec1fd276b3fd2534f5a07244a660ace1a9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:28.104Z"
+  },
+  {
+    "job_id": "greenhouse-flyzipline-7549505003",
+    "job_title": "Electrical Engineering Intern (Summer 2026)",
+    "employer_name": "Zipline",
+    "job_city": "South San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.zipline.com/careers?gh_jid=7549505003",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.104Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94afe630b63792a78cf221a92a0a844710b15850c3c9be7049fd7519708e5804",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "c++",
+        "gcp",
+        "hadoop",
+        "java",
+        "robotics",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:28.104Z"
   },
   {
     "job_id": "greenhouse-flyzipline-7549512003",
@@ -24055,80 +24276,6 @@
     "job_posted_at": "2026-04-20T01:57:28.104Z"
   },
   {
-    "job_id": "greenhouse-flyzipline-7692662003",
-    "job_title": "Digital Experiences Intern (New Grad - Summer 2026)",
-    "employer_name": "Zipline",
-    "job_city": "South San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.zipline.com/careers?gh_jid=7692662003",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.104Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5d62df01bf4e3341b0e053e22a96b8ec1fd276b3fd2534f5a07244a660ace1a9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:28.104Z"
-  },
-  {
-    "job_id": "greenhouse-flyzipline-7549505003",
-    "job_title": "Electrical Engineering Intern (Summer 2026)",
-    "employer_name": "Zipline",
-    "job_city": "South San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.zipline.com/careers?gh_jid=7549505003",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:28.104Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "94afe630b63792a78cf221a92a0a844710b15850c3c9be7049fd7519708e5804",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "c++",
-        "gcp",
-        "hadoop",
-        "java",
-        "robotics",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:28.104Z"
-  },
-  {
     "job_id": "greenhouse-flyzipline-7549506003",
     "job_title": "Global Supply Management Intern (Summer 2026)",
     "employer_name": "Zipline",
@@ -24185,49 +24332,6 @@
     "job_posted_at": "2026-04-20T01:57:28.104Z"
   },
   {
-    "job_id": "greenhouse-freeformfuturecorp-7631560003",
-    "job_title": "Electrical Engineer (New Grad Summer 2026)",
-    "employer_name": "Freeform",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:27.927Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39d325f2e110a32ad75058002a6758f246a4571613492c99cf52503175a83cbf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "firmware",
-        "fpga",
-        "microcontroller",
-        "robotics",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:27.927Z"
-  },
-  {
     "job_id": "greenhouse-freeformfuturecorp-7605514003",
     "job_title": "Process Engineering Internship/Co-Op (Summer/Fall 2026)",
     "employer_name": "Freeform",
@@ -24262,6 +24366,49 @@
         "minitab",
         "python",
         "r"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-20T01:57:27.927Z"
+  },
+  {
+    "job_id": "greenhouse-freeformfuturecorp-7631560003",
+    "job_title": "Electrical Engineer (New Grad Summer 2026)",
+    "employer_name": "Freeform",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7631560003",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:27.927Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39d325f2e110a32ad75058002a6758f246a4571613492c99cf52503175a83cbf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "firmware",
+        "fpga",
+        "microcontroller",
+        "robotics",
+        "system design"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -24659,60 +24806,6 @@
     "job_posted_at": "2026-04-20T01:57:27.114Z"
   },
   {
-    "job_id": "greenhouse-databricks-7011263002",
-    "job_title": "PhD GenAI Research Scientist Intern",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:25.904Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cdecb914166cfda21d2430025b0128fcd156c683f1362681de188e3d0a0fb303",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr",
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "analytics",
-        "apache",
-        "apache spark",
-        "computer science",
-        "databricks",
-        "deep learning",
-        "excel",
-        "fine-tuning",
-        "mlflow",
-        "pytorch",
-        "spark"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-20T01:57:25.904Z"
-  },
-  {
     "job_id": "greenhouse-databricks-8402617002",
     "job_title": "MBA Intern - Commercial Transformation",
     "employer_name": "Databricks",
@@ -24800,6 +24893,60 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:25.904Z"
+  },
+  {
+    "job_id": "greenhouse-databricks-7011263002",
+    "job_title": "PhD GenAI Research Scientist Intern",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:25.904Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cdecb914166cfda21d2430025b0128fcd156c683f1362681de188e3d0a0fb303",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "analytics",
+        "apache",
+        "apache spark",
+        "computer science",
+        "databricks",
+        "deep learning",
+        "excel",
+        "fine-tuning",
+        "mlflow",
+        "pytorch",
+        "spark"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T01:57:25.904Z"
   },
   {
@@ -25483,6 +25630,174 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-20T01:57:23.113Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7736663",
+    "job_title": "Global Customer Services - AI Builder Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "53dfafba505c1f445dc548b5920d127ad096ad675edc6bdfa766c797f81c6773",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7797931",
+    "job_title": "Global Trade Compliance Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7799138",
+    "job_title": "Global Trade Compliance Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7578549",
+    "job_title": "GRC Team Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7578549?gh_jid=7578549",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc1f824924567768264da977043de0e24cf0575e24a70d8831c50a4f729ee829",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7577564",
+    "job_title": "GRC Team Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc1f824924567768264da977043de0e24cf0575e24a70d8831c50a4f729ee829",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7669081",
+    "job_title": "Growth Marketing Intern, Self-Serve (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7669081?gh_jid=7669081",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e9b94d60fb7fa4db8f876034de6752a93765201447535220b7c5b9d0b0bb2016",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-20T01:57:23.112Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7759602",
@@ -26599,174 +26914,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7736663",
-    "job_title": "Global Customer Services - AI Builder Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "53dfafba505c1f445dc548b5920d127ad096ad675edc6bdfa766c797f81c6773",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7797931",
-    "job_title": "Global Trade Compliance Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7799138",
-    "job_title": "Global Trade Compliance Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7578549",
-    "job_title": "GRC Team Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7578549?gh_jid=7578549",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc1f824924567768264da977043de0e24cf0575e24a70d8831c50a4f729ee829",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7577564",
-    "job_title": "GRC Team Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc1f824924567768264da977043de0e24cf0575e24a70d8831c50a4f729ee829",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:23.112Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7669081",
-    "job_title": "Growth Marketing Intern, Self-Serve (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7669081?gh_jid=7669081",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:23.112Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e9b94d60fb7fa4db8f876034de6752a93765201447535220b7c5b9d0b0bb2016",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-04-20T01:57:23.112Z"
   },
   {
@@ -28528,35 +28675,6 @@
     "job_posted_at": "2026-04-20T01:57:17.699Z"
   },
   {
-    "job_id": "greenhouse-andurilindustries-4830567007",
-    "job_title": "Product Design Intern",
-    "employer_name": "Anduril",
-    "job_city": "Costa Mesa",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007",
-    "job_posted_at_datetime_utc": "2026-04-20T01:57:17.695Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "94f86103fd06834fabe32ae038420128ea0fa32752aa34cc9d21b9318f77e6bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-20T01:57:17.695Z"
-  },
-  {
     "job_id": "greenhouse-andurilindustries-4830032007",
     "job_title": "Perception Engineering Intern",
     "employer_name": "Anduril",
@@ -28602,6 +28720,35 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-20T01:57:17.695Z"
+  },
+  {
+    "job_id": "greenhouse-andurilindustries-4830567007",
+    "job_title": "Product Design Intern",
+    "employer_name": "Anduril",
+    "job_city": "Costa Mesa",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007",
+    "job_posted_at_datetime_utc": "2026-04-20T01:57:17.695Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94f86103fd06834fabe32ae038420128ea0fa32752aa34cc9d21b9318f77e6bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-04-20T01:57:17.695Z"
   },
   {
@@ -29936,6 +30083,35 @@
     "job_posted_at": "2026-04-20T01:57:09.603Z"
   },
   {
+    "job_id": "js-cisco-cp7inmw7xpcpvvlmaaaaaa==",
+    "job_title": "AI/ML Modeling Engineer II (Intern)- United States ENG/CPO/WTG ETR",
+    "employer_name": "Cisco",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2009059EXTERNALENGLOBAL/AI-ML-Modeling-Engineer-II-Intern-United-States-ENG-CPO-WTG-ETR",
+    "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0bb1b224ef49bcd03760a99ba6b0d115b3412a9ed8a2546c776c70cb10830946",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-20T00:00:00.000Z"
+  },
+  {
     "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "HealthTrust",
@@ -30468,96 +30644,6 @@
     "job_posted_at": "2026-04-19T17:06:19.439Z"
   },
   {
-    "job_id": "js-netapp-renwhar9sn9qvh5maaaaaa==",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "NetApp",
-    "job_city": "Morrisville",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.netapp.com/job/morrisville/software-engineer-intern/27600/94179231744",
-    "job_posted_at_datetime_utc": "2026-04-19T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8057e72ab8b6b5b469979138ad39ea995a8287c82766aec697278ffc9e781012",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "azure",
-        "c++",
-        "computer science",
-        "google cloud",
-        "linux",
-        "microsoft azure",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-19T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-baxter-vgrxf5yzat7ltuksaaaaaa==",
-    "job_title": "Associate Software Engineer Co-op",
-    "employer_name": "Baxter",
-    "job_city": "Skaneateles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baxter.com/en/job/skaneateles-falls/associate-software-engineer-co-op/152/94186934480",
-    "job_posted_at_datetime_utc": "2026-04-19T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5bda4a247124a27260862101a839a578d9332347760c2a100c4eaf2e8bed8c0d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agents",
-        "c#",
-        "java",
-        "python"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-19T00:00:00.000Z"
-  },
-  {
     "job_id": "js-pinterest-pdokwxhkxy1kdrfoaaaaaa==",
     "job_title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
     "employer_name": "Pinterest",
@@ -30694,6 +30780,96 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-netapp-renwhar9sn9qvh5maaaaaa==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "NetApp",
+    "job_city": "Morrisville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.netapp.com/job/morrisville/software-engineer-intern/27600/94179231744",
+    "job_posted_at_datetime_utc": "2026-04-19T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "8057e72ab8b6b5b469979138ad39ea995a8287c82766aec697278ffc9e781012",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "c++",
+        "computer science",
+        "google cloud",
+        "linux",
+        "microsoft azure",
+        "unix"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-baxter-vgrxf5yzat7ltuksaaaaaa==",
+    "job_title": "Associate Software Engineer Co-op",
+    "employer_name": "Baxter",
+    "job_city": "Skaneateles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baxter.com/en/job/skaneateles-falls/associate-software-engineer-co-op/152/94186934480",
+    "job_posted_at_datetime_utc": "2026-04-19T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "5bda4a247124a27260862101a839a578d9332347760c2a100c4eaf2e8bed8c0d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agents",
+        "c#",
+        "java",
+        "python"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -31600,6 +31776,82 @@
     "job_posted_at": "2026-04-18T00:33:32.447Z"
   },
   {
+    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
+    "job_title": "Machine Learning Internship - PhD: 2027",
+    "employer_name": "Susquehanna International Group, LLP (SIG)",
+    "job_city": "Bala Cynwyd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
+    "job_posted_at_datetime_utc": "2026-04-18T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "machine learning",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
+    "job_title": "Engineering Intern - Hardware Engineering",
+    "employer_name": "Veralto Global",
+    "job_city": "Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-18T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-18T00:00:00.000Z"
+  },
+  {
     "job_id": "js-borgwarner-gqx4jkmpkgo2057xaaaaaa==",
     "job_title": "Data Science Summer Intern (May-August)",
     "employer_name": "BorgWarner",
@@ -31626,6 +31878,24 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "azure",
+        "data science",
+        "machine learning",
+        "python",
+        "reporting",
+        "requirements gathering",
+        "snowflake"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-18T00:00:00.000Z"
   },
   {
@@ -31674,52 +31944,6 @@
         "python",
         "unix",
         "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-18T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
-    "job_title": "Machine Learning Internship - PhD: 2027",
-    "employer_name": "Susquehanna International Group, LLP (SIG)",
-    "job_city": "Bala Cynwyd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
-    "job_posted_at_datetime_utc": "2026-04-18T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "machine learning",
-        "pytorch",
-        "statistics",
-        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
