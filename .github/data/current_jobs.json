@@ -5150,7 +5150,7 @@
   },
   {
     "job_id": "workday-rtx-01841274",
-    "job_title": "2026 Raytheon Part Time Co-op - Software Infrastructure Engineer ��(Remote)",
+    "job_title": "2026 Raytheon Part Time Co-op - Software Infrastructure Engineer –(Remote)",
     "employer_name": "RTX",
     "job_city": "PA-STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A",
     "job_state": "",
@@ -33233,34 +33233,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "simplify-717f0806-c8b3-4053-9457-9e172707e5fa",
-    "job_title": "AI Intern",
-    "employer_name": "Fortinet",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sunnyvale, CA",
-    "job_apply_link": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741",
-    "job_posted_at_datetime_utc": "2026-04-21T22:06:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "632bd302f5734035b0a73dc7d9ee11a5d0b87f7aa55ea3661c5d3650050beb6e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-04-21T22:06:50.000Z"
   }
 ]
