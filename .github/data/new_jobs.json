@@ -41670,36 +41670,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-24T20:37:33.408Z"
-  },
-  {
-    "job_id": "microsoft-200036018",
-    "job_title": "Data Center Technician INTERN",
-    "employer_name": "Microsoft",
-    "job_city": "San Antonio",
-    "job_state": "Texas",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Antonio, Texas, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556861902",
-    "job_posted_at_datetime_utc": "2026-04-24T20:01:11.000Z",
-    "job_employment_type": "Internship",
-    "salary": null,
-    "fingerprint": "09f968eca1e6c9eadcf9fef135ea89d188bf905b171186c3b22e6e9f42668ab8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-04-24T20:01:11.000Z"
   }
 ]
