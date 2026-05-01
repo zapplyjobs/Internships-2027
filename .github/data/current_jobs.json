@@ -41563,42 +41563,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T22:43:24.516Z"
-  },
-  {
-    "job_id": "simplify-d34bbe21-e271-4e81-821a-4ea44e09c1b0",
-    "job_title": "LLM Post-training Engineer Intern",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7631599293708126517",
-    "job_posted_at_datetime_utc": "2026-04-24T22:11:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6c274a21aea129a347f020d855c942c1ebbf41128243eefdd203ce613b754b3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T22:11:09.000Z"
   }
 ]
