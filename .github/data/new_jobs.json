@@ -41600,55 +41600,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T22:11:09.000Z"
-  },
-  {
-    "job_id": "greenhouse-figureai-4618805006",
-    "job_title": "Firmware Intern [Summer 2026]",
-    "employer_name": "Figure AI",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
-    "job_posted_at_datetime_utc": "2026-04-24T21:02:20.862Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4c34ee77d201f5b32deaa1eaebd4cdb28aab4e874d5608d98c9ab2e74ec7cfa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "ci/cd",
-        "continuous deployment",
-        "continuous integration",
-        "docker",
-        "firmware",
-        "i2c",
-        "python",
-        "robotics",
-        "spi",
-        "uart"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T21:02:20.862Z"
   }
 ]
