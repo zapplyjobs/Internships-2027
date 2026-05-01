@@ -42363,36 +42363,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-24T18:02:12.394Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2489455",
-    "job_title": "Pharmacy Pre-Grad Intern - WM",
-    "employer_name": "Walmart",
-    "job_city": "(USA) VA BEDFORD 01399 WM SUPERCENTER",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "(USA) VA BEDFORD 01399 WM SUPERCENTER",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VA-BEDFORD-01399-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2489455",
-    "job_posted_at_datetime_utc": "2026-04-24T17:52:03.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a148193b617fbc242fc30c2c4cec744373638ec0900f812e1d288093eb962bc5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T17:52:03.677Z"
   }
 ]
