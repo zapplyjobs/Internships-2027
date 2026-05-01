@@ -41520,48 +41520,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T23:00:00.000Z"
-  },
-  {
-    "job_id": "greenhouse-truveta-5973938004",
-    "job_title": "Research Analyst Summer Intern",
-    "employer_name": "Truveta",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5973938004",
-    "job_posted_at_datetime_utc": "2026-04-24T22:43:24.516Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b4de7d6178d4585f1342f91f7c73fe3f24a101faa7dea138986b2bd1e69b98d6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "data science",
-        "python",
-        "r",
-        "sql"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T22:43:24.516Z"
   }
 ]
