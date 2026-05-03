@@ -4620,138 +4620,6 @@
     "job_posted_at": "2026-04-30T07:05:33.634Z"
   },
   {
-    "job_id": "workday-rtx-01841924",
-    "job_title": "Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Continuous-Improvement-Transformational-Projects--Industrial-or-Mechanical-Engineering_01841924",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "259f8c1bcb8081fda8d825c1b643a067f476d2e4b22ba9296aa7601b7898c4f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "lean manufacturing",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01841734",
-    "job_title": "Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "312b6bf25758c36e0df19fd19dbd0c291647c8e77d3206bd29f1fa314bddb700",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01838534",
-    "job_title": "Stage - Analyste logistique Atelier ME/ Internship - Med Shop logistics Analyst",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Analyste-logistique-Atelier-ME--Internship---Med-Shop-logistics-Analyst_01838534",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "78c6bed31d19a5200db5a2d0350cdb612e75a9ce8b48f52c2fc98c2b23ac56ed",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
-    "job_id": "workday-rtx-01841944",
-    "job_title": "Stage - Automne 2026 - Analyse et optimisation des approvisionnements/ Internship - Fall 2026  - Supply Chain Analysis and Optimization",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyse-et-optimisation-des-approvisionnements--Internship---Fall-2026----Supply-Chain-Analysis-and-Optimization_01841944",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7acdae61ef248e09e3725e757d15c3503bbc5bcf7469541f4c0260e7dde965b2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:56.979Z"
-  },
-  {
     "job_id": "workday-rtx-01837942",
     "job_title": "Summer 2026 - Environmental Health & Safety Intern - CFD (Onsite)",
     "employer_name": "RTX",
@@ -4873,6 +4741,138 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01841924",
+    "job_title": "Internship Fall 2026 - Continuous Improvement Transformational Projects, Industrial or Mechanical Engineering",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Continuous-Improvement-Transformational-Projects--Industrial-or-Mechanical-Engineering_01841924",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "259f8c1bcb8081fda8d825c1b643a067f476d2e4b22ba9296aa7601b7898c4f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "lean manufacturing",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01841734",
+    "job_title": "Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "312b6bf25758c36e0df19fd19dbd0c291647c8e77d3206bd29f1fa314bddb700",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01838534",
+    "job_title": "Stage - Analyste logistique Atelier ME/ Internship - Med Shop logistics Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Analyste-logistique-Atelier-ME--Internship---Med-Shop-logistics-Analyst_01838534",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "78c6bed31d19a5200db5a2d0350cdb612e75a9ce8b48f52c2fc98c2b23ac56ed",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T07:04:56.979Z"
+  },
+  {
+    "job_id": "workday-rtx-01841944",
+    "job_title": "Stage - Automne 2026 - Analyse et optimisation des approvisionnements/ Internship - Fall 2026  - Supply Chain Analysis and Optimization",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyse-et-optimisation-des-approvisionnements--Internship---Fall-2026----Supply-Chain-Analysis-and-Optimization_01841944",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:56.979Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7acdae61ef248e09e3725e757d15c3503bbc5bcf7469541f4c0260e7dde965b2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
       ],
       "locations": [
         "us"
@@ -5213,36 +5213,6 @@
     "job_posted_at": "2026-04-30T07:04:22.603Z"
   },
   {
-    "job_id": "workday-leidos-R-00182153",
-    "job_title": "CAD Drafter Intern",
-    "employer_name": "Leidos",
-    "job_city": "Walled Lake",
-    "job_state": "MI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Walled Lake, MI",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
-    "job_posted_at_datetime_utc": "2026-04-30T07:04:12.956Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f68f5bb01cb924559de977882cac14ca93808e02798ef953e3042543bb5e7df4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T07:04:12.956Z"
-  },
-  {
     "job_id": "workday-leidos-R-00181668",
     "job_title": "Mechanical Engineer Intern",
     "employer_name": "Leidos",
@@ -5286,6 +5256,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-30T07:04:12.956Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182153",
+    "job_title": "CAD Drafter Intern",
+    "employer_name": "Leidos",
+    "job_city": "Walled Lake",
+    "job_state": "MI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Walled Lake, MI",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
+    "job_posted_at_datetime_utc": "2026-04-30T07:04:12.956Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f68f5bb01cb924559de977882cac14ca93808e02798ef953e3042543bb5e7df4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-30T07:04:12.956Z"
   },
   {
@@ -5398,19 +5398,81 @@
     "job_posted_at": "2026-04-30T07:04:00.522Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-072810",
-    "job_title": "2026 Heart Recovery Summer Internship",
+    "job_id": "workday-johnson-&-johnson-R-039777",
+    "job_title": "J&J Surgery Cincinnati: Electrical Engineering Co-op, Fall 2026",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Danvers",
-    "job_state": "MA",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Danvers, Massachusetts, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/XMLNAME-2026-Heart-Recovery-Summer-Internship_R-072810",
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Electrical-Engineering-Co-op--Fall-2026_R-039777",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e2beceae41295588c957c28dfd59b6f302eb6d8d869b7308026bf1be6acd919f",
+    "fingerprint": "1b4f6d626c6e259e1b0df30ed2a8595b588bc5bfc18b7aaa5741155186e9f175",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "arduino",
+        "c++",
+        "cadence",
+        "embedded systems",
+        "firmware",
+        "i2c",
+        "labview",
+        "ltspice",
+        "matlab",
+        "minitab",
+        "multimeter",
+        "oscilloscope",
+        "python",
+        "r",
+        "raspberry pi",
+        "risk management",
+        "robotics",
+        "spi",
+        "spring",
+        "statistical analysis",
+        "verilog",
+        "vhdl"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T07:03:59.332Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-039774",
+    "job_title": "J&J Surgery Cincinnati: Design & Development Co-op, Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Design---Development-Co-op--Fall-2026_R-039774",
+    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2c88729c3e45e9564b657bfc0e2f928859ef13b10b75a17af80d2cebe96f9b5",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5504,81 +5566,19 @@
     "job_posted_at": "2026-04-30T07:03:59.332Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-039777",
-    "job_title": "J&J Surgery Cincinnati: Electrical Engineering Co-op, Fall 2026",
+    "job_id": "workday-johnson-&-johnson-R-072810",
+    "job_title": "2026 Heart Recovery Summer Internship",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
+    "job_city": "Danvers",
+    "job_state": "MA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Electrical-Engineering-Co-op--Fall-2026_R-039777",
+    "job_location": "Danvers, Massachusetts, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/XMLNAME-2026-Heart-Recovery-Summer-Internship_R-072810",
     "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1b4f6d626c6e259e1b0df30ed2a8595b588bc5bfc18b7aaa5741155186e9f175",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "arduino",
-        "c++",
-        "cadence",
-        "embedded systems",
-        "firmware",
-        "i2c",
-        "labview",
-        "ltspice",
-        "matlab",
-        "minitab",
-        "multimeter",
-        "oscilloscope",
-        "python",
-        "r",
-        "raspberry pi",
-        "risk management",
-        "robotics",
-        "spi",
-        "spring",
-        "statistical analysis",
-        "verilog",
-        "vhdl"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T07:03:59.332Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-039774",
-    "job_title": "J&J Surgery Cincinnati: Design & Development Co-op, Fall 2026",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Design---Development-Co-op--Fall-2026_R-039774",
-    "job_posted_at_datetime_utc": "2026-04-30T07:03:59.332Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2c88729c3e45e9564b657bfc0e2f928859ef13b10b75a17af80d2cebe96f9b5",
+    "fingerprint": "e2beceae41295588c957c28dfd59b6f302eb6d8d869b7308026bf1be6acd919f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6124,6 +6124,146 @@
     "job_posted_at": "2026-04-30T06:00:00.000Z"
   },
   {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arizona - Phoenix",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "visio",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:20:07.323Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19425",
+    "job_title": "Purchasing Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Washington - Pullman",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
+    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T04:20:07.323Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20283",
+    "job_title": "Project Coordinator Intern",
+    "employer_name": "SEL",
+    "job_city": "Fairview Heights",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Illinois - Fairview Heights",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
+    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-30T04:20:07.323Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20357",
+    "job_title": "Application Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewis Center",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ohio - Lewis Center",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357",
+    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0811306d747869b44eb09b34d8998256a197b2d0762e38a43868b1320125fc6d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T04:20:07.323Z"
+  },
+  {
     "job_id": "workday-sel-2026-19395",
     "job_title": "Equipment Maintenance Technician Intern",
     "employer_name": "SEL",
@@ -6277,146 +6417,6 @@
     "job_posted_at": "2026-04-30T04:20:07.323Z"
   },
   {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arizona - Phoenix",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "visio",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:20:07.323Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19425",
-    "job_title": "Purchasing Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Washington - Pullman",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
-    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T04:20:07.323Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20283",
-    "job_title": "Project Coordinator Intern",
-    "employer_name": "SEL",
-    "job_city": "Fairview Heights",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Illinois - Fairview Heights",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
-    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T04:20:07.323Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20357",
-    "job_title": "Application Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewis Center",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ohio - Lewis Center",
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357",
-    "job_posted_at_datetime_utc": "2026-04-30T04:20:07.323Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0811306d747869b44eb09b34d8998256a197b2d0762e38a43868b1320125fc6d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T04:20:07.323Z"
-  },
-  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -6542,1011 +6542,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T04:17:03.351Z"
-  },
-  {
-    "job_id": "simplify-1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
-    "job_title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534626306991016199",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ff3ab1164bbcbfe5ca783aa3d68a72a5113946db402cb708bc218f6960160ee7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-8d74e58c-4516-45d6-92ed-119cad8972ae",
-    "job_title": "Machine Learning Engineer Intern - Privacy and Data Protection Office - 2026 Start','PhD",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532999154101487890",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5870b502dc929684d6a8b98d1f5128e520a62887faa747c61b8f56c7068b307",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-70b45d75-a146-4733-a653-c4bce22c4e32",
-    "job_title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://lifeattiktok.com/search/7527077153591675154",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "006a7d979063a800d207bc66cb0bd1db26154672cfbf33e422926bfd664fbdc8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-779f212c-f34e-4260-b5af-2e54a8c159fb",
-    "job_title": "Software Engineer Intern - Platform efficiency",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7530513185797359880",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9435cfa710d517d70ee9d893b478de0862f72ccfc838f9091ec599332862929f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-a6e979b7-c84b-455a-9f3c-7fa10d5d908c",
-    "job_title": "Machine Learning Engineer Intern - TikTok Search E-Commerce Team",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534626087721240839",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57745b2f217811df80fd67f55f409bc951770e15aedfca6b9a473357264c2fd1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
-    "job_title": "Software Engineer Intern - Global CRM - 2026 Start",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532247736243865864",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f59fc4a69e1d47e804964a1b45e4e221e97d2f50c8e4931b2120d4bb7369073",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-034929f5-3b54-450e-bcd7-de81a7fb989b",
-    "job_title": "Data Engineer Intern - Data Platform TikTok BP - BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534803858175576327",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "07205099c8b49c3e6878e281da98508cfb38412a475bb589d542758ea7b0a78d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
-    "job_title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7527582397938223367",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "00fa80442b7e877a973f19035815f80c6d7bf870f35b10e0be157bee86cf1cf3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-cf6d4667-2bf8-45b8-a0be-37b953800bc3",
-    "job_title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534852684386617618",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a850134fe48187ab9d4ef5fa4bb8a2e850bdd1e76b3531df615adea299daef59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-d3034ffb-ae0b-4d73-9de9-9fa8dfb69282",
-    "job_title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7527589557336869138",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50d405bbd01c802adbc244409ab41d44b8aa012b51f2b303d0ab29636a620c99",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-13314b9f-3223-4972-bc98-92884e3c49c4",
-    "job_title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534793633532479751",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "206edebebb0146de307c1e1491afc033efc4a9942f7c7be77aaaec0a15de7a2b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-0a064cfe-add2-47c5-8a65-9f1c2be0f198",
-    "job_title": "Machine Learning Engineer Intern - Tiktok Search Local Services Team",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534626464240994568",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a470401516df3e799ce023d0364d7352d5179438cdb040f2c4b19252da1bf912",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-779d2f66-723d-4e79-8ccb-416f18693b9e",
-    "job_title": "Software Engineer Intern - Monetization Technology - Ads Creative",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532460740410738952",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5f3ee6219a167d90b9f5d1feceea7ff152d0d3d05f57e46425b8df120bf800c0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-52df9eb2-8317-4575-8acb-3a5483ca3148",
-    "job_title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532464949135313159",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1c3ff6be8473c5d75bd4906b09d8871f4ba4c3cd096822af90285896280597d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-1d911c19-b885-4882-8d83-25a72a50e653",
-    "job_title": "Machine Learning Engineer Intern - 3D graphics",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532735339883710728",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9aaa2b0d18afed1521091c63d53e7c3c45fce9301e008c1b2d5f4dbe8d9623a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-5cf97d69-3f9a-40f2-b738-6aa0457c614b",
-    "job_title": "Software Engineer Intern - Recommendation Infrastructure",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7533003732948617480",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f75dd1e9c24622d217177bb45b95dcaa57406212b9adc1890012ec273c1a673",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-187ab9e0-f297-43bf-b9c1-afdf636f1ef5",
-    "job_title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532406261142538514",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8e18ad18ef70ba76b67275cf9f3f8ee38a986daa6ca6ea4de7724837edef47fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-48091f8d-f8ec-4d31-aeeb-3b2aae9af3b1",
-    "job_title": "Software Engineer Intern - Data Ecosystem",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://lifeattiktok.com/search/7533387057667934482",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9cd847e51844d34349f973723b0c79416e3455d7c05d8b9a187010b231ace89d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-e007b472-502b-4768-aacc-1dc8fef84704",
-    "job_title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://lifeattiktok.com/search/7525650208522193159",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "025db30f1e79feb0011976ea1d9f2e57c19cac772c5e0d2bf5a9160835701fb7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-57afebdf-5402-460f-9af8-a746c7bcca8a",
-    "job_title": "Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532747359991859463",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f052f0bb1af25cad2e0b53aff271f8d4d8e1a3e0bd6b6fc31d5d94d9e3ebc43a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-0cc4797c-81ae-43bc-85bb-ba188815da52",
-    "job_title": "Machine Learning Scientist Intern - TikTok Recommendation",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7519241729582516487",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01f4fd24451fee3c08628eba11543e321d5c537372fa9b0dff5196ad07ec86ba",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-aea71032-563a-4c3c-aade-447f8ec52a91",
-    "job_title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-    "employer_name": "TikTok",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Seattle, WA",
-    "job_apply_link": "https://lifeattiktok.com/search/7527589875165563143",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d92994ac15759c4dd786ccc677c39b03b0bafd2e0eaa5e7990eb2d9ffc5875f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science",
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-5f2be0b1-87fb-46f2-82c1-b8bf9b6e0ac1",
-    "job_title": "Software Engineer Intern - Agentic AI Engine - Data Management platform",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7534800139048175880",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "247fbedffc04e0e0d989d2e77f2a2648bb498710dba5cac105438d8b8ff48a20",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-0db2aa2c-ef11-4061-bdb2-046bdf98e797",
-    "job_title": "Software Engineer Intern - Recommendation Infrastructure",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7533010433386809607",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3f75dd1e9c24622d217177bb45b95dcaa57406212b9adc1890012ec273c1a673",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-0e83c8c5-9327-4ec4-94be-d0454a2f596b",
-    "job_title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7532444719809628424",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e7673dca9b5c5bd7f16a5d10bc734144ddc425467a2f5e9977c9fbd42603fd27",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
-  },
-  {
-    "job_id": "simplify-f58e93bf-7cfb-42e9-953f-7fd06e435426",
-    "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026 Summer",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7527065936093858055",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50e4944640092e4a83ea990000582e983eccef54cb5d6ac5987a17cffa65773f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
     "job_id": "simplify-4ad967e0-d5cb-4fd8-9a48-a01ac4b1ef9c",
@@ -10476,6 +9471,1011 @@
     "job_posted_at": "2026-04-30T03:45:27.046Z"
   },
   {
+    "job_id": "simplify-1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
+    "job_title": "Software Engineer Intern - TikTok Search Architecture - BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534626306991016199",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ff3ab1164bbcbfe5ca783aa3d68a72a5113946db402cb708bc218f6960160ee7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-8d74e58c-4516-45d6-92ed-119cad8972ae",
+    "job_title": "Machine Learning Engineer Intern - Privacy and Data Protection Office - 2026 Start','PhD",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532999154101487890",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5870b502dc929684d6a8b98d1f5128e520a62887faa747c61b8f56c7068b307",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-70b45d75-a146-4733-a653-c4bce22c4e32",
+    "job_title": "Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://lifeattiktok.com/search/7527077153591675154",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "006a7d979063a800d207bc66cb0bd1db26154672cfbf33e422926bfd664fbdc8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-779f212c-f34e-4260-b5af-2e54a8c159fb",
+    "job_title": "Software Engineer Intern - Platform efficiency",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7530513185797359880",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9435cfa710d517d70ee9d893b478de0862f72ccfc838f9091ec599332862929f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-a6e979b7-c84b-455a-9f3c-7fa10d5d908c",
+    "job_title": "Machine Learning Engineer Intern - TikTok Search E-Commerce Team",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534626087721240839",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57745b2f217811df80fd67f55f409bc951770e15aedfca6b9a473357264c2fd1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
+    "job_title": "Software Engineer Intern - Global CRM - 2026 Start",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532247736243865864",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5f59fc4a69e1d47e804964a1b45e4e221e97d2f50c8e4931b2120d4bb7369073",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-034929f5-3b54-450e-bcd7-de81a7fb989b",
+    "job_title": "Data Engineer Intern - Data Platform TikTok BP - BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534803858175576327",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "07205099c8b49c3e6878e281da98508cfb38412a475bb589d542758ea7b0a78d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-fd4d4ad1-7cdb-45e6-82a7-3ad24e9bc989",
+    "job_title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7527582397938223367",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "00fa80442b7e877a973f19035815f80c6d7bf870f35b10e0be157bee86cf1cf3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-cf6d4667-2bf8-45b8-a0be-37b953800bc3",
+    "job_title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Summer",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534852684386617618",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a850134fe48187ab9d4ef5fa4bb8a2e850bdd1e76b3531df615adea299daef59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-d3034ffb-ae0b-4d73-9de9-9fa8dfb69282",
+    "job_title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7527589557336869138",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50d405bbd01c802adbc244409ab41d44b8aa012b51f2b303d0ab29636a620c99",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-13314b9f-3223-4972-bc98-92884e3c49c4",
+    "job_title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534793633532479751",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "206edebebb0146de307c1e1491afc033efc4a9942f7c7be77aaaec0a15de7a2b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-0a064cfe-add2-47c5-8a65-9f1c2be0f198",
+    "job_title": "Machine Learning Engineer Intern - Tiktok Search Local Services Team",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534626464240994568",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a470401516df3e799ce023d0364d7352d5179438cdb040f2c4b19252da1bf912",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-779d2f66-723d-4e79-8ccb-416f18693b9e",
+    "job_title": "Software Engineer Intern - Monetization Technology - Ads Creative",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532460740410738952",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5f3ee6219a167d90b9f5d1feceea7ff152d0d3d05f57e46425b8df120bf800c0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-52df9eb2-8317-4575-8acb-3a5483ca3148",
+    "job_title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532464949135313159",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1c3ff6be8473c5d75bd4906b09d8871f4ba4c3cd096822af90285896280597d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-1d911c19-b885-4882-8d83-25a72a50e653",
+    "job_title": "Machine Learning Engineer Intern - 3D graphics",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532735339883710728",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9aaa2b0d18afed1521091c63d53e7c3c45fce9301e008c1b2d5f4dbe8d9623a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-5cf97d69-3f9a-40f2-b738-6aa0457c614b",
+    "job_title": "Software Engineer Intern - Recommendation Infrastructure",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7533003732948617480",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f75dd1e9c24622d217177bb45b95dcaa57406212b9adc1890012ec273c1a673",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-187ab9e0-f297-43bf-b9c1-afdf636f1ef5",
+    "job_title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532406261142538514",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8e18ad18ef70ba76b67275cf9f3f8ee38a986daa6ca6ea4de7724837edef47fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-48091f8d-f8ec-4d31-aeeb-3b2aae9af3b1",
+    "job_title": "Software Engineer Intern - Data Ecosystem",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://lifeattiktok.com/search/7533387057667934482",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9cd847e51844d34349f973723b0c79416e3455d7c05d8b9a187010b231ace89d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-e007b472-502b-4768-aacc-1dc8fef84704",
+    "job_title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://lifeattiktok.com/search/7525650208522193159",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "025db30f1e79feb0011976ea1d9f2e57c19cac772c5e0d2bf5a9160835701fb7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-57afebdf-5402-460f-9af8-a746c7bcca8a",
+    "job_title": "Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532747359991859463",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f052f0bb1af25cad2e0b53aff271f8d4d8e1a3e0bd6b6fc31d5d94d9e3ebc43a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-0cc4797c-81ae-43bc-85bb-ba188815da52",
+    "job_title": "Machine Learning Scientist Intern - TikTok Recommendation",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7519241729582516487",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01f4fd24451fee3c08628eba11543e321d5c537372fa9b0dff5196ad07ec86ba",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-aea71032-563a-4c3c-aade-447f8ec52a91",
+    "job_title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
+    "employer_name": "TikTok",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Seattle, WA",
+    "job_apply_link": "https://lifeattiktok.com/search/7527589875165563143",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d92994ac15759c4dd786ccc677c39b03b0bafd2e0eaa5e7990eb2d9ffc5875f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-5f2be0b1-87fb-46f2-82c1-b8bf9b6e0ac1",
+    "job_title": "Software Engineer Intern - Agentic AI Engine - Data Management platform",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7534800139048175880",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "247fbedffc04e0e0d989d2e77f2a2648bb498710dba5cac105438d8b8ff48a20",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-0db2aa2c-ef11-4061-bdb2-046bdf98e797",
+    "job_title": "Software Engineer Intern - Recommendation Infrastructure",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7533010433386809607",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3f75dd1e9c24622d217177bb45b95dcaa57406212b9adc1890012ec273c1a673",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-0e83c8c5-9327-4ec4-94be-d0454a2f596b",
+    "job_title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7532444719809628424",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e7673dca9b5c5bd7f16a5d10bc734144ddc425467a2f5e9977c9fbd42603fd27",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
+    "job_id": "simplify-f58e93bf-7cfb-42e9-953f-7fd06e435426",
+    "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - 2026 Summer",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7527065936093858055",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50e4944640092e4a83ea990000582e983eccef54cb5d6ac5987a17cffa65773f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.046Z"
+  },
+  {
     "job_id": "simplify-8a259c97-f4fc-43e7-9493-f2824159d556",
     "job_title": "Research Scientist Intern - Mathematics - PhD",
     "employer_name": "Meta",
@@ -10765,241 +10765,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "10cbdd57ce842dbabfe48e51ba340193e2c32e93771c6dcb970d8cc7e4a905be",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-122840cb-4c22-49d3-bc5e-627475d79fb5",
-    "job_title": "Research Scientist Intern - Ads Integrity",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7546726994756651282",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a00cca08d1252df0cd97d3a23640828ed5764637be641e21b69175377bfcc76b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-2580f068-35ec-4a40-9954-e06ddf6b9a07",
-    "job_title": "Information Technology Intern",
-    "employer_name": "Texas Instruments",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX",
-    "job_apply_link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "24f56372f0772fa57d22494e7734b319fca6c28a96b72496c3b1b7f557020fae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-df876adc-772a-496e-9ab7-b0306dd57085",
-    "job_title": "Research Scientist Intern - Multimodal Generative AI and Robotics - PhD",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, WA",
-    "job_apply_link": "https://www.metacareers.com/jobs/1468284791260126",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0860392d61dcc62433d075ecf2480b1c4b9d952f7b7f9c5eabd1556b3b66c628",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-2b333bfe-4859-44e0-9dff-cdcc222e390a",
-    "job_title": "Software Engineering Intern",
-    "employer_name": "Texas Instruments",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX",
-    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007033",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e0819fa49a878d466f1966656cd74e553411f1fbf705bd3e4555f9940e263e49",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
-    "job_title": "Machine Learning Engineer Intern - BS/MS",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7547370946877901063",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "593fa850130067109e6a6b34e14a00c90a5d784ed562163ee2548450a3294724",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T03:45:27.045Z"
-  },
-  {
-    "job_id": "simplify-e2e48bac-63bc-4318-9576-1e112d693b8d",
-    "job_title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
-    "employer_name": "Meta",
-    "job_city": "Sausalito",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Sausalito, CA",
-    "job_apply_link": "https://www.metacareers.com/jobs/2022109075207025",
-    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "77ed4f8c23af81a21029754d56c195d98f42dd01edca946abef99a2a148984bb",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -13822,6 +13587,241 @@
       ],
       "experience": "entry_level",
       "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-122840cb-4c22-49d3-bc5e-627475d79fb5",
+    "job_title": "Research Scientist Intern - Ads Integrity",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7546726994756651282",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a00cca08d1252df0cd97d3a23640828ed5764637be641e21b69175377bfcc76b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-2580f068-35ec-4a40-9954-e06ddf6b9a07",
+    "job_title": "Information Technology Intern",
+    "employer_name": "Texas Instruments",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX",
+    "job_apply_link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007022",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "24f56372f0772fa57d22494e7734b319fca6c28a96b72496c3b1b7f557020fae",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-df876adc-772a-496e-9ab7-b0306dd57085",
+    "job_title": "Research Scientist Intern - Multimodal Generative AI and Robotics - PhD",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, WA",
+    "job_apply_link": "https://www.metacareers.com/jobs/1468284791260126",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0860392d61dcc62433d075ecf2480b1c4b9d952f7b7f9c5eabd1556b3b66c628",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-2b333bfe-4859-44e0-9dff-cdcc222e390a",
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Texas Instruments",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX",
+    "job_apply_link": "https://careers.ti.com/en/sites/CX/job/25007033",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e0819fa49a878d466f1966656cd74e553411f1fbf705bd3e4555f9940e263e49",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
+    "job_title": "Machine Learning Engineer Intern - BS/MS",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7547370946877901063",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "593fa850130067109e6a6b34e14a00c90a5d784ed562163ee2548450a3294724",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-30T03:45:27.045Z"
+  },
+  {
+    "job_id": "simplify-e2e48bac-63bc-4318-9576-1e112d693b8d",
+    "job_title": "Research Scientist Intern - Photorealistic Telepresence - PhD",
+    "employer_name": "Meta",
+    "job_city": "Sausalito",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sausalito, CA",
+    "job_apply_link": "https://www.metacareers.com/jobs/2022109075207025",
+    "job_posted_at_datetime_utc": "2026-04-30T03:45:27.045Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "77ed4f8c23af81a21029754d56c195d98f42dd01edca946abef99a2a148984bb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
       "tag_engine_version": 3
     },
     "_source": "aggregator",
@@ -26012,7 +26012,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556768751",
     "job_posted_at_datetime_utc": "2026-04-27T08:40:22.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "065b7e076745269aecf4ee0539f3ba20c87e6d7025652cc0d73dd028a48cca8b",
     "tags": {
@@ -29470,37 +29470,6 @@
     "job_posted_at": "2026-04-27T02:58:38.510Z"
   },
   {
-    "job_id": "ashby-crusoe-f65fd49b-650e-46e4-b3b7-f7d9cdc610e7",
-    "job_title": "Motion Design Intern",
-    "employer_name": "Crusoe",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA - US",
-    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/f65fd49b-650e-46e4-b3b7-f7d9cdc610e7/application",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:33.450Z",
-    "job_employment_type": "internship",
-    "salary": null,
-    "fingerprint": "21eea74a6226457ea2d0521d47c182de97261fbb2e766b05208a4aec1365f24d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "job_posted_at": "2026-04-27T02:58:33.450Z"
-  },
-  {
     "job_id": "ashby-crusoe-8d07e3e4-290e-48f3-8ff2-30c4c0ada05e",
     "job_title": "Construction Management Intern, 2026",
     "employer_name": "Crusoe",
@@ -29542,6 +29511,37 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-27T02:58:33.450Z"
+  },
+  {
+    "job_id": "ashby-crusoe-f65fd49b-650e-46e4-b3b7-f7d9cdc610e7",
+    "job_title": "Motion Design Intern",
+    "employer_name": "Crusoe",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA - US",
+    "job_apply_link": "https://jobs.ashbyhq.com/crusoe/f65fd49b-650e-46e4-b3b7-f7d9cdc610e7/application",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:33.450Z",
+    "job_employment_type": "internship",
+    "salary": null,
+    "fingerprint": "21eea74a6226457ea2d0521d47c182de97261fbb2e766b05208a4aec1365f24d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
     "job_posted_at": "2026-04-27T02:58:33.450Z"
   },
   {
@@ -31496,68 +31496,6 @@
     "job_posted_at": "2026-04-27T02:58:19.854Z"
   },
   {
-    "job_id": "greenhouse-twilio-7748959",
-    "job_title": "Analyst Relations Intern",
-    "employer_name": "Twilio",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - US",
-    "job_apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7748959",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.848Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fee06246308d7a9e300f5a999748af3ade7b5351b11d3b6e9460bc1464c99199",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:19.848Z"
-  },
-  {
-    "job_id": "greenhouse-twilio-7728956",
-    "job_title": "Developer Advocacy Intern",
-    "employer_name": "Twilio",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote - US",
-    "job_apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7728956",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.848Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05721eb9c354545f6d880e14fabdcb247cf78c99d4db714f2ae8b828abf0f6d3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:19.848Z"
-  },
-  {
     "job_id": "greenhouse-twilio-7748961",
     "job_title": "Technical Video Content Intern, Developer Ecosystem",
     "employer_name": "Twilio",
@@ -31606,6 +31544,68 @@
       "employment": "internship",
       "domains": [
         "marketing"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:19.848Z"
+  },
+  {
+    "job_id": "greenhouse-twilio-7748959",
+    "job_title": "Analyst Relations Intern",
+    "employer_name": "Twilio",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - US",
+    "job_apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7748959",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.848Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fee06246308d7a9e300f5a999748af3ade7b5351b11d3b6e9460bc1464c99199",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:19.848Z"
+  },
+  {
+    "job_id": "greenhouse-twilio-7728956",
+    "job_title": "Developer Advocacy Intern",
+    "employer_name": "Twilio",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote - US",
+    "job_apply_link": "https://job-boards.greenhouse.io/twilio/jobs/7728956",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:19.848Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05721eb9c354545f6d880e14fabdcb247cf78c99d4db714f2ae8b828abf0f6d3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us",
@@ -31975,334 +31975,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-27T02:58:19.056Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4670554006",
-    "job_title": "Fall 2026: Analytics & BI Intern, D2C (September to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b5e6ab4a2e6fb3d9c2689347ef0822d21d12e92f44b1550dfabcce7180ff99d8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "retail"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4646005006",
-    "job_title": "Fall 2026: APAC NPD Commercial Readiness Co-op (July to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646005006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "339a8c7618c884e521cd165d6fbfdc85a685b6d2a548bf309d0347ecb81d1168",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4669676006",
-    "job_title": "Fall 2026: Applied AI & Analytics Co-op (July to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Miami",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Miami, Florida, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95d0425359e46cf28fead2aacb6f7d7f1d426ec13d5059287a3eb9b130759663",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "analytics",
-        "dashboards",
-        "data visualization",
-        "looker",
-        "power bi",
-        "prompt engineering",
-        "python",
-        "sql",
-        "tableau"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4655085006",
-    "job_title": "Fall 2026: CMF Industrial Design Co-op (July through December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655085006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05b24f001748189aedbab9e2699d07aad921f553101e0df4551b6b777024fc3f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4670561006",
-    "job_title": "Fall 2026: Consumer Insights Intern (September to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "21923fafef9a4c2b737183c9a955d1e1974c50e34d9c87ccc8c686f964d9abb8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4646052006",
-    "job_title": "Fall 2026: Control Systems & Algorithm Engineering Co-op (July to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646052006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6e109b183c4ba412ca6a5e472cb684e24e9bc2005636ed0b114c38a32ac96ff2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "matlab",
-        "simulink"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4646903006",
-    "job_title": "Fall 2026: CORE Quality Engineering Co-op (July to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646903006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bfbc577fbf39aa0c8c01d82f2b460d20050c8f35c82ee66ccedee3afa718807b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "jira",
-        "microsoft office",
-        "root cause analysis"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4670565006",
-    "job_title": "Fall 2026: Corporate Communications Intern (September to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670565006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7e6c25402d12f49bec03a18e3219a33fe5431ece219b8d74176894cccf50b3dd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
-  },
-  {
-    "job_id": "greenhouse-sharkninjaoperatingllc-4647108006",
-    "job_title": "Fall 2026: Electrical Design Engineering Co-op, Advanced Development (July to December)",
-    "employer_name": "SharkNinja",
-    "job_city": "Needham",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Needham, MA, United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647108006",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fac5dc772d4f7b047608acc3a1b0ccf277f73f98374cbc604a87efcdde358b7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "arduino",
-        "c++",
-        "excel",
-        "firmware",
-        "switching"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:18.365Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4646302006",
@@ -33015,6 +32687,334 @@
     "job_posted_at": "2026-04-27T02:58:18.365Z"
   },
   {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4670554006",
+    "job_title": "Fall 2026: Analytics & BI Intern, D2C (September to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b5e6ab4a2e6fb3d9c2689347ef0822d21d12e92f44b1550dfabcce7180ff99d8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "retail"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4646005006",
+    "job_title": "Fall 2026: APAC NPD Commercial Readiness Co-op (July to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646005006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "339a8c7618c884e521cd165d6fbfdc85a685b6d2a548bf309d0347ecb81d1168",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4669676006",
+    "job_title": "Fall 2026: Applied AI & Analytics Co-op (July to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Miami, Florida, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95d0425359e46cf28fead2aacb6f7d7f1d426ec13d5059287a3eb9b130759663",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "analytics",
+        "dashboards",
+        "data visualization",
+        "looker",
+        "power bi",
+        "prompt engineering",
+        "python",
+        "sql",
+        "tableau"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4655085006",
+    "job_title": "Fall 2026: CMF Industrial Design Co-op (July through December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655085006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05b24f001748189aedbab9e2699d07aad921f553101e0df4551b6b777024fc3f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4670561006",
+    "job_title": "Fall 2026: Consumer Insights Intern (September to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "21923fafef9a4c2b737183c9a955d1e1974c50e34d9c87ccc8c686f964d9abb8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4646052006",
+    "job_title": "Fall 2026: Control Systems & Algorithm Engineering Co-op (July to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646052006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6e109b183c4ba412ca6a5e472cb684e24e9bc2005636ed0b114c38a32ac96ff2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "simulink"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4646903006",
+    "job_title": "Fall 2026: CORE Quality Engineering Co-op (July to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646903006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bfbc577fbf39aa0c8c01d82f2b460d20050c8f35c82ee66ccedee3afa718807b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "jira",
+        "microsoft office",
+        "root cause analysis"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4670565006",
+    "job_title": "Fall 2026: Corporate Communications Intern (September to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670565006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e6c25402d12f49bec03a18e3219a33fe5431ece219b8d74176894cccf50b3dd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
+    "job_id": "greenhouse-sharkninjaoperatingllc-4647108006",
+    "job_title": "Fall 2026: Electrical Design Engineering Co-op, Advanced Development (July to December)",
+    "employer_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Needham, MA, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647108006",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fac5dc772d4f7b047608acc3a1b0ccf277f73f98374cbc604a87efcdde358b7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "arduino",
+        "c++",
+        "excel",
+        "firmware",
+        "switching"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:18.365Z"
+  },
+  {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670543006",
     "job_title": "Fall 2026: Marketplace Co-op, Strategic Sales (July to December)",
     "employer_name": "SharkNinja",
@@ -33060,6 +33060,36 @@
     "job_posted_at": "2026-04-27T02:58:18.365Z"
   },
   {
+    "job_id": "greenhouse-scaleai-4611533005",
+    "job_title": "Technical Advisor Specialist (Part-Time Internship)",
+    "employer_name": "Scale AI",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.246Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dc895de25f38d02c6cfd04c9adbea410427c4ffedd8638cf786859ad46499786",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:18.246Z"
+  },
+  {
     "job_id": "greenhouse-scaleai-4677519005",
     "job_title": "AI Deployment Strategist Intern",
     "employer_name": "Scale AI",
@@ -33103,36 +33133,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-27T02:58:18.246Z"
-  },
-  {
-    "job_id": "greenhouse-scaleai-4611533005",
-    "job_title": "Technical Advisor Specialist (Part-Time Internship)",
-    "employer_name": "Scale AI",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, CA",
-    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:18.246Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dc895de25f38d02c6cfd04c9adbea410427c4ffedd8638cf786859ad46499786",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T02:58:18.246Z"
   },
   {
@@ -33692,161 +33692,6 @@
     "job_posted_at": "2026-04-27T02:58:16.945Z"
   },
   {
-    "job_id": "greenhouse-point72-8455101002",
-    "job_title": "2026 Internship - Transportation Strategy, Metropolitan Park",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8455101002?gh_jid=8455101002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a0ef73eaa96749af0c75c83f083282a1feaabc7e65ac3b26c888880c882fed74",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-8465224002",
-    "job_title": "2026 Technology Internship – UI/UX Engineer (Full Stack)",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, NY",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3a1ac204b054990aa7ad063a87fa17a1dc59bed6599f6e6bee2ccae8bb82ab86",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        ".net",
-        "agile",
-        "c#",
-        "networking",
-        "react",
-        "spring",
-        "typescript"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-8295501002",
-    "job_title": "2027 Point72 Academy Investment Analyst Summer Internship Program - US",
-    "employer_name": "Point72",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8295501002?gh_jid=8295501002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "82383d778dacdd5624956b32b4c7ed42b6e072a8a8158dcc41615171759d1b06",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
-    "job_id": "greenhouse-point72-7302611002",
-    "job_title": "Machine Learning Researcher - Intern",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "machine learning",
-        "matlab",
-        "natural language processing",
-        "python",
-        "r",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:16.944Z"
-  },
-  {
     "job_id": "greenhouse-point72-7609197002",
     "job_title": "Quantitative Developer Intern",
     "employer_name": "Point72",
@@ -34141,6 +33986,161 @@
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8455101002",
+    "job_title": "2026 Internship - Transportation Strategy, Metropolitan Park",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8455101002?gh_jid=8455101002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a0ef73eaa96749af0c75c83f083282a1feaabc7e65ac3b26c888880c882fed74",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8465224002",
+    "job_title": "2026 Technology Internship – UI/UX Engineer (Full Stack)",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8465224002?gh_jid=8465224002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a1ac204b054990aa7ad063a87fa17a1dc59bed6599f6e6bee2ccae8bb82ab86",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "agile",
+        "c#",
+        "networking",
+        "react",
+        "spring",
+        "typescript"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-8295501002",
+    "job_title": "2027 Point72 Academy Investment Analyst Summer Internship Program - US",
+    "employer_name": "Point72",
+    "job_city": "United States",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8295501002?gh_jid=8295501002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82383d778dacdd5624956b32b4c7ed42b6e072a8a8158dcc41615171759d1b06",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:16.944Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7302611002",
+    "job_title": "Machine Learning Researcher - Intern",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:16.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "python",
+        "r",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
       "summary_line": null,
       "is_remote": false
     },
@@ -35608,6 +35608,126 @@
     "job_posted_at": "2026-04-27T02:58:15.299Z"
   },
   {
+    "job_id": "greenhouse-lgelectronics-5149281008",
+    "job_title": "Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)",
+    "employer_name": "LG Electronics",
+    "job_city": "Bloomington",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bloomington, MN ",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5149281008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05dac3a3d35225e8b6956447b7ad1f82b86ce92a4c33403aae138fc5e0536ce1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:15.274Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5165773008",
+    "job_title": "Sales Intern - Home Depot Account - Alpharetta, GA",
+    "employer_name": "LG Electronics",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Alpharetta, GA",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5165773008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "41748a08f95ec4dc3c46907ccd850252ba96d80bd06849b863b8e654a019a677",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:15.274Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5170240008",
+    "job_title": "SCM - Intern - National Operations (Best Buy Accounts)",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Englewood Cliffs, NJ",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5170240008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dec2d568fb35cefafe533d88245536536aef4f34d92c4f3a923931700c14bebf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:15.274Z"
+  },
+  {
+    "job_id": "greenhouse-lgelectronics-5160590008",
+    "job_title": "SEO/GEO Specialist - Intern",
+    "employer_name": "LG Electronics",
+    "job_city": "Englewood Cliffs",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Englewood Cliffs, NJ",
+    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5160590008",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f74de2093214494c9fa30fc8f6791209181548d0f5bf6ae3251180bd9ffb4eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:15.274Z"
+  },
+  {
     "job_id": "greenhouse-lgelectronics-5170017008",
     "job_title": "Energy Solutions (ES) SCM Intern",
     "employer_name": "LG Electronics",
@@ -35741,126 +35861,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b82a76b241218d33cdce56720879db406670253145307799a62da874bd29ae33",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:15.274Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5149281008",
-    "job_title": "Sales Intern - Best Buy Accounts - Minnesota  (Home Solution)",
-    "employer_name": "LG Electronics",
-    "job_city": "Bloomington",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bloomington, MN ",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5149281008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05dac3a3d35225e8b6956447b7ad1f82b86ce92a4c33403aae138fc5e0536ce1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:15.274Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5165773008",
-    "job_title": "Sales Intern - Home Depot Account - Alpharetta, GA",
-    "employer_name": "LG Electronics",
-    "job_city": "Alpharetta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Alpharetta, GA",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5165773008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "41748a08f95ec4dc3c46907ccd850252ba96d80bd06849b863b8e654a019a677",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:15.274Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5170240008",
-    "job_title": "SCM - Intern - National Operations (Best Buy Accounts)",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Englewood Cliffs, NJ",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5170240008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dec2d568fb35cefafe533d88245536536aef4f34d92c4f3a923931700c14bebf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:15.274Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5160590008",
-    "job_title": "SEO/GEO Specialist - Intern",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Englewood Cliffs, NJ",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5160590008",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:15.274Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f74de2093214494c9fa30fc8f6791209181548d0f5bf6ae3251180bd9ffb4eb",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -37106,36 +37106,6 @@
     "job_posted_at": "2026-04-27T02:58:09.496Z"
   },
   {
-    "job_id": "greenhouse-formlabs-7723608",
-    "job_title": "Supply Planning Intern (Summer 2026)",
-    "employer_name": "Formlabs",
-    "job_city": "Somerville",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Somerville, MA",
-    "job_apply_link": "https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.491Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "58bd1d4b674242226375c8248b494a08d97b21e0ae1ffd60c58afacf0510f94b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:09.491Z"
-  },
-  {
     "job_id": "greenhouse-formlabs-7365384",
     "job_title": "Global Sourcing Intern (Summer 2026)",
     "employer_name": "Formlabs",
@@ -37321,6 +37291,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "69c1bc182e4b364d296d7fb320744d0c7682245f835453f98b01272d1d2a362d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:09.491Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7723608",
+    "job_title": "Supply Planning Intern (Summer 2026)",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.491Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "58bd1d4b674242226375c8248b494a08d97b21e0ae1ffd60c58afacf0510f94b",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -37717,76 +37717,6 @@
     "job_posted_at": "2026-04-27T02:58:09.232Z"
   },
   {
-    "job_id": "lever-sambatv-9aea066a-f48a-4d67-a942-31401f8c334d",
-    "job_title": "HR Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California",
-    "job_apply_link": "https://jobs.lever.co/sambatv/9aea066a-f48a-4d67-a942-31401f8c334d/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.231Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "7d9898265ccfdf60f4611c7112f3f54e95f2b290e2e696dc2956930769e38a2c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:09.231Z"
-  },
-  {
-    "job_id": "lever-sambatv-34cf777f-a320-41c4-8a26-9d456121765f",
-    "job_title": "Marketing Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California",
-    "job_apply_link": "https://jobs.lever.co/sambatv/34cf777f-a320-41c4-8a26-9d456121765f/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.231Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "d5355163c791c194e6253e73244ac4704358b44360fdcaf42b12c6278a1b95ec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-04-27T02:58:09.231Z"
-  },
-  {
     "job_id": "lever-sambatv-37f2461d-8c6c-4b05-9140-3c1c2e22f3fb",
     "job_title": "Business Development Intern",
     "employer_name": "Samba TV",
@@ -37844,6 +37774,76 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:09.231Z"
+  },
+  {
+    "job_id": "lever-sambatv-9aea066a-f48a-4d67-a942-31401f8c334d",
+    "job_title": "HR Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, California",
+    "job_apply_link": "https://jobs.lever.co/sambatv/9aea066a-f48a-4d67-a942-31401f8c334d/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.231Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "7d9898265ccfdf60f4611c7112f3f54e95f2b290e2e696dc2956930769e38a2c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-04-27T02:58:09.231Z"
+  },
+  {
+    "job_id": "lever-sambatv-34cf777f-a320-41c4-8a26-9d456121765f",
+    "job_title": "Marketing Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, California",
+    "job_apply_link": "https://jobs.lever.co/sambatv/34cf777f-a320-41c4-8a26-9d456121765f/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:09.231Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "d5355163c791c194e6253e73244ac4704358b44360fdcaf42b12c6278a1b95ec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
@@ -39675,6 +39675,66 @@
     "job_posted_at": "2026-04-27T02:58:07.748Z"
   },
   {
+    "job_id": "greenhouse-cloudflare-7729700",
+    "job_title": "Business Analyst Intern, Marketing (July to December 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ace1c570e35d44d3f7b0f45488bf402adbf6447ff51ca4a899cc1ba80f344f8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:07.747Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7761468",
+    "job_title": "Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b165ad6b0318f9b3a2ece113a06e1d3e0282016302040da1d7d3df4ce22241a0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-27T02:58:07.747Z"
+  },
+  {
     "job_id": "greenhouse-cloudflare-7652528",
     "job_title": "Business Development Representative (BDR) Intern (Summer 2026)",
     "employer_name": "Cloudflare",
@@ -39967,66 +40027,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-04-27T02:58:07.747Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7729700",
-    "job_title": "Business Analyst Intern, Marketing (July to December 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0ace1c570e35d44d3f7b0f45488bf402adbf6447ff51ca4a899cc1ba80f344f8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-27T02:58:07.747Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7761468",
-    "job_title": "Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7761468?gh_jid=7761468",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:07.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b165ad6b0318f9b3a2ece113a06e1d3e0282016302040da1d7d3df4ce22241a0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-04-27T02:58:07.747Z"
   },
   {
@@ -41723,6 +41723,95 @@
     "job_posted_at": "2026-04-27T02:58:06.290Z"
   },
   {
+    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
+    "job_title": "Propulsion Engineer Intern - Fall 2026",
+    "employer_name": "Hermeus",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Los Angeles, CA",
+    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:06.290Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "03ef485fc33ab411cd06a85b18e1c88bb57e455314a9be94f2b39caf8f6ed9cb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:06.290Z"
+  },
+  {
+    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
+    "job_title": "Propulsion Test Engineering Intern - Fall 2026",
+    "employer_name": "Hermeus",
+    "job_city": "Jacksonville",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jacksonville, FL",
+    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
+    "job_posted_at_datetime_utc": "2026-04-27T02:58:06.290Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "859d1f9015de8ffd280bd2b8cb2c3fac4a1b0098e450722f3c83a637f69a263b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "spring"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-27T02:58:06.290Z"
+  },
+  {
     "job_id": "lever-hermeus-922ee234-94aa-473b-8464-03f28a709872",
     "job_title": "Manufacturing Engineering Intern - Fall 2026",
     "employer_name": "Hermeus",
@@ -41893,95 +41982,6 @@
     "_original_source": "lever",
     "enrichment": {
       "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:06.290Z"
-  },
-  {
-    "job_id": "lever-hermeus-a949f158-6900-42e1-890d-fb3ec339c3d0",
-    "job_title": "Propulsion Engineer Intern - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Los Angeles, CA",
-    "job_apply_link": "https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:06.290Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "03ef485fc33ab411cd06a85b18e1c88bb57e455314a9be94f2b39caf8f6ed9cb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-27T02:58:06.290Z"
-  },
-  {
-    "job_id": "lever-hermeus-31513d2a-8e08-424b-b125-4f972fcfc805",
-    "job_title": "Propulsion Test Engineering Intern - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Jacksonville",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Jacksonville, FL",
-    "job_apply_link": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply",
-    "job_posted_at_datetime_utc": "2026-04-27T02:58:06.290Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "859d1f9015de8ffd280bd2b8cb2c3fac4a1b0098e450722f3c83a637f69a263b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "spring"
-      ],
       "sponsors_visa": null,
       "visa_question_present": true,
       "is_simple_apply": true,
