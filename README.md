@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hermeus** | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) |
 | 🏢 **Hermeus** | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) |
 | 🏢 **True Anomaly** | Flight Software Intern | Long Beach, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007) |
-| 🏢 **Snorkel AI** | Software Engineer —  Summer Intern | Redwood City, CA ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5774350004) |
+| 🏢 **Snorkel AI** | Software Engineer —  Summer Intern | Redwood City, CA ... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/snorkelai/jobs/5774350004) |
 | 🏢 **RTX** | Stage - Automne 2026 - Génie des systèmes – Stagiaire, analyste en sécurité et fiabilité / Internship - Fall 2026 - Systems Engineering Co-op – Safety & Reliability Analyst | Qc, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gnie-des-systmes---Stagiaire--analyste-en-scurit-et-fiabilit---Internship---Fall-2026---Systems-Engineering-Co-op---Safety---Reliability-Analyst_01842308) |
 | 🏢 **Motorola Solutions** | Intern – Web Interface Software Engineer (2026) | Los Angeles, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590) |
 | 🏢 **Leidos** | Software Developer Intern | Reston, VA + 1 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Developer-Intern_R-00181656) |
@@ -219,7 +219,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Jabil** | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 56m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137) |
+| 🏢 **Jabil** | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137) |
 | 🏢 **LLNL** | National Security Engineering Division (NSED) Graduate Intern - Summer 2026 | Livermore, CA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/llnl/3743990012846006) |
 
 <p align="center">Apply for more jobs at</p>
@@ -364,7 +364,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Entegris** | Supply Chain Planning Co-Op - Fall 2026 | Rockrimmon, Color... | 57m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Supply-Chain-Planning-Co-Op---Fall-2026_REQ-10148) |
+| 🏢 **Entegris** | Supply Chain Planning Co-Op - Fall 2026 | Rockrimmon, Color... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Supply-Chain-Planning-Co-Op---Fall-2026_REQ-10148) |
 | 🏢 **Cloudflare** | Procurement Intern (JD) | Hybrid | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7822659?gh_jid=7822659) |
 | 🏢 **The Exploration Company** | Procurement Intern | California | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/the-exploration-company/ece4e3ad-73ac-4188-83d5-9a929ceae86e/application) |
 | 🏢 **RTX** | Stage - Automne 2026 - Analyse et optimisation des approvisionnements/ Internship - Fall 2026  - Supply Chain Analysis and Optimization | Qc, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyse-et-optimisation-des-approvisionnements--Internship---Fall-2026----Supply-Chain-Analysis-and-Optimization_01841944) |
@@ -437,7 +437,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **GlobalFoundries** | Digital Manufacturing Intern (Summer 2026) | New York | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-1H-University-Intern---Digital-Manufacturing_JR-2502722-1) |
+| 🏢 **GlobalFoundries** | Digital Manufacturing Intern (Summer 2026) | New York | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-1H-University-Intern---Digital-Manufacturing_JR-2502722-1) |
 | 🏢 **Etched** | Thermo-Mechanical, CFD Simulation Engineering Intern | San Jose | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff/application) |
 | 🏢 **Bosch Group** | Motorsport Engineering Intern - 2026 | Farmington Hills, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124123909) |
 | 🏢 **SEL** | Power Engineer Intern | Pullman | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineer-Intern_2025-17838) |
@@ -476,11 +476,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) AZ PRESCOTT... | 8m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AZ-PRESCOTT-VALLEY-03730-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496727-1) |
-| 🏢 **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) AZ PRESCOTT... | 8m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AZ-PRESCOTT-05303-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496734) |
-| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) LA CARENCRO... | 8m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-LA-CARENCRO-07301-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2497162-1) |
-| 🏢 **State Street** | Legal Co-op July 2026 | Boston, Massachus... | 54m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Legal-Co-op-July-2026_R-789528) |
-| 🏢 **Northrop Grumman** | 2026 Global Business Development Intern - Falls Church VA | 2 Locations | 56m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751) |
+| 🏢 **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) AZ PRESCOTT... | 23m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AZ-PRESCOTT-VALLEY-03730-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496727-1) |
+| 🏢 **Walmart** | Pharmacy Grad Intern (Hrly) | (USA) AZ PRESCOTT... | 23m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AZ-PRESCOTT-05303-WM-SUPERCENTER/Pharmacy-Grad-Intern--Hrly-_R-2496734) |
+| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) LA CARENCRO... | 23m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-LA-CARENCRO-07301-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2497162-1) |
+| 🏢 **State Street** | Legal Co-op July 2026 | Boston, Massachus... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Legal-Co-op-July-2026_R-789528) |
+| 🏢 **Northrop Grumman** | 2026 Global Business Development Intern - Falls Church VA | 2 Locations | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751) |
 | 🍎 **Apple** | MBA Internships - Summer 2026 | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.apple.com/en-us/details/200606799/mba-internships-summer-2026) |
 | 🏢 **TikTok** | LLM Post-training Engineer Intern | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7631599293708126517) |
 | 🏢 **Snowflake** | Enterprise Technology, Support Engineer Intern | Menlo Park, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/e1dd1cce-d39a-4a8a-9abc-4d783049ca78/application) |
