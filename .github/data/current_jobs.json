@@ -24122,55 +24122,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T19:50:35.655Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0225356",
-    "job_title": "University, 2026 Summer Games Software Developer Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA + 10 more",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356",
-    "job_posted_at_datetime_utc": "2026-04-28T18:11:24.034Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9e4d8ea75f6c4197e5d27f8e1776294c965ce02b922ace5d63f110e1c4e69983",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "bash",
-        "c++",
-        "java",
-        "javascript",
-        "machine learning",
-        "perl",
-        "python",
-        "r",
-        "spring",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-28T18:11:24.034Z"
   }
 ]
