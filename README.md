@@ -178,7 +178,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Hermeus** | Avionics Electrical Engineering Intern - Fall 2026 | Atlanta, GA | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/3cee58bc-55ef-4230-acf2-9a2e2851cf43/apply) |
+| 🏢 **Hermeus** | Avionics Electrical Engineering Intern - Fall 2026 | Atlanta, GA | 29m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/3cee58bc-55ef-4230-acf2-9a2e2851cf43/apply) |
 | 🏢 **Leidos** | Mechanical Engineering Intern | White Sands, NM | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Mechanical-Engineering-Intern_R-00182510) |
 | 🏢 **CFS Energy** | Intern - Mechanical Engineer - Fall Co-op 2026 | Devens, MA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/cfsenergy/481da293-bd14-4188-b67f-83dcb9d2729e/apply) |
 | 🏢 **Figure AI** | Electrical Engineering Intern [Fall 2026] | San Jose, CA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
@@ -223,7 +223,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) |
-| 🏢 **State Street** | Revenue Operations Internship- 6 months - July-Dec | Burlington Massac... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1) |
+| 🏢 **State Street** | Revenue Operations Internship- 6 months - July-Dec | Burlington Massac... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1) |
 | 🏢 **Unity** | Programmatic Business Operations Intern | New York, NY, USA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7821802?gh_jid=7821802) |
 | 🏢 **Johnson Controls** | Marketing Strategy and Operations Intern | Wisconsin | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Marketing-Strategy-and-Operations-Intern_WD30267172) |
 | 🏢 **Cloudflare** | Technical Program Manager Intern (Summer 2026) | In- | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7702476?gh_jid=7702476) |
@@ -270,7 +270,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
-| 🏢 **Redis** | Marketing Communications Intern (Summer) | United States | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/a253a9eb-bd87-4f6f-b5c7-ac239428ac65/application) |
+| 🏢 **Redis** | Marketing Communications Intern (Summer) | United States | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/a253a9eb-bd87-4f6f-b5c7-ac239428ac65/application) |
 | 🏢 **KnowBe4** | Marketing Intern - Demand Generation | Arlington, Virginia | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8532276002) |
 | 🏢 **Oscar Health** | Internal Communications Intern | New York, New Yor... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7871724?gh_jid=7871724) |
 
@@ -367,9 +367,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 📊 **Guidehouse** | Intern - Revenue Cycle, Payer Provider Advisory - Campus 2026 | IL Chicago + 5 more | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Intern---Revenue-Cycle--Payer-Provider-Advisory---Campus-2026_32773) |
 | 🏢 **State Street** | SaaS Internship - 6 month Internship- July-Dec | Burlington Massac... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SaaS-Internship---6-month-Internship--July-Dec_R-789610-1) |
 | 🏢 **Moog** | Intern, Operations Transformation | Buffalo, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566) |
-| 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239312) |
-| 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239301) |
-| 🏢 **Bosch Group** | Engine / Vehicle Embedded Controls Intern | Farmington Hills, MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) |
+| 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239312) |
+| 🏢 **Booz Allen Hamilton** | Health Account Intern | Atlanta, GA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239301) |
+| 🏢 **Bosch Group** | Engine / Vehicle Embedded Controls Intern | Farmington Hills, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124682895) |
 | 🏢 **FLIR Systems** | Manufacturing Test Technician Intern | Chestnut Ridge, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Test-Technician-Intern_REQ34615) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OR REDMOND ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OR-REDMOND-02243-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2499168) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OH ELYRIA 0... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OH-ELYRIA-04255-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2499247-1) |

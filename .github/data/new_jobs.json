@@ -32,6 +32,17 @@
     },
     "_source": "aggregator",
     "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "rf"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T15:16:41.432Z"
   },
   {
@@ -169,7 +180,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -231,7 +242,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
@@ -321,6 +332,45 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
+  },
+  {
+    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
@@ -604,45 +654,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us"
