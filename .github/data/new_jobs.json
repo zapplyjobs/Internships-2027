@@ -1,5 +1,36 @@
 [
   {
+    "job_id": "greenhouse-cresta-5213455008",
+    "job_title": "Conversation Design Intern (Customer Success)",
+    "employer_name": "Cresta",
+    "job_city": "United States (Remote)",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "United States (Remote)",
+    "job_apply_link": "https://job-boards.greenhouse.io/cresta/jobs/5213455008",
+    "job_posted_at_datetime_utc": "2026-05-07T18:58:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b3b76b4548ab9f79fa340f0176fc562534a50b693705defcc239c2f3db109b14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-07T18:58:25.000Z"
+  },
+  {
     "job_id": "greenhouse-cresta-5213417008",
     "job_title": "Data Science Intern (Customer Success)",
     "employer_name": "Cresta",
@@ -29,6 +60,39 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "azure",
+        "computer science",
+        "dashboards",
+        "data analysis",
+        "data science",
+        "data visualization",
+        "gcp",
+        "git",
+        "hadoop",
+        "machine learning",
+        "matplotlib",
+        "numpy",
+        "pandas",
+        "power bi",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "seaborn",
+        "spark",
+        "sql",
+        "statistics",
+        "tableau",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": true,
+      "summary_line": null,
+      "is_remote": true
+    },
     "job_posted_at": "2026-05-07T18:43:17.000Z"
   },
   {
@@ -257,6 +321,38 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
+    "job_id": "microsoft-200036958",
+    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
+    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T22:44:55.000Z"
+  },
+  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -317,6 +413,38 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-06T22:02:01.000Z"
+  },
+  {
+    "job_id": "microsoft-200036954",
+    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
+    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T21:17:55.000Z"
   },
   {
     "job_id": "sr-BoschGroup-744000124973989",
@@ -387,6 +515,74 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
+  },
+  {
+    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
+    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
+    "employer_name": "Peraton",
+    "job_city": "Bedford",
+    "job_state": "NH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, NH",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
@@ -659,74 +855,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
-    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-    "employer_name": "Peraton",
-    "job_city": "Bedford",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, NH",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
-    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, TX",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -8762,35 +8890,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-30T19:33:13.412Z"
-  },
-  {
-    "job_id": "workday-curtiss-wright-JR11984",
-    "job_title": "Engineering Co-Op/Intern",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "OH-Cincinnati",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-OH-Cincinnati",
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Engineering-Co-Op-Intern_JR11984",
-    "job_posted_at_datetime_utc": "2026-04-30T19:04:49.423Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a9858ed2982953495857fed9c9c8c8a83f73fe23eb281cf1279e2ec5ed1ee595",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T19:04:49.423Z"
   }
 ]
