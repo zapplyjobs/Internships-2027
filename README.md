@@ -269,7 +269,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
+| 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
 | 🏢 **Redis** | Marketing Communications Intern (Summer) | United States | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/a253a9eb-bd87-4f6f-b5c7-ac239428ac65/application) |
 | 🏢 **KnowBe4** | Marketing Intern - Demand Generation | Arlington, Virginia | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8532276002) |
 | 🏢 **Oscar Health** | Internal Communications Intern | New York, New Yor... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](http://www.hioscar.com/careers/7871724?gh_jid=7871724) |
@@ -286,9 +286,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🟦 **Microsoft** | Research Intern - Post-Training | Redmond, Washingt... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) |
 | 🟦 **Microsoft** | Research Intern - AI Frontiers | Redmond, Washingt... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864498) |
-| 🏢 **Peraton** | Summer 2026 Cyber Research Intern - Bedford - NH | Bedford, NH | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) |
+| 🏢 **Peraton** | Summer 2026 Cyber Research Intern - Bedford - NH | Bedford, NH | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false) |
 | 🔵 **Meta** | Research Scientist Intern - Language & Multimodal Foundations | Seattle, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.metacareers.com/jobs/24536664159369645) |
 | 🏢 **Zoox** | PhD Research Intern, Physical AI in Perception | Foster City, CA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/aab5dc76-6ee6-419c-90ce-4a852d9fdeec/apply) |
 | 🏢 **Cboe** | Global Derivatives Business Strategy Research Intern | New York, NY + 1 ... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/New-York-NY/Global-Derivatives-Business-Strategy-Research-Intern_R-4150) |
@@ -339,9 +339,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
-| 🏢 **Amentum** | Summer 2026 – SES Simulation Engineer Intern | Houston, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
+| 🏢 **Amentum** | Summer 2026 – SES Simulation Engineer Intern | Houston, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) |
 | 🏢 **JP Morgan Chase** | 2026 – Internship - Markets - Systematic Trading - New York | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) |
 | 🏢 **Tesla** | Machine Learning Platform Intern - Multiple Teams | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269812) |
 | 🏢 **AES Corporation** | Legal Intern-1 | US, Salt Lake Cit... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Legal-Intern-1_R1063542-1) |
@@ -384,8 +384,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Veolia Environnement SA** | Lab/Operator Intern | Freeport, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124487439) |
 | 🎮 **NVIDIA** | Formal Verification Intern - Fall 2026 | CA Santa Clara + ... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Formal-Verification-Intern---Fall-2026_JR2017490) |
 | 🏢 **Moog** | Intern, Operations Engineering | Cleveland, OH | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Cleveland-OH/Intern--Operations-Engineering_R-26-16825) |
-| 🏢 **Trimble** | Intern Graduate - Non Technical | OH, Dayton | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Intern-Graduate---Non-Technical_R55940) |
-| 🏢 **Astranis** | Reliability Test Intern (Fall 2026) | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4677973006) |
+| 🏢 **Trimble** | Intern Graduate - Non Technical | OH, Dayton | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/Intern-Graduate---Non-Technical_R55940) |
+| 🏢 **Astranis** | Reliability Test Intern (Fall 2026) | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4677973006) |
 | 🏢 **Globus Medical** | Product Development Internship | Audubon, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Development-Internship_JR106642) |
 | 🏢 **Qualtrics** | Skillbridge - Enterprise Support Manager Internship | United States (Re... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.qualtrics.com/careers/us/en/job/7868141?gh_jid=7868141) |
 | 🏢 **Generac** | IT Intern - Results Delivery Office | Waukesha, WI - USA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/IT-Intern---Results-Delivery-Office_JR13808) |
