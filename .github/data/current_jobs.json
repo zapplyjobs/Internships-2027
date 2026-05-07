@@ -161,7 +161,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -235,7 +235,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -419,113 +419,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
-  },
-  {
-    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
-    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-    "employer_name": "Peraton",
-    "job_city": "Bedford",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, NH",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
-    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, TX",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
@@ -759,6 +652,113 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
+    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
+    "employer_name": "Peraton",
+    "job_city": "Bedford",
+    "job_state": "NH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, NH",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -6075,66 +6075,6 @@
     "job_posted_at": "2026-05-02T13:30:45.196Z"
   },
   {
-    "job_id": "greenhouse-cloudflare-7362113",
-    "job_title": "Product Manager Intern (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d03ed8864c5614f864efe464e35361f51076201b89329a24af49a618db155559",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:45.195Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7773799",
-    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:45.195Z"
-  },
-  {
     "job_id": "greenhouse-cloudflare-7822668",
     "job_title": "Procurement Analyst Intern",
     "employer_name": "Cloudflare",
@@ -6219,6 +6159,66 @@
       "locations": [
         "us",
         "hybrid"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:45.195Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7362113",
+    "job_title": "Product Manager Intern (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7362113?gh_jid=7362113",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d03ed8864c5614f864efe464e35361f51076201b89329a24af49a618db155559",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:45.195Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7773799",
+    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "entry_level",
       "special": [],
@@ -8876,35 +8876,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T18:59:15.000Z"
-  },
-  {
-    "job_id": "greenhouse-oscar-7871724",
-    "job_title": "Internal Communications Intern",
-    "employer_name": "Oscar Health",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "http://www.hioscar.com/careers/7871724?gh_jid=7871724",
-    "job_posted_at_datetime_utc": "2026-04-30T18:35:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "50efc3fb57d530ca15c93a51aedb48047e0d678ecebc8ddb266214b048d0e6d9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-30T18:35:08.000Z"
   }
 ]
