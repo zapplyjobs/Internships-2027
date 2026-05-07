@@ -148,7 +148,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -332,6 +332,113 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
+  },
+  {
+    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
+    "job_title": "Quantitative Trader Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0b7ecc907b8491a863c2986294469f0658279d9e6dbe8bba218a03c86559e4ea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-04690200-00da-4592-b697-fc3f8a39af9c",
@@ -555,113 +662,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
-    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, TX",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
-    "job_title": "Quantitative Trader Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0b7ecc907b8491a863c2986294469f0658279d9e6dbe8bba218a03c86559e4ea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
       ],
       "locations": [
         "us"
@@ -5429,36 +5429,6 @@
     "job_posted_at": "2026-05-02T13:31:14.269Z"
   },
   {
-    "job_id": "greenhouse-verkada-5113156007",
-    "job_title": "Channel Enablement Intern",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Mateo, CA United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:31:01.801Z"
-  },
-  {
     "job_id": "greenhouse-verkada-5117760007",
     "job_title": "AI Software Engineering Intern - Fall 2026",
     "employer_name": "Verkada",
@@ -5499,6 +5469,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-05-02T13:31:01.801Z"
+  },
+  {
+    "job_id": "greenhouse-verkada-5113156007",
+    "job_title": "Channel Enablement Intern",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Mateo, CA United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:31:01.801Z"
   },
   {
@@ -9100,35 +9100,5 @@
     "_source": "aggregator",
     "_original_source": "ashby",
     "job_posted_at": "2026-04-30T16:42:38.121Z"
-  },
-  {
-    "job_id": "workday-flir-systems-REQ34339",
-    "job_title": "Safety Technician Intern",
-    "employer_name": "FLIR Systems",
-    "job_city": "US Thousand Oaks CA TDY",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US Thousand Oaks CA TDY + 1 more",
-    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Thousand-Oaks-CA-TDY/Safety-Technician-Intern_REQ34339",
-    "job_posted_at_datetime_utc": "2026-04-30T16:24:02.127Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "015adf7fbcf5b0d4afeda749928e110ee0c7575f375ef3b3a9c8e2cb4cdd55b3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-30T16:24:02.127Z"
   }
 ]
