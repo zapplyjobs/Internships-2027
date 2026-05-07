@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tesla** | Software Engineer Intern - Integration Tools | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269445) |
 | 🏢 **Tesla** | AI Tooling Intern - Fullstack Engineer - AI Tooling | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269810) |
 | 🏢 **Amazon.com Services LLC** | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | Seattle, WA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) |
-| 🏢 **Boston Dynamics** | Software Intern, General Software - Warehouse Robotics, Stretch Team | Waltham | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Intern--General-Software---Warehouse-Robotics--Stretch-Team_R2570) |
+| 🏢 **Boston Dynamics** | Software Intern, General Software - Warehouse Robotics, Stretch Team | Waltham | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Software-Intern--General-Software---Warehouse-Robotics--Stretch-Team_R2570) |
 | 🏢 **Leidos** | Junior CEMA Software Engineer Intern | Lawton, OK + 4 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) |
 | 🏢 **State Street** | Application Developer, Fulltime Internship (July - Dec 2026) | Quincy, Massachus... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Application-Developer--Fulltime-Internship--July---Dec-2026-_R-785064) |
 | 🏢 **Thermo Fisher Scientific** | Software Intern | Pleasanton, Calif... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Software-Intern_R-01340600) |
@@ -271,7 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
+| 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
 | 🏢 **Redis** | Marketing Communications Intern (Summer) | United States | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/a253a9eb-bd87-4f6f-b5c7-ac239428ac65/application) |
 
 <p align="center">Apply for more jobs at</p>
