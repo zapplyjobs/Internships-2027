@@ -68,10 +68,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Snowflake** | Software Engineer Intern (Security) - Fall 2026 | Menlo Park, CA | 48m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application) |
-| 🏢 **Snowflake** | Software Engineer Intern (Infrastructure Automation) - Fall 2026 | Menlo Park, CA | 48m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application) |
-| 🏢 **Snowflake** | Software Engineer Intern (Database Engineering) - Fall 2026 | Menlo Park, CA | 49m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application) |
-| 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
+| 🏢 **Snowflake** | Software Engineer Intern (Security) - Fall 2026 | Menlo Park, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application) |
+| 🏢 **Snowflake** | Software Engineer Intern (Infrastructure Automation) - Fall 2026 | Menlo Park, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application) |
+| 🏢 **Snowflake** | Software Engineer Intern (Database Engineering) - Fall 2026 | Menlo Park, CA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application) |
+| 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
 | 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
 | 🏢 **Oracle** | Software Engineer Intern - NetSuite | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961) |
 | 🏢 **Tesla** | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269819) |
@@ -256,7 +256,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Uber** | 2026 Internal Communications Intern - US | New York, New York | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159301/) |
+| 🏢 **Uber** | 2026 Internal Communications Intern - US | New York, New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159301/) |
 | 🏢 **OpenEye Scientific** | Marketing Intern | Liberty Lake, Was... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/openeye/jobs/8538778002) |
 
 <p align="center">Apply for more jobs at</p>
@@ -311,12 +311,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Veolia Environnement SA** | Intern - Engineering | Plainfield, IL | 57m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125380509) |
+| 🏢 **Veolia Environnement SA** | Intern - Engineering | Plainfield, IL | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125380509) |
 | 🏢 **Veolia Environnement SA** | Drafting Intern | Plainfield, IL | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125222379) |
 | 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
 | 🏢 **Amentum** | Summer 2026 – SES Simulation Engineer Intern | Houston, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **JP Morgan Chase** | 2026 – Internship - Markets - Systematic Trading - New York | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) |
 | 🏢 **Tesla** | Machine Learning Platform Intern - Multiple Teams | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269812) |
