@@ -1,5 +1,3978 @@
 [
   {
+    "job_id": "workday-walmart-R-2504435",
+    "job_title": "Part-Time Pre Grad Intern - Sam's Club Pharmacy",
+    "employer_name": "Walmart",
+    "job_city": "(USA) TX LEWISVILLE 06381 SAM'S CLUB",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "(USA) TX LEWISVILLE 06381 SAM'S CLUB",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-LEWISVILLE-06381-SAMS-CLUB/Part-Time-Pre-Grad-Intern---Sam-s-Club-Pharmacy_R-2504435",
+    "job_posted_at_datetime_utc": "2026-05-08T20:10:12.944Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02458724e2dc06bf8d4f49bb26d1544d1494e91264a9a6c4995d7017dbbf56f6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "fortune500"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:10:12.944Z"
+  },
+  {
+    "job_id": "workday-td-bank-R_1488176",
+    "job_title": "Specialized HR Analyst I (Internship)",
+    "employer_name": "TD Bank",
+    "job_city": "Mount Laurel",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mount Laurel, New Jersey",
+    "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Specialized-HR-Analyst-I--Internship-_R_1488176",
+    "job_posted_at_datetime_utc": "2026-05-08T20:09:16.649Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95e34eb3f9c35f5fa635b78060c4e7f8aee11576c8da7e086977e67398bdd834",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:09:16.649Z"
+  },
+  {
+    "job_id": "workday-transunion-19040450",
+    "job_title": "Financial Planning & Analysis Internship",
+    "employer_name": "TransUnion",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, Illinois",
+    "job_apply_link": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Financial-Planning---Analysis-Internship_19040450",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:58.373Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3883659660d391c61eb70860afb676ef06fb952c147834a5ed5f9883efef68cb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:58.373Z"
+  },
+  {
+    "job_id": "workday-s&p-global-328504",
+    "job_title": "Public Finance Intern",
+    "employer_name": "S&P Global",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, NY",
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Public-Finance-Intern_328504-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:47.433Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "50a00fd13d64673adbe62112e1ed934e6d88b44e4fb4781e317f6b6e80a42e14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:47.433Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR340771",
+    "job_title": "Summer 2027 Intern - Software Engineer",
+    "employer_name": "Salesforce",
+    "job_city": "California San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California San Francisco + 7 more",
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:41.949Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af16be66821956ff0c9d40b052a4fa1d18548af9fa74f8ed538103ff2a573dda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:41.949Z"
+  },
+  {
+    "job_id": "workday-rtx-01843565",
+    "job_title": "Internship Fall 2026 - Quality Specialist",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843581",
+    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843889",
+    "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Dveloppement-des-procds-manufacturiers---Internship-Fall-2026---Manufacturing-Process-Development_01843889",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57a82c0ffcb0cff76c89fc351bc66c5ba673699584938704d40b43c0ec7965b3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01838817",
+    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01838817",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01837593",
+    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01837593",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01837135",
+    "job_title": "Stage - Automne 2026 - Ingénierie de projets - Programmes turbopropulseurs régionaux / Internship - Fall 2026 - Project Engineering - Regional engine programs",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingnierie-de-projets---Programmes-turbopropulseurs-rgionaux---Internship---Fall-2026---Project-Engineering---Regional-engine-programs_01837135",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "75c016c23d0d2ab90166c2e31a05ae619cba1a1516dd89b352f87eec9684a26e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843882",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - Forest, MS",
+    "employer_name": "RTX",
+    "job_city": "MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/SkillBridge-Intern-DoD--Information-System-Security-Officer---Forest--MS_01843882",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51e29a83ff55bbe2c3f38c5376b4c478d935db140e59b1e6054f6937a6f53636",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843878",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - McKinney, Texas",
+    "employer_name": "RTX",
+    "job_city": "TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/SkillBridge-Intern-DoD--Information-System-Security-Officer---McKinney--Texas_01843878",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3eae9329bb05ea8b662e4ea91dcb50d3d742d43e2d0c3fd2b438d86b3f66718",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843644",
+    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op(Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op-Remote-_01843644",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ecd493866c63c5b96f975976fc59f299cd0cbb589adf282d9c3c508f81a371d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843648",
+    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op--Remote-_01843648",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c7e0e131009f15ebd4e9af7956c54626421a0179522f577cf1b848a89d06e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01837366",
+    "job_title": "Industrial Trainee ( CA Intern",
+    "employer_name": "RTX",
+    "job_city": "Ka",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ka, IN",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Industrial-Trainee---CA-Intern_01837366",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fcb06f5d46b0e11ec41e740eaebaf97b3fb3253d05345e1579e9112588e7dbc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843727",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843378",
+    "job_title": "Summer 2026 - Legal Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2026---Legal-Intern--Remote-_01843378",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01dd3abe1227ae13b1ad3712de6bf26f636b32c73b94c7ccd4aad3082140275a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01839788",
+    "job_title": "Stage Automne 2026 - Service Technique des Accessoires Moteurs / Internship Fall 2026 - Engine Controls & Accessories Technical Services",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0279b17cacd01fbe26994b42b6277310e607c0691d0439d3c5bc19d123437291",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843537",
+    "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Stagiaire-en-ressources-humaines---Internship---Fall-2026---Human-Resource-Intern_01843537",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1a7aa7ccade5965bdfe286dd79d441ed41805d60ccde75d119b5d5c7c8213fd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843350",
+    "job_title": "Internship Fall 2026 - Maintenance Reliability Engineer Student",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Maintenance-Reliability-Engineer-Student_01843350",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81777c9673a652d93a0712a4b1168eaa283977a7567e00fa9dd94c68592ac491",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843723",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843723",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20928",
+    "job_title": "Marketing Intern",
+    "employer_name": "SEL",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Idaho - Boise",
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Marketing-Intern_2026-20928",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:37.674Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "845fe7afb6f03077497bd6158c1cefa956f3bbbdc9dddd98a8f4d24aa2c5e380",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:37.674Z"
+  },
+  {
+    "job_id": "workday-proofpoint-R13955",
+    "job_title": "Talent Marketing Intern",
+    "employer_name": "Proofpoint",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Sunnyvale, CA",
+    "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Sunnyvale-CA/Talent-Marketing-Intern_R13955",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:32.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18f03dfe6c68a2f09725054e48da2e902945e7c7fc4806b0ab4ebe276d0c6be9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:32.577Z"
+  },
+  {
+    "job_id": "workday-rockwell-automation-R25-7668",
+    "job_title": "Co-op, Embedded Software Engineer (May 2026 - December 2026)",
+    "employer_name": "Rockwell Automation",
+    "job_city": "Mayfield Heights",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mayfield Heights, Ohio, United States",
+    "job_apply_link": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--Embedded-Software-Engineer--May-2026---December-2026-_R25-7668",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:27.958Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "87d57b6fc69b413d0baaa7e5058b2bc99a26de70210131050d3b60f5a7fb5f75",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:27.958Z"
+  },
+  {
+    "job_id": "workday-morgan-stanley-JR036201",
+    "job_title": "Intern",
+    "employer_name": "Morgan Stanley",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York, United States of America",
+    "job_apply_link": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Intern_JR036201-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:09.776Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9474108470f78fa7b5ad5dabfb0973c4c3c09caaf1dc300fd71693d34207dbcd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:09.776Z"
+  },
+  {
+    "job_id": "workday-oshkosh-corporation-R46423",
+    "job_title": "Internal Audit Intern",
+    "employer_name": "Oshkosh Corporation",
+    "job_city": "Oshkosh",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Oshkosh, Wisconsin, United States",
+    "job_apply_link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Internal-Audit-Intern_R46423",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:03.839Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "126cbecbd1e9f4cf0dd4d5036aa7b509dd455a01836aa7c611f4524606789a63",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:03.839Z"
+  },
+  {
+    "job_id": "workday-moog-R-26-17553",
+    "job_title": "Intern, Software Engineering",
+    "employer_name": "Moog",
+    "job_city": "Santa Barbara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Barbara, CA",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Intern--Software-Engineering_R-26-17553",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:55.123Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "535c861d4b1fc44e334009ee5c1eef22b0689c0b91be543fc9372d26f8eefe3e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:55.123Z"
+  },
+  {
+    "job_id": "workday-moog-R-25-14451",
+    "job_title": "Intern, Operations",
+    "employer_name": "Moog",
+    "job_city": "Torrance",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Torrance, CA",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Operations_R-25-14451",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:55.123Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1208974cc277a0b78ea89bbd44023bdb1c6308f7c1c82d397ac44bda81798d0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:55.123Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182711",
+    "job_title": "Mechanical Design and Analysis Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00182711",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "53f46f79a6379daff468f34175a7d42129e8f7e32cd47b695b4ccb34badf2903",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.278Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181120",
+    "job_title": "Material Control Summer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00181120-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c41637587df7cd11881a0a981d83813dd3ab5c3dee1b0088132da5c7e29ae811",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182680",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA + 1 more",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5cee1bbd7a001d3d08f4eba7679144ef3144342c5b865e3f60da535eed884e1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182690",
+    "job_title": "Capture Management Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA + 1 more",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Capture-Management-Intern_R-00182690",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7da3708d0da853d9509640ebdcfbfe5823948ef4c377ede752809e5716fe25c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-kbr-R2116882",
+    "job_title": "National Security Solutions (NSS) Internship - Positioning, Navigation and Timing (PNT)",
+    "employer_name": "KBR",
+    "job_city": "Beavercreek Township",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Beavercreek Township, Ohio",
+    "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:30.228Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3a802311c8a9ae4c41b94df3e258e60e807be0e84b5e25bc8b6ce0f45cab4c62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:30.228Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R2814-25",
+    "job_title": "Intern- Process Engineering (Defect)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Colorado Springs - East Cheyenne Mountain Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CO - Colorado Springs - East Cheyenne Mountain Blvd",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Process-Engineering--Defect-_R2814-25",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:26.642Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "648040a02adefccc993d62740b942db80b588f04f32fdc2f665f1a56d8b41d49",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:26.642Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1192940",
+    "job_title": "Thermal Engineering Intern",
+    "employer_name": "HPE (University)",
+    "job_city": "Chippewa Falls",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chippewa Falls, Wisconsin, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Thermal-Engineering-Intern_1192940",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:07.397Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "27adc14bc7c437fbe125a513bba753aa4ce7f195af64f56712c3cca44f075396",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:07.397Z"
+  },
+  {
+    "job_id": "workday-jabil-J2449672",
+    "job_title": "Accounting/Finance Intern",
+    "employer_name": "Jabil",
+    "job_city": "Monument",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Monument, CO",
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Accounting-Finance-Intern_J2449672-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:04.703Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "abdbb6ba85c64f44b8d259e0270f20b338f7309a353b6cec52b014ab308f4f79",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:04.703Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-063040",
+    "job_title": "FIRST Robotics Engineering Intern",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "3 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "3 Locations",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/FIRST-Robotics-Engineering-Intern_R-063040-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.748Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "601e0d8c107d73819c4f35f9fc50a16d559189eb2f14b361d14eb69a75b931a1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:53.748Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066703",
+    "job_title": "Digital Art and Design Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Irving",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Irving, Texas, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Irving-Texas-United-States-of-America/Digital-Art-and-Design-Co-Op_R-066703",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:53.748Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5aaca5d981fdd14391b2abef88dbd59cc100bc9555dd87e9acdfbbe231c50a0a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:53.748Z"
+  },
+  {
+    "job_id": "workday-flir-systems-REQ34674",
+    "job_title": "Manufacturing Engineering Intern",
+    "employer_name": "FLIR Systems",
+    "job_city": "Chestnut Ridge, NY",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Chestnut Ridge, NY",
+    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineering-Intern_REQ34674",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:37.833Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "89328457a1d7d4722dbee17f20cac25248f65a64b115a4b0e4e5a786d7984355",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:37.833Z"
+  },
+  {
+    "job_id": "workday-generac-JR14000",
+    "job_title": "Supply Chain Intern - Production Planning",
+    "employer_name": "Generac",
+    "job_city": "USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Jefferson, WI - USA",
+    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Jefferson-WI---USA/Supply-Chain-Intern---Production-Planning_JR14000",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:30.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8aa70865f27d69025000df12cece7a4fb695eb96bff82600459c43752731de5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:30.224Z"
+  },
+  {
+    "job_id": "workday-generac-JR14013",
+    "job_title": "Intern Engineering - Advanced Manufacturing",
+    "employer_name": "Generac",
+    "job_city": "USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Waukesha, WI - USA",
+    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Intern-Engineering---Advanced-Manufacturing_JR14013",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:30.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ba9f216dd8113fcfe5ee388913f930d214356ee67ae5cd097625fd8f758e5543",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:30.224Z"
+  },
+  {
+    "job_id": "workday-generac-JR14122",
+    "job_title": "Intern Human Resources- Talent Acquisition",
+    "employer_name": "Generac",
+    "job_city": "USA",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Waukesha, WI - USA",
+    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Intern-Human-Resources--Talent-Acquisition_JR14122",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:30.224Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6288b30ef501c186ca5957e9ffaabbe7d429119f8277a5f951a5e7824071b64f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:30.224Z"
+  },
+  {
+    "job_id": "workday-ge-vernova-R5041307",
+    "job_title": "GE Vernova Nuclear Engineering Internship - Fall 2026",
+    "employer_name": "GE Vernova",
+    "job_city": "Wilmington NC USA",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Wilmington NC USA",
+    "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Internship---Fall-2026_R5041307-2",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:27.945Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "93df59ac0e0aa8d6a8177943d41e118b9be9bc317742c87af724b3e3aa2c12b4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:27.945Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R25-10854",
+    "job_title": "IT Lab Ops Portfolio Management Intern - Summer 2026",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - WI - Madison",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/IT-Lab-Ops-Portfolio-Management-Intern--Summer-2026-_R25-10854",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:23.846Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b3ff4a9e4ff7b21eada75fed4c279182fb7d6560ff46202ba0a365fa5ac8470",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:23.846Z"
+  },
+  {
+    "job_id": "workday-entrust-R004159",
+    "job_title": "Firmware Engineer Intern",
+    "employer_name": "Entrust",
+    "job_city": "Shakopee, MN",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Shakopee, MN",
+    "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:20.677Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ba98bbba77c82b15d9bd90df1573fadc2240c1b1696c281437365db431ca04c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:20.677Z"
+  },
+  {
+    "job_id": "workday-comcast-R435881",
+    "job_title": "Comcast Agentic Sales Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Agentic-Sales-Co-op_R435881",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7d2332742eb58f62e2dc659bc7f5d7c0ebb6407e770901cf665c6c6b7fabbc1d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435971",
+    "job_title": "Comcast Brand Marketing + Partnerships Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Brand-Marketing---Partnerships-Co-op_R435971",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fa7b12e6a08ce9823b4b7f9413bed124fcf145d4a0c7cfab85cd7a2fa43af853",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436577",
+    "job_title": "Comcast Brand Strategy Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Brand-Strategy-Co-op_R436577",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7ebe4601b4f3c40fe6325a23d149f9f4a9da122e84add656c624b172344ec80b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435981",
+    "job_title": "Comcast Business Analytics Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Analytics-Co-op_R435981",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc1395c01a081917f4c9d38824780d05c363f343938ffbc0e9ebbafe0beceeb1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435978",
+    "job_title": "Comcast Business Digital Product Management Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Digital-Product-Management-Analyst-Co-op_R435978",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7c2471fc4b050e971b12eae41908555e465d2c16c363e26525787690a05bb525",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435980",
+    "job_title": "Comcast Business HR Comms & Engagement Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-HR-Comms---Engagement-Co-op_R435980",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e94acd34fad996ec5ef0e3c11f5d64c8952cdf850f90b41a4e435bed6ec21833",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435969",
+    "job_title": "Comcast Business Sales Support Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Sales-Support-Co-op_R435969",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec9073c4b25752d8ba47d55e1e9f6173c92eec542cd5ed953b3a6f7801cdf7a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435975",
+    "job_title": "Comcast Business Strategy and Development Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Strategy-and-Development-Co-op_R435975",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6abb72a1f8e1dda9ce8cc2088b544e460b4fe828b42965320515caa13b1378de",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436282",
+    "job_title": "Comcast Campus Events Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Campus-Events-Co-op_R436282",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "79812e26c2f776572b5553112ad83c55ea63b852677d0b5f98643e0f72d77703",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436266",
+    "job_title": "Comcast Campus Planning and Mobility Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Campus-Planning-and-Mobility-Co-op_R436266",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3762773600bc4c20be549a15440ff93927b0cf7d0b4126a0e21ca17077e1b8fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436103",
+    "job_title": "Comcast Campus Tour Ambassador Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Campus-Tour-Ambassador-Co-op_R436103",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a86405e57749e1a4d4a67622e7cf2e2874b0d02bf8b54c51bda42b9065b3ebc7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435902",
+    "job_title": "Comcast Communications - Impact & Inclusion Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Communications---Impact---Inclusion-Co-op_R435902",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c911ab00b99a13530c56e484e1295f80db7c3e537a1d1e158a3766f91acaf60",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436028",
+    "job_title": "Comcast Construction Tools Delivery  Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Construction-Tools-Delivery--Co-op_R436028",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06f54cac408a56e8a249278a0a342b3c99f5d2d6684eceed64ea8a92116ea31d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435974",
+    "job_title": "Comcast Contracts Management Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Contracts-Management-Operations-Co-op_R435974",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f5e1fb21c0083b35f915e3804c0a8835ba2fd414f2bde04df2215e11282b3dfd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435994",
+    "job_title": "Comcast Corporate Controllership Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Corporate-Controllership-Co-op_R435994",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92f63da06f5cdf858d2aa828cdad66ecd6e3d5c23914ef4b1028364d9079dc04",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436281",
+    "job_title": "Comcast Data Management Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Management-Co-op_R436281",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a2cd61f531c45948d67bfaa7382344a6d3aedfc9f55f92b5afad2b72be201d3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436017",
+    "job_title": "Comcast Data Products & Governance Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Products---Governance-Co-op_R436017",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "373d9909b18f77c5049a493c8ce0704f0fb1ed46af93fc0d33917cc49161897a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436444",
+    "job_title": "Comcast Data Science & Analytics Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Science---Analytics-Co-op_R436444",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af052c4ba1b664161972de20bf7d1f9792f84a15060664b704748f4b63a6fc66",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436446",
+    "job_title": "Comcast Data Scientist Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R436446",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c96613fe426c45d2ec9172ae415969d417ecbec7d2d3730218239bc8e7ce10c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435970",
+    "job_title": "Comcast Digital Internal Comms Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Digital-Internal-Comms-Co-op_R435970",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a557abb9f3e0199416f36e2f55c74ac76ada3318d8b16e2764221cd8c08ac03b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435963",
+    "job_title": "Comcast Employee Communications Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Employee-Communications-Co-op_R435963",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69f82b5967c73493d980257615b5fc263aeb256910ea3cfea982216c9a78086c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435897",
+    "job_title": "Comcast Employee Engagement Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Employee-Engagement-Co-op_R435897",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9a4e8b8879a23f28a6528eeb728bbe56243bcf3b4ae6ec3a31138d401caa87bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436325",
+    "job_title": "Comcast Finance Business Process Management Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Finance-Business-Process-Management-Co-op_R436325",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a180f8fa9054a08226048762c8082f2a671c3e866525b48932c37016fa5c9511",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436188",
+    "job_title": "Comcast Finance Technology Automation & AI Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Finance-Technology-Automation---AI-Co-op_R436188",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "416f58a1c1841c808d3f4d3ec6cd24831e5438216e49159ce4d90e95310e982f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436005",
+    "job_title": "Comcast Financial Application Analyst Intern Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Financial-Application-Analyst-Intern-Co-op_R436005",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84e08b4ef7e0298e2c18422977ef82827573687f1e4f708fc84dd9421e9d1aa6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436056",
+    "job_title": "Comcast Fraud & Credit Risk Management Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Fraud---Credit-Risk-Management-Co-op_R436056",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "82bc6e53cf3cb15dc2e358e53e6c051667d27c7e9d625e2b16c895a6ed8f1c02",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436027",
+    "job_title": "Comcast Global Accounting Organization - Product Support Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Accounting-Organization---Product-Support-Co-op_R436027",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d96669d5d3bb4b7f9e95c54e6f1106f39453f6419502ce0202000f8fa0d7d618",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436088",
+    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436089",
+    "job_title": "Comcast Global Audit Financial Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436089",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436090",
+    "job_title": "Comcast Global Audit Financial Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436090",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436091",
+    "job_title": "Comcast Global Audit Technology Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Technology-Co-op_R436091",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5413a3e830396220d10c857dcdc2dc3eaf200043d667f1b6d5ee694bda1628c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436019",
+    "job_title": "Comcast HR & Workforce Analytics & Data Science Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-HR---Workforce-Analytics---Data-Science-Co-op_R436019",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d639f8a4458a34a3cee25367af9a92eb47c1e513192cba3d3cc545670fde29dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436294",
+    "job_title": "Comcast Impact & Inclusion Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Operations-Co-op_R436294",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b50d65bc935128495176fc52e2f105f828ffb9c4350b59beaf881cd29fe4f710",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436098",
+    "job_title": "Comcast Impact & Inclusion Strategic Partnerships and Philanthropy Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Strategic-Partnerships-and-Philanthropy-Co-op-_R436098",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1f81e1d72e8eba08879059ec5ce7d1d7943c5545847de0cae23df7460085ad3d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435976",
+    "job_title": "Comcast Inside Sales Communications Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-Communications-Co-op_R435976",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d3b1ece8a10f822cb6b710346bd0c984c1c4205528728418967bf3571930a2b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435977",
+    "job_title": "Comcast Inside Sales QA Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-QA-Co-op_R435977",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "784f2ed7d192b97b53f18d9b999117c7183d421be07a36c9f927df5b1151a91d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436016",
+    "job_title": "Comcast Integrated Marcom Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Integrated-Marcom-Co-op_R436016",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66072e3013bfe835faad46a4fb23fbe60b3920dbadb7892c9689718116b3dd14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435887",
+    "job_title": "Comcast LLM Paid Media Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-LLM-Paid-Media-Co-op_R435887",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cf6bcf1742561f52ba9fc8af9a0b2a7831409a98edc594d771f66edc29db09f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436007",
+    "job_title": "Comcast Marketing Business Operations Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Marketing-Business-Operations-Analyst-Co-op_R436007",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4d5f135971212a9baf877c5a00fda9605e08ff23453e7aec415175fef03cc4a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436054",
+    "job_title": "Comcast Network Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Bellmawr, 321 Benigno Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "NJ - Bellmawr, 321 Benigno Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Bellmawr-321-Benigno-Blvd/Comcast-Network-Engineer-Co-op_R436054",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5143e5f22175bb249e6c6e426bbb2464ef3695ffad4c213313ab43ae02ad414",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436176",
+    "job_title": "Comcast Network Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Mount Laurel, 1800 Bishops Gate",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "NJ - Mount Laurel, 1800 Bishops Gate",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Engineer-Co-op_R436176",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a1970f782150f612fe8e215c9ca6277610db7f92a6fe0b484b1354dec2837e7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435979",
+    "job_title": "Comcast Platform Software Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a2b69c6bfda9c44b4a5c94b0d240f5734f568ae7b65101e76176dd27d3087ee0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435999",
+    "job_title": "Comcast Political Compliance Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Political-Compliance-Co-op_R435999",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "98007a73c2d9435e958d1825066edd7a6f96dc1bc2b255395265163666a6f262",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436185",
+    "job_title": "Comcast Procure-to-Pay Analytics Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Procure-to-Pay-Analytics-Co-op_R436185",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e36e230e46a959d9334e298d845fd1f3fb14316b1a65fc8254d2b0a29e4372ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436018",
+    "job_title": "Comcast Product / Data Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product---Data-Analyst-Co-op_R436018",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "18dcee08a222346cecfe6fe94d069e33a6fd2ff1ff3e8ee783d284550a36ede1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436173",
+    "job_title": "Comcast Product Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product-Analyst-Co-op_R436173",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d410f04a7aaa212e8f2fe9325b85fb46295eb7e3a35c1dd44d1424b2d8c259e5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435972",
+    "job_title": "Comcast Product Management Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Product-Management-Co-op_R435972",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "17fc34a057ad321fcf2e584e01767f65f2b980123bc522e39c6a116fbc73c0f9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435874",
+    "job_title": "Comcast Product Management Shield Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Product-Management-Shield-Co-op_R435874",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0ee1f594f13ff538123dad435607a84e4362c35ca9af135c79b502c107edb073",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435973",
+    "job_title": "Comcast Program Management Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Program-Management-Co-op_R435973",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee65a35341b031943c18d6a6f1b100de818366820b6a4da1fd177b4235f2b8de",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436190",
+    "job_title": "Comcast Software Architect Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436025",
+    "job_title": "Comcast Software Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436025",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e84a82bbf2741783d198e48634ad544942d0af5a460c7af8a22ac931fbe0e85",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436169",
+    "job_title": "Comcast Software Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R436169",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2e84a82bbf2741783d198e48634ad544942d0af5a460c7af8a22ac931fbe0e85",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435915",
+    "job_title": "Comcast Sponsorships Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Sponsorships-Co-op_R435915",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e2eb037b5f29298764ec1386000e41d615e639ecf6c3dec6415c76c9de488fb5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435992",
+    "job_title": "Comcast State and Local Tax Controversy Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-State-and-Local-Tax-Controversy-Co-op_R435992",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e5bb4416d2ba48311650af9b8131d26c0ba05e60c3e744a4248a3b29eeb5ba78",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436001",
+    "job_title": "Comcast Strategic Planning & Insights Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Strategic-Planning---Insights-Co-op_R436001",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "33e9cbf08aac799007ebee7cfabda3d1ee16d84616c5cf48e9b489af0b8d6917",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436171",
+    "job_title": "Comcast Technical Program Manager Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Technical-Program-Manager-Co-op_R436171",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e47b54496430288d4aa2ca70c8639856e1b88cb989de1072e2936da28d469cb3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435927",
+    "job_title": "Comcast Town Hall, Events Production Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Town-Hall--Events-Production-Co-op_R435927",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f4e865abfeb5c233aa81ff835c9b0a6a13ccdd85825527a82505a924b2653be5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436092",
+    "job_title": "Comcast Town Hall Engagement Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Town-Hall-Engagement-Co-op_R436092",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e224d1f2b6abfa3a609c84a3b4f886473d12821641db99082140fe9c96160076",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R435996",
+    "job_title": "Comcast Treasury Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Wilmington, 1201 Market St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "DE - Wilmington, 1201 Market St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/DE---Wilmington-1201-Market-St/Comcast-Treasury-Analyst-Co-op_R435996",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d658416cc7e632be996cf4907e1fc911470a3c73ec699bafccaea7adeb4eab5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436003",
+    "job_title": "Comcast Treasury Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Wilmington, 1201 Market St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "DE - Wilmington, 1201 Market St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/DE---Wilmington-1201-Market-St/Comcast-Treasury-Analyst-Co-op_R436003",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d658416cc7e632be996cf4907e1fc911470a3c73ec699bafccaea7adeb4eab5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436015",
+    "job_title": "Comcast WiFi Product Marketing Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-WiFi-Product-Marketing-Co-op_R436015",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7678327bb3574c01b75647c7aff70c83ba76af5710015e4dbf7c6e039eecdac4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R436579",
+    "job_title": "Comcast Xfinity Communities Product Marketing Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Xfinity-Communities-Product-Marketing-Co-op_R436579",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2eb440d4504b23722e2792b9a135511e5ec297582afc3aed1b680a3d541fc44a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.747Z"
+  },
+  {
+    "job_id": "workday-comcast-R437194",
+    "job_title": "Comcast Content & Partnerships Intern",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437194",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e99fc1a8e72b8a78282dd853b4e49b6cc2c415b3dd29410ad07d1e6f32b2c290",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R436576",
+    "job_title": "Comcast Market & Competitive Insights Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Market---Competitive-Insights-Co-op_R436576",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0208e94d7482ce63e55816b9f4b0bb9571df6c869a309a707c51b19e2204d41",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R436182",
+    "job_title": "Comcast Reporting Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Reporting-Analyst-Co-op_R436182",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94ef09b3184cbafb30f858174c8ba20dd19e7272d5d845ca526b68c03dfc6656",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R435967",
+    "job_title": "Comcast Employee Communications Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Employee-Communications-Co-op_R435967",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69f82b5967c73493d980257615b5fc263aeb256910ea3cfea982216c9a78086c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R436257",
+    "job_title": "Comcast Information Systems Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Information-Systems-Co-op_R436257",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c092f4c9fe8502b77ee6232a5a40cbbeb8cb03ab30268bf243d897ce08ec8a8d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-disney-10150455",
+    "job_title": "Disney Cruise Line Pricing & Revenue Management Intern, Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Celebration",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Celebration, FL, USA",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Disney-Cruise-Line-Pricing---Revenue-Management-Intern--Fall-2026_10150455",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:05.107Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ea30afab9ab3cb2e142a4455f59b936f1bb38e527ffad5cc25fe74a7c8f2195",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:05.107Z"
+  },
+  {
+    "job_id": "workday-disney-10150325",
+    "job_title": "ESPN Production Intern, Charlotte, Fall 2026",
+    "employer_name": "Disney",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Charlotte, NC, USA",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Charlotte-NC-USA/ESPN-Production-Intern--Charlotte--Fall-2026_10150325-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:05.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2eca2a381b3ef0900206930a3276371342920d5b9831bd4e0a6b674854c65c09",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:05.106Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR12071",
+    "job_title": "Safety Intern",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Aston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-PA-Aston",
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Safety-Intern_JR12071-2",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "092ed08cacb9d288a696af1e22d8ac4e88bc72a661dd54b8a60188190c033e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:00.425Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR11998",
+    "job_title": "Hardware/Electrical Engineering Intern",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Newtown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-PA-Newtown",
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f3f526375f7acdecc561429c8230323e33c7c9d24100f4f8f0a78f25b5f00d9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:00.425Z"
+  },
+  {
+    "job_id": "workday-cisco-2000450",
+    "job_title": "Software Engineer Full Stack & Application Development I (Intern) – United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose California US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose California US + 12 more",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Application-Development-I--Intern----United-States_2000450",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.130Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf801630a167a9acf6f028d844a5deb12b276e36bbcd968d6821d04a86d409f8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:00.130Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026509533",
+    "job_title": "Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern",
+    "employer_name": "Boeing",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Seattle, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Engineering---Technology-Innovation---Graduate-Researcher-Program---Autonomy-Engineering-Intern_JR2026509533",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "756b574627432b5fc15f2c662bac2c4a1e7c8e24252174fd3813fc412cd3de61",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:49.183Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239666",
+    "job_title": "Cyber Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Antonio, TX",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0239666",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c693d90c67501f6b815685c8d69d515726dfa5dae4459cffedb2cea227c5be62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239648",
+    "job_title": "Business & Office Management Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fayetteville, NC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0239648",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5562db1f1cf63c6fc1d82ffdce5f9de122c3909b3cf0a9ae7d75c7d67e63108",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237923",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:48.508Z"
+  },
+  {
+    "job_id": "workday-caci-325908",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US TX Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US TX Austin",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Electrical-Engineering-Intern---Summer-2026_325908",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2657b0c4a5745221b140da425d26c2a0e92371c1c176ada2f93f944e07967c8f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:40.076Z"
+  },
+  {
+    "job_id": "workday-caci-325763",
+    "job_title": "High School Business Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Crane",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Crane, IN, US",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Business-Intern---Summer-2026_325763",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a0a91240e6caea8865f4ecc5dda229787126f83e6581d8956947837376338e6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:40.076Z"
+  },
+  {
+    "job_id": "workday-caci-325767",
+    "job_title": "High School Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Crane",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Crane, IN, US",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Engineering-Intern---Summer-2026_325767",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7daef44a7f89e6dcd8d96e3edca734dedea97b9f3fa491376393f65eca6c6fa5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:40.076Z"
+  },
+  {
+    "job_id": "workday-caci-325834",
+    "job_title": "Data and Analytics Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-and-Analytics-Intern---Summer-2026_325834",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "702a9a758b1cd005e4380d8ec29724394db6b96d97ddb5f026549cb247fd1d81",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:40.076Z"
+  },
+  {
+    "job_id": "workday-biogen-REQ22462",
+    "job_title": "Co-op, Cell Culture Development",
+    "employer_name": "Biogen",
+    "job_city": "Research Triangle Park",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Research Triangle Park, NC",
+    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:37.533Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e010215d3ae3279262339cda987d0b21cf09816ec4b16ed60ea9ed04e2f3f204",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:37.533Z"
+  },
+  {
+    "job_id": "workday-adobe-R160430",
+    "job_title": "2026 Intern - Software Development Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-Intern---Software-Development-Engineer_R160430",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14df73cc38a2ca175d6d5d2053f3c97e021e7e6da3c4a1bba289205971017c7c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:17.438Z"
+  },
+  {
+    "job_id": "workday-adobe-R162027",
+    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "39a5ce988e2538a919285169fa71df6c3ba86ba1509a16782902e96f45416543",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:17.438Z"
+  },
+  {
+    "job_id": "workday-adobe-R160919",
+    "job_title": "2026 Intern - Applied Science/Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose + 1 more",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Applied-Science-Engineer_R160919",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:17.438Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5dce6b8d9c7f327f896037d2d01ccb3d5b18f7c37da80784f1c54e824dba96b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:17.438Z"
+  },
+  {
+    "job_id": "workday-ameriprise-financial-R25_0000004055",
+    "job_title": "Capital Market's Graduate Intern",
+    "employer_name": "Ameriprise Financial",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York, New York",
+    "job_apply_link": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Capital-Markert-s-Graduate-Intern_R25_0000004055",
+    "job_posted_at_datetime_utc": "2026-05-08T20:05:07.155Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7e37ae0fcf720980e63c5e930bd73815ea1ffb6ae0f67f68651a6c958bb67f05",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:05:07.155Z"
+  },
+  {
+    "job_id": "greenhouse-appian-7909114",
+    "job_title": "Government Relations Intern (Students)",
+    "employer_name": "Appian",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, Virginia",
+    "job_apply_link": "https://job-boards.greenhouse.io/appian/jobs/7909114",
+    "job_posted_at_datetime_utc": "2026-05-08T20:03:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bcd294869a37573cf09fb156a69eb65c6f550036066dd12c93a7e8b5bafa3903",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales",
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-08T20:03:53.000Z"
+  },
+  {
     "job_id": "greenhouse-unity3d-7904529",
     "job_title": "Intern, Research Science",
     "employer_name": "Unity",
@@ -888,38 +4861,6 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
-    "job_id": "microsoft-200036958",
-    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
-    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "internship",
-    "salary": null,
-    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T22:44:55.000Z"
-  },
-  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -930,7 +4871,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -982,19 +4923,19 @@
     "job_posted_at": "2026-05-06T22:02:01.000Z"
   },
   {
-    "job_id": "microsoft-200036954",
-    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "job_id": "workday-target-R0000404399",
+    "job_title": "Store Executive Intern (Store Leadership Intern) – Albuquerque, New Mexico (Starting Summer 2026)",
+    "employer_name": "Target",
+    "job_city": "5 Locations",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
-    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
+    "job_location": "5 Locations",
+    "job_apply_link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2120-Louisiana-Blvd-NE-AlbuquerqueNM-87110-5402/Store-Executive-Intern--Store-Leadership-Intern----Albuquerque--New-Mexico--Starting-Summer-2026-_R0000404399",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:26.331Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
+    "fingerprint": "bf0b8016fc548e425014c66703f44313e438bce9ebf960fd6d6d64e15212eecd",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -1004,14 +4945,794 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
+      "special": [],
       "tag_engine_version": 3
     },
     "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T21:17:55.000Z"
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:26.331Z"
+  },
+  {
+    "job_id": "workday-trimble-R54648",
+    "job_title": "Marketing and Communications Intern",
+    "employer_name": "Trimble",
+    "job_city": "OR, Lake Oswego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - OR, Lake Oswego",
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Marketing-and-Communications-Intern_R54648",
+    "job_posted_at_datetime_utc": "2026-05-06T20:09:05.646Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e487f5683aaf59a872d190a37bdbc1136e4e58463159e3eff1b61bcac55d7404",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:09:05.646Z"
+  },
+  {
+    "job_id": "workday-thermo-fisher-scientific-R-01328133",
+    "job_title": "Software Development / Engineering Intern",
+    "employer_name": "Thermo Fisher Scientific",
+    "job_city": "Hillsboro",
+    "job_state": "OR",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Hillsboro, Oregon, USA",
+    "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Software-Development---Engineering-Intern_R-01328133",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:59.835Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6dbc28af10b66071b0c9ce061315ad6c62ac784d24ecfb733cb25ce9d9c875c3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:59.835Z"
+  },
+  {
+    "job_id": "workday-s&p-global-326741",
+    "job_title": "Summer Intern - Operations & Managed Services",
+    "employer_name": "S&P Global",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX",
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Summer-Intern_326741-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:47.433Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9848c6f215a7c6cfe9696623035eb3d8e8590b126db545a13b1ca72edbd5b711",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:47.433Z"
+  },
+  {
+    "job_id": "workday-rtx-01837489",
+    "job_title": "Stage - Automne 2026 - Analyste d’affaires et de Données / Internship - Fall 2026 - Business & Data Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-d-affaires-et-de-Donnes---Internship---Fall-2026---Business---Data-Analyst_01837489",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:38.178Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5db41229d07f5ce4c991135c96ce30b2e057463c6ed20e7289955d09c2714217",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:38.178Z"
+  },
+  {
+    "job_id": "workday-rtx-01838074",
+    "job_title": "Stage Automne 2026 - Stagiaire en technologies chimiques / Internship Fall 2026 - Intern in Chemical Technology",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Stagiaire-en-technologies-chimiques---Internship-Fall-2026---Intern-in-Chemical-Technology_01838074",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:38.178Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05f43f7178f3bb16ed117528090c6dd7fb3935044662065e8597371105a02834",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:38.178Z"
+  },
+  {
+    "job_id": "workday-rtx-01842886",
+    "job_title": "Stage - Automne 2026 - Developpeur de simulation de systemes de controle moteur / Internship - Fall 2026 – Engine Control System Simulation Developer",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Developpeur-de-simulation-de-systemes-de-controle-moteur---Internship---Fall-2026---Engine-Control-System-Simulation-Developer_01842886",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:38.178Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "37f987b5b6dcc93688d318203a73869034ffa8fedd7d5848fc100e5ddc015dcd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:38.178Z"
+  },
+  {
+    "job_id": "workday-rtx-01837697",
+    "job_title": "Stage - Automne 2026 - Gestion de la Chaîne d’approvisionnement / Internship - Fall 2026 - Supply Chain Management",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gestion-de-la-Chane-d-approvisionnement---Internship---Fall-2026---Supply-Chain-Management_01837697",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d27abd16e19c8e354d4151e3d6d42bd258a2b47b9530bcdff3fa649e87f6e25a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-proofpoint-R14176",
+    "job_title": "AI Engineer Intern",
+    "employer_name": "Proofpoint",
+    "job_city": "Illinois",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Illinois",
+    "job_apply_link": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Illinois/AI-Engineer-Intern_R14176",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:32.577Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02e3c774e39cdac7cc3a07bc13a1aacdc7fc8e8181745f86edadf739b61a4306",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:32.577Z"
+  },
+  {
+    "job_id": "workday-philips-583042",
+    "job_title": "Intern- Manufacturing Engineering-Chicago, Il-2026",
+    "employer_name": "Philips",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, Illinois, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Intern--Manufacturing-Engineering-Chicago--Il-2026_583042",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:27.105Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92b47cbf289ae4adbe8980ea0025c5223b2e278fbb3d960f5a6b633ea68f244a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:27.105Z"
+  },
+  {
+    "job_id": "workday-philips-582261",
+    "job_title": "Co-op-Data Scientist-Cambridge, MA 2026",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op-Data-Scientist-Cambridge--MA-2026_582261",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:27.105Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f18d68d2372dd4a7004eeb5ebd8d507217fa687c14c54e91b592373914091421",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:27.105Z"
+  },
+  {
+    "job_id": "workday-oshkosh-corporation-R43136",
+    "job_title": "Sustainability and Environmental Intern",
+    "employer_name": "Oshkosh Corporation",
+    "job_city": "Oshkosh",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Oshkosh, Wisconsin, United States",
+    "job_apply_link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Sustainability-and-Environmental-Intern_R43136",
+    "job_posted_at_datetime_utc": "2026-05-06T20:08:03.839Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92ccae7c8c8c548aa006f3db04f46ac0347c5a411f9116ce97e5a03098c803b4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:08:03.839Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182570",
+    "job_title": "Business Intern – College",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Business-Intern---College_R-00182570",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:39.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0953c9778b3ba6254f707b7804486baa5b5b2609c62ba72211a6b439c0661e22",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:39.278Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182653",
+    "job_title": "Strategic Sourcing Buyer Intern",
+    "employer_name": "Leidos",
+    "job_city": "6314 RemoteTeleworker US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "6314 RemoteTeleworker US + 3 more",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Strategic-Sourcing-Buyer-Intern_R-00182653",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:39.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6a8058141c51dfbd6c9f2a7f0fcaf6603d7f4fa464fbae233dfe34d6c4c7cf4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:39.278Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R1904-26",
+    "job_title": "Intern (Technician)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Beverly Brimbal",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "MA - Beverly Brimbal",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Beverly-Brimbal/Intern--Technician-_R1904-26",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:26.642Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2cd415b1ea77f4609dfc7ae1bdfb402bbe98ba814956cffa5fb6e43756359b3f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:26.642Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R1724-26",
+    "job_title": "Intern (Quality Control)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Lowell",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "MA - Lowell",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Lowell/Intern--Quality-Control-_R1724-26",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:26.642Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7815919c538567b5d92fd27d8fc987dd9dab414cbfd3a878cb4900b27f7f390",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:26.642Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R1854-26",
+    "job_title": "Intern- Process Engineering (EPI)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Colorado Springs - East Cheyenne Mountain Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "CO - Colorado Springs - East Cheyenne Mountain Blvd",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Process-Engineering--EPI-_R1854-26",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:26.642Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8260e567d954657c30ba895c1bbd9d68c008b703e67c451de17147388823b33",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:26.642Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R1945-26",
+    "job_title": "Intern - Engineering (Applications)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Lawrence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "MA - Lawrence",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MA---Lawrence/Intern---Engineering--Applications-_R1945-26",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:26.642Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d0ebfbd56218622af9ebca7e94baffcb24f8678e498590dd2980bc6e7f0b80ca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:26.642Z"
+  },
+  {
+    "job_id": "workday-intel-JR0283616",
+    "job_title": "Power-Perf and Over Clocking Industry Immersion Intern",
+    "employer_name": "Intel",
+    "job_city": "Costa Rica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Rica, San Jose",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-Perf-and-Over-Clocking-Industry-Immersion-Intern_JR0283616",
+    "job_posted_at_datetime_utc": "2026-05-06T20:07:04.980Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1720628dbe7d3deda950f7482b63a7ea26cf6489440d3bcffb848a4d77983b7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:07:04.980Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-074181",
+    "job_title": "Quality Engineer Co-Op - Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineer-Co-Op---Fall-2026_R-074181",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86f4b08438a044c794e010ea2fc111555b4fb30b679d747c430ea62ace6a9d11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071416",
+    "job_title": "Quality Systems and Digital Services Quality Engineer Co-Op - Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Systems-and-Digital-Services-Quality-Engineer-Co-Op---Fall-2026_R-071416",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4b9cfbc5b2fd660487c5464c871214976c19e68c864c75841024552879883a70",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-071414",
+    "job_title": "Digital Solutions Co-Op - Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Digital-Solutions-Co-Op---Fall-2026_R-071414-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fc6d3165ef99e07c1268a18d461055f855767810294421e3777ba18da0ec0ec9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064445",
+    "job_title": "PALM Immunology/TD Portfolio Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Titusville",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Titusville, New Jersey, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/PALM-Immunology-TD-Portfolio-Co-Op_R-064445",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91430eecac31b4e7eda87fba5066bde2dcdd9acbd8e4b3104ea388e4085b8898",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-entegris-REQ-10185",
+    "job_title": "Manufacturing Documentation Co-Op - Fall 2026",
+    "employer_name": "Entegris",
+    "job_city": "Chaska",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chaska, MN",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Production-Documentation-Co-Op---Fall-2026_REQ-10185",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:37.345Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c9f58895da28fb4fa79f305a3011bec37b0ba24cb57ff43746c7d2c17b99435",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:37.345Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R25-11267",
+    "job_title": "UX Design Intern - Summer 2026",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - WI - Madison",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/UX-Design-Intern---Summer-2026_R25-11267",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:23.846Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2e7b81f02b95acca779f34cedc2f55b0ec3aa19a9d3c9b1b95778821973a4a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:23.846Z"
+  },
+  {
+    "job_id": "workday-caci-325756",
+    "job_title": "RSTS Engineering System Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US AK Anchorage",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US AK Anchorage",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-AK-Anchorage/RSTS-Engineering-System-Intern---Summer-2026_325756",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:40.077Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2aea271f688c3d78892410692015453cb5ada96a2fccdfd6e1b1b6dc9db937c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:05:40.077Z"
+  },
+  {
+    "job_id": "workday-allegion-JR36106",
+    "job_title": "Industrial Design Co-op",
+    "employer_name": "Allegion",
+    "job_city": "Carmel",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Carmel, IN",
+    "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1",
+    "job_posted_at_datetime_utc": "2026-05-06T20:05:10.596Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8baa8368dd4abdf22fc7fc9b0fc41ce322b9aabb022866bddb30c40d84cbaf32",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:05:10.596Z"
   },
   {
     "job_id": "sr-BoschGroup-744000124973989",
@@ -1752,36 +6473,6 @@
     "job_posted_at": "2026-05-06T06:59:58.000Z"
   },
   {
-    "job_id": "workday-salesforce-JR341243",
-    "job_title": "Summer 2026 Intern - Real Estate & Workplace Services",
-    "employer_name": "Salesforce",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "California - San Francisco",
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Real-Estate---Workplace-Services_JR341243-1",
-    "job_posted_at_datetime_utc": "2026-05-06T02:01:49.101Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee50bfdb77de5b91d206f6a599e5c0f90ef1bbf898e54ae2628f43dfe8839b0c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T02:01:49.101Z"
-  },
-  {
     "job_id": "amazon-ad8add8c-691e-48fe-a913-fdbf967280ee",
     "job_title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
     "employer_name": "Amazon.com Services LLC",
@@ -1903,47 +6594,6 @@
     "job_posted_at": "2026-05-05T23:01:33.852Z"
   },
   {
-    "job_id": "workday-flir-systems-REQ34261",
-    "job_title": "Quality Engineering Intern",
-    "employer_name": "FLIR Systems",
-    "job_city": "Camarillo, CA",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - Camarillo, CA",
-    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Quality-Engineering-Intern_REQ34261",
-    "job_posted_at_datetime_utc": "2026-05-05T22:47:13.768Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b80bfc7c1cc48bf677c9fed80b14f2b76265e4e3248fa39c28daa141a777544",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T22:47:13.768Z"
-  },
-  {
     "job_id": "simplify-0cb6d8c4-17b1-456d-be16-606d06feb87c",
     "job_title": "AI/Machine Learning Engineer Intern",
     "employer_name": "SentinelOne",
@@ -1981,138 +6631,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-05T22:03:18.000Z"
-  },
-  {
-    "job_id": "workday-globalfoundries-JR-2502795",
-    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-    "job_posted_at_datetime_utc": "2026-05-05T22:02:45.269Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "linux",
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-05T22:02:45.269Z"
-  },
-  {
-    "job_id": "workday-cadence-R54668",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54668-1",
-    "job_posted_at_datetime_utc": "2026-05-05T22:02:16.030Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T22:02:16.030Z"
-  },
-  {
-    "job_id": "workday-cadence-(university)-R54668",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence (University)",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54668",
-    "job_posted_at_datetime_utc": "2026-05-05T22:02:01.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T22:02:01.272Z"
-  },
-  {
-    "job_id": "workday-globalfoundries-JR-2503145",
-    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
-    "job_posted_at_datetime_utc": "2026-05-05T21:47:37.240Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T21:47:37.240Z"
   },
   {
     "job_id": "workday-globalfoundries-JR-2503124",
@@ -2158,7 +6676,7 @@
   },
   {
     "job_id": "workday-aes-corporation-R1063543",
-    "job_title": "Legal Intern-2",
+    "job_title": "Legal Intern",
     "employer_name": "AES Corporation",
     "job_city": "US",
     "job_state": "UT",
@@ -2169,7 +6687,7 @@
     "job_posted_at_datetime_utc": "2026-05-05T21:46:58.783Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "dfec78cee664177d83da866bde5cbcbfc688d93e0669e7fa1d383d49b939473e",
+    "fingerprint": "f66ce96832176241e44e783dde1de7ed38d56eedf05345942f2e1b746e3c277f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -2234,6 +6752,66 @@
     "job_posted_at": "2026-05-05T21:02:05.987Z"
   },
   {
+    "job_id": "workday-moog-R-26-17597",
+    "job_title": "Intern, Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Buffalo, NY",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-26-17597",
+    "job_posted_at_datetime_utc": "2026-05-05T20:17:44.198Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "da5852082ced69d1f272a30b9d869a7a2d51dbbc6bc5bdf02a848ade6d41d131",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:17:44.198Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR341243",
+    "job_title": "Summer 2026 Intern - Real Estate & Workplace Services",
+    "employer_name": "Salesforce",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California - San Francisco",
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Real-Estate---Workplace-Services_JR341243-1",
+    "job_posted_at_datetime_utc": "2026-05-05T20:08:41.950Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee50bfdb77de5b91d206f6a599e5c0f90ef1bbf898e54ae2628f43dfe8839b0c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:08:41.950Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182554",
     "job_title": "Junior CEMA Software Engineer Intern",
     "employer_name": "Leidos",
@@ -2243,7 +6821,7 @@
     "job_is_remote": false,
     "job_location": "Lawton, OK + 4 more",
     "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
-    "job_posted_at_datetime_utc": "2026-05-05T20:48:03.139Z",
+    "job_posted_at_datetime_utc": "2026-05-05T20:07:39.278Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c36510c5ba2afa668de8253ee53913ebe63a1cba8ec48c4e1c305ffa66e013c4",
@@ -2286,26 +6864,27 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-05T20:48:03.139Z"
+    "job_posted_at": "2026-05-05T20:07:39.278Z"
   },
   {
-    "job_id": "workday-moog-R-26-17597",
-    "job_title": "Intern, Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
+    "job_id": "workday-globalfoundries-JR-2502795",
+    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Buffalo, NY",
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-26-17597",
-    "job_posted_at_datetime_utc": "2026-05-05T20:17:44.198Z",
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
+    "job_posted_at_datetime_utc": "2026-05-05T20:06:59.272Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "da5852082ced69d1f272a30b9d869a7a2d51dbbc6bc5bdf02a848ade6d41d131",
+    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "software",
+        "hardware"
       ],
       "locations": [
         "us"
@@ -2316,7 +6895,149 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:17:44.198Z"
+    "enrichment": {
+      "required_skills": [
+        "linux",
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T20:06:59.272Z"
+  },
+  {
+    "job_id": "workday-globalfoundries-JR-2503145",
+    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
+    "job_posted_at_datetime_utc": "2026-05-05T20:06:59.272Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:06:59.272Z"
+  },
+  {
+    "job_id": "workday-flir-systems-REQ34261",
+    "job_title": "Quality Engineering Intern",
+    "employer_name": "FLIR Systems",
+    "job_city": "Camarillo, CA",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Camarillo, CA",
+    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Quality-Engineering-Intern_REQ34261",
+    "job_posted_at_datetime_utc": "2026-05-05T20:06:37.834Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b80bfc7c1cc48bf677c9fed80b14f2b76265e4e3248fa39c28daa141a777544",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-05T20:06:37.834Z"
+  },
+  {
+    "job_id": "workday-cadence-R54668",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54668-1",
+    "job_posted_at_datetime_utc": "2026-05-05T20:05:44.219Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:05:44.219Z"
+  },
+  {
+    "job_id": "workday-cadence-(university)-R54668",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence (University)",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54668",
+    "job_posted_at_datetime_utc": "2026-05-05T20:05:27.304Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T20:05:27.304Z"
   },
   {
     "job_id": "workday-intel-JR0283618",
@@ -4124,6 +8845,36 @@
     "job_posted_at": "2026-05-04T20:17:39.375Z"
   },
   {
+    "job_id": "workday-johnson-controls-WD30267295",
+    "job_title": "Fire Alarm Inspector Intern",
+    "employer_name": "Johnson Controls",
+    "job_city": "Illinois-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "East Peoria-Illinois-United States of America",
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/East-Peoria-Illinois-United-States-of-America/Fire-Alarm-Inspector-Intern_WD30267295",
+    "job_posted_at_datetime_utc": "2026-05-04T20:06:54.797Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "290ccce86ffb138a2005f28d5e44a4dace5d8f623c604614ea2aa2a0a2cb9c82",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T20:06:54.797Z"
+  },
+  {
     "job_id": "greenhouse-relativity-8161036002",
     "job_title": "Weld Development Engineer Intern",
     "employer_name": "Relativity Space",
@@ -5339,57 +10090,6 @@
     "job_posted_at": "2026-05-04T07:17:53.778Z"
   },
   {
-    "job_id": "workday-copart-JR108554",
-    "job_title": "Yard Engineering Intern",
-    "employer_name": "Copart",
-    "job_city": "Headquarters",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Dallas, TX - Headquarters",
-    "job_apply_link": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
-    "job_posted_at_datetime_utc": "2026-05-04T07:16:50.059Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f1f07d090bfd84c3d77b702324d35be7a54a9358775e70c658751dc44195645d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "confluence",
-        "devops",
-        "excel",
-        "html",
-        "integration testing",
-        "java",
-        "machine learning",
-        "requirements gathering",
-        "sql",
-        "websockets"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-04T07:16:50.059Z"
-  },
-  {
     "job_id": "workday-copart-JR107800",
     "job_title": "Corp Support Intern",
     "employer_name": "Copart",
@@ -5480,6 +10180,57 @@
     "job_is_remote": false,
     "job_location": "Dallas, TX - Headquarters",
     "job_apply_link": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553",
+    "job_posted_at_datetime_utc": "2026-05-04T07:16:50.059Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f1f07d090bfd84c3d77b702324d35be7a54a9358775e70c658751dc44195645d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "confluence",
+        "devops",
+        "excel",
+        "html",
+        "integration testing",
+        "java",
+        "machine learning",
+        "requirements gathering",
+        "sql",
+        "websockets"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-04T07:16:50.059Z"
+  },
+  {
+    "job_id": "workday-copart-JR108554",
+    "job_title": "Yard Engineering Intern",
+    "employer_name": "Copart",
+    "job_city": "Headquarters",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Dallas, TX - Headquarters",
+    "job_apply_link": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108554",
     "job_posted_at_datetime_utc": "2026-05-04T07:16:50.059Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
@@ -5642,6 +10393,36 @@
     "job_posted_at": "2026-05-04T07:03:10.218Z"
   },
   {
+    "job_id": "workday-intel-JR0283617",
+    "job_title": "Power Integrity Industry Immersion Intern",
+    "employer_name": "Intel",
+    "job_city": "Costa Rica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Rica, San Jose",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-Integrity-Industry-Immersion-Intern_JR0283617",
+    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "928260d81faaa92cce2923dff8d224859e74e38fe4b38df30ffdc520c4ed846c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-04T07:02:44.775Z"
+  },
+  {
     "job_id": "workday-intel-JR0283461",
     "job_title": "Circuit Design Engineering Intern",
     "employer_name": "Intel",
@@ -5681,36 +10462,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-04T07:02:44.775Z"
-  },
-  {
-    "job_id": "workday-intel-JR0283617",
-    "job_title": "Power Integrity Industry Immersion Intern",
-    "employer_name": "Intel",
-    "job_city": "Costa Rica",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Rica, San Jose",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-Integrity-Industry-Immersion-Intern_JR0283617",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:44.775Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "928260d81faaa92cce2923dff8d224859e74e38fe4b38df30ffdc520c4ed846c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-05-04T07:02:44.775Z"
   },
   {
