@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
+    "job_title": "Software Engineer Intern - Quality and Efficiency Technology",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://lifeattiktok.com/search/7637047421538404613",
+    "job_posted_at_datetime_utc": "2026-05-08T09:10:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "167807ffbc2b12b79d1f28e2fe148733208485a79e49b1270e989a0b1adc2bcd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-08T09:10:25.000Z"
+  },
+  {
     "job_id": "greenhouse-trueanomalyinc-5131359007",
     "job_title": "Front End Software Engineer Intern",
     "employer_name": "True Anomaly",
@@ -378,7 +408,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -484,7 +514,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -638,45 +668,6 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
-    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
     "job_id": "simplify-c507ac9c-6dda-469d-bf3e-70c27c7ce99c",
     "job_title": "Quantitative Trader Intern",
     "employer_name": "Susquehanna International Group (SIG)",
@@ -805,44 +796,6 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
-    "job_id": "simplify-9424072c-485e-43c4-91e8-4f124356a286",
-    "job_title": "Trading System Engineering Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69485d599d82059607fddafa303bd52273adcc7a3f535ecfbde884139201437b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
     "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
     "job_title": "Quantitative Strategy Developer Intern",
     "employer_name": "Susquehanna International Group (SIG)",
@@ -916,6 +869,83 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-7da3c280-040c-4a6b-bbdc-ccf7e3d9f527",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10785/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3ca03b54b38268b6e90b8caa0740d38707fe57f0bdf389228936be5c4521a957",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-9424072c-485e-43c4-91e8-4f124356a286",
+    "job_title": "Trading System Engineering Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69485d599d82059607fddafa303bd52273adcc7a3f535ecfbde884139201437b",
     "tags": {
       "employment": "internship",
       "domains": [

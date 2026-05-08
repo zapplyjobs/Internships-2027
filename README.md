@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-197-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-198-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-86-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,7 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
+| 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 35m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
+| 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
 | 🏢 **Oracle** | Software Engineer Intern - NetSuite | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961) |
 | 🏢 **Tesla** | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269819) |
 | 🏢 **Tesla** | Software Engineer Intern - Integration Tools | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269445) |
@@ -97,7 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
+| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | 🏢 **Tesla** | Data Engineer Intern - Multiple Teams | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269828) |
 | 🏢 **SentinelOne** | AI/Machine Learning Engineer Intern | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.sentinelone.com/jobs/7678136003?gh_jid=7678136003) |
 | 🏢 **State Street** | IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026) | Quincy, Massachus... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst---Data---Regulatory-Reporting--Fulltime-Internship--July---Dec-2026-_R-784963) |
@@ -446,7 +447,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 197 current opportunities from 86 companies**
+**🎯 198 current opportunities from 86 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
