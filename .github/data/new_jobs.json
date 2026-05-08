@@ -902,36 +902,6 @@
     "job_posted_at": "2026-05-08T20:07:39.278Z"
   },
   {
-    "job_id": "workday-leidos-R-00181120",
-    "job_title": "Material Control Summer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Huntsville, AL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00181120-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c41637587df7cd11881a0a981d83813dd3ab5c3dee1b0088132da5c7e29ae811",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182680",
     "job_title": "Software Engineer Intern",
     "employer_name": "Leidos",
@@ -979,6 +949,36 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181120",
+    "job_title": "Material Control Summer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00181120-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c41637587df7cd11881a0a981d83813dd3ab5c3dee1b0088132da5c7e29ae811",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
       ],
       "locations": [
         "us"
@@ -2197,36 +2197,6 @@
     "job_posted_at": "2026-05-08T20:06:07.747Z"
   },
   {
-    "job_id": "workday-comcast-R436088",
-    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:07.747Z"
-  },
-  {
     "job_id": "workday-comcast-R436089",
     "job_title": "Comcast Global Audit Financial Operations Co-op",
     "employer_name": "Comcast",
@@ -2844,36 +2814,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:07.747Z"
-  },
-  {
-    "job_id": "workday-comcast-R436190",
-    "job_title": "Comcast Software Architect Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.747Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us"
@@ -4861,6 +4801,38 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
+    "job_id": "microsoft-200036958",
+    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
+    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T22:44:55.000Z"
+  },
+  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -4871,7 +4843,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -4923,19 +4895,19 @@
     "job_posted_at": "2026-05-06T22:02:01.000Z"
   },
   {
-    "job_id": "workday-target-R0000404399",
-    "job_title": "Store Executive Intern (Store Leadership Intern) – Albuquerque, New Mexico (Starting Summer 2026)",
-    "employer_name": "Target",
-    "job_city": "5 Locations",
-    "job_state": "",
+    "job_id": "microsoft-200036954",
+    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "5 Locations",
-    "job_apply_link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2120-Louisiana-Blvd-NE-AlbuquerqueNM-87110-5402/Store-Executive-Intern--Store-Leadership-Intern----Albuquerque--New-Mexico--Starting-Summer-2026-_R0000404399",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:26.331Z",
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
+    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "bf0b8016fc548e425014c66703f44313e438bce9ebf960fd6d6d64e15212eecd",
+    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -4945,12 +4917,14 @@
         "us"
       ],
       "experience": "entry_level",
-      "special": [],
+      "special": [
+        "faang"
+      ],
       "tag_engine_version": 3
     },
     "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:26.331Z"
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T21:17:55.000Z"
   },
   {
     "job_id": "workday-trimble-R54648",
@@ -5495,36 +5469,6 @@
     "job_posted_at": "2026-05-06T20:07:04.980Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-074181",
-    "job_title": "Quality Engineer Co-Op - Fall 2026",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cincinnati, Ohio, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineer-Co-Op---Fall-2026_R-074181",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "86f4b08438a044c794e010ea2fc111555b4fb30b679d747c430ea62ace6a9d11",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:53.750Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071416",
     "job_title": "Quality Systems and Digital Services Quality Engineer Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -5602,6 +5546,36 @@
       "employment": "internship",
       "domains": [
         "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T20:06:53.750Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-074181",
+    "job_title": "Quality Engineer Co-Op - Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cincinnati, Ohio, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineer-Co-Op---Fall-2026_R-074181",
+    "job_posted_at_datetime_utc": "2026-05-06T20:06:53.750Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "86f4b08438a044c794e010ea2fc111555b4fb30b679d747c430ea62ace6a9d11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -8843,36 +8817,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-04T20:17:39.375Z"
-  },
-  {
-    "job_id": "workday-johnson-controls-WD30267295",
-    "job_title": "Fire Alarm Inspector Intern",
-    "employer_name": "Johnson Controls",
-    "job_city": "Illinois-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "East Peoria-Illinois-United States of America",
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/East-Peoria-Illinois-United-States-of-America/Fire-Alarm-Inspector-Intern_WD30267295",
-    "job_posted_at_datetime_utc": "2026-05-04T20:06:54.797Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "290ccce86ffb138a2005f28d5e44a4dace5d8f623c604614ea2aa2a0a2cb9c82",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-04T20:06:54.797Z"
   },
   {
     "job_id": "greenhouse-relativity-8161036002",
