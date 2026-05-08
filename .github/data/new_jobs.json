@@ -416,7 +416,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -5771,6 +5771,36 @@
     "job_posted_at": "2026-05-02T13:31:14.269Z"
   },
   {
+    "job_id": "greenhouse-verkada-5113156007",
+    "job_title": "Channel Enablement Intern",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Mateo, CA United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:01.801Z"
+  },
+  {
     "job_id": "greenhouse-verkada-5117760007",
     "job_title": "AI Software Engineering Intern - Fall 2026",
     "employer_name": "Verkada",
@@ -5811,36 +5841,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-02T13:31:01.801Z"
-  },
-  {
-    "job_id": "greenhouse-verkada-5113156007",
-    "job_title": "Channel Enablement Intern",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Mateo, CA United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:31:01.801Z"
   },
   {
