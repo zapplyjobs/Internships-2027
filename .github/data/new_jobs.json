@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "greenhouse-figureai-4676468006",
+    "job_title": "Electrical Interconnect Engineering Intern [Fall 2026]",
+    "employer_name": "Figure AI",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4676468006",
+    "job_posted_at_datetime_utc": "2026-05-09T14:30:41.640Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c8c9535f7c9adbd43b397cf2e78a6cda110e2e3db3bd865da4a3e90fa546ff7f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-09T14:30:41.640Z"
+  },
+  {
     "job_id": "workday-walmart-R-2503483",
     "job_title": "Pharmacy Pre-Grad Intern - WM",
     "employer_name": "Walmart",
@@ -2753,7 +2783,7 @@
   },
   {
     "job_id": "workday-rtx-01843889",
-    "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
+    "job_title": "Stage Automne 2026 - Développement des proc��dés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
     "employer_name": "RTX",
     "job_city": "Qc",
     "job_state": "CA",
@@ -6156,7 +6186,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -6250,7 +6280,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
