@@ -6146,38 +6146,6 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
-    "job_id": "microsoft-200036958",
-    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
-    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T22:44:55.000Z"
-  },
-  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -6240,38 +6208,6 @@
     "job_posted_at": "2026-05-06T22:02:01.000Z"
   },
   {
-    "job_id": "microsoft-200036954",
-    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
-    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T21:17:55.000Z"
-  },
-  {
     "job_id": "workday-rtx-01842886",
     "job_title": "Stage - Automne 2026 - Developpeur de simulation de systemes de controle moteur / Internship - Fall 2026 – Engine Control System Simulation Developer",
     "employer_name": "RTX",
@@ -6323,36 +6259,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:08:38.178Z"
-  },
-  {
-    "job_id": "workday-intel-JR0283616",
-    "job_title": "Power-Perf and Over Clocking Industry Immersion Intern",
-    "employer_name": "Intel",
-    "job_city": "Costa Rica",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Rica, San Jose",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-Perf-and-Over-Clocking-Industry-Immersion-Intern_JR0283616",
-    "job_posted_at_datetime_utc": "2026-05-06T20:07:04.980Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1720628dbe7d3deda950f7482b63a7ea26cf6489440d3bcffb848a4d77983b7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:07:04.980Z"
   },
   {
     "job_id": "sr-BoschGroup-744000124973989",
@@ -6830,6 +6736,36 @@
     "_source": "aggregator",
     "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.921Z"
+  },
+  {
+    "job_id": "workday-intel-JR0283616",
+    "job_title": "Power-Perf and Over Clocking Industry Immersion Intern",
+    "employer_name": "Intel",
+    "job_city": "Costa Rica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Rica, San Jose",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-Perf-and-Over-Clocking-Industry-Immersion-Intern_JR0283616",
+    "job_posted_at_datetime_utc": "2026-05-06T08:16:34.480Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c1720628dbe7d3deda950f7482b63a7ea26cf6489440d3bcffb848a4d77983b7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:16:34.480Z"
   },
   {
     "job_id": "workday-trimble-R54648",
@@ -8520,36 +8456,6 @@
     "job_posted_at": "2026-05-05T20:17:44.198Z"
   },
   {
-    "job_id": "workday-intel-JR0283618",
-    "job_title": "Power and Thermal Management Industry Immersion Intern",
-    "employer_name": "Intel",
-    "job_city": "Costa Rica",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Costa Rica, San Jose",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-and-Thermal-Management-Industry-Immersion-Intern_JR0283618",
-    "job_posted_at_datetime_utc": "2026-05-05T20:02:39.931Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "658f16280b90639ad47ed8175a82ec28ecf124a6a3f735df724578b7af61e0b1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:02:39.931Z"
-  },
-  {
     "job_id": "workday-intel-JR0281621",
     "job_title": "Ocotillo Technology Fabrication Process Engineering Graduate Intern",
     "employer_name": "Intel",
@@ -8768,36 +8674,6 @@
     "job_posted_at": "2026-05-05T18:47:53.692Z"
   },
   {
-    "job_id": "workday-guidehouse-35972",
-    "job_title": "Intern - Defense & Security Segment - Summer 2026",
-    "employer_name": "Guidehouse",
-    "job_city": "VA, McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - VA, McLean",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Intern---Defense---Security-Segment---Summer-2026_35972",
-    "job_posted_at_datetime_utc": "2026-05-05T18:32:44.467Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d6e54187f59b55dd1489ff159f6a58307bd24608e60938e54ce9d82e5df592e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T18:32:44.467Z"
-  },
-  {
     "job_id": "workday-jabil-J2437601",
     "job_title": "Programmer Analyst Intern",
     "employer_name": "Jabil",
@@ -8950,36 +8826,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T16:36:19.819Z"
-  },
-  {
-    "job_id": "workday-guidehouse-32773",
-    "job_title": "Intern - Revenue Cycle, Payer Provider Advisory - Campus 2026",
-    "employer_name": "Guidehouse",
-    "job_city": "US IL Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US IL Chicago + 5 more",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Intern---Revenue-Cycle--Payer-Provider-Advisory---Campus-2026_32773",
-    "job_posted_at_datetime_utc": "2026-05-05T16:33:50.704Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2ad228bf5c57c7a61a49cd7a242346cab3809e55cd27304f5981007ca65277a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T16:33:50.704Z"
   },
   {
     "job_id": "sr-Sandisk-744000124692433",
@@ -9557,6 +9403,96 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T13:34:27.096Z"
+  },
+  {
+    "job_id": "workday-intel-JR0283618",
+    "job_title": "Power and Thermal Management Industry Immersion Intern",
+    "employer_name": "Intel",
+    "job_city": "Costa Rica",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Costa Rica, San Jose",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Power-and-Thermal-Management-Industry-Immersion-Intern_JR0283618",
+    "job_posted_at_datetime_utc": "2026-05-05T08:16:34.480Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "658f16280b90639ad47ed8175a82ec28ecf124a6a3f735df724578b7af61e0b1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:16:34.480Z"
+  },
+  {
+    "job_id": "workday-guidehouse-35972",
+    "job_title": "Intern - Defense & Security Segment - Summer 2026",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - VA, McLean",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Intern---Defense---Security-Segment---Summer-2026_35972",
+    "job_posted_at_datetime_utc": "2026-05-05T08:16:31.067Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d6e54187f59b55dd1489ff159f6a58307bd24608e60938e54ce9d82e5df592e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:16:31.067Z"
+  },
+  {
+    "job_id": "workday-guidehouse-32773",
+    "job_title": "Intern - Revenue Cycle, Payer Provider Advisory - Campus 2026",
+    "employer_name": "Guidehouse",
+    "job_city": "US IL Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US IL Chicago + 5 more",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Chicago/Intern---Revenue-Cycle--Payer-Provider-Advisory---Campus-2026_32773",
+    "job_posted_at_datetime_utc": "2026-05-05T08:16:31.067Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2ad228bf5c57c7a61a49cd7a242346cab3809e55cd27304f5981007ca65277a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:16:31.067Z"
   },
   {
     "job_id": "workday-state-street-R-785064",
