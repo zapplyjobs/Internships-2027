@@ -708,6 +708,61 @@
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
+    "job_id": "workday-rtx-01843727",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
     "job_id": "workday-rtx-01843378",
     "job_title": "Summer 2026 - Legal Intern (Remote)",
     "employer_name": "RTX",
@@ -905,61 +960,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843727",
-    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
@@ -5826,7 +5826,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -5938,7 +5938,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
