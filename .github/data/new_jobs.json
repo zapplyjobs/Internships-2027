@@ -260,36 +260,6 @@
     "job_posted_at": "2026-05-08T20:10:12.944Z"
   },
   {
-    "job_id": "workday-td-bank-R_1488176",
-    "job_title": "Specialized HR Analyst I (Internship)",
-    "employer_name": "TD Bank",
-    "job_city": "Mount Laurel",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mount Laurel, New Jersey",
-    "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Specialized-HR-Analyst-I--Internship-_R_1488176",
-    "job_posted_at_datetime_utc": "2026-05-08T20:09:16.649Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95e34eb3f9c35f5fa635b78060c4e7f8aee11576c8da7e086977e67398bdd834",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:09:16.649Z"
-  },
-  {
     "job_id": "workday-transunion-19040450",
     "job_title": "Financial Planning & Analysis Internship",
     "employer_name": "TransUnion",
@@ -4677,36 +4647,6 @@
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
   {
-    "job_id": "workday-biogen-REQ22462",
-    "job_title": "Co-op, Cell Culture Development",
-    "employer_name": "Biogen",
-    "job_city": "Research Triangle Park",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Research Triangle Park, NC",
-    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:37.533Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e010215d3ae3279262339cda987d0b21cf09816ec4b16ed60ea9ed04e2f3f204",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:37.533Z"
-  },
-  {
     "job_id": "workday-adobe-R160430",
     "job_title": "2026 Intern - Software Development Engineer",
     "employer_name": "Adobe",
@@ -5788,6 +5728,66 @@
     "job_posted_at": "2026-05-07T15:16:41.432Z"
   },
   {
+    "job_id": "workday-td-bank-R_1488176",
+    "job_title": "Specialized HR Analyst I (Internship)",
+    "employer_name": "TD Bank",
+    "job_city": "Mount Laurel",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mount Laurel, New Jersey",
+    "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Specialized-HR-Analyst-I--Internship-_R_1488176",
+    "job_posted_at_datetime_utc": "2026-05-07T07:32:43.402Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95e34eb3f9c35f5fa635b78060c4e7f8aee11576c8da7e086977e67398bdd834",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:32:43.402Z"
+  },
+  {
+    "job_id": "workday-biogen-REQ22462",
+    "job_title": "Co-op, Cell Culture Development",
+    "employer_name": "Biogen",
+    "job_city": "Research Triangle Park",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Research Triangle Park, NC",
+    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Cell-Culture-Development_REQ22462",
+    "job_posted_at_datetime_utc": "2026-05-07T07:31:12.880Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e010215d3ae3279262339cda987d0b21cf09816ec4b16ed60ea9ed04e2f3f204",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:31:12.880Z"
+  },
+  {
     "job_id": "workday-salesforce-JR340771",
     "job_title": "Summer 2027 Intern - Software Engineer",
     "employer_name": "Salesforce",
@@ -6028,7 +6028,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -6436,91 +6436,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:08:32.577Z"
-  },
-  {
-    "job_id": "workday-philips-583042",
-    "job_title": "Intern- Manufacturing Engineering-Chicago, Il-2026",
-    "employer_name": "Philips",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Intern--Manufacturing-Engineering-Chicago--Il-2026_583042",
-    "job_posted_at_datetime_utc": "2026-05-06T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "92b47cbf289ae4adbe8980ea0025c5223b2e278fbb3d960f5a6b633ea68f244a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:08:27.105Z"
-  },
-  {
-    "job_id": "workday-philips-582261",
-    "job_title": "Co-op-Data Scientist-Cambridge, MA 2026",
-    "employer_name": "Philips",
-    "job_city": "Cambridge (US)",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Cambridge (US), Massachusetts, United States",
-    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op-Data-Scientist-Cambridge--MA-2026_582261",
-    "job_posted_at_datetime_utc": "2026-05-06T20:08:27.105Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f18d68d2372dd4a7004eeb5ebd8d507217fa687c14c54e91b592373914091421",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "dmaic",
-        "object oriented programming",
-        "project management",
-        "python",
-        "reporting",
-        "sap",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:08:27.105Z"
   },
   {
     "job_id": "workday-oshkosh-corporation-R43136",
@@ -7159,6 +7074,66 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
+    "job_title": "Quantitative Strategy Developer Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
     "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
     "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
     "employer_name": "Peraton",
@@ -7230,66 +7205,6 @@
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
-    "job_title": "Quantitative Strategy Developer Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -7558,6 +7473,91 @@
     "_source": "aggregator",
     "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.921Z"
+  },
+  {
+    "job_id": "workday-philips-583042",
+    "job_title": "Intern- Manufacturing Engineering-Chicago, Il-2026",
+    "employer_name": "Philips",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chicago, Illinois, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Chicago-Illinois-United-States/Intern--Manufacturing-Engineering-Chicago--Il-2026_583042",
+    "job_posted_at_datetime_utc": "2026-05-06T07:31:53.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "92b47cbf289ae4adbe8980ea0025c5223b2e278fbb3d960f5a6b633ea68f244a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:31:53.973Z"
+  },
+  {
+    "job_id": "workday-philips-582261",
+    "job_title": "Co-op-Data Scientist-Cambridge, MA 2026",
+    "employer_name": "Philips",
+    "job_city": "Cambridge (US)",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Cambridge (US), Massachusetts, United States",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op-Data-Scientist-Cambridge--MA-2026_582261",
+    "job_posted_at_datetime_utc": "2026-05-06T07:31:53.973Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f18d68d2372dd4a7004eeb5ebd8d507217fa687c14c54e91b592373914091421",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "dmaic",
+        "object oriented programming",
+        "project management",
+        "python",
+        "reporting",
+        "sap",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T07:31:53.973Z"
   },
   {
     "job_id": "simplify-ab80f06e-e457-499c-94b3-e110aa091365",
