@@ -974,92 +974,6 @@
     "job_posted_at": "2026-05-08T20:06:30.224Z"
   },
   {
-    "job_id": "workday-exact-sciences-R25-10854",
-    "job_title": "IT Lab Ops Portfolio Management Intern - Summer 2026",
-    "employer_name": "Exact Sciences",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - WI - Madison",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/IT-Lab-Ops-Portfolio-Management-Intern--Summer-2026-_R25-10854",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:23.846Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9b3ff4a9e4ff7b21eada75fed4c279182fb7d6560ff46202ba0a365fa5ac8470",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:23.846Z"
-  },
-  {
-    "job_id": "workday-entrust-R004159",
-    "job_title": "Firmware Engineer Intern",
-    "employer_name": "Entrust",
-    "job_city": "Shakopee, MN",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States - Shakopee, MN",
-    "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:20.677Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ba98bbba77c82b15d9bd90df1573fadc2240c1b1696c281437365db431ca04c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "assembly",
-        "bash",
-        "c++",
-        "computer science",
-        "embedded systems",
-        "firmware",
-        "integration testing",
-        "linux",
-        "robotics",
-        "rtos",
-        "unit testing"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": false,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:20.677Z"
-  },
-  {
     "job_id": "workday-comcast-R437194",
     "job_title": "Comcast Content & Partnerships Intern",
     "employer_name": "Comcast",
@@ -1118,86 +1032,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:06:05.106Z"
-  },
-  {
-    "job_id": "workday-curtiss-wright-JR12071",
-    "job_title": "Safety Intern",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "PA-Aston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-PA-Aston",
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Safety-Intern_JR12071-2",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "092ed08cacb9d288a696af1e22d8ac4e88bc72a661dd54b8a60188190c033e9f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:00.425Z"
-  },
-  {
-    "job_id": "workday-curtiss-wright-JR11998",
-    "job_title": "Hardware/Electrical Engineering Intern",
-    "employer_name": "Curtiss-Wright",
-    "job_city": "PA-Newtown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-PA-Newtown",
-    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6f3f526375f7acdecc561429c8230323e33c7c9d24100f4f8f0a78f25b5f00d9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "fpga",
-        "quartus",
-        "rf",
-        "vivado"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:06:00.425Z"
   },
   {
     "job_id": "workday-cisco-2000450",
@@ -1382,66 +1216,6 @@
     "job_posted_at": "2026-05-08T20:05:48.508Z"
   },
   {
-    "job_id": "workday-booz-allen-hamilton-R0239648",
-    "job_title": "Business & Office Management Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Fayetteville",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Fayetteville, NC",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0239648",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d5562db1f1cf63c6fc1d82ffdce5f9de122c3909b3cf0a9ae7d75c7d67e63108",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0237923",
-    "job_title": "Human Resources Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "McLean, VA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:48.508Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:48.508Z"
-  },
-  {
     "job_id": "workday-caci-325908",
     "job_title": "Electrical Engineering Intern - Summer 2026",
     "employer_name": "CACI",
@@ -1488,115 +1262,6 @@
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-325763",
-    "job_title": "High School Business Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Crane",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Crane, IN, US",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Business-Intern---Summer-2026_325763",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8a0a91240e6caea8865f4ecc5dda229787126f83e6581d8956947837376338e6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-325767",
-    "job_title": "High School Engineering Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "Crane",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Crane, IN, US",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Engineering-Intern---Summer-2026_325767",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7daef44a7f89e6dcd8d96e3edca734dedea97b9f3fa491376393f65eca6c6fa5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "data analysis",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:05:40.076Z"
-  },
-  {
-    "job_id": "workday-caci-325834",
-    "job_title": "Data and Analytics Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "Remote",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-and-Analytics-Intern---Summer-2026_325834",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:40.076Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "702a9a758b1cd005e4380d8ec29724394db6b96d97ddb5f026549cb247fd1d81",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:05:40.076Z"
   },
   {
@@ -2496,6 +2161,341 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-07T15:16:41.432Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR12071",
+    "job_title": "Safety Intern",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Aston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-PA-Aston",
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Safety-Intern_JR12071-2",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:58.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "092ed08cacb9d288a696af1e22d8ac4e88bc72a661dd54b8a60188190c033e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:58.182Z"
+  },
+  {
+    "job_id": "workday-curtiss-wright-JR11998",
+    "job_title": "Hardware/Electrical Engineering Intern",
+    "employer_name": "Curtiss-Wright",
+    "job_city": "PA-Newtown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-PA-Newtown",
+    "job_apply_link": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:58.182Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6f3f526375f7acdecc561429c8230323e33c7c9d24100f4f8f0a78f25b5f00d9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "fpga",
+        "quartus",
+        "rf",
+        "vivado"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:58.182Z"
+  },
+  {
+    "job_id": "workday-caci-325834",
+    "job_title": "Data and Analytics Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "Remote",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-and-Analytics-Intern---Summer-2026_325834",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "702a9a758b1cd005e4380d8ec29724394db6b96d97ddb5f026549cb247fd1d81",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-caci-325763",
+    "job_title": "High School Business Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Crane",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Crane, IN, US",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Business-Intern---Summer-2026_325763",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:55.671Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8a0a91240e6caea8865f4ecc5dda229787126f83e6581d8956947837376338e6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:55.671Z"
+  },
+  {
+    "job_id": "workday-caci-325767",
+    "job_title": "High School Engineering Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "Crane",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Crane, IN, US",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Engineering-Intern---Summer-2026_325767",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:55.671Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7daef44a7f89e6dcd8d96e3edca734dedea97b9f3fa491376393f65eca6c6fa5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "data analysis",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:55.671Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R25-10854",
+    "job_title": "IT Lab Ops Portfolio Management Intern - Summer 2026",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - WI - Madison",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/IT-Lab-Ops-Portfolio-Management-Intern--Summer-2026-_R25-10854",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9b3ff4a9e4ff7b21eada75fed4c279182fb7d6560ff46202ba0a365fa5ac8470",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:51.270Z"
+  },
+  {
+    "job_id": "workday-entrust-R004159",
+    "job_title": "Firmware Engineer Intern",
+    "employer_name": "Entrust",
+    "job_city": "Shakopee, MN",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "United States - Shakopee, MN",
+    "job_apply_link": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineer-Intern_R004159",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:46.779Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ba98bbba77c82b15d9bd90df1573fadc2240c1b1696c281437365db431ca04c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "assembly",
+        "bash",
+        "c++",
+        "computer science",
+        "embedded systems",
+        "firmware",
+        "integration testing",
+        "linux",
+        "robotics",
+        "rtos",
+        "unit testing"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": false,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T08:01:46.779Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239648",
+    "job_title": "Business & Office Management Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Fayetteville",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Fayetteville, NC",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0239648",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:31.308Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5562db1f1cf63c6fc1d82ffdce5f9de122c3909b3cf0a9ae7d75c7d67e63108",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:31.308Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0237923",
+    "job_title": "Human Resources Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "McLean, VA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Human-Resources-Intern_R0237923-1",
+    "job_posted_at_datetime_utc": "2026-05-07T08:01:31.308Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d7c0c11411ffdc2652521da635b683099b35907e9fc9d4db14110655c37ad44c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T08:01:31.308Z"
   },
   {
     "job_id": "workday-rtx-01843537",
@@ -3823,36 +3823,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.342Z"
-  },
-  {
-    "job_id": "workday-comcast-R436190",
-    "job_title": "Comcast Software Architect Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.342Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us"
@@ -5323,36 +5293,6 @@
     "job_posted_at": "2026-05-07T07:47:00.341Z"
   },
   {
-    "job_id": "workday-comcast-R436088",
-    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
     "job_id": "workday-comcast-R436089",
     "job_title": "Comcast Global Audit Financial Operations Co-op",
     "employer_name": "Comcast",
@@ -6248,7 +6188,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -6330,36 +6270,6 @@
     "_source": "aggregator",
     "_original_source": "microsoft",
     "job_posted_at": "2026-05-06T21:17:55.000Z"
-  },
-  {
-    "job_id": "workday-trimble-R54648",
-    "job_title": "Marketing and Communications Intern",
-    "employer_name": "Trimble",
-    "job_city": "OR, Lake Oswego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - OR, Lake Oswego",
-    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Marketing-and-Communications-Intern_R54648",
-    "job_posted_at_datetime_utc": "2026-05-06T20:09:05.646Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e487f5683aaf59a872d190a37bdbc1136e4e58463159e3eff1b61bcac55d7404",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:09:05.646Z"
   },
   {
     "job_id": "workday-rtx-01842886",
@@ -6445,146 +6355,6 @@
     "job_posted_at": "2026-05-06T20:07:04.980Z"
   },
   {
-    "job_id": "workday-entegris-REQ-10185",
-    "job_title": "Manufacturing Documentation Co-Op - Fall 2026",
-    "employer_name": "Entegris",
-    "job_city": "Chaska",
-    "job_state": "MN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chaska, MN",
-    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Production-Documentation-Co-Op---Fall-2026_REQ-10185",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:37.345Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9c9f58895da28fb4fa79f305a3011bec37b0ba24cb57ff43746c7d2c17b99435",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad",
-        "excel",
-        "solidworks",
-        "visio"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-06T20:06:37.345Z"
-  },
-  {
-    "job_id": "workday-exact-sciences-R25-11267",
-    "job_title": "UX Design Intern - Summer 2026",
-    "employer_name": "Exact Sciences",
-    "job_city": "WI - Madison",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - WI - Madison",
-    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/UX-Design-Intern---Summer-2026_R25-11267",
-    "job_posted_at_datetime_utc": "2026-05-06T20:06:23.846Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b2e7b81f02b95acca779f34cedc2f55b0ec3aa19a9d3c9b1b95778821973a4a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:06:23.846Z"
-  },
-  {
-    "job_id": "workday-caci-325756",
-    "job_title": "RSTS Engineering System Intern - Summer 2026",
-    "employer_name": "CACI",
-    "job_city": "US AK Anchorage",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US AK Anchorage",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-AK-Anchorage/RSTS-Engineering-System-Intern---Summer-2026_325756",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:40.077Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2aea271f688c3d78892410692015453cb5ada96a2fccdfd6e1b1b6dc9db937c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:05:40.077Z"
-  },
-  {
-    "job_id": "workday-allegion-JR36106",
-    "job_title": "Industrial Design Co-op",
-    "employer_name": "Allegion",
-    "job_city": "Carmel",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Carmel, IN",
-    "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1",
-    "job_posted_at_datetime_utc": "2026-05-06T20:05:10.596Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8baa8368dd4abdf22fc7fc9b0fc41ce322b9aabb022866bddb30c40d84cbaf32",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T20:05:10.596Z"
-  },
-  {
     "job_id": "sr-BoschGroup-744000124973989",
     "job_title": "Product Quality Intern",
     "employer_name": "Bosch Group",
@@ -6661,6 +6431,66 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
+    "job_title": "Quantitative Strategy Developer Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
     "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
     "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
     "employer_name": "Peraton",
@@ -6732,66 +6562,6 @@
       "question_count": null,
       "summary_line": null
     },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
-    "job_title": "Quantitative Strategy Developer Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -7062,6 +6832,176 @@
     "job_posted_at": "2026-05-06T11:31:20.921Z"
   },
   {
+    "job_id": "workday-trimble-R54648",
+    "job_title": "Marketing and Communications Intern",
+    "employer_name": "Trimble",
+    "job_city": "OR, Lake Oswego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - OR, Lake Oswego",
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OR-Lake-Oswego/Marketing-and-Communications-Intern_R54648",
+    "job_posted_at_datetime_utc": "2026-05-06T08:02:40.046Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e487f5683aaf59a872d190a37bdbc1136e4e58463159e3eff1b61bcac55d7404",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:02:40.046Z"
+  },
+  {
+    "job_id": "workday-entegris-REQ-10185",
+    "job_title": "Manufacturing Documentation Co-Op - Fall 2026",
+    "employer_name": "Entegris",
+    "job_city": "Chaska",
+    "job_state": "MN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chaska, MN",
+    "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Production-Documentation-Co-Op---Fall-2026_REQ-10185",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:58.048Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9c9f58895da28fb4fa79f305a3011bec37b0ba24cb57ff43746c7d2c17b99435",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad",
+        "excel",
+        "solidworks",
+        "visio"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T08:01:58.048Z"
+  },
+  {
+    "job_id": "workday-caci-325756",
+    "job_title": "RSTS Engineering System Intern - Summer 2026",
+    "employer_name": "CACI",
+    "job_city": "US AK Anchorage",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US AK Anchorage",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-AK-Anchorage/RSTS-Engineering-System-Intern---Summer-2026_325756",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:55.672Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2aea271f688c3d78892410692015453cb5ada96a2fccdfd6e1b1b6dc9db937c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:01:55.672Z"
+  },
+  {
+    "job_id": "workday-exact-sciences-R25-11267",
+    "job_title": "UX Design Intern - Summer 2026",
+    "employer_name": "Exact Sciences",
+    "job_city": "WI - Madison",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - WI - Madison",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/UX-Design-Intern---Summer-2026_R25-11267",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:51.270Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b2e7b81f02b95acca779f34cedc2f55b0ec3aa19a9d3c9b1b95778821973a4a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:01:51.270Z"
+  },
+  {
+    "job_id": "workday-allegion-JR36106",
+    "job_title": "Industrial Design Co-op",
+    "employer_name": "Allegion",
+    "job_city": "Carmel",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Carmel, IN",
+    "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1",
+    "job_posted_at_datetime_utc": "2026-05-06T08:01:13.661Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8baa8368dd4abdf22fc7fc9b0fc41ce322b9aabb022866bddb30c40d84cbaf32",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T08:01:13.661Z"
+  },
+  {
     "job_id": "workday-thermo-fisher-scientific-R-01328133",
     "job_title": "Software Development / Engineering Intern",
     "employer_name": "Thermo Fisher Scientific",
@@ -7106,36 +7046,6 @@
       "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:50:02.462Z"
-  },
-  {
-    "job_id": "workday-target-R0000404399",
-    "job_title": "Store Executive Intern (Store Leadership Intern) – Albuquerque, New Mexico (Starting Summer 2026)",
-    "employer_name": "Target",
-    "job_city": "5 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "5 Locations",
-    "job_apply_link": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2120-Louisiana-Blvd-NE-AlbuquerqueNM-87110-5402/Store-Executive-Intern--Store-Leadership-Intern----Albuquerque--New-Mexico--Starting-Summer-2026-_R0000404399",
-    "job_posted_at_datetime_utc": "2026-05-06T07:49:49.785Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf0b8016fc548e425014c66703f44313e438bce9ebf960fd6d6d64e15212eecd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:49:49.785Z"
   },
   {
     "job_id": "workday-s&p-global-326741",
@@ -7311,6 +7221,38 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "c#",
+        "c++",
+        "computer science",
+        "generative ai",
+        "git",
+        "github",
+        "java",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "machine learning",
+        "mcp",
+        "prompt engineering",
+        "python",
+        "rag"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T07:49:13.760Z"
   },
   {
@@ -7343,6 +7285,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "deep learning",
+        "llm",
+        "natural language processing",
+        "python",
+        "pytorch",
+        "reinforcement learning"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T07:49:13.759Z"
   },
   {
@@ -8556,191 +8520,6 @@
     "job_posted_at": "2026-05-05T20:17:44.198Z"
   },
   {
-    "job_id": "workday-globalfoundries-JR-2502795",
-    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-    "job_posted_at_datetime_utc": "2026-05-05T20:06:59.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "linux",
-        "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T20:06:59.272Z"
-  },
-  {
-    "job_id": "workday-globalfoundries-JR-2503145",
-    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
-    "job_posted_at_datetime_utc": "2026-05-05T20:06:59.272Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:06:59.272Z"
-  },
-  {
-    "job_id": "workday-flir-systems-REQ34261",
-    "job_title": "Quality Engineering Intern",
-    "employer_name": "FLIR Systems",
-    "job_city": "Camarillo, CA",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US - Camarillo, CA",
-    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Quality-Engineering-Intern_REQ34261",
-    "job_posted_at_datetime_utc": "2026-05-05T20:06:37.834Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6b80bfc7c1cc48bf677c9fed80b14f2b76265e4e3248fa39c28daa141a777544",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T20:06:37.834Z"
-  },
-  {
-    "job_id": "workday-cadence-R54668",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54668-1",
-    "job_posted_at_datetime_utc": "2026-05-05T20:05:44.219Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:05:44.219Z"
-  },
-  {
-    "job_id": "workday-cadence-(university)-R54668",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence (University)",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54668",
-    "job_posted_at_datetime_utc": "2026-05-05T20:05:27.304Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:05:27.304Z"
-  },
-  {
     "job_id": "workday-intel-JR0283618",
     "job_title": "Power and Thermal Management Industry Immersion Intern",
     "employer_name": "Intel",
@@ -8816,66 +8595,6 @@
     "job_posted_at": "2026-05-05T20:02:39.931Z"
   },
   {
-    "job_id": "workday-applied-materials-R2619056",
-    "job_title": "Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Santa Clara,CA",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2619056-1",
-    "job_posted_at_datetime_utc": "2026-05-05T19:32:20.821Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "279d484fc8990baf5d10d3058490ccdabf1865fb0805ea2baacda56f405f1a20",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "data science",
-        "excel",
-        "lean manufacturing",
-        "microsoft office",
-        "power bi",
-        "program management",
-        "python",
-        "six sigma",
-        "sql",
-        "tableau",
-        "vba"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:32:20.821Z"
-  },
-  {
     "job_id": "workday-rtx-01842915",
     "job_title": "Stage - Automne 2026 - Analyste des coûts d’entretien / Internship - Fall 2026 - Lifecycle Maintenance Cost Analyst",
     "employer_name": "RTX",
@@ -8904,134 +8623,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T19:18:13.403Z"
-  },
-  {
-    "job_id": "workday-cadence-R54669",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54669-1",
-    "job_posted_at_datetime_utc": "2026-05-05T19:17:24.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T19:17:24.203Z"
-  },
-  {
-    "job_id": "workday-cadence-(university)-R54669",
-    "job_title": "Legal Intern",
-    "employer_name": "Cadence (University)",
-    "job_city": "SAN JOSE",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "SAN JOSE",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54669",
-    "job_posted_at_datetime_utc": "2026-05-05T19:17:09.623Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T19:17:09.623Z"
-  },
-  {
-    "job_id": "workday-state-street-R-785064",
-    "job_title": "Application Developer, Fulltime Internship (July - Dec 2026)",
-    "employer_name": "State Street",
-    "job_city": "Quincy",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Quincy, Massachusetts",
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Application-Developer--Fulltime-Internship--July---Dec-2026-_R-785064",
-    "job_posted_at_datetime_utc": "2026-05-05T19:03:37.279Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4d71053e1fc7770d8c0b5de42f6e9550879945466d349c39adc3597b5b0aa629",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "React",
-        "agile",
-        "analytics",
-        "angular",
-        "computer science",
-        "css",
-        "data visualization",
-        "html",
-        "java",
-        "javascript",
-        "machine learning",
-        "microservices",
-        "natural language processing",
-        "oracle",
-        "python",
-        "react",
-        "risk management",
-        "spring",
-        "spring boot",
-        "sql",
-        "statistical analysis",
-        "unix"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T19:03:37.279Z"
   },
   {
     "job_id": "workday-caci-325733",
@@ -9205,36 +8796,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T18:32:44.467Z"
-  },
-  {
-    "job_id": "workday-state-street-R-784963",
-    "job_title": "IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026)",
-    "employer_name": "State Street",
-    "job_city": "Quincy",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Quincy, Massachusetts",
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst---Data---Regulatory-Reporting--Fulltime-Internship--July---Dec-2026-_R-784963",
-    "job_posted_at_datetime_utc": "2026-05-05T18:18:17.134Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84535b0becb75c2bd5888ff464aa5cf5a235238137c5567950f053aa8ee2cd16",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T18:18:17.134Z"
   },
   {
     "job_id": "workday-jabil-J2437601",
@@ -9421,36 +8982,6 @@
     "job_posted_at": "2026-05-05T16:33:50.704Z"
   },
   {
-    "job_id": "workday-state-street-R-789610",
-    "job_title": "SaaS Internship - 6 month Internship- July-Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Burlington Massachusetts",
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SaaS-Internship---6-month-Internship--July-Dec_R-789610-1",
-    "job_posted_at_datetime_utc": "2026-05-05T16:07:32.006Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "809fd9f43c5b3d781f96ce9ee144aa7a701ce3f34a59a48f7b00db3035b616df",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T16:07:32.006Z"
-  },
-  {
     "job_id": "sr-Sandisk-744000124692433",
     "job_title": "Agentic AI Intern – Consumer Summer 2026 (MBA or PhD)",
     "employer_name": "Sandisk",
@@ -9480,96 +9011,6 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-05-05T16:05:27.886Z"
-  },
-  {
-    "job_id": "workday-state-street-R-789608",
-    "job_title": "Revenue Operations Internship- 6 months - July-Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Burlington Massachusetts",
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1",
-    "job_posted_at_datetime_utc": "2026-05-05T15:45:09.445Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a17325abe70d7b540e1163998828bcfee103431a30caad1ed45b32e537cbaae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T15:45:09.445Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239312",
-    "job_title": "Health Account Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239312",
-    "job_posted_at_datetime_utc": "2026-05-05T15:31:12.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ebc1d1ccf9893a3f7399b981ef1c931140b92c808a0fe163c4a7b1ceecc76fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T15:31:12.698Z"
-  },
-  {
-    "job_id": "workday-booz-allen-hamilton-R0239301",
-    "job_title": "Health Account Intern",
-    "employer_name": "Booz Allen Hamilton",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239301",
-    "job_posted_at_datetime_utc": "2026-05-05T15:31:12.698Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5ebc1d1ccf9893a3f7399b981ef1c931140b92c808a0fe163c4a7b1ceecc76fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T15:31:12.698Z"
   },
   {
     "job_id": "sr-BoschGroup-744000124682895",
@@ -10116,6 +9557,529 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T13:34:27.096Z"
+  },
+  {
+    "job_id": "workday-state-street-R-785064",
+    "job_title": "Application Developer, Fulltime Internship (July - Dec 2026)",
+    "employer_name": "State Street",
+    "job_city": "Quincy",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Quincy, Massachusetts",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Application-Developer--Fulltime-Internship--July---Dec-2026-_R-785064",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:42.439Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4d71053e1fc7770d8c0b5de42f6e9550879945466d349c39adc3597b5b0aa629",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "React",
+        "agile",
+        "analytics",
+        "angular",
+        "computer science",
+        "css",
+        "data visualization",
+        "html",
+        "java",
+        "javascript",
+        "machine learning",
+        "microservices",
+        "natural language processing",
+        "oracle",
+        "python",
+        "react",
+        "risk management",
+        "spring",
+        "spring boot",
+        "sql",
+        "statistical analysis",
+        "unix"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:02:42.439Z"
+  },
+  {
+    "job_id": "workday-state-street-R-784963",
+    "job_title": "IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026)",
+    "employer_name": "State Street",
+    "job_city": "Quincy",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Quincy, Massachusetts",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst---Data---Regulatory-Reporting--Fulltime-Internship--July---Dec-2026-_R-784963",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:42.439Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84535b0becb75c2bd5888ff464aa5cf5a235238137c5567950f053aa8ee2cd16",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:02:42.439Z"
+  },
+  {
+    "job_id": "workday-state-street-R-789610",
+    "job_title": "SaaS Internship - 6 month Internship- July-Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Burlington Massachusetts",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SaaS-Internship---6-month-Internship--July-Dec_R-789610-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:42.439Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "809fd9f43c5b3d781f96ce9ee144aa7a701ce3f34a59a48f7b00db3035b616df",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:02:42.439Z"
+  },
+  {
+    "job_id": "workday-state-street-R-789608",
+    "job_title": "Revenue Operations Internship- 6 months - July-Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Burlington Massachusetts",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:02:42.439Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a17325abe70d7b540e1163998828bcfee103431a30caad1ed45b32e537cbaae",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:02:42.439Z"
+  },
+  {
+    "job_id": "workday-flir-systems-REQ34261",
+    "job_title": "Quality Engineering Intern",
+    "employer_name": "FLIR Systems",
+    "job_city": "Camarillo, CA",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - Camarillo, CA",
+    "job_apply_link": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Quality-Engineering-Intern_REQ34261",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.939Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6b80bfc7c1cc48bf677c9fed80b14f2b76265e4e3248fa39c28daa141a777544",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:57.939Z"
+  },
+  {
+    "job_id": "workday-cadence-R54668",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54668-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.833Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:57.833Z"
+  },
+  {
+    "job_id": "workday-cadence-R54669",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Legal-Intern_R54669-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.833Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a69960dec94afc1403b4a7b584125a2613b0cde74ccec071f31aa197c129fadf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:57.833Z"
+  },
+  {
+    "job_id": "workday-globalfoundries-JR-2502795",
+    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.632Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "linux",
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:57.632Z"
+  },
+  {
+    "job_id": "workday-globalfoundries-JR-2503145",
+    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.632Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:57.632Z"
+  },
+  {
+    "job_id": "workday-cadence-(university)-R54668",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence (University)",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54668",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:45.214Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:45.214Z"
+  },
+  {
+    "job_id": "workday-cadence-(university)-R54669",
+    "job_title": "Legal Intern",
+    "employer_name": "Cadence (University)",
+    "job_city": "SAN JOSE",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "SAN JOSE",
+    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Legal-Intern_R54669",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:45.214Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c88d4439aa19e644be6aca308848ee92006f0bcc9e33af2a3c2f29f0c0fdd0fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:45.214Z"
+  },
+  {
+    "job_id": "workday-applied-materials-R2619056",
+    "job_title": "Summer 2026 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Santa Clara,CA",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2026-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2619056-1",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.807Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "279d484fc8990baf5d10d3058490ccdabf1865fb0805ea2baacda56f405f1a20",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "data science",
+        "excel",
+        "lean manufacturing",
+        "microsoft office",
+        "power bi",
+        "program management",
+        "python",
+        "six sigma",
+        "sql",
+        "tableau",
+        "vba"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T08:01:31.807Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239312",
+    "job_title": "Health Account Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239312",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ebc1d1ccf9893a3f7399b981ef1c931140b92c808a0fe163c4a7b1ceecc76fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
+  },
+  {
+    "job_id": "workday-booz-allen-hamilton-R0239301",
+    "job_title": "Health Account Intern",
+    "employer_name": "Booz Allen Hamilton",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Account-Intern_R0239301",
+    "job_posted_at_datetime_utc": "2026-05-05T08:01:31.310Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5ebc1d1ccf9893a3f7399b981ef1c931140b92c808a0fe163c4a7b1ceecc76fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T08:01:31.310Z"
   },
   {
     "job_id": "workday-thermo-fisher-scientific-R-01340600",
@@ -11776,7 +11740,7 @@
     "job_is_remote": false,
     "job_location": "Rockrimmon, Colorado Springs, CO",
     "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Supply-Chain-Planning-Co-Op---Fall-2026_REQ-10148",
-    "job_posted_at_datetime_utc": "2026-05-04T08:46:59.161Z",
+    "job_posted_at_datetime_utc": "2026-05-04T08:01:58.048Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "495d2af3c7ba426a62d12d2ef5c06cbf4e5a2517ca206e0e2d5c79da4e4023eb",
@@ -11794,7 +11758,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T08:46:59.161Z"
+    "job_posted_at": "2026-05-04T08:01:58.048Z"
   },
   {
     "job_id": "workday-nvidia-JR2017490",
