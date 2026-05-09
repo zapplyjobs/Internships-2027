@@ -6077,7 +6077,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -6156,7 +6156,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -6188,7 +6188,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -7577,36 +7577,6 @@
     "job_posted_at": "2026-05-06T07:48:39.905Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-064445",
-    "job_title": "PALM Immunology/TD Portfolio Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Titusville",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Titusville, New Jersey, United States of America",
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/PALM-Immunology-TD-Portfolio-Co-Op_R-064445",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.619Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "91430eecac31b4e7eda87fba5066bde2dcdd9acbd8e4b3104ea388e4085b8898",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:03.619Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-071416",
     "job_title": "Quality Systems and Digital Services Quality Engineer Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
@@ -7674,6 +7644,36 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:03.619Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-064445",
+    "job_title": "PALM Immunology/TD Portfolio Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Titusville",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Titusville, New Jersey, United States of America",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/PALM-Immunology-TD-Portfolio-Co-Op_R-064445",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:03.619Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "91430eecac31b4e7eda87fba5066bde2dcdd9acbd8e4b3104ea388e4085b8898",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
