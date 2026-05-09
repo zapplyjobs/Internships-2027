@@ -1,5 +1,65 @@
 [
   {
+    "job_id": "workday-comcast-R436088",
+    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
+    "job_posted_at_datetime_utc": "2026-05-09T02:20:22.534Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-09T02:20:22.534Z"
+  },
+  {
+    "job_id": "workday-comcast-R436190",
+    "job_title": "Comcast Software Architect Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
+    "job_posted_at_datetime_utc": "2026-05-09T02:20:22.534Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-09T02:20:22.534Z"
+  },
+  {
     "job_id": "workday-disney-10149591",
     "job_title": "ABC News Talent Strategy & Development Intern, Fall 2026",
     "employer_name": "Disney",
@@ -5916,7 +5976,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -7159,6 +7219,80 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
+    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
+    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
+    "employer_name": "Peraton",
+    "job_city": "Bedford",
+    "job_state": "NH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, NH",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
     "job_id": "simplify-04690200-00da-4592-b697-fc3f8a39af9c",
     "job_title": "Quantitative Systematic Trading Intern",
     "employer_name": "Susquehanna International Group (SIG)",
@@ -7246,80 +7380,6 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
-    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-    "employer_name": "Peraton",
-    "job_city": "Bedford",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, NH",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
-    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, TX",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": false,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
