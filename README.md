@@ -137,7 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Moog** | Intern, Design Engineering | Chatsworth, CA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605) |
+| 🏢 **Moog** | Intern, Design Engineering | Chatsworth, CA | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605) |
 | 🏢 **Cresta** | Conversation Design Intern (Customer Success) | United States (Re... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213455008) |
 | 🏢 **Leidos** | Mechanical Design and Analysis Intern | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00182711) |
 | 🏢 **Johnson & Johnson** | Digital Art and Design Co-Op | Irving, Texas, Un... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irving-Texas-United-States-of-America/Digital-Art-and-Design-Co-Op_R-066703) |
@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Comcast** | Comcast Network Engineer Co-op | Mount Laurel, 180... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Engineer-Co-op_R436176) |
 | 🏢 **Comcast** | Comcast Network Engineer Co-op | Bellmawr, NJ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Bellmawr-321-Benigno-Blvd/Comcast-Network-Engineer-Co-op_R436054) |
 | 🏢 **Leidos** | AI Infrastructure & Security Intern | 6314 Remote/Telew... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560) |
-| 🏢 **Copart** | DevOps Engineering Intern | Dallas, TX - Head... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR108763) |
+| 🏢 **Copart** | DevOps Engineering Intern | Dallas, TX - Head... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR108763) |
 | 🏢 **Jabil** | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137) |
 
 <p align="center">Apply for more jobs at</p>
@@ -319,7 +319,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Figure AI** | Electrical Interconnect Engineering Intern [Fall 2026] | San Jose, CA | 14m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4676468006) |
+| 🏢 **Figure AI** | Electrical Interconnect Engineering Intern [Fall 2026] | San Jose, CA | 29m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4676468006) |
 | 🏢 **FLIR Systems** | Manufacturing Engineering Intern | Chestnut Ridge, NY | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineering-Intern_REQ34674) |
 | 🏢 **Boeing** | Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern | Seattle, WA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Engineering---Technology-Innovation---Graduate-Researcher-Program---Autonomy-Engineering-Intern_JR2026509533) |
 | 🏢 **CACI** | High School Engineering Intern - Summer 2026 | Crane, IN, US | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Crane-IN-US/High-School-Engineering-Intern---Summer-2026_325767) |
@@ -348,12 +348,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) TN SPRINGFI... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TN-SPRINGFIELD-00304-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503483-1) |
-| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) WA VANCOUVE... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-WA-VANCOUVER-03145-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504764-1) |
-| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OR BEAVERTO... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OR-BEAVERTON-05993-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504826) |
+| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) TN SPRINGFI... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TN-SPRINGFIELD-00304-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503483-1) |
+| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) WA VANCOUVE... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-WA-VANCOUVER-03145-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504764-1) |
+| 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OR BEAVERTO... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OR-BEAVERTON-05993-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504826) |
 | 🏢 **Disney** | ABC News Talent Strategy & Development Intern, Fall 2026 | New York, NY, USA | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Talent-Strategy---Development-Intern--Fall-2026_10149591-1) |
-| 🏢 **Disney** | Nightline Production Intern, Fall 2026 | New York, NY, USA | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Nightline-Production-Intern--Fall-2026_10149595) |
-| 🏢 **Disney** | Good Morning America Production Intern, Fall 2026 | New York, NY, USA | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Good-Morning-America-Production-Intern--Fall-2026_10149592) |
+| 🏢 **Disney** | Nightline Production Intern, Fall 2026 | New York, NY, USA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Nightline-Production-Intern--Fall-2026_10149595) |
+| 🏢 **Disney** | Good Morning America Production Intern, Fall 2026 | New York, NY, USA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Good-Morning-America-Production-Intern--Fall-2026_10149592) |
 | 🏢 **Copart** | Accounts Receivable - Intern | Dallas, TX - Head... | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Accounts-Receivable---Intern_JR108850) |
 | 🏢 **Cursor** | SDR Intern | San Francisco | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/e3205875-39c4-4923-8cb2-2f3cce614a5c/application) |
 | 🏢 **Cribl** | Customer Experience Ops Intern | San Francisco, Ca... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cribl.io/job-detail/?gh_jid=5807803004) |
