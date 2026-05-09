@@ -1,89 +1,5 @@
 [
   {
-    "job_id": "workday-comcast-R436190",
-    "job_title": "Comcast Software Architect Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
-    "job_posted_at_datetime_utc": "2026-05-09T04:01:17.917Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "ci/cd",
-        "fiber",
-        "git",
-        "github",
-        "jenkins",
-        "networking",
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-09T04:01:17.917Z"
-  },
-  {
-    "job_id": "workday-comcast-R436088",
-    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
-    "job_posted_at_datetime_utc": "2026-05-09T04:01:17.917Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-09T04:01:17.917Z"
-  },
-  {
     "job_id": "workday-disney-10149591",
     "job_title": "ABC News Talent Strategy & Development Intern, Fall 2026",
     "employer_name": "Disney",
@@ -6174,7 +6090,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
@@ -13468,61 +13384,6 @@
     "job_posted_at": "2026-05-02T13:30:45.194Z"
   },
   {
-    "job_id": "lever-hermeus-10d69ef6-a754-42ab-833c-76adf01367bf",
-    "job_title": "Software Engineering Intern (HIL) - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.694Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "baa1bb6b42f09283d3577e2639943be3c2da673c92defc3ab61d07738f40b457",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer science",
-        "julia",
-        "matlab",
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
-      "experience_level_from_desc": null,
-      "question_count": 4,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-02T13:30:43.694Z"
-  },
-  {
     "job_id": "lever-hermeus-49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
     "job_title": "Software Engineering Intern (Modeling & Simulation) - Fall 2026",
     "employer_name": "Hermeus",
@@ -13563,6 +13424,61 @@
         "matlab",
         "python",
         "robotics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 4,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-02T13:30:43.694Z"
+  },
+  {
+    "job_id": "lever-hermeus-10d69ef6-a754-42ab-833c-76adf01367bf",
+    "job_title": "Software Engineering Intern (HIL) - Fall 2026",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:43.694Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "baa1bb6b42f09283d3577e2639943be3c2da673c92defc3ab61d07738f40b457",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "julia",
+        "matlab",
+        "python"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
