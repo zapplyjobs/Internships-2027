@@ -2220,6 +2220,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "ci/cd",
+        "fiber",
+        "git",
+        "github",
+        "jenkins",
+        "networking",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-07T13:46:21.108Z"
   },
   {
@@ -3569,68 +3593,6 @@
     "job_posted_at": "2026-05-07T07:47:03.411Z"
   },
   {
-    "job_id": "workday-comcast-R436015",
-    "job_title": "Comcast WiFi Product Marketing Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-WiFi-Product-Marketing-Co-op_R436015",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.342Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7678327bb3574c01b75647c7aff70c83ba76af5710015e4dbf7c6e039eecdac4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.342Z"
-  },
-  {
-    "job_id": "workday-comcast-R436579",
-    "job_title": "Comcast Xfinity Communities Product Marketing Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Xfinity-Communities-Product-Marketing-Co-op_R436579",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.342Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2eb440d4504b23722e2792b9a135511e5ec297582afc3aed1b680a3d541fc44a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing",
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.342Z"
-  },
-  {
     "job_id": "workday-comcast-R436176",
     "job_title": "Comcast Network Engineer Co-op",
     "employer_name": "Comcast",
@@ -4324,6 +4286,68 @@
       "employment": "internship",
       "domains": [
         "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.342Z"
+  },
+  {
+    "job_id": "workday-comcast-R436015",
+    "job_title": "Comcast WiFi Product Marketing Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-WiFi-Product-Marketing-Co-op_R436015",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.342Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7678327bb3574c01b75647c7aff70c83ba76af5710015e4dbf7c6e039eecdac4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing",
+        "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.342Z"
+  },
+  {
+    "job_id": "workday-comcast-R436579",
+    "job_title": "Comcast Xfinity Communities Product Marketing Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Xfinity-Communities-Product-Marketing-Co-op_R436579",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.342Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2eb440d4504b23722e2792b9a135511e5ec297582afc3aed1b680a3d541fc44a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing",
+        "product"
       ],
       "locations": [
         "us"
@@ -6136,7 +6160,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -6310,7 +6334,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
@@ -6461,19 +6485,19 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
-    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
-    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-    "employer_name": "Peraton",
-    "job_city": "Bedford",
-    "job_state": "NH",
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Bedford, NH",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6491,19 +6515,19 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
+    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
+    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
+    "employer_name": "Peraton",
+    "job_city": "Bedford",
+    "job_state": "NH",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_location": "Bedford, NH",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -10226,6 +10250,37 @@
     "job_posted_at": "2026-05-05T07:50:02.462Z"
   },
   {
+    "job_id": "workday-leidos-R-00182560",
+    "job_title": "AI Infrastructure & Security Intern",
+    "employer_name": "Leidos",
+    "job_city": "6314 Remote/Teleworker US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560",
+    "job_posted_at_datetime_utc": "2026-05-05T07:48:50.278Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c04e194de04f8660c9b3ea7f89cce2af31cc93c8981f0eae78282da9c989a09",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:48:50.278Z"
+  },
+  {
     "job_id": "workday-leidos-R-00182453",
     "job_title": "System Administrator Intern",
     "employer_name": "Leidos",
@@ -10256,27 +10311,26 @@
     "job_posted_at": "2026-05-05T07:48:50.278Z"
   },
   {
-    "job_id": "workday-leidos-R-00182560",
-    "job_title": "AI Infrastructure & Security Intern",
+    "job_id": "workday-leidos-R-00182510",
+    "job_title": "Mechanical Engineering Intern",
     "employer_name": "Leidos",
-    "job_city": "6314 Remote/Teleworker US",
-    "job_state": "",
+    "job_city": "White Sands",
+    "job_state": "NM",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:50.278Z",
+    "job_is_remote": false,
+    "job_location": "White Sands, NM",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Mechanical-Engineering-Intern_R-00182510",
+    "job_posted_at_datetime_utc": "2026-05-05T07:48:50.273Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "8c04e194de04f8660c9b3ea7f89cce2af31cc93c8981f0eae78282da9c989a09",
+    "fingerprint": "da9eda45a983b4156ed9493e05223dee9597633879eb404504a39c1e0a2d384d",
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "hardware"
       ],
       "locations": [
-        "us",
-        "remote"
+        "us"
       ],
       "experience": "entry_level",
       "special": [],
@@ -10284,7 +10338,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-05T07:48:50.278Z"
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "reporting"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-05T07:48:50.273Z"
   },
   {
     "job_id": "workday-leidos-R-00182554",
@@ -10341,53 +10412,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-05T07:48:50.273Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182510",
-    "job_title": "Mechanical Engineering Intern",
-    "employer_name": "Leidos",
-    "job_city": "White Sands",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "White Sands, NM",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/White-Sands-NM/Mechanical-Engineering-Intern_R-00182510",
-    "job_posted_at_datetime_utc": "2026-05-05T07:48:50.273Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "da9eda45a983b4156ed9493e05223dee9597633879eb404504a39c1e0a2d384d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "reporting"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": null,
       "summary_line": null
