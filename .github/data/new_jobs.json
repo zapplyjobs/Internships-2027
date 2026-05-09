@@ -318,6 +318,66 @@
     "job_posted_at": "2026-05-08T20:08:41.949Z"
   },
   {
+    "job_id": "workday-rtx-01843565",
+    "job_title": "Internship Fall 2026 - Quality Specialist",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
+    "job_id": "workday-rtx-01843581",
+    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
+  },
+  {
     "job_id": "workday-rtx-01843889",
     "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
     "employer_name": "RTX",
@@ -514,126 +574,6 @@
     "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
   {
-    "job_id": "workday-rtx-01843565",
-    "job_title": "Internship Fall 2026 - Quality Specialist",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.177Z"
-  },
-  {
-    "job_id": "workday-rtx-01843581",
-    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.177Z"
-  },
-  {
-    "job_id": "workday-rtx-01843378",
-    "job_title": "Summer 2026 - Legal Intern (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2026---Legal-Intern--Remote-_01843378",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01dd3abe1227ae13b1ad3712de6bf26f636b32c73b94c7ccd4aad3082140275a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01839788",
-    "job_title": "Stage Automne 2026 - Service Technique des Accessoires Moteurs / Internship Fall 2026 - Engine Controls & Accessories Technical Services",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0279b17cacd01fbe26994b42b6277310e607c0691d0439d3c5bc19d123437291",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
     "job_id": "workday-rtx-01843537",
     "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
     "employer_name": "RTX",
@@ -765,6 +705,66 @@
       "question_count": null,
       "summary_line": null
     },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843378",
+    "job_title": "Summer 2026 - Legal Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2026---Legal-Intern--Remote-_01843378",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01dd3abe1227ae13b1ad3712de6bf26f636b32c73b94c7ccd4aad3082140275a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01839788",
+    "job_title": "Stage Automne 2026 - Service Technique des Accessoires Moteurs / Internship Fall 2026 - Engine Controls & Accessories Technical Services",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0279b17cacd01fbe26994b42b6277310e607c0691d0439d3c5bc19d123437291",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
@@ -5826,7 +5826,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -5906,7 +5906,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -13495,35 +13495,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-02T04:06:30.450Z"
-  },
-  {
-    "job_id": "simplify-676473d0-bfa3-44e7-a7a2-3bb6b424663a",
-    "job_title": "Product Manager Core Ads Project Intern",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://lifeattiktok.com/search/7634667327843535109",
-    "job_posted_at_datetime_utc": "2026-05-02T01:13:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b006d8259ee1b3513d6a5b7b05b30448dd5dc051ea7d380f5ce0052e240883ad",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-02T01:13:22.000Z"
   }
 ]
