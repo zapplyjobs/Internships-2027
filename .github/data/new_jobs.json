@@ -2832,53 +2832,6 @@
     "job_posted_at": "2026-05-07T07:48:30.176Z"
   },
   {
-    "job_id": "workday-hpe-(university)-1192940",
-    "job_title": "Thermal Engineering Intern",
-    "employer_name": "HPE (University)",
-    "job_city": "Chippewa Falls",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chippewa Falls, Wisconsin, United States of America",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Thermal-Engineering-Intern_1192940",
-    "job_posted_at_datetime_utc": "2026-05-07T07:48:19.517Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "27adc14bc7c437fbe125a513bba753aa4ce7f195af64f56712c3cca44f075396",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "html"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:48:19.517Z"
-  },
-  {
     "job_id": "workday-kbr-R2116882",
     "job_title": "National Security Solutions (NSS) Internship - Positioning, Navigation and Timing (PNT)",
     "employer_name": "KBR",
@@ -3027,6 +2980,53 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-07T07:47:03.411Z"
+  },
+  {
+    "job_id": "workday-hpe-(university)-1192940",
+    "job_title": "Thermal Engineering Intern",
+    "employer_name": "HPE (University)",
+    "job_city": "Chippewa Falls",
+    "job_state": "WI",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chippewa Falls, Wisconsin, United States of America",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Thermal-Engineering-Intern_1192940",
+    "job_posted_at_datetime_utc": "2026-05-07T07:46:43.902Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "27adc14bc7c437fbe125a513bba753aa4ce7f195af64f56712c3cca44f075396",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "html"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:46:43.902Z"
   },
   {
     "job_id": "workday-adobe-R160919",
@@ -4897,6 +4897,29 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "ci/cd",
+        "fiber",
+        "git",
+        "github",
+        "jenkins",
+        "networking",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
     "job_posted_at": "2026-05-07T07:31:23.344Z"
   },
   {
@@ -6111,38 +6134,6 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
-    "job_id": "microsoft-200036958",
-    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
-    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "internship",
-    "salary": null,
-    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T22:44:55.000Z"
-  },
-  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -6203,38 +6194,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-06T22:02:01.000Z"
-  },
-  {
-    "job_id": "microsoft-200036954",
-    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
-    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T21:17:55.000Z"
   },
   {
     "job_id": "workday-rtx-01842886",
