@@ -163,7 +163,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Comcast** | Comcast Network Engineer Co-op | Bellmawr, NJ | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Bellmawr-321-Benigno-Blvd/Comcast-Network-Engineer-Co-op_R436054) |
 | 🏢 **Comcast** | Comcast Network Engineer Co-op | Mount Laurel, 180... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Comcast-Network-Engineer-Co-op_R436176) |
 | 🏢 **Leidos** | AI Infrastructure & Security Intern | 6314 Remote/Telew... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560) |
-| 🏢 **Copart** | DevOps Engineering Intern | Dallas, TX - Head... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR108763) |
+| 🏢 **Copart** | DevOps Engineering Intern | Dallas, TX - Head... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR108763) |
 | 🏢 **Jabil** | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137) |
 
 <p align="center">Apply for more jobs at</p>
