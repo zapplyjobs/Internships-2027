@@ -5553,59 +5553,6 @@
     "job_posted_at": "2026-05-11T03:19:06.000Z"
   },
   {
-    "job_id": "greenhouse-point72-7302611002",
-    "job_title": "Machine Learning Researcher - Intern",
-    "employer_name": "Point72",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "New York",
-    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.999Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "machine learning",
-        "matlab",
-        "natural language processing",
-        "python",
-        "r",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "phd",
-      "experience_level_from_desc": null,
-      "question_count": 11
-    },
-    "job_posted_at": "2026-05-11T03:19:05.999Z"
-  },
-  {
     "job_id": "greenhouse-point72-7609197002",
     "job_title": "Quantitative Developer Intern",
     "employer_name": "Point72",
@@ -6040,6 +5987,59 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:19:05.999Z"
+  },
+  {
+    "job_id": "greenhouse-point72-7302611002",
+    "job_title": "Machine Learning Researcher - Intern",
+    "employer_name": "Point72",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "New York",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:05.999Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a72ad5b6a2c3e26d79e6777a929e542654cbcd569e746052861dc759cb83b8e0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "machine learning",
+        "matlab",
+        "natural language processing",
+        "python",
+        "r",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 11
+    },
     "job_posted_at": "2026-05-11T03:19:05.999Z"
   },
   {
@@ -7594,6 +7594,41 @@
     "job_posted_at": "2026-05-11T03:19:03.790Z"
   },
   {
+    "job_id": "lever-weride-c7652fd5-65d8-443d-ab4c-5b450acac77d",
+    "job_title": "2026 Summer Intern - PhD",
+    "employer_name": "WeRide",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose, CA",
+    "job_apply_link": "https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:19:02.814Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 40,
+      "max": 60,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "66e35822e52b755ab2e33a93b936feda268f241b7543c9caadf71d4ddf1a6524",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T03:19:02.814Z"
+  },
+  {
     "job_id": "lever-weride-8f84c602-8a79-43f6-b662-74a92ef761f5",
     "job_title": "2026 Summer Intern - Software Engineer",
     "employer_name": "WeRide",
@@ -7698,41 +7733,6 @@
       "experience_level_from_desc": null,
       "question_count": 2
     },
-    "job_posted_at": "2026-05-11T03:19:02.814Z"
-  },
-  {
-    "job_id": "lever-weride-c7652fd5-65d8-443d-ab4c-5b450acac77d",
-    "job_title": "2026 Summer Intern - PhD",
-    "employer_name": "WeRide",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose, CA",
-    "job_apply_link": "https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:19:02.814Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 40,
-      "max": 60,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "66e35822e52b755ab2e33a93b936feda268f241b7543c9caadf71d4ddf1a6524",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
     "job_posted_at": "2026-05-11T03:19:02.814Z"
   },
   {
@@ -8118,41 +8118,6 @@
     "job_posted_at": "2026-05-11T03:18:59.393Z"
   },
   {
-    "job_id": "lever-sambatv-9aea066a-f48a-4d67-a942-31401f8c334d",
-    "job_title": "HR Intern",
-    "employer_name": "Samba TV",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco, California",
-    "job_apply_link": "https://jobs.lever.co/sambatv/9aea066a-f48a-4d67-a942-31401f8c334d/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 20,
-      "max": 25,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "7d9898265ccfdf60f4611c7112f3f54e95f2b290e2e696dc2956930769e38a2c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "job_posted_at": "2026-05-11T03:18:59.392Z"
-  },
-  {
     "job_id": "lever-sambatv-a80bdcb6-caba-48ec-8f99-f5351bdee7a2",
     "job_title": "Commercial Partnerships Intern",
     "employer_name": "Samba TV",
@@ -8175,6 +8140,41 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "job_posted_at": "2026-05-11T03:18:59.392Z"
+  },
+  {
+    "job_id": "lever-sambatv-9aea066a-f48a-4d67-a942-31401f8c334d",
+    "job_title": "HR Intern",
+    "employer_name": "Samba TV",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco, California",
+    "job_apply_link": "https://jobs.lever.co/sambatv/9aea066a-f48a-4d67-a942-31401f8c334d/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 20,
+      "max": 25,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "7d9898265ccfdf60f4611c7112f3f54e95f2b290e2e696dc2956930769e38a2c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
       ],
       "locations": [
         "us"
@@ -8329,6 +8329,103 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-11T03:18:59.110Z"
+  },
+  {
+    "job_id": "ashby-atomicsemi-48923113-b51e-4c3a-ade9-47ac08313447",
+    "job_title": "Mechanical Engineering Intern - Fall",
+    "employer_name": "Atomic Semi",
+    "job_city": "Austin Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin Office",
+    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/48923113-b51e-4c3a-ade9-47ac08313447/application",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.066Z",
+    "job_employment_type": "internship",
+    "salary": null,
+    "fingerprint": "35f2c48892c232395407ae7f4586b52ded3594758d0265b750d4c1e474e9f34d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "assembly",
+        "embedded systems",
+        "robotics",
+        "solidworks"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
+    "job_posted_at": "2026-05-11T03:18:59.066Z"
+  },
+  {
+    "job_id": "ashby-atomicsemi-a4edea14-08e9-46cf-9449-4bedb8b29dd9",
+    "job_title": "Process Engineering Intern - Fall",
+    "employer_name": "Atomic Semi",
+    "job_city": "Austin Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Austin Office",
+    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/a4edea14-08e9-46cf-9449-4bedb8b29dd9/application",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.066Z",
+    "job_employment_type": "internship",
+    "salary": null,
+    "fingerprint": "a1c7ced0d3691e1de34f1fd902f6a576cd2841fdd6076f32bed77041e0091059",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 15
+    },
+    "job_posted_at": "2026-05-11T03:18:59.066Z"
   },
   {
     "job_id": "ashby-atomicsemi-82c5b442-17de-4249-8b67-db11c2f83051",
@@ -8748,151 +8845,6 @@
     "job_posted_at": "2026-05-11T03:18:59.066Z"
   },
   {
-    "job_id": "ashby-atomicsemi-48923113-b51e-4c3a-ade9-47ac08313447",
-    "job_title": "Mechanical Engineering Intern - Fall",
-    "employer_name": "Atomic Semi",
-    "job_city": "Austin Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin Office",
-    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/48923113-b51e-4c3a-ade9-47ac08313447/application",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.066Z",
-    "job_employment_type": "internship",
-    "salary": null,
-    "fingerprint": "35f2c48892c232395407ae7f4586b52ded3594758d0265b750d4c1e474e9f34d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "assembly",
-        "embedded systems",
-        "robotics",
-        "solidworks"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 15
-    },
-    "job_posted_at": "2026-05-11T03:18:59.066Z"
-  },
-  {
-    "job_id": "ashby-atomicsemi-a4edea14-08e9-46cf-9449-4bedb8b29dd9",
-    "job_title": "Process Engineering Intern - Fall",
-    "employer_name": "Atomic Semi",
-    "job_city": "Austin Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Austin Office",
-    "job_apply_link": "https://jobs.ashbyhq.com/atomicsemi/a4edea14-08e9-46cf-9449-4bedb8b29dd9/application",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:59.066Z",
-    "job_employment_type": "internship",
-    "salary": null,
-    "fingerprint": "a1c7ced0d3691e1de34f1fd902f6a576cd2841fdd6076f32bed77041e0091059",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 15
-    },
-    "job_posted_at": "2026-05-11T03:18:59.066Z"
-  },
-  {
-    "job_id": "greenhouse-graphcore-8287389002",
-    "job_title": "Intern - Research",
-    "employer_name": "Graphcore",
-    "job_city": "Bristol",
-    "job_state": "UK",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bristol, UK; Cambridge, UK; London, UK",
-    "job_apply_link": "https://job-boards.greenhouse.io/graphcore/jobs/8287389002",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:58.168Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d62a441bd950b12b3fc6ba057f27542e0a8668fbbebff29fe4d210e87eef5eb7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "machine learning",
-        "python",
-        "pytorch"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 12
-    },
-    "job_posted_at": "2026-05-11T03:18:58.168Z"
-  },
-  {
     "job_id": "greenhouse-graphcore-8441356002",
     "job_title": "2026 Summer Intern - Software Engineering - Drivers",
     "employer_name": "Graphcore",
@@ -8949,32 +8901,25 @@
     "job_posted_at": "2026-05-11T03:18:58.168Z"
   },
   {
-    "job_id": "lever-matchgroup-ce55175b-fdd1-40ca-9407-7cc5e1533982",
-    "job_title": "Machine Learning Engineer Intern",
-    "employer_name": "Match Group",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
+    "job_id": "greenhouse-graphcore-8287389002",
+    "job_title": "Intern - Research",
+    "employer_name": "Graphcore",
+    "job_city": "Bristol",
+    "job_state": "UK",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Palo Alto, California",
-    "job_apply_link": "https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.928Z",
+    "job_location": "Bristol, UK; Cambridge, UK; London, UK",
+    "job_apply_link": "https://job-boards.greenhouse.io/graphcore/jobs/8287389002",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:58.168Z",
     "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 47,
-      "max": 47,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "2113881d6fbeeebb516cd1fa56e2df3fed9abeae433618a5b44d71bceb06d59e",
+    "salary": null,
+    "fingerprint": "d62a441bd950b12b3fc6ba057f27542e0a8668fbbebff29fe4d210e87eef5eb7",
     "tags": {
       "employment": "internship",
       "domains": [
-        "ai",
-        "data_science"
+        "hardware"
       ],
       "locations": [
-        "hybrid",
         "us"
       ],
       "experience": "entry_level",
@@ -8982,36 +8927,26 @@
       "tag_engine_version": 3
     },
     "_source": "aggregator",
-    "_original_source": "lever",
+    "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [
-        "computer science",
-        "python"
+        "c++",
+        "machine learning",
+        "python",
+        "pytorch"
       ],
-      "nice_to_have_skills": [
-        "airflow",
-        "data science",
-        "databricks",
-        "deep learning",
-        "go",
-        "java",
-        "keras",
-        "pytorch",
-        "scala",
-        "spark",
-        "tensorflow"
-      ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
       "possible_sponsor": null,
-      "visa_question_present": true,
+      "visa_question_present": false,
       "is_simple_apply": true,
       "is_remote": false,
       "has_description": true,
-      "min_degree": "masters",
+      "min_degree": "bachelors",
       "experience_level_from_desc": null,
-      "question_count": 1
+      "question_count": 12
     },
-    "job_posted_at": "2026-05-11T03:18:57.928Z"
+    "job_posted_at": "2026-05-11T03:18:58.168Z"
   },
   {
     "job_id": "lever-matchgroup-84135a99-e009-4764-8e88-f0dba164d097",
@@ -9136,25 +9071,32 @@
     "job_posted_at": "2026-05-11T03:18:57.928Z"
   },
   {
-    "job_id": "greenhouse-formlabs-7365384",
-    "job_title": "Global Sourcing Intern (Summer 2026)",
-    "employer_name": "Formlabs",
-    "job_city": "Somerville",
-    "job_state": "MA",
+    "job_id": "lever-matchgroup-ce55175b-fdd1-40ca-9407-7cc5e1533982",
+    "job_title": "Machine Learning Engineer Intern",
+    "employer_name": "Match Group",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Somerville, MA",
-    "job_apply_link": "https://careers.formlabs.com/job/7365384/apply/?gh_jid=7365384",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.826Z",
+    "job_location": "Palo Alto, California",
+    "job_apply_link": "https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.928Z",
     "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "44f4e2b992e5d64412ccc654076959ee17d15304784a80e2fab193bf039ab288",
+    "salary": {
+      "min": 47,
+      "max": 47,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "2113881d6fbeeebb516cd1fa56e2df3fed9abeae433618a5b44d71bceb06d59e",
     "tags": {
       "employment": "internship",
       "domains": [
-        "manufacturing"
+        "ai",
+        "data_science"
       ],
       "locations": [
+        "hybrid",
         "us"
       ],
       "experience": "entry_level",
@@ -9162,38 +9104,36 @@
       "tag_engine_version": 3
     },
     "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T03:18:57.826Z"
-  },
-  {
-    "job_id": "greenhouse-formlabs-7739317",
-    "job_title": "Hardware Global Sourcing Intern (Summer 2026)",
-    "employer_name": "Formlabs",
-    "job_city": "Somerville",
-    "job_state": "MA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Somerville, MA",
-    "job_apply_link": "https://careers.formlabs.com/job/7739317/apply/?gh_jid=7739317",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.826Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4eeeab7a87e7cd9ee5094472f0cbbcdd211807b833010882bd439a312a1d6201",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "python"
       ],
-      "locations": [
-        "us"
+      "nice_to_have_skills": [
+        "airflow",
+        "data science",
+        "databricks",
+        "deep learning",
+        "go",
+        "java",
+        "keras",
+        "pytorch",
+        "scala",
+        "spark",
+        "tensorflow"
       ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "masters",
+      "experience_level_from_desc": null,
+      "question_count": 1
     },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T03:18:57.826Z"
+    "job_posted_at": "2026-05-11T03:18:57.928Z"
   },
   {
     "job_id": "greenhouse-formlabs-7586088",
@@ -9314,6 +9254,66 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "58bd1d4b674242226375c8248b494a08d97b21e0ae1ffd60c58afacf0510f94b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:18:57.826Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7365384",
+    "job_title": "Global Sourcing Intern (Summer 2026)",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7365384/apply/?gh_jid=7365384",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.826Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "44f4e2b992e5d64412ccc654076959ee17d15304784a80e2fab193bf039ab288",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:18:57.826Z"
+  },
+  {
+    "job_id": "greenhouse-formlabs-7739317",
+    "job_title": "Hardware Global Sourcing Intern (Summer 2026)",
+    "employer_name": "Formlabs",
+    "job_city": "Somerville",
+    "job_state": "MA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Somerville, MA",
+    "job_apply_link": "https://careers.formlabs.com/job/7739317/apply/?gh_jid=7739317",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:57.826Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4eeeab7a87e7cd9ee5094472f0cbbcdd211807b833010882bd439a312a1d6201",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9741,6 +9741,59 @@
     "job_posted_at": "2026-05-11T03:18:56.566Z"
   },
   {
+    "job_id": "lever-hermeus-751c9919-5b19-4609-80ff-ca82d6947e07",
+    "job_title": "GNC Engineering Intern (Controls) - Fall 2026",
+    "employer_name": "Hermeus",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Atlanta, GA",
+    "job_apply_link": "https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07/apply",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:56.565Z",
+    "job_employment_type": "FULLTIME",
+    "salary": {
+      "min": 25,
+      "max": 33,
+      "currency": "USD",
+      "interval": "per-hour-wage"
+    },
+    "fingerprint": "c525464f2ebc5468d6c1b15c9d420c1aba4dc23fb17b6f90d68b1d9d3f766428",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "lever",
+    "enrichment": {
+      "required_skills": [
+        "matlab",
+        "python",
+        "simulink"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": true,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 4
+    },
+    "job_posted_at": "2026-05-11T03:18:56.565Z"
+  },
+  {
     "job_id": "lever-hermeus-922ee234-94aa-473b-8464-03f28a709872",
     "job_title": "Manufacturing Engineering Intern - Fall 2026",
     "employer_name": "Hermeus",
@@ -10033,59 +10086,6 @@
       "is_remote": false,
       "has_description": true,
       "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": 4
-    },
-    "job_posted_at": "2026-05-11T03:18:56.565Z"
-  },
-  {
-    "job_id": "lever-hermeus-751c9919-5b19-4609-80ff-ca82d6947e07",
-    "job_title": "GNC Engineering Intern (Controls) - Fall 2026",
-    "employer_name": "Hermeus",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Atlanta, GA",
-    "job_apply_link": "https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07/apply",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:56.565Z",
-    "job_employment_type": "FULLTIME",
-    "salary": {
-      "min": 25,
-      "max": 33,
-      "currency": "USD",
-      "interval": "per-hour-wage"
-    },
-    "fingerprint": "c525464f2ebc5468d6c1b15c9d420c1aba4dc23fb17b6f90d68b1d9d3f766428",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "lever",
-    "enrichment": {
-      "required_skills": [
-        "matlab",
-        "python",
-        "simulink"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": null,
-      "visa_question_present": true,
-      "is_simple_apply": true,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": null,
       "experience_level_from_desc": null,
       "question_count": 4
     },
@@ -11058,36 +11058,6 @@
     "job_posted_at": "2026-05-11T03:18:54.262Z"
   },
   {
-    "job_id": "greenhouse-astranis-4654168006",
-    "job_title": "Communications Intern (Summer 2026)",
-    "employer_name": "Astranis",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://job-boards.greenhouse.io/astranis/jobs/4654168006",
-    "job_posted_at_datetime_utc": "2026-05-11T03:18:54.261Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7fb4f5aad1a0fd2b9ecd7cb0782a487fff0dcfab060b4bdcea6cb3a6e962d617",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-11T03:18:54.261Z"
-  },
-  {
     "job_id": "greenhouse-astranis-4646906006",
     "job_title": "Hardware Design Associate, Software Defined Radio Team (Summer 2026)",
     "employer_name": "Astranis",
@@ -11239,6 +11209,36 @@
       "employment": "internship",
       "domains": [
         "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-11T03:18:54.261Z"
+  },
+  {
+    "job_id": "greenhouse-astranis-4654168006",
+    "job_title": "Communications Intern (Summer 2026)",
+    "employer_name": "Astranis",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://job-boards.greenhouse.io/astranis/jobs/4654168006",
+    "job_posted_at_datetime_utc": "2026-05-11T03:18:54.261Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7fb4f5aad1a0fd2b9ecd7cb0782a487fff0dcfab060b4bdcea6cb3a6e962d617",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "marketing"
       ],
       "locations": [
         "us"
@@ -18121,6 +18121,38 @@
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
   {
+    "job_id": "microsoft-200036958",
+    "job_title": "Research Intern - Fault Tolerant Quantum System Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
+    "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T22:44:55.000Z"
+  },
+  {
     "job_id": "microsoft-200036961",
     "job_title": "Research Intern - AI Frontiers",
     "employer_name": "Microsoft",
@@ -18131,7 +18163,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -18211,6 +18243,38 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-06T22:02:00.000Z"
+  },
+  {
+    "job_id": "microsoft-200036954",
+    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Redmond, Washington, United States",
+    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
+    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
+    "job_employment_type": "internship",
+    "salary": null,
+    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "microsoft",
+    "job_posted_at": "2026-05-06T21:17:55.000Z"
   },
   {
     "job_id": "workday-rtx-01842886",
@@ -18811,7 +18875,7 @@
     "job_location": "United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556768751",
     "job_posted_at_datetime_utc": "2026-05-06T09:43:09.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "065b7e076745269aecf4ee0539f3ba20c87e6d7025652cc0d73dd028a48cca8b",
     "tags": {
@@ -22783,6 +22847,27 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "datadog",
+        "dbt",
+        "machine learning",
+        "python",
+        "snowflake",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": null,
+      "visa_question_present": true,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16
+    },
     "job_posted_at": "2026-05-04T18:15:33.000Z"
   },
   {
