@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-325-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-89-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-327-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-90-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -345,6 +345,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| 🟢 **Google** | Student Researcher, PhD, Winter/Summer 2026 | United States | 15m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
+| 🟢 **Google** | Student Researcher, BS/MS, Winter/Summer 2026 | United States | 15m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) TN SPRINGFI... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TN-SPRINGFIELD-00304-WM-SUPERCENTER/Pharmacy-Pre-Grad-Intern---WM_R-2503483-1) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) WA VANCOUVE... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-WA-VANCOUVER-03145-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504764-1) |
 | 🏢 **Walmart** | Pharmacy Pre-Grad Intern - WM | (USA) OR BEAVERTO... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-OR-BEAVERTON-05993-NEIGHBORHOOD-MARKET/Pharmacy-Pre-Grad-Intern---WM_R-2504826) |
@@ -498,7 +500,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 325 current opportunities from 89 companies**
+**🎯 327 current opportunities from 90 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
