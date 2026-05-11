@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-578-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-166-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-576-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-165-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
-| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
+| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
+| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
 | 🏢 **Tatari** | Software Engineer Intern | San Francisco, Ca... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451506002) |
 | 🏢 **Tatari** | Software Engineer Intern | New York, New Yor... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451505002) |
 | 🏢 **Tatari** | Software Engineer Intern | Los Angeles, Cali... | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451504002) |
@@ -85,9 +85,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GPTZero** | Software Engineering Intern | NYC Hybrid | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/gptzero/e1f12af2-d017-4fca-a9af-99431d989d53/application) |
 | 🏢 **Xometry** | Software Engineer Intern | Waltham, MA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007635007) |
 | 🏢 **Xometry** | Software Engineer Intern | North Bethesda, M... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007634007) |
-| 🏢 **Verkada** | Backend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099422007) |
 | 🏢 **Verkada** | Embedded Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099596007) |
 | 🏢 **Verkada** | Frontend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099529007) |
+| 🏢 **Verkada** | Backend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099422007) |
 | 🏢 **TransMarket Group** | Systems Engineer Intern | Chicago, Illinois... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749924007?gh_jid=4749924007) |
 | 🏢 **Point72** | Quantitative Software Developer Intern | New York, London,... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | 🏢 **Nuro** | Software Engineer, AI Platform - Intern | Mountain View, Ca... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7351061) |
@@ -156,8 +156,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Workato** | Intern, AI Engineering | San Francisco, Ca... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8492935002) |
 | 🏢 **Stripe** | PhD Machine Learning Engineer, Intern | San Francisco, Ne... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7216664) |
 | 🏢 **SharkNinja** | Summer 2026: SharkByte Applied AI & Analytics Intern (June to August) | Miami, Florida, U... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669665006) |
+| 🏢 **SharkNinja** | Fall 2026: Analytics & BI Intern, D2C (September to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006) |
 | 🏢 **SharkNinja** | Fall 2026: SharkByte Applied AI & Analytics Co-op (July to December) | Miami, Florida, U... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4669676006) |
-| 🏢 **SharkNinja** | Fall 2026: Strategic Sales & Analytics Intern (September to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670586006) |
 | 🏢 **Point72** | 2026 AI Engineer Intern, Long/Short Equities | New York, New York | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8500448002?gh_jid=8500448002) |
 | 🏢 **Lucid Motors** | Intern, Electrical Machines Testing & Data Analytics, Summer 2026 | Newark, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/4953725007) |
 | 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto, Califo... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
@@ -193,9 +193,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Xometry** | UX Design Intern | Waltham, Massachu... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007725007) |
 | 🏢 **Verkada** | Industrial Design Intern | San Mateo, CA Uni... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5070008007) |
 | 🏢 **Udemy** | Design Operations Intern | San Francisco, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/udemybedi/jobs/5841112004) |
-| 🏢 **SharkNinja** | Fall 2026: Product Design Engineering Co-op, Ninja (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006) |
-| 🏢 **SharkNinja** | Fall 2026: Product Design Engineering Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646411006) |
 | 🏢 **SharkNinja** | Fall 2026: CMF Industrial Design Co-op (July through December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655085006) |
+| 🏢 **SharkNinja** | Fall 2026: Electrical Design Engineering Co-op, Advanced Development (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647108006) |
+| 🏢 **SharkNinja** | Fall 2026: Product Design Engineering Co-op, Ninja (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646375006) |
 | 🏢 **Crusoe** | Motion Design Intern | San Francisco, CA... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/f65fd49b-650e-46e4-b3b7-f7d9cdc610e7/application) |
 | 🏢 **Neuralink** | Analog and Mixed-Signal IC Design Engineer Intern | Fremont, Californ... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) |
 | 🏢 **Neuralink** | Digital IC Design Engineer Intern | Fremont, Californ... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) |
@@ -206,6 +206,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astranis** | Hardware Design Intern, Software Defined Radio Team (Summer 2026) | San Francisco | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4646558006) |
 | 🏢 **Asana** | Product Design Intern - Summer 2026 (New York) | New York City | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.asana.com/jobs/apply/7490328?gh_jid=7490328) |
 | 🏢 **Asana** | Product Design Intern - Summer 2026 (San Francisco) | San Francisco | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.asana.com/jobs/apply/7490322?gh_jid=7490322) |
+| 🏢 **Zoox** | UI/UX Design Intern, Internal Platforms | Foster City, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/771e8c8a-2b54-4f08-a42c-0c27a8b93cb0/apply) |
 | 🏢 **Moog** | Intern, Design Engineering | Chatsworth, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605) |
 | 🏢 **Cresta** | Conversation Design Intern (Customer Success) | United States (Re... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213455008) |
 | 🏢 **Leidos** | Mechanical Design and Analysis Intern | Huntsville, AL | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00182711) |
@@ -217,7 +218,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Allegion** | Industrial Design Co-op | Carmel, IN | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1) |
 | 🌐 **Cisco** | ASIC Design Verification Engineer I Intern - United States | Maynard, Massachu... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/ASIC-Design-Verification-Engineer-I-Intern---United-States_2001867) |
 | 🏢 **TikTok** | Product Manager Project Intern - Brand Innovation - Monetization Product | San Jose, CA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7636024964612770101) |
-| 🏢 **Globus Medical** | Product Manager, Intern | Audubon, PA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager--Intern_JR106601) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -262,9 +262,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Voyant Photonics** | Internship, Electrical Engineer | New York | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/62546d1a-8b80-4c06-a8b1-ab1264c9b2be/application) |
+| 🏢 **SharkNinja** | Fall 2026: Electrical Engineering Co-op, Ninja (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646302006) |
 | 🏢 **SharkNinja** | Fall 2026: Electrical Engineering Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646309006) |
 | 🏢 **SharkNinja** | Fall 2026: Mechanical Engineering Co-op, Ninja (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646191006) |
-| 🏢 **SharkNinja** | Fall 2026: Mechanical Engineering Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646221006) |
 | 🏢 **Samsara** | Electrical Engineering Co-Op | SF9 | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914) |
 | 🏢 **Contoro Robotics** | Robotics Engineer Intern, Mechanical [Summer/Fall] | Austin, TX | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/contoro/f351dd59-4288-464a-be93-650b8328ee18/application) |
 | 🏢 **Neuralink** | Firmware Engineer Intern, Robotics and Surgery Engineering | Fremont, Californ... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
@@ -293,11 +293,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Voyant Photonics** | Internship, Lidar Test Engineering | New York | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application) |
-| 🏢 **SharkNinja** | Fall 2026: Product Test Engineering Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646862006) |
 | 🏢 **SharkNinja** | Fall 2026: CORE Quality Engineering Co-op (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646903006) |
+| 🏢 **SharkNinja** | Fall 2026: Product Test Engineering Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646862006) |
 | 🏢 **Hermeus** | Subsystem Test Engineering Intern - Summer/Fall 2026 | Atlanta, GA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed/apply) |
-| 🏢 **Hermeus** | Operations and Test Engineering Intern - Fall 2026 | Los Angeles, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b/apply) |
 | 🏢 **Hermeus** | Propulsion Test Engineering Intern - Fall 2026 | Jacksonville, FL | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805/apply) |
+| 🏢 **Hermeus** | Operations and Test Engineering Intern - Fall 2026 | Los Angeles, CA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b/apply) |
 | 🏢 **Bosch Group** | Project Management / Test Engineering Intern | Plymouth, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125209739) |
 | 🏢 **Johnson & Johnson** | Quality Systems and Digital Services Quality Engineer Co-Op - Fall 2026 | Cincinnati, Ohio,... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Systems-and-Digital-Services-Quality-Engineer-Co-Op---Fall-2026_R-071416) |
 | 🏢 **Johnson & Johnson** | Quality Engineer Co-Op - Fall 2026 | Cincinnati, Ohio,... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Engineer-Co-Op---Fall-2026_R-074181) |
@@ -336,7 +336,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern - Master's: Summer 2027 | Ardmore, PA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Systematic Trading Intern | Ardmore, PA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10821/job?mobile=true&needsRedirect=false) |
 | 🏢 **State Street** | Revenue Operations Internship- 6 months - July-Dec | Burlington Massac... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Revenue-Operations-Internship--6-months---July-Dec_R-789608-1) |
-| 🏢 **Unity** | Programmatic Business Operations Intern | New York, NY, USA | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7821802?gh_jid=7821802) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -387,8 +386,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Xometry** | Growth Marketing Intern | Waltham, MA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5008625007) |
 | 🏢 **Xometry** | Digital Marketing Intern | Lexington, KY | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5008654007) |
 | 🏢 **Twilio** | Technical Video Content Intern, Developer Ecosystem | US | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7748961) |
-| 🏢 **SharkNinja** | Fall 2026: Employer Brand Intern (September to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670548006) |
 | 🏢 **SharkNinja** | Fall 2026: Corporate Communications Intern (September to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670565006) |
+| 🏢 **SharkNinja** | Fall 2026: Employer Brand Intern (September to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670548006) |
 | 🏢 **Samba TV** | Marketing Intern | San Francisco, Ca... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/34cf777f-a320-41c4-8a26-9d456121765f/apply) |
 | 🏢 **Cloudflare** | Technical Marketing Intern (Summer 2026) | Austin, TX | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7733496?gh_jid=7733496) |
 | 🏢 **Cloudflare** | Content Marketing Intern (Summer 2026) | Austin, TX | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7733145?gh_jid=7733145) |
@@ -484,9 +483,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Datadog** | IT Support Technician Intern | Boston, Massachus... | 25m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) |
-| 🏢 **Redis** | Web Production & Video Internship (Summer) |  | 46m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/f7127196-71f4-49e4-b226-9f7d9a2bfe79/application) |
-| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 9h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
+| 🏢 **Datadog** | IT Support Technician Intern | Boston, Massachus... | 40m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) |
+| 🏢 **Redis** | Web Production & Video Internship (Summer) |  | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/f7127196-71f4-49e4-b226-9f7d9a2bfe79/application) |
+| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
 | 🏢 **Voyant Photonics** | Business Development Representative Internship | New York | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/5d4f6ba3-69a7-498d-9e4b-b496243138e1/application) |
 | 🏢 **Voyant Photonics** | Technical Program Management Internship (New Grad) | New York | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/7a8eeece-66cb-406d-ab85-0889060703e7/application) |
 | 🏢 **Voyant Photonics** | Operations Program Management Internship (New Grad) | New York | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/d29e8c80-cba3-4cdc-a604-de5736a503a2/application) |
@@ -511,11 +510,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Twilio** | Developer Advocacy Intern | US | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7728956) |
 | 🏢 **Twilio** | Video Producer Intern | US | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7748964) |
 | 🏢 **Truveta** | Agentic AI Software Testing Intern – Intelligence Platform (IPA) | Seattle, WA | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5837714004) |
-| 🏢 **SharkNinja** | Fall 2026: Latin America (LATAM) Marketing Co-op (July to December) | New York, New Yor... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646022006) |
-| 🏢 **SharkNinja** | Fall 2026: Product Development Co-op, Shark (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646448006) |
-| 🏢 **SharkNinja** | Fall 2026: Product Safety & Compliance Engineering Co-op (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647136006) |
-| 🏢 **Scale AI** | AI Deployment Strategist Intern | New York, NY | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) |
+| 🏢 **SharkNinja** | Fall 2026: APAC NPD Commercial Readiness Co-op (July to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646005006) |
+| 🏢 **SharkNinja** | Fall 2026: Consumer Insights Intern (September to December) | Needham, MA, Unit... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006) |
+| 🏢 **SharkNinja** | Fall 2026: Control Systems & Algorithm Engineering Co-op (July to December) | Needham, MA, Unit... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646052006) |
 | 🏢 **Scale AI** | Technical Advisor Specialist (Part-Time Internship) | San Francisco, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) |
+| 🏢 **Scale AI** | AI Deployment Strategist Intern | New York, NY | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scaleai/jobs/4677519005) |
 | 🏢 **Stevens Capital Management** | Developer Internship | Radnor, PA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
 | 🏢 **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | 🏢 **Rubrik** | Sales Development Representative Intern | Austin (TX) | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.rubrik.com/company/careers/departments/job.7555478?gh_jid=7555478) |
@@ -534,8 +533,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **NewsBreak** | AI Development Intern, 2026 | Mountain View, Ca... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4638840006) |
 | 🏢 **NewsBreak** | Engineering High-Potential Launch Program  (3-Month Internship to Full-Time Program) | Mountain View, Ca... | 13h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4621307006) |
 | 🏢 **LG Electronics** | Sales Intern - Best Buy Accounts - Minnesota  (Home Solution) | Bloomington, MN | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5149281008) |
-| 🏢 **LG Electronics** | Financial Planning Intern | Englewood Cliffs, NJ | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5166060008) |
 | 🏢 **LG Electronics** | Marketing Coordinator Intern | Englewood Cliffs, NJ | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5157809008) |
+| 🏢 **LG Electronics** | Financial Planning Intern | Englewood Cliffs, NJ | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5166060008) |
 | 🏢 **WeRide** | 2026 Summer Intern - PhD | San Jose, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply) |
 | 🏢 **WeRide** | 2026 Summer Intern - Vehicle Embedded Engineer (DBW) | San Jose, CA | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply) |
 | 🏢 **Voltus** | Energy Markets Intern (MISO) | Remote | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) |
@@ -639,7 +638,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 578 current opportunities from 166 companies**
+**🎯 576 current opportunities from 165 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
