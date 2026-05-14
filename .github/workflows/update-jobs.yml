@@ -21,10 +21,16 @@ jobs:
       contents: write
 
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v5
+      with:
+        ref: ${{ github.ref_name }}
+        fetch-depth: 1
+        submodules: recursive
+        token: ${{ secrets.GH_PAT }}
+
     - name: Setup pipeline
       uses: ./.github/scripts/shared/actions/setup-pipeline/action.yml
-      with:
-        token: ${{ secrets.GH_PAT }}
 
     - name: Fetch and update jobs
       env:
