@@ -29,8 +29,15 @@ jobs:
         submodules: recursive
         token: ${{ secrets.GH_PAT }}
 
-    - name: Setup pipeline
-      uses: ./.github/scripts/shared/actions/setup-pipeline/action.yml
+    - name: Setup Node.js
+      uses: actions/setup-node@v5
+      with:
+        node-version: '22'
+
+    - name: Install dependencies
+      run: |
+        npm install axios
+        cd .github/scripts/shared && npm install && cd $GITHUB_WORKSPACE/.github/scripts/consumer && npm install
 
     - name: Fetch and update jobs
       env:
@@ -54,10 +61,32 @@ jobs:
         node .github/scripts/write-current-jobs.js
 
     - name: Count-drop alert
-      uses: ./.github/scripts/shared/actions/count-drop-alert/action.yml
-      with:
-        discord-token: ${{ secrets.DISCORD_TEAM_TOKEN }}
-        discord-channel-id: '1477002891234512916'
+      env:
+        DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
+        DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
+        REPO_NAME: New-Grad-Jobs-2026
+      run: |
+        mkdir -p .github/data
+        export CURR_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
+        node -e "
+          const fs = require('fs');
+          const https = require('https');
+          const curr = parseInt(process.env.CURR_COUNT || '0', 10);
+          const lastPath = '.github/data/last_count.json';
+          const prev = fs.existsSync(lastPath) ? JSON.parse(fs.readFileSync(lastPath)).count : null;
+          fs.writeFileSync(lastPath, JSON.stringify({ count: curr, timestamp: new Date().toISOString() }));
+          const isZero = curr === 0;
+          const isDrop = prev !== null && curr < prev * 0.5;
+          if (!isZero && !isDrop) { console.log('Count OK: ' + curr + (prev !== null ? ' (prev: ' + prev + ')' : '')); process.exit(0); }
+          const reason = isZero ? 'Job count hit 0' : 'Job count dropped >' + Math.round((1 - curr/prev)*100) + '% (' + prev + ' → ' + curr + ')';
+          console.warn('ALERT: ' + reason);
+          if (!process.env.DISCORD_TEAM_TOKEN || !process.env.DISCORD_ALERT_CHANNEL_ID) { console.error('Discord secrets not set — alert suppressed'); process.exit(0); }
+          const body = JSON.stringify({ embeds: [{ title: '⚠️ Consumer Count Drop', color: 0xe74c3c, description: '**' + process.env.REPO_NAME + '**: ' + reason, footer: { text: new Date().toISOString() } }] });
+          const req = https.request({ hostname: 'discord.com', path: '/api/v10/channels/' + process.env.DISCORD_ALERT_CHANNEL_ID + '/messages', method: 'POST', headers: { 'Authorization': 'Bot ' + process.env.DISCORD_TEAM_TOKEN, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) } }, res => { console.log('Discord response: ' + res.statusCode); });
+          req.on('error', e => console.error('Discord request failed: ' + e.message));
+          req.setTimeout(5000, () => { req.destroy(); });
+          req.write(body); req.end();
+        "
 
     - name: Display job-fetcher logs (always run)
       if: always()
@@ -65,25 +94,82 @@ jobs:
         echo "Job Fetcher Output (last 100 lines):"
         tail -100 .github/logs/job-fetcher.log || echo "Log file not found"
 
-    - name: Compute commit message
-      id: msg
+    - name: Display public status
       run: |
-        JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
-        echo "msg=Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT positions" >> $GITHUB_OUTPUT
+        echo "Job collection completed"
+        if [ -f "README.md" ]; then
+          JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
+          echo "Total positions: $JOB_COUNT"
+        fi
 
-    - name: Commit and push changes
-      id: push
-      uses: ./.github/scripts/shared/actions/commit-and-push/action.yml
-      with:
-        commit-message: ${{ steps.msg.outputs.msg }}
-        files: 'README.md .github/data/current_jobs.json .github/data/new_jobs.json .github/data/last_count.json .github/data/run_metrics.json .github/logs/'
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        echo "Git status:"
+        git status --porcelain
+        echo ""
+
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Found changes in files"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+
+        commit_and_push() {
+          local max_attempts=5
+          local delay=5
+
+          for attempt in $(seq 1 $max_attempts); do
+            echo "Attempt $attempt of $max_attempts"
+
+            git pull origin ${{ github.ref_name }} --no-edit || {
+              echo "Pull had conflicts, resetting..."
+              git reset --hard HEAD
+            }
+
+            git add README.md .github/data/last_count.json || true
+
+            JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
+
+            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC') | Found $JOB_COUNT positions"
+
+            if ! git commit -m "$COMMIT_MSG"; then
+              echo "Commit failed, may already be committed"
+            fi
+
+            if git push origin ${{ github.ref_name }}; then
+              echo "Successfully pushed changes!"
+              exit 0
+            else
+              echo "Push failed — retrying in ${delay}s..."
+              git reset --soft HEAD~1
+              sleep $delay
+              delay=$((delay * 2))
+            fi
+          done
+
+          echo "Failed to push after $max_attempts attempts"
+          exit 1
+        }
+
+        commit_and_push
 
     - name: Create job summary
       run: |
         echo "## Jobs Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        if [ "${{ steps.push.outputs.changed }}" == "true" ]; then
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
           JOB_COUNT=$(node -e "try{const d=JSON.parse(require('fs').readFileSync('.github/data/current_jobs.json','utf8'));console.log(Array.isArray(d)?d.length:0)}catch(e){console.log(0)}")
+
           echo "Successfully updated new grad job board" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Today's Update:" >> $GITHUB_STEP_SUMMARY

@@ -25,8 +25,15 @@ jobs:
         submodules: true
         token: ${{ secrets.GH_PAT }}
 
-    - name: Setup pipeline
-      uses: ./.github/scripts/shared/actions/setup-pipeline/action.yml
+    - name: Setup Node.js
+      uses: actions/setup-node@v5
+      with:
+        node-version: '22'
+
+    - name: Install dependencies
+      run: |
+        npm install axios
+        cd .github/scripts/shared && npm install && cd $GITHUB_WORKSPACE/.github/scripts/consumer && npm install
 
     - name: Update README from existing data
       env:
@@ -39,18 +46,34 @@ jobs:
     - name: Stash npm changes
       run: git stash push -m "npm changes" package.json package-lock.json || true
 
-    - name: Commit and push changes
-      id: push
-      uses: ./.github/scripts/shared/actions/commit-and-push/action.yml
-      with:
-        commit-message: 'chore: regenerate README from existing job data via update-readme-only workflow'
-        files: 'README.md'
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        echo "📋 Git status:"
+        git status --porcelain
+
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ README.md was modified"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️  No changes detected"
+        fi
+
+    - name: Commit and Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add README.md
+        git commit -m "chore: regenerate README from existing job data via update-readme-only workflow"
+        git push origin ${{ github.ref_name }}
 
     - name: Create job summary
       run: |
         echo "## README Updated!" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        if [ "${{ steps.push.outputs.changed }}" == "true" ]; then
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
           echo "**README.md regenerated**" >> $GITHUB_STEP_SUMMARY
         else
           echo "**No changes to README**" >> $GITHUB_STEP_SUMMARY
