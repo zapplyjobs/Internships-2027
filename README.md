@@ -375,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
+| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
 | 🏢 **Lambda** | Security Engineering Intern - Summer 2026 | San Francisco | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | 🏢 **Cloudflare** | Network Engineering Intern (Summer 2026) | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) |
 | 🏢 **Etched** | Infrastructure Intern | San Jose | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
@@ -669,7 +669,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
+| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
 | 🏢 **Rocket Lawyer** | Content and Social Marketing Intern | Arizona ; Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5189753008) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) |
@@ -801,7 +801,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Schweitzer Engineering Laboratories** | Engineering Intern - Automation | Irvine, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Irvine/Engineering-Intern---Automation_2026-21078) |
 | 🏢 **Schweitzer Engineering Laboratories** | Application Engineering Intern | Dublin, OH | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) |
 | 🏢 **Astranis** | Propulsion Manufacturing Intern (Fall 2026) | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4679102006) |
-| 🏢 **Veolia Environnement SA** | Engineering Intern | Arkadelphia, AR | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126092478) |
+| 🏢 **Veolia Environnement SA** | Engineering Intern | Arkadelphia, AR | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000126092478) |
 | 🏢 **Generac** | Quality Internship (Summer 2026) | Sussex, WI + 4 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Sussex-WI---USA/Quality-Internship--Summer-2026-_JR14105) |
 | 🏢 **Bosch Group** | Electronics Engineering Intern | Fort Lauderdale, FL | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126066306) |
 | 🏢 **TripleRing** | Software Embedded Engineering Intern | Newark, CA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4673135005) |
@@ -968,7 +968,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bosch Group** | Engineering Technician Intern | Plymouth, MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126331461) |
 | 🏢 **TD Bank** | Intern | New York, New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Intern_R_1489428) |
 | 🏢 **MaintainX** | Web Production Intern | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5136549007) |
-| 🏢 **RTX** | Internship – Fall 2026 -  Intern in Engine Dynamics | On, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026----Intern-in-Engine-Dynamics_01844573) |
+| 🏢 **RTX** | Internship – Fall 2026 -  Intern in Engine Dynamics | On, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Fall-2026----Intern-in-Engine-Dynamics_01844573) |
 | 🏢 **AES Corporation** | Learning & Development Intern | US, Arlington, VA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Arlington-VA/Supply-Chain-Learning---Development-Intern_R1063195) |
 | 🏢 **RTX** | Stage - Automne 2026 - Performance / Internship - Fall 2026 - Performance | Qc, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Performance---Internship---Fall-2026---Performance_01844890) |
 | 🏢 **SEL** | Project Management Intern | Pullman | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Management-Intern_2026-21182) |
