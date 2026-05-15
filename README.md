@@ -291,9 +291,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🔷 **Intel** | Circuit Design Engineering Intern | Costa Rica, San Jose | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Circuit-Design-Engineering-Intern_JR0284070) |
-| 🏢 **Lowe's** | Trend & Design - Undergrad Intern - Summer 2026 | Mooresville, NC (... | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Trend---Design---Undergrad-Intern---Summer-2026_JR-02380439) |
+| 🏢 **Lowe's** | Trend & Design - Undergrad Intern - Summer 2026 | Mooresville, NC (... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Trend---Design---Undergrad-Intern---Summer-2026_JR-02380439) |
 | 🏢 **Allegion** | Industrial Design Co-op | Carmel, IN | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36152) |
-| 💾 **Micron** | Intern, Package Design Engineering | Phoenix Aquila, I... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern--Package-Design-Engineering_JR91724) |
+| 💾 **Micron** | Intern, Package Design Engineering | Phoenix Aquila, I... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern--Package-Design-Engineering_JR91724) |
 | 🏢 **Thales** | Product Marketing Intern | Austin, TX | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Austin/Product-Marketing-Intern_R0326496-1) |
 | 🏢 **ID.me** | University 2026 Intern: Product Manager | McLean, VA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003) |
 | 🏢 **Astranis** | Harness Design Engineer Intern (Fall 2026) | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4597559006) |
@@ -489,7 +489,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Moog** | Intern, Quality Engineering | Buffalo, NY | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816) |
+| 🏢 **Moog** | Intern, Quality Engineering | Buffalo, NY | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816) |
 | 🏢 **RTX** | PROYECTO DUAL - Quality Engineer Intern - 1st - On site - Aeroestructuras | Bcn, MX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/PROYECTO-DUAL---Quality-Engineer-Intern---1st---On-site---Aeroestructuras_01842253-1) |
 | 🏢 **Johnson & Johnson** | Quality Engineering Co-Op - Fall 2026 | Danvers, Massachu... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Quality-Engineering-Co-Op---Fall-2026_R-057076) |
 | 🏢 **Astranis** | Environmental Test Engineer Associate (Fall 2026) | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676910006) |
@@ -538,7 +538,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Guidepoint** | Talent Acquisition Intern | New York, New Yor... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8548724002) |
+| 🏢 **Guidepoint** | Talent Acquisition Intern | New York, New Yor... | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/guidepoint/jobs/8548724002) |
 | 🏢 **LG Electronics** | Intern Human Resources HR Payroll - New Jersey Location | Englewood Cliffs, NJ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5188158008) |
 | 🏢 **LG Electronics** | Intern Human Resources HR Compensation - New Jersey Location | Englewood Cliffs, NJ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5188148008) |
 | 🏢 **Alarm.com** | Human Resources Operations Intern | Tysons, Virginia | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8499262002) |
@@ -902,10 +902,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Actian** | Customer Success AI Insights Intern | Remote | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/91a57444-9e3f-4bd9-8c06-4c4c9baa6308/apply) |
 | 🏢 **Actian** | RevOps AI Analyst Intern | Remote | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/48f59212-c512-49e3-be44-1c6f68abf188/apply) |
 | 🏢 **Lowe's** | Business Television - Undergrad Internship - Summer 2026 | Mooresville, NC (... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Business-Television---Undergrad-Internship---Summer-2026_JR-02525761) |
-| 🏢 **Olsson** | Student Internship - Geotechnical | Grand Island, NE;... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5220710008) |
-| 🏢 **Bosch Group** | Manufacturing Engineer Intern/Co-op Fall 2026 | Florence, KY | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126534768) |
+| 🏢 **Olsson** | Student Internship - Geotechnical | Grand Island, NE;... | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5220710008) |
+| 🏢 **Bosch Group** | Manufacturing Engineer Intern/Co-op Fall 2026 | Florence, KY | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126534768) |
 | 🚗 **Magna** | Student Intern - Engineering-1 | Highland Park, Mi... | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) |
-| 💾 **Micron** | Intern, Technology - AMAIS | Phoenix Aquila, I... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern--Technology---AMAIS_JR92708) |
+| 💾 **Micron** | Intern, Technology - AMAIS | Phoenix Aquila, I... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern--Technology---AMAIS_JR92708) |
 | 🏢 **Regal Rexnord** | Lab Co-op | Vandalia, OH | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Lab-Co-Op--Fall-2026-_R26_02156) |
 | 🏢 **Regal Rexnord** | Engineering Co-op | Fort Wayne, IN | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Co-Op--Fall-2026-_R26_02160) |
 | 🏢 **MKS Instruments** | Electrical Compliance Co-op | Rochester, NY | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Rochester-NY/XMLNAME-2026-Summer---Fall-Electrical-Compliance-Co-op_R14780) |
