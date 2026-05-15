@@ -290,7 +290,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🔷 **Intel** | Circuit Design Engineering Intern | Costa Rica, San Jose | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Circuit-Design-Engineering-Intern_JR0284070) |
+| 🔷 **Intel** | Circuit Design Engineering Intern | Costa Rica, San Jose | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Circuit-Design-Engineering-Intern_JR0284070) |
 | 🏢 **Lowe's** | Trend & Design - Undergrad Intern - Summer 2026 | Mooresville, NC (... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Trend---Design---Undergrad-Intern---Summer-2026_JR-02380439) |
 | 🏢 **Allegion** | Industrial Design Co-op | Carmel, IN | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36152) |
 | 💾 **Micron** | Intern, Package Design Engineering | Phoenix Aquila, I... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Intern--Package-Design-Engineering_JR91724) |
@@ -891,7 +891,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Philips** | Intern – Informatics Strategy – Bothell, WA – Summer 2026 | Bothell, Washingt... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Informatics-Strategy---Bothell--WA---Summer-2026_583313) |
+| 🏢 **Philips** | Intern – Informatics Strategy – Bothell, WA – Summer 2026 | Bothell, Washingt... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Informatics-Strategy---Bothell--WA---Summer-2026_583313) |
 | 🏢 **SharkNinja** | Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December) | Needham, MA, Unit... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646013006) |
 | 🏢 **GlobalFoundries** | Maintenance Technician Intern 12, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-12--Associates-Degree--Summer-2026-_JR-2602071) |
 | 🏢 **GlobalFoundries** | Maintenance Technician Intern 11, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-11--Associates-Degree--Summer-2026-_JR-2602065) |
