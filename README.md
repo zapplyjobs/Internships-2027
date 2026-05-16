@@ -981,7 +981,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astranis** | CAD Engineer/Librarian Intern (Fall 2026) | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681155006) |
 | 🏢 **Astranis** | CAD Engineer/Librarian Associate (Fall 2026) | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681154006) |
 | 🏢 **Trane Technologies** | Commercialization Product Support Co-op | Pueblo, CO | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.tranetechnologies.com/global/en/job/JR-4325) |
-| 🏢 **Lucid Software** | Strategic Financial Intern | Salt Lake City, UT | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5983958004) |
+| 🏢 **Lucid Software** | Strategic Financial Intern | Salt Lake City, UT | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5983958004) |
 | 🏢 **Rocket Lawyer** | Legal Intern | Arizona | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5180099008) |
 | 🏢 **Rocket Lawyer** | Web Publishing Intern | Arizona ; Califor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5178003008) |
 | 🏢 **CME Group** | Quant Risk Management Intern | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Quant-Risk-Management-Intern---Year-Round_34278) |
