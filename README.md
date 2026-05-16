@@ -388,7 +388,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Leidos** | AI Infrastructure & Security Intern | 6314 Remote/Telew... | 1w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560) |
 | 🏢 **Copart** | DevOps Engineering Intern | Dallas, TX - Head... | 1w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR108763) |
 | 🏢 **Jabil** | Cloud & Infrastructure Manufacturing Test Developer Intern | Austin, TX | 1w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Cloud---Infrastructure-Manufacturing-Test-Developer-Intern_J2446137) |
-| 🏢 **Tencent** | Site Reliability Engineer Intern | 2 Locations | 4w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine-Co-working/Site-Reliability-Engineer-Intern_R107318) |
+| 🏢 **Tencent** | Site Reliability Engineer Intern | 2 Locations | 1mo |  | [<img src="images/apply.png" width="120" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Irvine-Co-working/Site-Reliability-Engineer-Intern_R107318) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
