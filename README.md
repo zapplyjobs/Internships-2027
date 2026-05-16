@@ -413,7 +413,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
+| 🏢 **Exact Sciences** | Cybersecurity Intern - Co-op Fall 2026 | Madison, WI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Cybersecurity-Intern---Co-op-Fall-2026_R26-12511) |
 | 🏗️ **Honeywell** | Information Systems Intern - IT - Cybersecurity | United States | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/113393) |
 | 🏢 **Leidos** | Cybersecurity Platform Intern | 6314 Remote/Telew... | 2w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999) |
 | 🏢 **Cloudflare** | Legal Intern – Policy & Public Sector (AI & Cybersecurity Focus) (Summer 2026) | Washington, DC | 2w | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151) |
@@ -961,7 +961,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | ⚗️ **Applied Materials** | Process Engineer Intern - AZPI4 | Santa ClaraCA + 1... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Process-Engineer-Intern---AZPI4_R2612467) |
 | 🏢 **Microchip Technology** | Intern- Administrative (Accounting) | Chandler, AZ | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Accounting-_R1964-26) |
 | 🏢 **Leidos** | Capture Management Intern | Reston, VA + 1 more | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Capture-Management-Intern_R-00181735) |
-| 🏢 **Bosch Group** | Payroll Tax Intern | Farmington Hills, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126380889) |
+| 🏢 **Bosch Group** | Payroll Tax Intern | Farmington Hills, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126380889) |
 | 🏢 **Moog** | Intern, Finance | Buffalo, NY | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Finance_R-26-17728) |
 | 🏢 **Moog** | Intern, Manufacturing Engineer | Buffalo, NY | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing-Engineer_R-26-17801) |
 | 🏢 **Cadence (University)** | Product Engineer Intern | AUSTIN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Product-Engineer-Intern_R54702-2) |
