@@ -180,8 +180,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **State Street** | BestX AI Engineer, Full-time Internship (July - Dec 2026) | Quincy, Massachus... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) |
-| 🏢 **Actian** | AI Engineer Intern, Database Performance Knowledge | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310/apply) |
-| 🏢 **Actian** | AI Engineering Intern | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f/apply) |
+| 🏢 **Actian** | AI Engineer Intern, Database Performance Knowledge | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310/apply) |
+| 🏢 **Actian** | AI Engineering Intern | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f/apply) |
 | 🏢 **HERE Technologies** | GIS Data Engineer Intern | Chicago, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-here.icims.com/jobs/81364/job?mobile=true&needsRedirect=false) |
 | 🏢 **HERE Technologies** | GIS Data Engineer Intern | Chicago, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-here.icims.com/jobs/81365/job?mobile=true&needsRedirect=false) |
 | 🏢 **HERE Technologies** | GIS Data Engineer Intern | Chicago, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-here.icims.com/jobs/81366/job?mobile=true&needsRedirect=false) |
@@ -560,8 +560,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Lambda** | Capital Markets & Corporate Development Intern - Summer 2026 | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760/application) |
-| 🏢 **The New York Times** | AI Strategy Intern | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4626649005) |
-| 🏢 **Alo Yoga** | Engineering Intern - ERP Finance Systems | Beverly Hills, Ca... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781860004?gh_jid=5781860004) |
+| 🏢 **The New York Times** | AI Strategy Intern | New York, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4626649005) |
+| 🏢 **Alo Yoga** | Engineering Intern - ERP Finance Systems | Beverly Hills, Ca... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781860004?gh_jid=5781860004) |
 | 🏢 **State Street** | Finance Internship - CRD- 6 Month July-Dec | Burlington Massac... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Finance-Internship---CRD--6-Month-July-Dec_R-783113) |
 | 🏢 **Varda Space** | Mission Operations Intern | El Segundo, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) |
 | 🏢 **Gelber Group** | Technical Operations Intern | Chicago, IL | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006) |
@@ -592,8 +592,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **XPENG Motors** | AI Intern – Scenario Analysis | Santa Clara, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002) |
-| 🏢 **XPENG Motors** | AI Intern – VLA Deployment | Santa Clara, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
+| 🏢 **XPENG Motors** | AI Intern – Scenario Analysis | Santa Clara, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002) |
+| 🏢 **XPENG Motors** | AI Intern – VLA Deployment | Santa Clara, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
 | 🏢 **KION Group** | AI Intern | Grand Rapids, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1) |
 | 🏢 **Rambus** | Data & AI Intern | San Jose, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job) |
 | 🏢 **Fortinet** | AI Intern | Sunnyvale, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) |
@@ -783,10 +783,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Alo Yoga** | Digital Engineering Intern | Beverly Hills, Ca... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781938004?gh_jid=5781938004) |
-| 🏢 **Alo Yoga** | Digital Engineering Intern | San Ramon, Califo... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5783146004?gh_jid=5783146004) |
-| 🏢 **Alo Yoga** | Engineering Intern - Business Technology Operations (Foundational PIM) | Beverly Hills, Ca... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781907004?gh_jid=5781907004) |
-| 🏢 **Actian** | Engineering Intern,  Pipeline Observability and Lineage | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/dc54b4ff-b83c-48c8-9d9c-169d3d251ef6/apply) |
+| 🏢 **Alo Yoga** | Digital Engineering Intern | Beverly Hills, Ca... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781938004?gh_jid=5781938004) |
+| 🏢 **Alo Yoga** | Digital Engineering Intern | San Ramon, Califo... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5783146004?gh_jid=5783146004) |
+| 🏢 **Alo Yoga** | Engineering Intern - Business Technology Operations (Foundational PIM) | Beverly Hills, Ca... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781907004?gh_jid=5781907004) |
+| 🏢 **Actian** | Engineering Intern,  Pipeline Observability and Lineage | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/dc54b4ff-b83c-48c8-9d9c-169d3d251ef6/apply) |
 | 🏢 **Daimler Truck** | Powertrain Software Validation Intern | Portland, OR | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Portland-OR-US/Powertrain-Software-Validation-Intern_DT-15545) |
 | 🏢 **Teledyne** | Engineering Intern | Newark, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Newark-CA/Engineering-Intern_REQ33479) |
 | 🏢 **Teledyne** | Computer Engineering Intern | Lincoln, NE | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) |
@@ -893,15 +893,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Philips** | Intern – Informatics Strategy – Bothell, WA – Summer 2026 | Bothell, Washingt... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Informatics-Strategy---Bothell--WA---Summer-2026_583313) |
 | 🏢 **SharkNinja** | Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December) | Needham, MA, Unit... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646013006) |
-| 🏢 **GlobalFoundries** | Maintenance Technician Intern 12, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-12--Associates-Degree--Summer-2026-_JR-2602071) |
-| 🏢 **GlobalFoundries** | Maintenance Technician Intern 11, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-11--Associates-Degree--Summer-2026-_JR-2602065) |
-| 🏢 **Alo Yoga** | TechOps Intern | Beverly Hills, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781898004?gh_jid=5781898004) |
-| 🏢 **Alo Yoga** | Marketing Planning Intern | Beverly Hills, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781962004?gh_jid=5781962004) |
-| 🏢 **Alo Yoga** | Digital Intern - Customer Service | Beverly Hills, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5783550004?gh_jid=5783550004) |
-| 🏢 **Actian** | AI Productivity Customer Success Intern | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/15fb20a4-212c-43fe-806c-fa03a65374e1/apply) |
-| 🏢 **Actian** | Customer Success AI Insights Intern | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/91a57444-9e3f-4bd9-8c06-4c4c9baa6308/apply) |
-| 🏢 **Actian** | RevOps AI Analyst Intern | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/48f59212-c512-49e3-be44-1c6f68abf188/apply) |
-| 🏢 **Lowe's** | Business Television - Undergrad Internship - Summer 2026 | Mooresville, NC (... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Business-Television---Undergrad-Internship---Summer-2026_JR-02525761) |
+| 🏢 **GlobalFoundries** | Maintenance Technician Intern 12, Associates Degree (Summer 2026) | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-12--Associates-Degree--Summer-2026-_JR-2602071) |
+| 🏢 **GlobalFoundries** | Maintenance Technician Intern 11, Associates Degree (Summer 2026) | New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-11--Associates-Degree--Summer-2026-_JR-2602065) |
+| 🏢 **Alo Yoga** | TechOps Intern | Beverly Hills, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781898004?gh_jid=5781898004) |
+| 🏢 **Alo Yoga** | Marketing Planning Intern | Beverly Hills, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781962004?gh_jid=5781962004) |
+| 🏢 **Alo Yoga** | Digital Intern - Customer Service | Beverly Hills, Ca... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5783550004?gh_jid=5783550004) |
+| 🏢 **Actian** | AI Productivity Customer Success Intern | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/15fb20a4-212c-43fe-806c-fa03a65374e1/apply) |
+| 🏢 **Actian** | Customer Success AI Insights Intern | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/91a57444-9e3f-4bd9-8c06-4c4c9baa6308/apply) |
+| 🏢 **Actian** | RevOps AI Analyst Intern | Remote | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/48f59212-c512-49e3-be44-1c6f68abf188/apply) |
+| 🏢 **Lowe's** | Business Television - Undergrad Internship - Summer 2026 | Mooresville, NC (... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Business-Television---Undergrad-Internship---Summer-2026_JR-02525761) |
 | 🏢 **Olsson** | Student Internship - Geotechnical | Grand Island, NE;... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5220710008) |
 | 🏢 **Bosch Group** | Manufacturing Engineer Intern/Co-op Fall 2026 | Florence, KY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126534768) |
 | 🚗 **Magna** | Student Intern - Engineering-1 | Highland Park, Mi... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Highland-Park-Michigan-US/Student-Intern---Engineering-1_R00240865) |
@@ -964,7 +964,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bosch Group** | Payroll Tax Intern | Farmington Hills, MI | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126380889) |
 | 🏢 **Moog** | Intern, Finance | Buffalo, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Finance_R-26-17728) |
 | 🏢 **Moog** | Intern, Manufacturing Engineer | Buffalo, NY | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Manufacturing-Engineer_R-26-17801) |
-| 🏢 **Cadence (University)** | Product Engineer Intern | AUSTIN | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Product-Engineer-Intern_R54702-2) |
+| 🏢 **Cadence (University)** | Product Engineer Intern | AUSTIN | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Product-Engineer-Intern_R54702-2) |
 | 🏢 **Bosch Group** | Engineering Technician Intern | Plymouth, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126331461) |
 | 🏢 **TD Bank** | Intern | New York, New York | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Intern_R_1489428) |
 | 🏢 **MaintainX** | Web Production Intern | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/maintainx/jobs/5136549007) |
