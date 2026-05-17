@@ -1,7 +1,7 @@
 {
   "software_engineering": {
     "title": "Software Engineering",
-    "emoji": "\ud83d\udcbb",
+    "emoji": "💻",
     "keywords": [
       "software engineer",
       "software engineering",
@@ -15,16 +15,65 @@
       "frontend developer",
       "full stack engineer",
       "fullstack engineer",
+      "full stack",
+      "fullstack",
+      "frontend",
+      "front-end",
+      "front end",
       "web developer",
+      "react developer",
+      "angular developer",
+      "vue developer",
+      "web application developer",
+      "javascript developer",
+      "typescript developer",
       "application developer",
-      "systems engineer",
+      "devops",
+      "devops engineer",
+      "sre",
+      "site reliability engineer",
+      "site reliability",
+      "infrastructure engineer",
+      "cloud engineer",
       "platform engineer",
-      "cloud engineer"
+      "systems administrator",
+      "sysadmin",
+      "network engineer",
+      "it engineer",
+      "solutions architect",
+      "qa engineer",
+      "quality assurance",
+      "quality engineer",
+      "test engineer",
+      "automation engineer",
+      "software tester",
+      "manual tester",
+      "quality analyst",
+      "test automation engineer",
+      "security engineer",
+      "cybersecurity",
+      "information security",
+      "security analyst",
+      "penetration tester",
+      "security architect",
+      "information security analyst",
+      "security consultant",
+      "network security",
+      "application security",
+      "ios developer",
+      "android developer",
+      "mobile developer",
+      "react native developer",
+      "flutter developer",
+      "mobile application developer",
+      "swift developer",
+      "kotlin developer",
+      "systems engineer"
     ]
   },
-  "data_science_analytics": {
-    "title": "Data Science & Analytics",
-    "emoji": "\ud83d\udcca",
+  "data_science_ai": {
+    "title": "Data Science & AI",
+    "emoji": "📊",
     "keywords": [
       "data science",
       "data scientist",
@@ -37,12 +86,50 @@
       "machine learning engineer",
       "ai engineer",
       "business intelligence",
-      "bi analyst"
+      "bi analyst",
+      "ai intern",
+      "ml intern",
+      "machine learning intern",
+      "machine learning internship",
+      "artificial intelligence intern",
+      "applied ai intern",
+      "ai research intern",
+      "llm intern",
+      "generative ai",
+      "ai/ml associate",
+      "ml research",
+      "deep learning intern"
     ]
   },
-  "product_design": {
-    "title": "Product & Design",
-    "emoji": "\ud83c\udfa8",
+  "hardware_engineering": {
+    "title": "Hardware & Engineering",
+    "emoji": "⚙️",
+    "keywords": [
+      "hardware engineer",
+      "embedded systems engineer",
+      "firmware engineer",
+      "electrical engineer",
+      "fpga engineer",
+      "chip design",
+      "vlsi engineer",
+      "robotics engineer",
+      "mechanical engineer",
+      "hardware design engineer",
+      "engineering intern",
+      "mechanical intern",
+      "electrical intern",
+      "aerospace intern",
+      "chemical intern",
+      "manufacturing intern",
+      "automation intern",
+      "quality intern",
+      "validation intern",
+      "power engineer intern"
+    ]
+  },
+  "product_design_research": {
+    "title": "Product, Design & Research",
+    "emoji": "🔬",
     "keywords": [
       "product manager",
       "product owner",
@@ -56,129 +143,20 @@
       "product analyst",
       "technical product manager",
       "senior product manager",
-      "associate product manager"
+      "associate product manager",
+      "research intern",
+      "research scientist",
+      "research assistant",
+      "research engineer",
+      "scientist intern",
+      "phd intern",
+      "computational intern",
+      "lab intern"
     ]
   },
-  "devops_infrastructure": {
-    "title": "DevOps & Infrastructure",
-    "emoji": "\ud83d\udd27",
-    "keywords": [
-      "devops",
-      "devops engineer",
-      "sre",
-      "site reliability engineer",
-      "site reliability",
-      "infrastructure",
-      "infrastructure engineer",
-      "cloud engineer",
-      "platform engineer",
-      "systems administrator",
-      "sysadmin",
-      "network engineer",
-      "security engineer",
-      "it engineer",
-      "solutions architect"
-    ]
-  },
-  "full_stack_frontend": {
-    "title": "Full Stack & Frontend",
-    "emoji": "\ud83c\udf10",
-    "keywords": [
-      "full stack",
-      "fullstack",
-      "frontend",
-      "front-end",
-      "front end",
-      "web developer",
-      "react developer",
-      "angular developer",
-      "vue developer",
-      "web application developer",
-      "ui engineer",
-      "javascript developer",
-      "typescript developer"
-    ]
-  },
-  "cybersecurity": {
-    "title": "Cybersecurity",
-    "emoji": "\ud83d\udd12",
-    "keywords": [
-      "security engineer",
-      "cybersecurity",
-      "information security",
-      "security analyst",
-      "penetration tester",
-      "security architect",
-      "information security analyst",
-      "security consultant",
-      "network security",
-      "application security"
-    ]
-  },
-  "hardware_engineering": {
-    "title": "Hardware Engineering",
-    "emoji": "\u2699\ufe0f",
-    "keywords": [
-      "hardware engineer",
-      "embedded systems engineer",
-      "firmware engineer",
-      "electrical engineer",
-      "fpga engineer",
-      "chip design",
-      "vlsi engineer",
-      "robotics engineer",
-      "mechanical engineer",
-      "hardware design engineer"
-    ]
-  },
-  "qa_testing": {
-    "title": "QA & Testing",
-    "emoji": "\ud83e\uddea",
-    "keywords": [
-      "qa engineer",
-      "quality assurance",
-      "quality engineer",
-      "test engineer",
-      "automation engineer",
-      "software tester",
-      "manual tester",
-      "quality analyst",
-      "test automation engineer"
-    ]
-  },
-  "mobile_development": {
-    "title": "Mobile Development",
-    "emoji": "\ud83d\udcf1",
-    "keywords": [
-      "ios developer",
-      "android developer",
-      "mobile developer",
-      "react native developer",
-      "flutter developer",
-      "mobile application developer",
-      "swift developer",
-      "kotlin developer"
-    ]
-  },
-  "human_resources": {
-    "title": "Human Resources",
-    "emoji": "\ud83d\udc65",
-    "keywords": [
-      "hr coordinator",
-      "hr intern",
-      "human resources",
-      "hr assistant",
-      "people coordinator",
-      "talent coordinator",
-      "hr generalist",
-      "recruiting coordinator",
-      "talent acquisition",
-      "hr specialist"
-    ]
-  },
-  "business_finance_strategy": {
-    "title": "Business, Finance & Strategy",
-    "emoji": "\ud83d\udcbc",
+  "business_operations": {
+    "title": "Business & Operations",
+    "emoji": "💼",
     "keywords": [
       "finance intern",
       "accounting intern",
@@ -197,31 +175,7 @@
       "finance/accounting",
       "erp finance",
       "global trade compliance",
-      "program manager intern"
-    ]
-  },
-  "ai_ml_internship": {
-    "title": "AI / ML Internship",
-    "emoji": "\ud83e\udd16",
-    "keywords": [
-      "ai intern",
-      "ml intern",
-      "machine learning intern",
-      "machine learning internship",
-      "artificial intelligence intern",
-      "applied ai intern",
-      "ai research intern",
-      "llm intern",
-      "generative ai",
-      "ai/ml associate",
-      "ml research",
-      "deep learning intern"
-    ]
-  },
-  "supply_chain_operations": {
-    "title": "Supply Chain & Operations",
-    "emoji": "\ud83d\udce6",
-    "keywords": [
+      "program manager intern",
       "supply chain intern",
       "supply chain",
       "logistics intern",
@@ -231,13 +185,7 @@
       "materials intern",
       "inventory intern",
       "warehouse intern",
-      "fulfillment intern"
-    ]
-  },
-  "marketing_communications_intern": {
-    "title": "Marketing & Communications",
-    "emoji": "\ud83d\udce3",
-    "keywords": [
+      "fulfillment intern",
       "marketing intern",
       "communications intern",
       "brand intern",
@@ -247,42 +195,22 @@
       "social media intern",
       "digital marketing intern",
       "growth marketing",
-      "product marketing intern"
-    ]
-  },
-  "research_science": {
-    "title": "Research & Science",
-    "emoji": "\ud83d\udd2c",
-    "keywords": [
-      "research intern",
-      "research scientist",
-      "research assistant",
-      "research engineer",
-      "scientist intern",
-      "phd intern",
-      "computational intern",
-      "lab intern"
-    ]
-  },
-  "general_engineering": {
-    "title": "General Engineering",
-    "emoji": "\ud83d\udee0\ufe0f",
-    "keywords": [
-      "engineering intern",
-      "mechanical intern",
-      "electrical intern",
-      "aerospace intern",
-      "chemical intern",
-      "manufacturing intern",
-      "automation intern",
-      "quality intern",
-      "validation intern",
-      "power engineer intern"
+      "product marketing intern",
+      "hr coordinator",
+      "hr intern",
+      "human resources",
+      "hr assistant",
+      "people coordinator",
+      "talent coordinator",
+      "hr generalist",
+      "recruiting coordinator",
+      "talent acquisition",
+      "hr specialist"
     ]
   },
   "other_internships": {
     "title": "Other Internships",
-    "emoji": "\ud83d\udcc2",
+    "emoji": "📂",
     "keywords": [
       "intern",
       "co-op",
