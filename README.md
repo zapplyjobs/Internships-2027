@@ -300,7 +300,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Astranis** | Reliability Design Intern (Summer 2026) | San Francisco | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681471006) |
 | 🏢 **RTX** | Internship - Fall 2026 - Mechanical Design – Support to operations | On, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Stage---Automne-2026---Conception-mcanique---Support-aux-oprations---Internship---Fall-2026---Mechanical-Design---Support-to-operations_01838373) |
 | 🏢 **RTX** | Design Engineer Intern - 1st -On site - Aeroestructuras | Bcn, MX | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Design-Engineer-Intern---1st--On-site---Aeroestructuras_01842609) |
-| 🏢 **Ciena** | Hardware Design Engineer Intern (Fall 2026) | Atlanta | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Fall-2026-_R030874) |
+| 🏢 **Ciena** | Hardware Design Engineer Intern (Fall 2026) | Atlanta | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Hardware-Design-Engineer-Intern--Fall-2026-_R030874) |
 | 🏢 **Oshkosh Corporation** | Design Intern - Summer 2026 | Huntersville, Nor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Design-Intern---Summer-2026_R46608) |
 | 🏢 **Verkada** | Product Design Mechanical Engineer (Fall Co-op) | San Mateo, CA Uni... | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4288830007) |
 | 🏢 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | US | 5d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7835625) |
@@ -375,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
+| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
 | 🏢 **Lambda** | Security Engineering Intern - Summer 2026 | San Francisco | 3d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | 🏢 **Cloudflare** | Network Engineering Intern (Summer 2026) | Austin, TX | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) |
 | 🏢 **Etched** | Infrastructure Intern | San Jose | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
@@ -669,7 +669,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
+| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
 | 🏢 **Rocket Lawyer** | Content and Social Marketing Intern | Arizona ; Califor... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5189753008) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) |
