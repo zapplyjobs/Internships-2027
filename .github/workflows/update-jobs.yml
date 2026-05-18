@@ -88,6 +88,37 @@ jobs:
           req.write(body); req.end();
         "
 
+    - name: Data staleness check
+      env:
+        DISCORD_TEAM_TOKEN: ${{ secrets.DISCORD_TEAM_TOKEN }}
+        DISCORD_ALERT_CHANNEL_ID: "1477002891234512916"
+        REPO_NAME: ${{ github.event.repository.name }}
+      run: |
+        STALE_THRESHOLD_HOURS=24
+        node -e "
+          const fs = require('fs');
+          const https = require('https');
+          const path = '.github/data/current_jobs.json';
+          if (!fs.existsSync(path)) { console.log('No current_jobs.json — skipping staleness check'); process.exit(0); }
+          const jobs = JSON.parse(fs.readFileSync(path, 'utf8'));
+          if (!Array.isArray(jobs) || jobs.length === 0) { console.log('Empty jobs — skipping staleness check'); process.exit(0); }
+          const postedDates = jobs.map(j => new Date(j.posted_at)).filter(d => !isNaN(d));
+          if (postedDates.length === 0) { console.log('No valid posted_at — skipping'); process.exit(0); }
+          const newest = new Date(Math.max(...postedDates));
+          const ageMs = Date.now() - newest.getTime();
+          const ageHours = ageMs / (1000 * 60 * 60);
+          const threshold = parseInt(process.env.STALE_THRESHOLD_HOURS || '24', 10);
+          console.log('Newest posted_at: ' + newest.toISOString() + ' (' + ageHours.toFixed(1) + 'h ago)');
+          if (ageHours <= threshold) { console.log('Data freshness OK'); process.exit(0); }
+          console.warn('ALERT: Newest job is ' + ageHours.toFixed(1) + 'h old (threshold: ' + threshold + 'h)');
+          if (!process.env.DISCORD_TEAM_TOKEN || !process.env.DISCORD_ALERT_CHANNEL_ID) { console.error('Discord secrets not set — alert suppressed'); process.exit(0); }
+          const body = JSON.stringify({ embeds: [{ title: '⚠️ Stale Data Warning', color: 0xf39c12, description: '**' + process.env.REPO_NAME + '**: Newest job is ' + ageHours.toFixed(1) + 'h old (threshold: ' + threshold + 'h).\\nData source may be interrupted.', footer: { text: new Date().toISOString() } }] });
+          const req = https.request({ hostname: 'discord.com', path: '/api/v10/channels/' + process.env.DISCORD_ALERT_CHANNEL_ID + '/messages', method: 'POST', headers: { 'Authorization': 'Bot ' + process.env.DISCORD_TEAM_TOKEN, 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) } }, res => { console.log('Discord response: ' + res.statusCode); });
+          req.on('error', e => console.error('Discord request failed: ' + e.message));
+          req.setTimeout(5000, () => { req.destroy(); });
+          req.write(body); req.end();
+        "
+
     - name: Display job-fetcher logs (always run)
       if: always()
       run: |
