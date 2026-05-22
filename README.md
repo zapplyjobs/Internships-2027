@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1806-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1803-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-295-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -144,8 +144,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Berkshire Hathaway Energy** | Software Engineer 1 Intern | Des Moines, IA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645) |
 | **CACI** | Software Engineer Intern - Summer 2026 | Fort Belvoir, VA, US | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Fort-Belvoir-VA-US/Software-Engineer-Intern---Summer-2026_326848) |
 | **CAE** | DNI Software Engineering Co-op | Tampa | 13h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cae.wd3.myworkdayjobs.com/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1) |
-| **Rocket Lab** | Software Intern Fall 2026 | Albuquerque, NM | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
-| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
+| **Rocket Lab** | Software Intern Fall 2026 | Albuquerque, NM | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
+| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | **XPENG Motors** | Agentic Infrastructure Engineer Intern | Santa Clara, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8559314002) |
 | **Nokia** | Software Development Co-op | Naperville, IL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36548) |
 | **Amentum** | Intern - Nuclear Materials Test Engineer | Huntsville, AL | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Intern---Nuclear-Materials-Test-Engineer_R0161674) |
@@ -256,7 +256,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FOX** | Fall 2026 FOX News Media Internship P... | New York, New Yor... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1) |
 | **Marmon Holdings** | Data Engineering Intern Co-op | Milwaukee, WI | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) |
 | **Centific** | Data Analyst Intern | Redmond, WA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Summer-Intern-2_JR107169-1) |
-| **PlusAI** | Machine Learning Engineer Intern | Santa Clara, CA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply) |
 | **State Street** | BestX AI Engineer, Full-time Internsh... | Quincy, Massachus... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) |
 | **Mercedes-Benz R&D North America** | ADAS Data Analytics Intern | San Jose, CA | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/MBRDNA/e801fdb7-7c75-4378-bff6-b3f197489262/apply) |
 | **Bosch Group** | Supply Chain Data & Analytics Intern ... | Plymouth, MI | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000126390414) |
@@ -279,6 +278,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sandisk** | Agentic AI Intern – Consumer Summer 2... | Milpitas, CA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000124692433) |
 | **RTX** | Stage - Automne - Stagiaire en soutie... | Qc, CA | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-soutien-numrique-et-intelligence-d-affaires---Internship---Fall---Digital-Support---Business-Intelligence-Intern_01838477) |
 | **Leidos** | AI Data Science Intern | Orlando, FL | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00182332) |
+| **Expedia Group** | Data Science, Analytics Intern - 2026... | Seattle | 2w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Data-Science--Analytics-Intern---2026---Seattle_R-98638) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -746,7 +746,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1806 current opportunities from 295 companies**
+**🎯 1803 current opportunities from 295 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
