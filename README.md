@@ -148,8 +148,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | 2026 Fall Quality Engineer Co-op / QM... | Charleston, SC | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000127750488) |
 | **Apple** | Software Engineering Masters Internships | United States | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) |
 | **RTX** | 2026 Raytheon Intern - Software Engin... | Westford, MA | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-5/XMLNAME-2026-Raytheon-Intern---Software-Engineering---Westford--MA--Onsite-_01846038) |
-| **Rocket Lab** | Software Intern Fall 2026 | Albuquerque, NM | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
-| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
+| **Rocket Lab** | Software Intern Fall 2026 | Albuquerque, NM | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7736776003) |
+| **Rocket Lab** | Systems Engineering Intern Fall 2026 | Long Beach, CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7725384003) |
 | **Leidos** | Software Engineer Intern | Chantilly, VA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707) |
 | **Leidos** | Software Engineer Intern | Chantilly, VA | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721) |
 | **Amentum** | Summer 2026 Intern – Model-Based Syst... | Houston, TX | 5d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Summer-2026-Intern---Model-Based-Systems-Engineering---Digital-Systems-Engineering_R0160375-1) |
@@ -579,7 +579,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Tencent** | Game Operations Intern | Los Angeles | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Operations-Intern_R107348) |
 | **Logitech** | Marketing Intern | San Jose, Califor... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Marketing-Intern_145591) |
 | **Curtiss-Wright** | Purchasing/Supply Chain Internship (3... | Aston, PA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Purchasing-Supply-Chain-Internship--3-months-_JR11538-1) |
-| **Bosch Group** | Logistics/Supply Chain Intern | Grand Rapids, MI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000117340262) |
+| **Bosch Group** | Logistics/Supply Chain Intern | Grand Rapids, MI | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000117340262) |
 | **Smiths Group** | Human Resources Learning and Developm... | Edgewood, MD | 2mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000113584127) |
 
 <p align="center">Apply for more jobs at</p>
