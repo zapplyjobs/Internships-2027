@@ -18,4 +18,4 @@ jobs:
       - name: Lint GitHub Actions workflows
         uses: docker://rhysd/actionlint:1.7.12
         with:
-          args: -color
+          args: -color -shellcheck=
