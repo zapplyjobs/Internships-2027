@@ -18,8 +18,8 @@
 <div align="center">
 
 ![Total Internships](https://img.shields.io/badge/Total_Internships-1274-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-649-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-298-blue?style=flat&logo=building)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-649-purple?style=flat&logo=tag)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
