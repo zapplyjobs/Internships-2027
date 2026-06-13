@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1190-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-601-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-273-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1199-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-603-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-275-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -69,9 +69,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Hunt Oil Company** | SAP BTP Application Developer Intern ... | Dallas, TX | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) |
-| **Hunt Oil Company** | Software Engineer Intern - Summer 2026 | Dallas, TX | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) |
-| **ACI Worldwide** | Software Engineering Intern | Norcross, GA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18699) |
 | **ACI Worldwide** | Intern Software Engineering | Omaha, NE | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18763) |
 | **Gelber Group** | Software Engineering Intern - Backoff... | Chicago, IL | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelbergroup/jobs/4657272006) |
 | **Gelber Group** | Software Engineer Intern - Technical ... | Chicago, IL | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelbergroup/jobs/4652887006) |
@@ -88,7 +85,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BAE Systems** | Software Engineering Intern III, Summ... | Nashua, NH | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) |
 | **BAE Systems** | Software Engineering Intern II, Summe... | Nashua, NH | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) |
 | **Tessera Labs** | Software Engineering Intern, Frontend | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) |
-| **Ultra Intelligence & Communications** | Software Engineer Intern | Austin, TX, Unite... | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111-1) |
+| **Hunt Oil Company** | SAP BTP Application Developer Intern ... | Dallas, TX | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/886) |
+| **Hunt Oil Company** | Software Engineer Intern - Summer 2026 | Dallas, TX | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891) |
+| **ACI Worldwide** | Software Engineering Intern | Norcross, GA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18699) |
+| **Ultra Intelligence & Communications** | Software Engineer Intern | Austin, TX, Unite... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111-1) |
 | **Magna** | Intern - Systems Engineering | Southfield, Michi... | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413) |
 | **Lila Sciences** | Co-Op, Lab IT/OT Security Engineer | Cambridge, MA USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4279721009) |
 | **Leidos** | Software Developer Intern | Annapolis Junctio... | 2d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1) |
@@ -180,7 +180,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **W.R. Berkley** | Business and Data Analyst Intern | Farmington, CT | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) |
+| **Schweitzer Engineering Laboratories** | Data Analyst Intern | Moscow | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Data-Analyst-Intern_2026-21381) |
 | **Northwestern Mutual** | Analytics Intern | Milwaukee, WI | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/85751677) |
 | **TripleRing** | Data Scientist Intern | Boston, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.tripleringtech.com/careers?gh_jid=4680998005) |
 | **Cotiviti** | Generative AI/Agentic AI/Research Intern | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) |
@@ -199,12 +199,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JM Family** | Business Data Engineer Intern | Deerfield Beach, FL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Business-Data-Engineer-Intern_JR104161) |
 | **JM Family** | Fixed Operations Data Analyst Intern | Deerfield Beach, FL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Operations-Data-Analyst-Intern_JR104254) |
 | **Paccar** | Data Analyst Intern Fall 2026 | Columbus, MS | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.paccar.com/job/Columbus-Data-Analyst-Intern-Fall-2026-MS-39701/1283451401/?ats=successfactors) |
-| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185348) |
-| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185350) |
+| **W.R. Berkley** | Business and Data Analyst Intern | Farmington, CT | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-berkley.icims.com/jobs/13507/job?mobile=true&needsRedirect=false) |
+| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185348) |
+| **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185350) |
 | **Campbell Soup Company** | Business Analyst (Co-op), DA&AI | Remote | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915) |
 | **Campbell Soup Company** | Data Engineer, DA&AI Co-Op | NJ | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) |
 | **Campbell Soup Company** | Data Engineer - Operational Support (... | NJ | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842) |
-| **Institute for Foundation Models** | AI Research Internship - WM | Sunnyvale, CA | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) |
+| **Institute for Foundation Models** | AI Research Internship - WM | Sunnyvale, CA | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678/apply) |
 | **Microsoft** | Applied Science: PhD Microsoft AI Int... | Redmond, Washingt... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556868271) |
 | **Crane Co.** | Business Analyst Co-Op | Piqua, Ohio | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Business-Analyst-Co-Op_JR101892) |
 | **1Password** | Data Intern, Enterprise Analytics - F... | Remote (United St... | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application) |
@@ -265,13 +266,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Gelber Group** | Backoffice Engineering Intern | Chicago, IL | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelberhandshake/jobs/4657274006) |
+| **Schweitzer Engineering Laboratories** | Application Engineering Intern | Lewis | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Ohio---Lewis-Center/Application-Engineering-Intern_2026-20357) |
+| **Schweitzer Engineering Laboratories** | Engineering Intern | Boise | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Engineering-Intern_2026-21614) |
+| **Schweitzer Engineering Laboratories** | Engineering Intern - Automation | Phoenix | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808) |
 | **Pennsylvania State University** | Research Engineering Interns Intern | State College, PA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000071407-1) |
 | **Teledyne** | Computer Engineering Intern | Lincoln, NE | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119) |
-| **NREL** | Undergraduate Intern – Mechanical Eng... | Golden, CO | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Intern---Mechanical-Engineering-Automation-and-Controls_R14358-1) |
-| **Schweitzer Engineering Laboratories** | Engineering Intern | Boise | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Engineering-Intern_2026-21614) |
-| **Schweitzer Engineering Laboratories** | Engineering Intern - Automation | Phoenix | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808) |
-| **Schweitzer Engineering Laboratories** | Engineering Intern | Houston | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-20169) |
+| **Gelber Group** | Backoffice Engineering Intern | Chicago, IL | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelberhandshake/jobs/4657274006) |
+| **NREL** | Undergraduate Intern – Mechanical Eng... | Golden, CO | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-Intern---Mechanical-Engineering-Automation-and-Controls_R14358-1) |
 | **Lila Sciences** | Co-op, Mechanical Engineer | Cambridge, MA USA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | **WSP** | Electrical Engineering Intern - Fall ... | Troy, NY, United ... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/89061) |
 | **Zipline** | Supplier Industrialization Engineerin... | South San Francis... | 1d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7766424003#open-roles) |
@@ -295,7 +296,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Generac** | Intern Firmware Engineer | South Portland, M... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/South-Portland-ME---USA/Intern-Firmware-Engineer_JR14698) |
 | **Generac** | Mechanical Design Engineering Intern | North Billerica, ... | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679) |
 | **Cadence** | Application Engineering Intern | CAMBRIDGE | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/CAMBRIDGE/Application-Engineering-Intern_R55054) |
-| **Generac** | Intern- Electrical Engineering | Waukesha, WI - USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Intern--Electrical-Engineering_JR14592) |
+| **Generac** | Intern- Electrical Engineering | Waukesha, WI - USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Intern--Electrical-Engineering_JR14592) |
 | **Bosch Group** | Industrial Engineering Intern | Fort Lauderdale, FL | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000129558149) |
 | **Nidec** | manufacturing engineering intern | North America/USA... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaMankato-MN/manufacturing-engineering-intern_R0016035) |
 | **Nidec** | Electrical Engineer Intern | North America/USA... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984) |
@@ -376,7 +377,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Citadel Securities** | Quantitative Researcher Engineer – Ph... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) |
+| **Zoom** | Product Manager Intern | Seattle | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Product-Manager-Intern_R19253-2) |
+| **Schweitzer Engineering Laboratories** | Research Intern - Business Development | Pullman | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Research-Intern---Business-Development_2026-19576-1) |
 | **Hunt Oil Company** | Technology Research Intern - Summer 2026 | Dallas, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897) |
 | **Meta** | Research Scientist Intern - Applied P... | Redmond, WA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/25766888559672059) |
 | **Meta** | Research Scientist Intern PhD - Appli... | Menlo Park, CA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.metacareers.com/jobs/2633206137040139) |
@@ -388,7 +390,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Pennsylvania State University** | Research Assistant Intern | State College, PA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistant_REQ_0000078150-1) |
 | **Peraton** | Research Intern | Reston, VA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-peraton.icims.com/jobs/167241/job?mobile=true&needsRedirect=false) |
 | **ID.me** | University 2026 Intern: Product Manager | McLean, VA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003) |
-| **Zoom** | Product Manager Intern | Seattle | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/Product-Manager-Intern_R19253-2) |
+| **Citadel Securities** | Quantitative Researcher Engineer – Ph... | United States | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.citadelsecurities.com/careers/details/quantitative-researcher-engineer-phd-intern-europe/) |
 | **Eulerity** | Product Marketing Intern | New York, NY | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4689231006) |
 | **Together AI** | Systems Research Engineer Intern - GP... | San Francisco | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) |
 | **Together AI** | Research Intern, Inference (Fall 2026) | San Francisco | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) |
@@ -424,6 +426,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **FOX** | Fall 2026 FOX News Media Internship P... | New York, New Yor... | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Graphic-Design---New-York_R50032618) |
 | **Menasha Corporation** | Custom Packaging Design Engineer Co-O... | Piedmont, South C... | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995) |
 | **Lucid Motors** | Learning & Development (Instructional... | Amsterdam, NH | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5136415007) |
+| **Allegion** | Industrial Design Co-op | Carmel, IN | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36152) |
+| **Allegion** | Industrial Design Co-op | Carmel, IN | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Co-op_JR36106-1) |
 | **Expedia Group** | 2023 PhD Intern - Machine Learning Sc... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833) |
 | **Motorola Solutions** | Design Technologist - 2026 Coop | Illinois, US Offs... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Design-Technologist---2026-Fall-Coop_R63068) |
 | **Nidec** | Co-Op Custom Design Marketing | North America/USA... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---ACIM-MO/Co-Op-Custom-Design-Marketing_R0012409) |
@@ -461,10 +465,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Gelber Group** | Technical Operations Intern | Chicago, IL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006) |
+| **Schweitzer Engineering Laboratories** | Marketing Intern | Boise | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Marketing-Intern_2026-20928) |
 | **Gelber Group** | Trading Intern | Boston, MA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelbergroup/jobs/4679858006) |
 | **JP Morgan Chase** | Commodities Trading Intern | Houston, TX | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752778) |
-| **Johnson Controls** | NPI Materials Intern | Wisconsin | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/NPI-Materials-Intern_WD30271739) |
+| **Gelber Group** | Technical Operations Intern | Chicago, IL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gelberhandshake/jobs/4652889006) |
+| **Johnson Controls** | NPI Materials Intern | Wisconsin | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/NPI-Materials-Intern_WD30271739) |
 | **Zipline** | Communications Intern (Fall 2026) | South San Francis... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772003003#open-roles) |
 | **GenScript** | HR Operations Intern | Piscataway, New J... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5163930007) |
 | **Emerson Electric** | Material Planning and Inventory Intern | Knoxville, TN, Un... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006476) |
@@ -547,11 +552,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **General Motors** | 2026 Fall Intern - Research & Develop... | Warren, Michigan,... | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) |
-| **General Motors** | 2026 Fall Intern - Research & Develop... | 2 Locations | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) |
-| **General Motors** | 2026 Fall Intern - Research & Develop... | Warren, Michigan,... | 12m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790) |
-| **Stevens Capital Management** | Developer Internship | Radnor, PA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
-| **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
+| **AeroVironment** | Production Technician Intern | 20521 Seneca Mead... | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Production-Technician-Intern_7925) |
+| **CVS Health** | Pharmacy Intern | San Francisco, CA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---San-Francisco/Pharmacy-Intern_R0929590) |
+| **CVS Health** | Pharmacy Intern | Lexington, SC | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Lexington/Pharmacy-Intern_R0945913) |
+| **CVS Health** | Pharmacy Intern | Cayce, SC | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/SC---Cayce/Pharmacy-Intern_R0945889) |
+| **Schweitzer Engineering Laboratories** | Drafter Intern | West Lafayette | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Engineering-Intern_2025-17852) |
+| **Schweitzer Engineering Laboratories** | Construction Management Intern | Pullman | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Construction-Management-Intern_2026-21107) |
+| **Schweitzer Engineering Laboratories** | Project Management Intern | Pullman | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Management-Intern_2026-20934) |
+| **Stevens Capital Management** | Developer Internship | Radnor, PA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
+| **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
 | **Northwestern Mutual** | Application Development Intern | Milwaukee, WI | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NorthwesternMutual/85751711) |
 | **Kaiser Permanente** | Process Improvement Intern | Pasadena, CA | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1410120) |
 | **Skydio** | Autonomy Engineer Intern Summer 2026 | San Mateo, CA | 14m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/17f6173b-c96f-4b02-a6b5-da0a91ad95e5/application) |
@@ -572,20 +581,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **JM Family** | AI COE/DevSevOps Intern | Deerfield Beach, FL | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/AI-COE-DevSevOps-Intern_JR104215) |
 | **SAS** | AI & IoT Solution Advisor Intern | Cary, NC | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job) |
 | **JP Morgan Chase** | 2026 – Internship - Markets - Systema... | United States | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) |
-| **Microchip Technology** | Intern- Equipment Engineering | Colorado Springs, CO | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Equipment-Engineering_R2496-26) |
-| **RTX** | Continous Improvement Intern | Qc, CA | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Continous-Improvement-Intern_01851081) |
-| **Google** | Student Researcher, PhD, Winter/Summe... | United States | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
-| **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
-| **Johnson Controls** | Software Sales Intern | Massachusetts | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Software-Sales-Intern_WD30272112) |
-| **JM Family Enterprises** | Time Studies Intern | Commerce | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Georgia---Commerce/Time-Studies-Intern_JR104747) |
-| **CVS Health** | Pharmacy Intern | Clark, NJ | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Clark/Pharmacy-Intern_R0945749) |
-| **CVS Health** | Pharmacy Intern | Merrimack, NH | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NH---Merrimack/Pharmacy-Intern_R0945703) |
-| **CVS Health** | Pharmacy Intern | Chicopee, MA | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Chicopee/Pharmacy-Intern_R0945694) |
-| **Schweitzer Engineering Laboratories** | Purchasing Intern | Pullman | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-20994) |
-| **Schweitzer Engineering Laboratories** | Drafter Intern | West Lafayette | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Engineering-Intern_2025-17852) |
-| **Schweitzer Engineering Laboratories** | Construction Management Intern | Pullman | 57m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Construction-Management-Intern_2026-21107) |
-| **Cadence** | Intern - Characterization and Support | SAN JOSE | 58m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998) |
-| **AeroVironment** | Production Technician Intern | 20521 Seneca Mead... | 58m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://avav.wd1.myworkdayjobs.com/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Production-Technician-Intern_7925) |
+| **Google** | Student Researcher, PhD, Winter/Summe... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
+| **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | 23m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
+| **General Motors** | 2026 Fall Intern - Research & Develop... | Warren, Michigan,... | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) |
+| **General Motors** | 2026 Fall Intern - Research & Develop... | 2 Locations | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) |
+| **General Motors** | 2026 Fall Intern - Research & Develop... | Warren, Michigan,... | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--Materials-Science---Metallurgical-Engineering_JR-202612790) |
+| **Microchip Technology** | Intern- Equipment Engineering | Colorado Springs, CO | 43m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Intern--Equipment-Engineering_R2496-26) |
+| **RTX** | Continous Improvement Intern | Qc, CA | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Continous-Improvement-Intern_01851081) |
+| **Johnson Controls** | Software Sales Intern | Massachusetts | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Software-Sales-Intern_WD30272112) |
+| **JM Family Enterprises** | Time Studies Intern | Commerce | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Georgia---Commerce/Time-Studies-Intern_JR104747) |
+| **Cadence** | Intern - Characterization and Support | SAN JOSE | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support_R54998) |
 | **Magna** | Intern - Systems | Southfield, Michi... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235414) |
 | **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Predictive an... | San Diego, CA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Predictive-and-Investigative-Safety-Assessment_REQ-28215-1) |
 | **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, Strategic Ope... | San Diego, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Fall-Co-op-2026--Strategic-Operations--Innovation---Change-Management_REQ-28227-1) |
@@ -595,10 +600,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Campbell Soup Company** | Modeling and Visualization Engineer C... | PA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Modeling-and-Visualization-Engineer-Co-Op_Req-65847) |
 | **Carnegie Mellon University** | Community Engagement Intern - College... | Pittsburgh, PA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Community-Engagement-Intern---College-of-Engineering---Dean-s-Office_2024678) |
 | **Carnegie Mellon University** | Engineering Outreach Intern - College... | Pittsburgh, PA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Engineering-Outreach-Intern---College-of-Engineering---Dean-s-Office_2024675) |
-| **Zipline** | Strategic Operations Program Manageme... | South San Francis... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772054003#open-roles) |
+| **Zipline** | Strategic Operations Program Manageme... | South San Francis... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772054003#open-roles) |
 | **Zipline** | Material Planning Intern (Fall 2026) | South San Francis... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772351003#open-roles) |
-| **Zipline** | Global Supply Management Intern (Fall... | South San Francis... | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772346003#open-roles) |
-| **Eulerity** | Web Development Engineer Intern | New York, New York | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4689194006) |
+| **Zipline** | Global Supply Management Intern (Fall... | South San Francis... | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/careers?gh_jid=7772346003#open-roles) |
+| **Eulerity** | Web Development Engineer Intern | New York, New York | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4689194006) |
 | **Workato** | Intern, Customer Experience | Palo Alto, Califo... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.workato.com/careers?gh_jid=8570805002#open-roles) |
 | **Veolia Environnement SA** | Laboratory Intern | Arkadelphia, AR | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131974732) |
 | **1Password** | Developer Intern, Client Secrets Mana... | Remote (United St... | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/1password/d9909a9a-d941-404d-a7f2-5021670ffd2c/application) |
@@ -631,6 +636,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Instrumentation Support Intern | Plymouth, MI | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000131520889) |
 | **EnergyHub** | Regulatory Affairs Intern | Brooklyn, New York | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/energyhub/jobs/8562493002) |
 | **NBCUniversal** | NBCUniversal Page Program, Fall 2026 ... | New York, NY | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000131457230) |
+| **Allstate** | Summer  Intern – UX/Product Management | Remote | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Summer--Intern---UX-Product-Management_R31562) |
 | **Moog** | Intern, Project Engineering | Buffalo, NY | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Project-Engineering_R-26-18099) |
 | **Moog** | Intern, Manufacturing Engineering | Torrance, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Manufacturing-Engineering_R-25-13758) |
 | **Becton Dickinson** | Junior Associate - Fall 2026 | Warwick | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Junior-Associate---Fall-2026_R-545123) |
@@ -646,7 +652,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Intuitive** | Research Analyst Intern | Sunnyvale, CA | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000131203150) |
 | **Formlabs** | Paid Advertising Intern (Fall 2026) | Somerville, MA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/7992471/apply/?gh_jid=7992471) |
 | **Lucid Motors** | Development Intern | Amsterdam, NH | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5136401007) |
-| **NVIDIA** | Cloud Distributed Systems Backend Int... | US, CA, Santa Clara | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Cloud-Distributed-Systems-Backend-Intern--GeForce-NOW---Fall-2026_JR2019665) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -702,7 +707,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1190 current opportunities from 273 companies**
+**🎯 1199 current opportunities from 275 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
