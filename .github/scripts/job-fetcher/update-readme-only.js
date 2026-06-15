@@ -7,7 +7,7 @@
  *   1. Local .github/data/current_jobs.json (from a previous run)
  *   2. R2 via createAggregatorConsumer (when local data is missing)
  *
- * Repo filter config: { locations: ['us'], employment: 'entry_level' }
+ * Repo filter config: see config.js (single source of truth)
  */
 
 const fs = require('fs');
@@ -16,9 +16,9 @@ const { logger } = require('../consumer');
 const { updateReadme } = require('./readme-generator');
 const { companies, ALL_COMPANIES } = require('./utils');
 const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
+const config = require('./config');
 
-// Repo-specific filter config (must match index.js)
-const REPO_FILTERS = { locations: ['us'], employment: 'entry_level' };
+const REPO_FILTERS = config.filters;
 
 async function main() {
     try {
