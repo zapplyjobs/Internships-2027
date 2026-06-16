@@ -234,3 +234,16 @@ jobs:
         git commit -m "data: current_jobs.json $(date -u +%Y-%m-%dT%H:%M:%SZ)"
         git push origin data --force
         echo "Published current_jobs.json to data branch (force-pushed single commit)"
+
+    - name: Upload current_jobs.json to R2 (authenticated feed for softwarejobs.dev)
+      if: always()
+      env:
+        R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+        R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+        R2_BUCKET_NAME: ${{ secrets.R2_BUCKET_NAME }}
+        REPO_NAME: ${{ github.event.repository.name }}
+        NODE_PATH: .github/scripts/consumer/node_modules
+      run: |
+        if [ ! -f .github/data/current_jobs.json ]; then echo "no current_jobs.json — skip R2 upload"; exit 0; fi
+        node -e 'const fs=require("fs");const{S3Client,PutObjectCommand}=require("@aws-sdk/client-s3");(async()=>{const s3=new S3Client({region:"auto",endpoint:process.env.R2_ENDPOINT,credentials:{accessKeyId:process.env.R2_ACCESS_KEY_ID,secretAccessKey:process.env.R2_SECRET_ACCESS_KEY}});const Body=fs.readFileSync(".github/data/current_jobs.json");const Key="softwarejobs-feeds/"+process.env.REPO_NAME+".json";await s3.send(new PutObjectCommand({Bucket:process.env.R2_BUCKET_NAME,Key,Body,ContentType:"application/json"}));console.log("Uploaded "+Key+" ("+Body.length+" bytes)");})().catch(e=>{console.error("R2 upload failed:",e.message);process.exit(1);});'
