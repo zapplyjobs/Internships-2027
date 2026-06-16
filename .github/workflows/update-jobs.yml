@@ -212,3 +212,25 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         fi
+
+    - name: Publish current_jobs.json to data branch (public source for softwarejobs.dev)
+      if: always()
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+      run: |
+        if [ ! -f .github/data/current_jobs.json ]; then echo "no current_jobs.json — skipping data-branch publish"; exit 0; fi
+        REPO="${{ github.repository }}"
+        TMP="$RUNNER_TEMP/data-publish"
+        git clone --depth 1 --quiet "https://x-access-token:${GH_PAT}@github.com/${REPO}.git" "$TMP"
+        cd "$TMP"
+        git checkout --orphan data
+        git rm -r --cached . >/dev/null 2>&1 || true
+        find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+        mkdir -p .github/data
+        cp "$GITHUB_WORKSPACE/.github/data/current_jobs.json" .github/data/current_jobs.json
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git add .github/data/current_jobs.json
+        git commit -m "data: current_jobs.json $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+        git push origin data --force
+        echo "Published current_jobs.json to data branch (force-pushed single commit)"
