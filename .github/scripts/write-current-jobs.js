@@ -16,7 +16,8 @@ const dataDir = path.join(process.cwd(), '.github', 'data');
 const newJobsPath = path.join(dataDir, 'new_jobs.json');
 const outputPath = path.join(dataDir, 'current_jobs.json');
 
-const ACTIVE_WINDOW_DAYS = 120;
+const config = require('./job-fetcher/config');
+const ACTIVE_WINDOW_DAYS = config.activeWindowDays || 120;
 const ACTIVE_WINDOW_MS = ACTIVE_WINDOW_DAYS * 24 * 60 * 60 * 1000;
 
 function isJobActive(job) {
