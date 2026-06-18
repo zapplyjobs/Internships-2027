@@ -17,7 +17,7 @@ module.exports = {
   defaultCategory: 'other_internships',
 
   // Data filter (single source of truth — imported by index.js and update-readme-only.js)
-  filters: { locations: ['us'], employment: 'internship' }
+  filters: { locations: ['us'], employment: 'internship' },
   // Active window for current_jobs.json (days) — read by write-current-jobs.js
   activeWindowDays: 120
 };
