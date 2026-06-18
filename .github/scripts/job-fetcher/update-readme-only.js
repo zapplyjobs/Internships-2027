@@ -16,7 +16,7 @@ const { logger } = require('../consumer');
 const { updateReadme } = require('./readme-generator');
 const { companies, ALL_COMPANIES } = require('./utils');
 const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
-const config = require('./config');
+const config = require(path.join(process.cwd(), 'config', 'config.js'));
 
 const REPO_FILTERS = config.filters;
 

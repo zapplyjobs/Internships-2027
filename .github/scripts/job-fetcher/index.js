@@ -17,7 +17,7 @@ const fs = require('fs');
 const path = require('path');
 const { createAggregatorConsumer } = require('../consumer/lib/aggregator-consumer');
 const { updateReadme } = require('./readme-generator');
-const config = require('./config');
+const config = require(path.join(process.cwd(), 'config', 'config.js'));
 
 const dataDir = path.join(process.cwd(), '.github', 'data');
 
