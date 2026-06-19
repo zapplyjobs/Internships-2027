@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/int-heading.png" alt="Internships 2027 - Illustration of people collaborating on internships.">
+<img src="images/covers/cover.png" alt="Internships 2027 - Illustration of people collaborating on internships.">
 
 # Internships 2027
 
