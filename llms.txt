@@ -16,8 +16,8 @@
 
 ## Related repos
 - New Grad Jobs: github.com/zapplyjobs/New-Grad-Jobs-2027
-- Software Engineering: github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026
-- Data Science: github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026
+- Software Engineering: github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027
+- Data Science: github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027
 
 ## Who maintains this
 Zapply Jobs (zapplyjobs) — automated pipeline with human curation
