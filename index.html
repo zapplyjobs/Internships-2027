@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internships 2027 | Zapply</title>
+    <meta name="description" content="Verified internship and co-op opportunities updated every 15 minutes from top companies. Summer 2027 internships for students.">
+    <link rel="canonical" href="https://zapplyjobs.github.io/Internships-2026/" />
+    <meta property="og:title" content="Internships 2027 | Zapply" />
+    <meta property="og:description" content="Verified internship and co-op opportunities updated every 15 minutes." />
+    <meta property="og:url" content="https://zapplyjobs.github.io/Internships-2026/" />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --black: #000000;
+            --white: #ffffff;
+            --gray-50: #fafafa;
+            --gray-100: #f5f5f5;
+            --gray-200: #e5e5e5;
+            --gray-300: #d4d4d4;
+            --gray-400: #a3a3a3;
+            --gray-500: #737373;
+            --gray-600: #525252;
+            --gray-700: #404040;
+            --gray-800: #262626;
+            --gray-900: #171717;
+            --accent: #ff6b35;
+            --accent-light: #ff8c42;
+            --blue: #3b82f6;
+            --green: #22c55e;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Fira Code', 'SF Mono', 'Monaco', 'Inconsolata', 'Consolas', 'Courier New', monospace;
+            background: var(--white);
+            color: var(--gray-900);
+            line-height: 1.6;
+            overflow-x: hidden;
+            cursor: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="%23FFFFFF" stroke="%23000000" stroke-width="2" stroke-linejoin="round" d="M9 21h7l4-11h-6l3-8L4 12h7.5L9 21z"></path></svg>'), auto;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+
+        .nav {
+            position: fixed; top: 0; width: 100%;
+            background: rgba(255,255,255,0.8);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--gray-200);
+            z-index: 1000;
+            transition: all 0.4s cubic-bezier(0.4,0,0.2,1);
+        }
+
+        .nav-content { display: flex; justify-content: space-between; align-items: center; padding: 20px 0; }
+
+        .logo { font-size: 24px; font-weight: 700; color: var(--black); text-decoration: none; transition: transform 0.3s ease; }
+        .logo:hover { transform: scale(1.05); }
+
+        .nav-actions { display: flex; gap: 12px; align-items: center; }
+
+        .btn {
+            padding: 12px 24px; border-radius: 100px; font-weight: 500;
+            text-decoration: none; transition: all 0.3s cubic-bezier(0.4,0,0.2,1);
+            border: none; cursor: pointer; display: inline-flex; align-items: center;
+            gap: 8px; font-size: 14px;
+            font-family: 'Fira Code', monospace;
+        }
+
+        .btn-primary { background: var(--black); color: var(--white); }
+        .btn-primary:hover { background: var(--gray-800); transform: translateY(-2px); box-shadow: 0 10px 25px rgba(0,0,0,0.15); }
+
+        .btn-secondary { background: transparent; color: var(--gray-700); border: 1px solid var(--gray-300); }
+        .btn-secondary:hover { background: var(--gray-50); border-color: var(--gray-400); transform: translateY(-1px); }
+
+        .btn-discord { background: var(--black); color: var(--white); border: 1px solid var(--gray-800); }
+        .btn-discord:hover { background: var(--gray-900); transform: translateY(-2px); box-shadow: 0 10px 25px rgba(88,101,242,0.2); }
+
+        .hero {
+            padding: 140px 0 80px;
+            background: linear-gradient(to bottom, var(--gray-50), var(--white));
+            position: relative;
+        }
+
+        .hero-content { text-align: center; max-width: 800px; margin: 0 auto; position: relative; z-index: 2; }
+
+        .hero-badge {
+            display: inline-flex; align-items: center; gap: 8px;
+            background: var(--white); border: 1px solid var(--gray-200);
+            padding: 8px 16px; border-radius: 100px;
+            font-size: 14px; font-weight: 500; margin-bottom: 32px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            animation: fadeInUp 0.8s ease, float 3s ease-in-out infinite 1s;
+        }
+
+        .hero-title {
+            font-size: clamp(48px, 8vw, 72px); font-weight: 700;
+            line-height: 1.1; margin-bottom: 24px; color: var(--black);
+            animation: fadeInUp 0.8s ease 0.1s both;
+        }
+
+        .cursor { color: var(--accent); animation: blink 1s infinite; font-weight: 300; }
+        @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+
+        .typed-highlight {
+            background: var(--black); color: var(--white);
+            padding: 4px 16px; border-radius: 8px;
+            display: inline-block; min-width: 200px; text-align: center;
+        }
+
+        .hero-subtitle {
+            font-size: 20px; color: var(--gray-600); margin-bottom: 40px;
+            font-weight: 400; animation: fadeInUp 0.8s ease 0.2s both;
+        }
+
+        .hero-actions {
+            display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;
+            margin-bottom: 80px; animation: fadeInUp 0.8s ease 0.3s both;
+        }
+
+        .btn-hero { padding: 16px 32px; font-size: 16px; font-weight: 600; }
+
+        .stats {
+            display: grid; grid-template-columns: repeat(2, 1fr);
+            gap: 40px; animation: fadeInUp 0.8s ease 0.4s both;
+            max-width: 500px; margin: 0 auto;
+        }
+
+        .stat { text-align: center; transition: transform 0.3s ease; }
+        .stat:hover { transform: translateY(-4px); }
+
+        .stat-number { font-size: 48px; font-weight: 700; color: var(--black); line-height: 1; margin-bottom: 8px; }
+        .stat-label { color: var(--gray-500); font-size: 14px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.5px; }
+
+        .features { padding: 100px 0; background: var(--gray-50); }
+
+        .section-title { text-align: center; font-size: 36px; font-weight: 700; margin-bottom: 16px; color: var(--black); }
+        .section-subtitle { text-align: center; color: var(--gray-600); font-size: 18px; margin-bottom: 60px; max-width: 600px; margin-left: auto; margin-right: auto; }
+
+        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; margin-top: 60px; }
+
+        .feature {
+            background: var(--white); padding: 40px; border-radius: 16px;
+            border: 1px solid var(--gray-200);
+            transition: all 0.4s cubic-bezier(0.4,0,0.2,1);
+            position: relative; overflow: hidden;
+        }
+
+        .feature::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(90deg, var(--accent), var(--accent-light));
+            transform: scaleX(0); transition: transform 0.4s ease;
+        }
+
+        .feature:hover::before { transform: scaleX(1); }
+        .feature:hover { transform: translateY(-12px); box-shadow: 0 25px 50px rgba(0,0,0,0.15); background: var(--black); color: var(--white); }
+        .feature:hover .feature-icon { background: var(--white); color: var(--black); transform: scale(1.1); }
+        .feature:hover .feature-title { color: var(--white); }
+        .feature:hover .feature-description { color: var(--gray-300); }
+
+        .feature-icon { width: 48px; height: 48px; background: var(--gray-100); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 20px; margin-bottom: 24px; transition: all 0.3s ease; }
+        .feature-title { font-size: 20px; font-weight: 600; margin-bottom: 16px; color: var(--black); }
+        .feature-description { color: var(--gray-600); line-height: 1.6; }
+
+        .cta { padding: 100px 0; background: var(--black); color: var(--white); text-align: center; }
+        .cta-title { font-size: 48px; font-weight: 700; margin-bottom: 24px; }
+        .cta-subtitle { font-size: 20px; color: var(--gray-300); margin-bottom: 40px; max-width: 600px; margin-left: auto; margin-right: auto; }
+        .cta-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+
+        .btn-white { background: var(--white); color: var(--black); }
+        .btn-white:hover { background: var(--gray-100); transform: translateY(-2px); box-shadow: 0 10px 25px rgba(255,255,255,0.2); }
+
+        .btn-outline { background: transparent; color: var(--white); border: 1px solid var(--gray-600); }
+        .btn-outline:hover { background: var(--gray-900); border-color: var(--gray-500); transform: translateY(-2px); }
+
+        .footer { padding: 60px 0 40px; background: var(--white); border-top: 1px solid var(--gray-200); text-align: center; }
+        .footer-stats { font-size: 18px; font-weight: 600; margin-bottom: 16px; color: var(--black); }
+        .footer-note { color: var(--gray-500); margin-bottom: 24px; }
+        .footer-links { display: flex; gap: 32px; justify-content: center; margin-bottom: 24px; flex-wrap: wrap; }
+        .footer-link { color: var(--gray-600); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
+        .footer-link:hover { color: var(--black); }
+        .footer-meta { color: var(--gray-400); font-size: 14px; line-height: 1.5; }
+
+        .scroll-reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s cubic-bezier(0.4,0,0.2,1); }
+        .scroll-reveal.revealed { opacity: 1; transform: translateY(0); }
+
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+
+        @media (max-width: 768px) {
+            .nav-content { padding: 16px 0; }
+            .nav-actions { gap: 8px; }
+            .nav-actions .btn { padding: 8px 12px; font-size: 12px; border-radius: 8px; }
+            .hero { padding: 120px 0 60px; }
+            .hero-title { font-size: clamp(36px, 8vw, 48px); }
+            .typed-highlight { min-width: 120px; }
+            .hero-actions { flex-direction: column; align-items: center; }
+            .features-grid { grid-template-columns: 1fr; }
+            .cta-actions { flex-direction: column; align-items: center; }
+            .footer-links { flex-direction: column; gap: 16px; }
+        }
+    </style>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K5LE6RVD31"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-K5LE6RVD31');
+</script>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="nav-content">
+                <a href="#" class="logo">zapply</a>
+                <div class="nav-actions">
+                    <a href="https://discord.gg/yKWw28q7Yq" class="btn btn-secondary">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515a.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0a12.64 12.64 0 0 0-.617-1.25a.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057a19.9 19.9 0 0 0 5.993 3.03a.078.078 0 0 0 .084-.028a14.09 14.09 0 0 0 1.226-1.994a.076.076 0 0 0-.041-.106a13.107 13.107 0 0 1-1.872-.892a.077.077 0 0 1-.008-.128a10.2 10.2 0 0 0 .372-.292a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127a12.299 12.299 0 0 1-1.873.892a.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028a19.839 19.839 0 0 0 6.002-3.03a.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.956-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.955-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.946 2.418-2.157 2.418z"/>
+                        </svg>
+                        Discord
+                    </a>
+                    <a href="https://github.com/zapplyjobs/Internships-2026" class="btn btn-secondary">GitHub</a>
+                    <a href="https://github.com/zapplyjobs/Internships-2026#readme" class="btn btn-primary">View Internships</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span>🔥</span>
+                    <span id="hero-badge-count">Live Positions</span>
+                </div>
+
+                <h1 class="hero-title">Internships 2027<br>for <span id="typed-text" class="typed-highlight">Interns</span><span class="cursor">|</span></h1>
+
+                <p class="hero-subtitle">
+                    Verified internship and co-op opportunities from top companies.<br>
+                    No fluff. Just real roles. Updated every 15 minutes.
+                </p>
+
+                <div class="hero-actions">
+                    <a href="https://github.com/zapplyjobs/Internships-2026#readme" class="btn btn-primary btn-hero">
+                        Browse Internships
+                    </a>
+                    <a href="https://discord.gg/yKWw28q7Yq" class="btn btn-discord btn-hero">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515a.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0a12.64 12.64 0 0 0-.617-1.25a.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057a19.9 19.9 0 0 0 5.993 3.03a.078.078 0 0 0 .084-.028a14.09 14.09 0 0 0 1.226-1.994a.076.076 0 0 0-.041-.106a13.107 13.107 0 0 1-1.872-.892a.077.077 0 0 1-.008-.128a10.2 10.2 0 0 0 .372-.292a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127a12.299 12.299 0 0 1-1.873.892a.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028a19.839 19.839 0 0 0 6.002-3.03a.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.956-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.955-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.946 2.418-2.157 2.418z"/>
+                        </svg>
+                        Join Discord
+                    </a>
+                    <a href="https://github.com/zapplyjobs/Internships-2026" class="btn btn-secondary btn-hero">
+                        ⭐ Star on GitHub
+                    </a>
+                </div>
+
+                <div class="stats" id="stats-section">
+                    <div class="stat">
+                        <div class="stat-number" id="stat-jobs">—</div>
+                        <div class="stat-label">Active Roles</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number" id="stat-companies">—</div>
+                        <div class="stat-label">Companies</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="features scroll-reveal">
+        <div class="container">
+            <h2 class="section-title">Why students choose Zapply</h2>
+            <p class="section-subtitle">
+                We do the heavy lifting so you can focus on landing your internship
+            </p>
+
+            <div class="features-grid">
+                <div class="feature">
+                    <div class="feature-icon">⚡</div>
+                    <h3 class="feature-title">Real-time updates</h3>
+                    <p class="feature-description">
+                        Internships sourced from company ATS systems every 15 minutes. No outdated listings, ever.
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <div class="feature-icon">🎓</div>
+                    <h3 class="feature-title">Students only</h3>
+                    <p class="feature-description">
+                        Every role is verified as an internship or co-op. No full-time roles mixed in.
+                    </p>
+                </div>
+
+                <div class="feature">
+                    <div class="feature-icon">🔗</div>
+                    <h3 class="feature-title">Direct application</h3>
+                    <p class="feature-description">
+                        Apply directly on company websites. No middleman, no delays, no extra steps.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cta">
+        <div class="container">
+            <h2 class="cta-title">Ready to start?</h2>
+            <p class="cta-subtitle">
+                Join thousands of students who've found their internship through Zapply
+            </p>
+            <div class="cta-actions">
+                <a href="https://github.com/zapplyjobs/Internships-2026#readme" class="btn btn-white btn-hero">
+                    Browse Internships
+                </a>
+                <a href="https://github.com/zapplyjobs/Internships-2026" class="btn btn-outline btn-hero">
+                    Star Project
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-stats" id="footer-stats">Internships updated every 15 minutes</div>
+            <div class="footer-note">Updated every 15 minutes</div>
+
+            <div class="footer-links">
+                <a href="https://github.com/zapplyjobs/Internships-2026" class="footer-link">GitHub</a>
+                <a href="https://github.com/zapplyjobs/Internships-2026/issues" class="footer-link">Issues</a>
+                <a href="https://github.com/zapplyjobs/Internships-2026#readme" class="footer-link">About</a>
+            </div>
+
+            <div class="footer-meta">
+                Built with ❤️ for students<br>
+                Not affiliated with listed companies
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Scroll reveal
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => { if (entry.isIntersecting) entry.target.classList.add('revealed'); });
+        }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+        document.querySelectorAll('.scroll-reveal').forEach(el => observer.observe(el));
+
+        // Nav scroll behavior
+        let lastScrollY = window.scrollY;
+        window.addEventListener('scroll', () => {
+            const nav = document.querySelector('.nav');
+            const y = window.scrollY;
+            nav.style.background = y > 100 ? 'rgba(255,255,255,0.95)' : 'rgba(255,255,255,0.8)';
+            nav.style.boxShadow = y > 100 ? '0 4px 20px rgba(0,0,0,0.1)' : 'none';
+            nav.style.transform = (y > lastScrollY && y > 200) ? 'translateY(-100%)' : 'translateY(0)';
+            lastScrollY = y;
+        });
+
+        // Typing effect
+        const typedTextElement = document.getElementById('typed-text');
+        const words = ['Interns', 'Co-ops', 'Summer 2027'];
+        let currentWordIndex = 0, currentCharIndex = 0, isDeleting = false;
+
+        function typeEffect() {
+            const currentWord = words[currentWordIndex];
+            if (isDeleting) {
+                typedTextElement.textContent = currentWord.substring(0, currentCharIndex - 1) || '\u00A0';
+                currentCharIndex--;
+            } else {
+                typedTextElement.textContent = currentWord.substring(0, currentCharIndex + 1);
+                currentCharIndex++;
+            }
+            let typeSpeed = isDeleting ? 50 : 80;
+            if (!isDeleting && currentCharIndex === currentWord.length) { typeSpeed = 1000; isDeleting = true; }
+            else if (isDeleting && currentCharIndex === 0) { isDeleting = false; currentWordIndex = (currentWordIndex + 1) % words.length; typeSpeed = 200; }
+            setTimeout(typeEffect, typeSpeed);
+        }
+        setTimeout(typeEffect, 1000);
+
+        // Dynamic stats from current_jobs.json
+        fetch('https://raw.githubusercontent.com/zapplyjobs/Internships-2026/main/.github/data/current_jobs.json')
+            .then(r => r.json())
+            .then(jobs => {
+                const count = jobs.length;
+                const companies = new Set(jobs.map(j => j.employer_name).filter(Boolean)).size;
+                document.getElementById('stat-jobs').textContent = count;
+                document.getElementById('stat-companies').textContent = companies;
+                document.getElementById('hero-badge-count').textContent = count + '+ Live Positions';
+                document.getElementById('footer-stats').textContent = count + ' internships from ' + companies + ' companies';
+            })
+            .catch(() => {
+                document.getElementById('stats-section').style.display = 'none';
+            });
+    </script>
+</body>
+</html>

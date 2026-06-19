@@ -1,14 +1,14 @@
 module.exports = {
   version: 1,
   repoPrefix: 'int',
-  headingImageAlt: 'Internships 2026 - Illustration of people collaborating on internships.',
-  title: 'Internships 2026',
+  headingImageAlt: 'Internships 2027 - Illustration of people collaborating on internships.',
+  title: 'Internships 2027',
   tagline: '',
   descriptionLine1: '🚀 Internships across tech, business, healthcare, and more for students, updated in real time.',
   descriptionLine2: '',
   noteType: 'TIP',
   noteText: '🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md).',
-  jobsSectionHeader: 'Fresh Internships 2026',
+  jobsSectionHeader: 'Fresh Internships 2027',
   jobCountBadgeLabel: 'Total Internships',
   features: {
     internships: false,
