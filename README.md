@@ -728,7 +728,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
 
 <p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2027"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;

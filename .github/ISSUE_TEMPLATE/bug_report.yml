@@ -37,7 +37,7 @@ body:
     attributes:
       label: Job Link (if applicable)
       description: Link to the affected job posting
-      placeholder: https://github.com/zapplyjobs/New-Grad-Jobs-2026#company-name
+      placeholder: https://github.com/zapplyjobs/New-Grad-Jobs-2027#company-name
 
   - type: textarea
     id: steps

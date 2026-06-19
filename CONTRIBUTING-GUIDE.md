@@ -8,7 +8,7 @@
 
 ### 🚀 **How to Add Jobs**
 
-**Step 1:** Create a new [issue](https://github.com/zapplyjobs/Internships-2026/issues/new/choose).
+**Step 1:** Create a new [issue](https://github.com/zapplyjobs/Internships-2027/issues/new/choose).
 
 **Step 2:** Select "New Job" template.
 
@@ -20,7 +20,7 @@
 
 **Step 1:** Copy the job URL you want to edit.
 
-**Step 2:** Create a new [issue](https://github.com/zapplyjobs/Internships-2026/issues/new/choose).
+**Step 2:** Create a new [issue](https://github.com/zapplyjobs/Internships-2027/issues/new/choose).
 
 **Step 3:** Select "Edit Job" template.
 
@@ -33,4 +33,4 @@
 - The README updates automatically via script.
 - You'll see your contribution live at next daily refresh (9 AM UTC).
 
-**Questions?** Create a [miscellaneous issue](https://github.com/zapplyjobs/Internships-2026/issues/new) and we'll help out! 🙏
+**Questions?** Create a [miscellaneous issue](https://github.com/zapplyjobs/Internships-2027/issues/new) and we'll help out! 🙏
