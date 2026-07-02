@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/UswBsduwcD
+    about: Join our Discord for real-time help and job search tips
+  - name: Reddit Community
+    url: https://reddit.com/r/Zapply
+    about: Discuss job hunting strategies with the community
+  - name: General Questions
+    url: https://github.com/zapplyjobs/Internships-2027/discussions
+    about: Ask questions and share tips in Discussions

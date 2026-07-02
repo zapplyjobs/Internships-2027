@@ -1,0 +1,62 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement! Your feedback helps us make the job board better.
+
+  - type: dropdown
+    id: feature-type
+    attributes:
+      label: Feature Category
+      description: What area does this feature relate to?
+      options:
+        - New filter/search option
+        - Job data improvements
+        - Website/UI enhancement
+        - New job category
+        - Notification/alerts
+        - Integration (Discord, email, etc.)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: What problem would this feature solve?
+      placeholder: I'm always frustrated when...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: How do you think we should solve this?
+      placeholder: It would be great if...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you thought of any alternative solutions?
+      placeholder: I also considered...
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: How important is this to you?
+      options:
+        - Nice to have
+        - Would use occasionally
+        - Would use frequently
+        - Critical for my job search
+    validations:
+      required: true

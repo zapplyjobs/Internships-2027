@@ -1,0 +1,74 @@
+name: Job Submission
+description: Submit a new job posting to be added
+title: "[Job]: "
+labels: ["job-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Know of a job that should be on our board? Submit it here!
+
+        **Note:** We verify all submissions before adding them.
+
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+      placeholder: e.g., Google, Meta, Startup Inc.
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Job Title
+      placeholder: e.g., Software Engineer, Data Scientist
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Job URL
+      description: Direct link to the job posting
+      placeholder: https://careers.company.com/job/12345
+    validations:
+      required: true
+
+  - type: dropdown
+    id: location-type
+    attributes:
+      label: Location Type
+      options:
+        - Remote
+        - Hybrid
+        - On-site
+        - Unknown
+    validations:
+      required: true
+
+  - type: input
+    id: locations
+    attributes:
+      label: Location(s)
+      description: City, State or "Remote" or "Multiple locations"
+      placeholder: e.g., San Francisco, CA | New York, NY | Remote
+
+  - type: dropdown
+    id: experience
+    attributes:
+      label: Experience Level
+      options:
+        - New Grad (0-2 years)
+        - Entry Level (0-1 years)
+        - Junior (1-3 years)
+        - Not specified
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any other relevant information (salary range, visa sponsorship, etc.)
+      placeholder: Offers H1B sponsorship, competitive salary...

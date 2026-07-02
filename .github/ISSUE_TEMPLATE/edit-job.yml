@@ -1,0 +1,137 @@
+name: ✏️ Edit Job Posting Form
+description: Suggest updates or corrections to an existing U.S. job listing
+title: "[EDIT] Company Name - Position Title"
+labels: ["edit-job", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Thanks for helping improve this job board!  
+
+        Please provide the **job link** and a **reason for your edit**.  
+        Only update the fields that need corrections — leave others blank.  
+        This repo focuses on **early-to-mid career jobs in the U.S.**, so keep that in mind.
+        
+  - type: input
+    id: job-link
+    attributes:
+      label: Job Posting Link
+      description: Link to the job listing in our repo that you want to update
+      placeholder: "ex: example.com/link/to/posting"
+    validations:
+      required: true
+      
+  - type: input
+    id: company-name
+    attributes:
+      label: Company Name
+      description: Correct or updated company name (if different)
+      placeholder: "ex: Google"
+    validations:
+      required: false
+      
+  - type: input
+    id: job-title
+    attributes:
+      label: Job Title
+      description: Correct or updated job title
+      placeholder: "ex: Software Engineer (New Grad)"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: "Where is this role based? Separate multiple locations with `|`. Add 'Remote' if applicable."
+      placeholder: "ex: San Francisco, CA | Austin, TX | Remote (U.S. only)"
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: job-category
+    attributes:
+      label: Job Category
+      description: Select the category that best matches this role
+      options:
+        - "Not Selected"
+        - "Software Engineering"
+        - "Data Science/Analytics"
+        - "Product Management"
+        - "Design (UI/UX)"
+        - "DevOps/Infrastructure"
+        - "Security/Cybersecurity"
+        - "Quality Assurance/Testing"
+        - "Research/AI/ML"
+        - "Hardware/Embedded Engineering"
+        - "Other"
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: sponsorship
+    attributes:
+      label: Sponsorship Status
+      description: Does this role offer U.S. work visa sponsorship (H1B/OPT/CPT)?
+      options:
+        - "Not Selected"
+        - "Offers Sponsorship"
+        - "Does Not Offer Sponsorship"
+        - "Not Specified"
+        - "Other (explain in reason)"
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: accepting-applications
+    attributes:
+      label: Application Status
+      description: Mark "No" if applications are no longer being accepted
+      options:
+        - "Not Selected"
+        - "Yes - Open"
+        - "No - Closed"
+        - "Unknown"
+    validations:
+      required: false
+          
+  - type: checkboxes
+    id: remove-job
+    attributes:
+      label: Remove Job Listing
+      description: Select this only if the job is fake, irrelevant, or outside the scope of U.S. early-to-mid career jobs.  
+                   Do **not** select this just because a job expired.
+      options:
+        - label: "Yes, remove this job from the list"
+          required: false
+          
+  - type: input
+    id: email
+    attributes:
+      label: Contributor Email (Optional)
+      description: "Provide your GitHub email if you'd like to be credited for the commit. Otherwise, the bot (actions@github.com) will handle it."
+      placeholder: "ex: firstname@gmail.com"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: reason-for-edit
+    attributes:
+      label: Reason for Edit
+      description: Explain why you are suggesting this update
+      placeholder: "ex: This posting is no longer accepting applications..."
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Contributor Checklist
+      description: Confirm the following before submitting
+      options:
+        - label: I confirm the information I provided is accurate
+          required: true
+        - label: I have clearly explained the reason for this edit
+          required: true
+        - label: I understand that false or misleading edits may be rejected
+          required: true
