@@ -1,0 +1,129 @@
+name: 🚀 New Job Posting Contribution Form
+description: Add a new early-to-mid career job posting (U.S. focused)
+title: "[NEW JOB] Company Name - Position Title"
+labels: ["new-job", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 Thanks for contributing a new job listing!  
+
+        Please make sure the role fits this repo's focus:  
+        - 📍 **U.S.-based roles** (or remote with U.S. eligibility)  
+        - 🎓 **Early-to-mid career opportunities** (not senior/executive roles)  
+        - ✅ Verified as an active and legitimate posting  
+
+  - type: input
+    id: job-url
+    attributes:
+      label: Job Posting Link
+      description: Direct link to the company's official job application page
+      placeholder: "ex: example.com/link/to/posting"
+    validations:
+      required: true
+      
+  - type: input
+    id: company-name
+    attributes:
+      label: Company Name
+      description: Name of the hiring company
+      placeholder: "ex: Google"
+    validations:
+      required: true
+      
+  - type: input
+    id: job-title
+    attributes:
+      label: Job Title
+      description: Official position title
+      placeholder: "ex: Software Engineer (New Grad)"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: "Where is the role located? Use `|` to separate multiple offices. Add 'Remote (U.S. only)' if remote."
+      placeholder: "San Francisco, CA | Austin, TX | Remote (U.S. only)"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: job-category
+    attributes:
+      label: Job Category
+      description: Choose the category that best describes this role
+      options:
+        - Software Engineering
+        - Data Science/Analytics
+        - Product Management
+        - Design (UI/UX)
+        - DevOps/Infrastructure
+        - Security/Cybersecurity
+        - Quality Assurance/Testing
+        - Research/AI/ML
+        - Hardware/Embedded Engineering
+        - Other
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: sponsorship
+    attributes:
+      label: Sponsorship Status
+      description: Does this job provide U.S. work visa sponsorship (H1B/OPT/CPT)?
+      options:
+        - "Offers Sponsorship"
+        - "Does Not Offer Sponsorship"
+        - "Not Specified"
+        - "Other (explain in Extra Notes)"
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: accepting-applications
+    attributes:
+      label: Application Status
+      description: Confirm if the role is actively accepting applications
+      options:
+        - "Yes - Open"
+        - "No - Closed"
+        - "Unknown"
+    validations:
+      required: true
+          
+  - type: input
+    id: email
+    attributes:
+      label: Contributor Email (Optional)
+      description: "Provide your GitHub email if you want to be credited in commits. Otherwise, the bot (actions@github.com) will handle it."
+      placeholder: "ex: firstname@gmail.com"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: extra-notes
+    attributes:
+      label: Extra Notes (Optional)
+      description: "Add any context, details, or clarifications for reviewers. This will not appear in the public repo."
+      placeholder: "ex: This role is part of their Early Careers program..."
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Contributor Checklist
+      description: Please confirm the following before submitting
+      options:
+        - label: I have verified this job posting is legitimate and currently open
+          required: true
+        - label: I have checked that this job is not already listed in the repo
+          required: true
+        - label: I confirm this role is U.S.-based or offers U.S.-eligible Remote work
+          required: true
+        - label: I confirm this is an early-to-mid career opportunity (not senior/executive)
+          required: true
+        - label: I have provided accurate information to the best of my knowledge
+          required: true
