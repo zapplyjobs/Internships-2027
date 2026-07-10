@@ -68,17 +68,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TikTok** | Frontend Software Engineer Project In... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7654431844394322229) |
-| **TikTok** | Software Engineer Intern (Recommendat... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7534878965941766408) |
-| **TikTok** | Frontend Engineer Project Intern (Tik... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7595733632086591797) |
-| **D. E. Shaw** | Software Developer Intern (New York) ... | New York | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
-| **D. E. Shaw** | Software Developer, Ph.D. Intern (New... | New York | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
-| **D. E. Shaw** | Systems Administrator Intern (New York) | New York | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
-| **Radiance Technologies** | Systems Engineer Intern | Patt AFB, OH | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Systems-Engineer-Intern_HR102296) |
-| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
-| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
-| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
-| **Copart** | QA Engineering Intern | Dallas, TX - Head... | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671) |
+| **TikTok** | Frontend Software Engineer Project In... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7654431844394322229) |
+| **TikTok** | Software Engineer Intern (Recommendat... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7534878965941766408) |
+| **TikTok** | Frontend Engineer Project Intern (Tik... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7595733632086591797) |
+| **D. E. Shaw** | Software Developer Intern (New York) ... | New York | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
+| **D. E. Shaw** | Software Developer, Ph.D. Intern (New... | New York | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
+| **D. E. Shaw** | Systems Administrator Intern (New York) | New York | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
+| **Radiance Technologies** | Systems Engineer Intern | Patt AFB, OH | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Systems-Engineer-Intern_HR102296) |
+| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
+| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
+| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
+| **Copart** | QA Engineering Intern | Dallas, TX - Head... | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671) |
 | **RTX** | Quality Engineer Co-Op (Fall 2026) (O... | Santa Isabel, PR | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Quality-Engineer-Co-Op--Fall-2026---Onsite-_01856680) |
 | **CACI** | Software Engineering Intern - Fall 2026 | Jessup, MD, US | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740) |
 | **Jump Trading** | Campus Systems Engineer (Intern) | Chicago | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8007788) |
@@ -177,12 +177,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TikTok** | Machine Learning Engineer Intern - Gl... | Seattle, Washington | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7527077153591675154) |
-| **TikTok** | Machine Learning Engineer Intern (Tik... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7557122323507349778) |
-| **TikTok** | Machine Learning Engineer Intern (Sea... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623166667125508357) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
-| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
+| **TikTok** | Machine Learning Engineer Intern - Gl... | Seattle, Washington | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7527077153591675154) |
+| **TikTok** | Machine Learning Engineer Intern (Tik... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7557122323507349778) |
+| **TikTok** | Machine Learning Engineer Intern (Sea... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7623166667125508357) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535953226975054098) |
+| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8002998) |
 | **Intel** | DTCO Data Engineer Intern | US, Texas, Austin | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) |
 | **Nelnet** | Intern - AI Engineer | Lincoln, NE | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763) |
@@ -238,9 +238,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Schweitzer Engineering Laboratories** | Engineering Intern | Houston | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-20169) |
-| **Schweitzer Engineering Laboratories** | Power Engineer Intern | King of Prussia | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156) |
-| **Agilent Technologies** | Electrical Engineering Intern | Wilmington, DE | 58m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526) |
+| **Schweitzer Engineering Laboratories** | Engineering Intern | Houston | 36m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-20169) |
+| **Schweitzer Engineering Laboratories** | Power Engineer Intern | King of Prussia | 36m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Power-Engineer-Intern_2026-21156) |
+| **Agilent Technologies** | Electrical Engineering Intern | Wilmington, DE | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526) |
 | **Johnson & Johnson** | J&J Surgery Cincinnati: Electrical En... | Cincinnati, Ohio,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Electrical-Engineering-Co-op--Fall-2026_R-039777) |
 | **Becton Dickinson** | Engineering Intern | Canaan | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1) |
 | **WSP** | Electrical Engineering Intern (Substa... | Maitland, FL, Uni... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90824) |
@@ -338,12 +338,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TikTok** | Applied Scientist Intern (Recommendat... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7659527183984019765) |
-| **TikTok** | Product Manager Project Intern (TikTo... | San Jose, California | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7657728959042046213) |
-| **TikTok** | Applied Scientist Intern - Trust and ... | San Jose, California | 6m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7633670871815670069) |
-| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7654366987607542021) |
-| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642762054696896773) |
-| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
+| **TikTok** | Applied Scientist Intern (Recommendat... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7659527183984019765) |
+| **TikTok** | Product Manager Project Intern (TikTo... | San Jose, California | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7657728959042046213) |
+| **TikTok** | Applied Scientist Intern - Trust and ... | San Jose, California | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7633670871815670069) |
+| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7654366987607542021) |
+| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642762054696896773) |
+| **ByteDance** | Applied Research Intern - AI Safety S... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
 | **Jump Trading** | Campus AI Research Engineer – Researc... | Chicago; New York | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | **Jump Trading** | Campus AI Research Engineer - Deep Le... | Chicago; New York | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago; New York | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
@@ -423,9 +423,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **TikTok** | Campaign Marketing Intern (TikTok Sho... | Los Angeles, Cali... | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7647347657793390853) |
-| **TikTok** | Talent Acquisition Project Intern (E-... | San Jose, California | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7628350902421522693) |
-| **TikTok** | Governance Strategy Intern (TikTok Pr... | San Jose, California | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7533103422804232455) |
+| **TikTok** | Campaign Marketing Intern (TikTok Sho... | Los Angeles, Cali... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7647347657793390853) |
+| **TikTok** | Talent Acquisition Project Intern (E-... | San Jose, California | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7628350902421522693) |
+| **TikTok** | Governance Strategy Intern (TikTok Pr... | San Jose, California | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7533103422804232455) |
 | **Firework** | AI Content Intern | San Mateo, Califo... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/fireworkhq/30defeef-fd18-4a43-aa77-3462cca3a859/apply) |
 | **NBCUniversal** | KVDA Marketing Internship | San Antonio, TEXAS | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136902299) |
 | **Eulerity** | Digital Marketing Intern - Technical ... | New York, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4695806006) |
@@ -506,31 +506,31 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Stevens Capital Management** | Developer Internship | Radnor, PA | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
-| **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
-| **TikTok** | Category Management Project Intern (T... | Los Angeles, Cali... | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7655631503241726213) |
-| **TikTok** | Seller LIVE Operations Manager Projec... | Los Angeles, Cali... | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7657745869547292933) |
-| **TikTok** | Emerging Verticals Product Operations... | Los Angeles, Cali... | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7656815032549787957) |
-| **D. E. Shaw** | Quantitative Analyst Intern (New York... | New York | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) |
-| **D. E. Shaw** | Quantitative Analyst, Ph.D. Intern (N... | New York | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) |
-| **CVS Health** | Pharmacy Intern | Wapakoneta, OH | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Wapakoneta/Pharmacy-Intern_R0972293) |
-| **CVS Health** | Pharmacy Intern | Springfield, IL | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Springfield/Pharmacy-Intern_R0972369) |
-| **CVS Health** | Pharmacy Intern | Rossford, OH | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Rossford/Pharmacy-Intern_R0972333) |
-| **Parsons** | Project Controls Co-Op - Fall 2026 | NY, New York, R18... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---NY-New-York/Project-Controls-Co-Op---Fall-2026_R182765) |
-| **Schweitzer Engineering Laboratories** | Equipment Maintenance Technician Intern | Lewiston | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395) |
-| **Schweitzer Engineering Laboratories** | Drafter Intern | West Lafayette | 21m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Engineering-Intern_2025-17852) |
-| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
-| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 27m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
-| **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | 27m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
-| **Google** | Student Researcher, PhD, Winter/Summe... | United States | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
-| **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | 28m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
-| **GE Aerospace** | Production Associate - High School Co-op | Jacksonville | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Production-Associate---High-School-Co-op_R5037325-2) |
-| **Vertex Pharmaceuticals** | Vertex Fall Co-op, IT Workplace Services | Boston, MA | 51m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op--IT-Workplace-Services_REQ-29412-1) |
-| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, AI and Govern... | Boston, MA | 51m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1) |
+| **Stevens Capital Management** | Developer Internship | Radnor, PA | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
+| **Stevens Capital Management** | Quantitative Research Analyst Internship | Radnor, PA | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721895) |
+| **TikTok** | Category Management Project Intern (T... | Los Angeles, Cali... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7655631503241726213) |
+| **TikTok** | Seller LIVE Operations Manager Projec... | Los Angeles, Cali... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7657745869547292933) |
+| **TikTok** | Emerging Verticals Product Operations... | Los Angeles, Cali... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7656815032549787957) |
+| **D. E. Shaw** | Quantitative Analyst Intern (New York... | New York | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) |
+| **D. E. Shaw** | Quantitative Analyst, Ph.D. Intern (N... | New York | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) |
+| **CVS Health** | Pharmacy Intern | Wapakoneta, OH | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Wapakoneta/Pharmacy-Intern_R0972293) |
+| **CVS Health** | Pharmacy Intern | Springfield, IL | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Springfield/Pharmacy-Intern_R0972369) |
+| **CVS Health** | Pharmacy Intern | Rossford, OH | 28m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Rossford/Pharmacy-Intern_R0972333) |
+| **Parsons** | Project Controls Co-Op - Fall 2026 | NY, New York, R18... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---NY-New-York/Project-Controls-Co-Op---Fall-2026_R182765) |
+| **Schweitzer Engineering Laboratories** | Equipment Maintenance Technician Intern | Lewiston | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395) |
+| **Schweitzer Engineering Laboratories** | Drafter Intern | West Lafayette | 36m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Engineering-Intern_2025-17852) |
+| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
+| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
+| **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | 42m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
+| **Google** | Student Researcher, PhD, Winter/Summe... | United States | 43m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
+| **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | 43m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
+| **GE Aerospace** | Production Associate - High School Co-op | Jacksonville | 57m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Production-Associate---High-School-Co-op_R5037325-2) |
+| **Vertex Pharmaceuticals** | Vertex Fall Co-op, IT Workplace Services | Boston, MA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op--IT-Workplace-Services_REQ-29412-1) |
+| **Vertex Pharmaceuticals** | Vertex Fall Co-op 2026, AI and Govern... | Boston, MA | 1h | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Fall-Co-op-2026--AI-and-Governance_REQ-28615-1) |
 | **Intuitive** | Global Customer Insights Intern | Peachtree Corners... | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000136889780) |
-| **Astranis** | Recruiting Coordination Associate (Fa... | San Francisco | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4609434006) |
+| **Astranis** | Recruiting Coordination Associate (Fa... | San Francisco | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4609434006) |
 | **NBCUniversal** | KVDA  Tech Ops Internship | San Antonio, TEXAS | 21h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136875591) |
-| **Doctors Without Borders** | Public Engagement Intern | New York, New Yor... | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/msfcareers/jobs/5316260008) |
+| **Doctors Without Borders** | Public Engagement Intern | New York, New Yor... | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/msfcareers/jobs/5316260008) |
 | **RTX** | Manufacturing Engineering Co-Op (Fall... | Santa Isabel, PR | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Manufacturing-Engineering-Co-Op--Fall-2026---Onsite-_01854330) |
 | **Caterpillar** | 2027 Summer Corporate Intern - Pricing | Peoria Illinois +... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Pricing_R0000380150) |
 | **Caterpillar** | 2027 Summer Corporate Intern - Accoun... | Peoria Illinois +... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Accounting_R0000379993) |
