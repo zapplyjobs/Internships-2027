@@ -1,7 +1,0 @@
-[submodule ".github/scripts/shared"]
-	path = .github/scripts/shared
-	url = https://github.com/zapplyjobs/job-board-shared.git
-
-[submodule ".github/scripts/consumer"]
-	path = .github/scripts/consumer
-	url = https://github.com/zapplyjobs/job-board-consumer.git
