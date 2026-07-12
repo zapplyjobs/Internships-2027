@@ -53,12 +53,12 @@ jobs:
           | node -e "let d='';process.stdin.on('data',c=>d+=c);process.stdin.on('end',()=>{try{console.log(JSON.parse(d).sha)}catch(e){console.log('unknown')}})" \
           || echo "unknown")
         export ALL_JOBS_SHA
-        node .github/scripts/job-fetcher/index.js 2>&1 | tee .github/logs/job-fetcher.log
+        node .github/scripts/consumer/entry-points/index.js 2>&1 | tee .github/logs/job-fetcher.log
 
     - name: Write current_jobs.json for aggregator
       run: |
         mkdir -p .github/data
-        node .github/scripts/write-current-jobs.js
+        node .github/scripts/consumer/entry-points/write-current-jobs.js
 
     - name: Filter by employment level (INF-EXPAND-1 Phase 1)
       run: |
