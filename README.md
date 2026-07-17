@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1379-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-679-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1378-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-678-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-268-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -540,12 +540,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cribl** | Customer Advocacy Intern | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6111976004) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **Google** | Student Researcher, PhD, Winter/Summe... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
 | **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
+| **Cribl** | Customer Advocacy Intern | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6111976004) |
 | **Bosch Group** | Intern - Logistics | Lincolnton, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138182639) |
 | **Microsoft** | Applied Sciences INTERN | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939161) |
 | **Thornton Tomasetti** | Structural Engineer Intern | Kansas City, MO, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tt.wd503.myworkdayjobs.com/thorntontomasetti/job/Kansas-City-MO-USA/Structural-Engineer-Intern_R7084-1) |
@@ -700,7 +700,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1379 current opportunities from 268 companies**
+**🎯 1378 current opportunities from 268 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
