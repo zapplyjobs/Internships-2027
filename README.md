@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1372-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-676-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-266-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1373-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-677-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-267-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -74,7 +74,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Formlabs** | Algorithms Software Intern (Fall 2026) | Somerville, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759) |
 | **Formlabs** | AI Software Intern (Fall 2026) | Somerville, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) |
 | **Schweitzer Engineering Laboratories** | Software Engineer Intern | Pullman | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-21720) |
-| **Cloudflare** | Security Engineer Intern (Fall 2026) | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959) |
 | **Old Mission Capital** | Software Engineer – 2027 Internship P... | Chicago, IL, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | **The Trade Desk** | 2027 North America Software Engineeri... | Bellevue; Boulder... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Head... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897) |
@@ -134,6 +133,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nidec** | Software Engineer Co-Op | North America/USA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | **SoloPulse** | Software Engineer Intern/Co-Op - Fall... | Peachtree Corners... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) |
+| **Anduril** | 2027 Software Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | **Circleback** | Software Engineering Intern (Summer 2... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application) |
 | **Zipline** | Enterprise Systems Software Engineer ... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7767667003) |
 | **Centerfield** | Software Engineer Intern | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) |
@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apptronik** | Robotics Software Intern – Real-Time ... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
 | **Astranis** | Flight Software Intern (Fall 2026) | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4619283006) |
 | **Astranis** | Environmental Test Engineer Associate... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676910006) |
-| **Amazon.com Services LLC** | Quality Assurance Engineer Fall Inter... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) |
+| **Rainmaker** | Software Engineering Intern | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -299,6 +299,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | Electrical Engineer Intern (Fall 2026) | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519/application) |
 | **Lila Sciences** | Co-op, Mechanical Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | **Zipline** | Supplier Industrialization Engineerin... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7766424003) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000131662039) |
 | **Freeform** | Additive Engineering Internship (Fall... | Los Angeles, CA (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7767513003) |
 | **Freeform** | Process Engineering Internship (Fall ... | Los Angeles, CA (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) |
@@ -338,7 +340,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Figure AI** | Integration and Test - Mechanical Eng... | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
 | **Figure AI** | Validation Engineering Intern [Fall 2... | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
 | **Neuralink** | Firmware Engineer Intern, Robotics an... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
-| **Verkada** | Hardware Engineer (Fall Co-op) | San Mateo, CA Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/4321159007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -538,12 +539,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Neuralink** | R&D Materials Engineer Intern | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
 | **Google** | Student Researcher, PhD, Winter/Summe... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/138166347879064262) |
 | **Google** | Student Researcher, BS/MS, Winter/Sum... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) |
+| **Neuralink** | R&D Materials Engineer Intern | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
 | **Cribl** | Customer Advocacy Intern | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6111976004) |
 | **Bosch Group** | Intern - Logistics | Lincolnton, NC | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138182639) |
 | **Microsoft** | Applied Sciences INTERN | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556939161) |
@@ -698,7 +699,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1372 current opportunities from 266 companies**
+**🎯 1373 current opportunities from 267 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
