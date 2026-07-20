@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1357-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-667-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1356-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-666-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-264-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -567,7 +567,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Bridge Engineering Co-Op - Fall 2026 | IN, Indianapolis,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---IN-Indianapolis/Bridge-Engineering-Co-Op---Fall-2026_R177368-1) |
 | **Rivian and Volkswagen Group Technologies** | Technical Program Management Intern (... | Irvine, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/8cfc9852-8aa4-492f-8817-ae4bc62dd127/application) |
 | **Doctors Without Borders** | Executive Intern | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/msfcareers/jobs/5355825008) |
-| **KnowBe4** | Demand Generation Intern | Arlington, Virginia | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8634993002) |
 | **Lucid Motors** | Retail Development Intern | Amsterdam, NH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007) |
 | **Comcast** | Video Production Intern | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) |
 | **Tencent** | Cloud Media Services Intern | Bellevue | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
@@ -637,6 +636,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **VAST** | 2026 Fall Internship - Manufacturing | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006) |
 | **Bosch Group** | Sales Intern | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000136305510) |
 | **Harbinger Motors** | Intern, Power Electronics Engineering | Garden Grove, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/harbingermotors/jobs/5181642007) |
+| **Labelbox** | Cyber Security Intern | San Francisco Bay... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5177341007) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -697,7 +697,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1357 current opportunities from 264 companies**
+**🎯 1356 current opportunities from 264 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
