@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1357-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-667-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-263-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1359-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-668-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-264-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -381,6 +381,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astranis** | Hardware Design Associate, Software D... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4691172006) |
 | **Astranis** | Reliability Design Associate (Fall 2026) | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4681416006) |
 | **Carnegie Mellon University** | Summer Research Intern - College of E... | Pittsburgh, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690) |
+| **Netflix** | AI/ML Scientist Intern, AIMS AI Found... | Los Gatos, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://explore.jobs.netflix.net/careers/job/790316547536) |
 | **Crane Co.** | Design Engineer Co-op | Spartanburg, Sout... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Design-Engineer-Co-op_JR101945) |
 | **NVIDIA** | Applied Deep Learning PhD Research In... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) |
 | **NVIDIA** | PhD Research Intern, Security and Pri... | US, CA, Santa Clara | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) |
@@ -697,7 +698,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1357 current opportunities from 263 companies**
+**🎯 1359 current opportunities from 264 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
