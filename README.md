@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1361-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1360-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-669-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-264-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -242,7 +242,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Smiths Group** | Mechanical Engineering Co-Op | Morton Grove, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) |
 | **Smiths Group** | Mechanical Engineering Co-Op | Morton Grove, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138408779) |
-| **Rainmaker** | Mechanical Engineering Intern (Fall: ... | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/53b8e9ab-09b3-43db-aa07-354643a6cc58/apply) |
 | **Cadence** | SSG Design Engineering Intern (Fall 2... | SAN JOSE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/SSG-Design-Engineering-Intern--Fall-2026-_R52641) |
 | **Baker Hughes** | Intern – Mechanical Engineering & Mec... | Celle, DE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/DE-CELLE-BAKER-HUGHES-STRASSE-1/Praktikum--Bachelor--und-Masterarbeit--Maschinenbau-und-Mechatronik-2026--Celle-_R158055) |
 | **Huntsman** | Mechanical Engineering Intern | Texas | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026) |
@@ -340,6 +339,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Verkada** | Technical Support Engineering Intern ... | San Mateo, CA Uni... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
 | **Figure AI** | Integration and Test - Mechanical Eng... | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4606074006) |
 | **Figure AI** | Validation Engineering Intern [Fall 2... | San Jose, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
+| **Neuralink** | Firmware Engineer Intern, Robotics an... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -698,7 +698,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1361 current opportunities from 264 companies**
+**🎯 1360 current opportunities from 264 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
