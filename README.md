@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1350-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-663-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1348-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-662-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-263-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -409,7 +409,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Hardware & Embedded Research Intern (... | Sunnyvale, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) |
 | **Tessera Labs** | Product Manager, Intern | San Jose | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application) |
 | **Per Scholas** | Development Prospect Research Intern | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/perscholashires/jobs/4678875006) |
-| **QuEra Computing** | Internship - Photonics Design | Boston, MA, USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5239467008) |
 | **NewsBreak** | Research Intern, Agent RL Training | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4684555006) |
 | **PlusAI** | Reinforcement Learning Planning Resea... | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/7565aed4-41b0-44e9-8608-3ccd07e18262/apply) |
 | **PlusAI** | Deep Learning Research Intern | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333/apply) |
@@ -535,10 +534,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **AMAROK Security** | Sales Intern | South Carolina, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/amarok/jobs/6119503004) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
+| **AMAROK Security** | Sales Intern | South Carolina, C... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/amarok/jobs/6119503004) |
 | **Neuralink** | R&D Materials Engineer Intern | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003) |
 | **Cribl** | Customer Advocacy Intern | San Francisco, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cribl.io/job-detail/?gh_jid=6111976004) |
 | **Nokia** | Optical Test Lab Engineer Coop | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36516) |
@@ -695,7 +694,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1350 current opportunities from 263 companies**
+**🎯 1348 current opportunities from 263 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
