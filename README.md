@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1346-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1350-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-663-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-262-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-263-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -137,6 +137,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nidec** | Software Engineer Co-Op | North America/USA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | **SoloPulse** | Software Engineer Intern/Co-Op - Fall... | Peachtree Corners... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) |
+| **Anduril** | 2027 Software Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | **Circleback** | Software Engineering Intern (Summer 2... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application) |
 | **Zipline** | Enterprise Systems Software Engineer ... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7767667003) |
 | **Centerfield** | Software Engineer Intern | Los Angeles, Cali... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) |
@@ -165,7 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **kos.ai** | Software Engineer Intern | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3/application) |
 | **Amazon.com Services LLC** | Software Development Engineer Intern,... | Seattle, WA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) |
 | **Skydio** | Software Engineer Intern Fall 2026/Wi... | San Mateo, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/skydio/f6320e9b-4eed-408d-8d37-d509fb0406ee/application) |
-| **Apptronik** | Robotics Software Intern – Real-Time ... | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -297,6 +297,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Saronic Technologies** | Electrical Engineer Intern (Fall 2026) | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519/application) |
 | **Lila Sciences** | Co-op, Mechanical Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | **Zipline** | Supplier Industrialization Engineerin... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7766424003) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000131662039) |
 | **Freeform** | Additive Engineering Internship (Fall... | Los Angeles, CA (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7767513003) |
 | **Freeform** | Process Engineering Internship (Fall ... | Los Angeles, CA (... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) |
@@ -353,6 +355,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Western Digital** | Fall 2026 PhD Intern - Hardware Devel... | Fremont, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/WesternDigital/744000138191379) |
 | **Marmon Holdings** | Industrial Design Co-op | Carol Stream, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Carol-Stream-IL/Industrial-Design-Co-op_JR0000044501-1) |
 | **Salesforce** | Summer 2027 Intern - Associate Produc... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) |
+| **Lucid Motors** | Retail Design & Development Intern | Amsterdam, NH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007) |
 | **Comcast** | Graphic Design Intern | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Graphic-Design-Intern_R440160) |
 | **Tencent** | Research Intern – Video World Models ... | Palo Alto | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1) |
 | **Akuna Capital** | Quantitative Research Intern, Summer ... | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
@@ -570,7 +573,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Parsons** | Bridge Engineering Co-Op - Fall 2026 | IN, Indianapolis,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://parsons.wd5.myworkdayjobs.com/search/job/US---IN-Indianapolis/Bridge-Engineering-Co-Op---Fall-2026_R177368-1) |
 | **Rivian and Volkswagen Group Technologies** | Technical Program Management Intern (... | Irvine, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/8cfc9852-8aa4-492f-8817-ae4bc62dd127/application) |
 | **Doctors Without Borders** | Executive Intern | New York, New Yor... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/msfcareers/jobs/5355825008) |
-| **Lucid Motors** | Retail Development Intern | Amsterdam, NH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lucidmotors/jobs/5187382007) |
 | **Comcast** | Video Production Intern | Philadelphia, PA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) |
 | **Tencent** | Cloud Media Services Intern | Bellevue | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
 | **Draper** | Laboratory Research Co-Op | Cambridge, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599) |
@@ -632,6 +634,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Agilent Technologies** | Intern - Marketing Operations | Wilmington, DE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Marketing-Operations_4037959) |
 | **GenScript** | IT Support Intern (Full-Time) | Piscataway, New J... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5181777007) |
 | **VAST** | 2026 Fall Internship - Manufacturing | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006) |
+| **Bosch Group** | Sales Intern | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000136305510) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -692,7 +695,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1346 current opportunities from 262 companies**
+**🎯 1350 current opportunities from 263 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
