@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1336-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-655-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1338-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-657-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-262-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -93,8 +93,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Akuna Capital** | Software Engineer Intern - Python, Su... | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
 | **DRW** | Software Developer Intern | Chicago | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7992936) |
 | **TikTok** | Frontend Software Engineer Project In... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7654431844394322229) |
-| **TikTok** | Software Engineer Intern (Recommendat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7534878965941766408) |
 | **TikTok** | Frontend Engineer Project Intern (Tik... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7595733632086591797) |
+| **TikTok** | Software Engineer Intern (Recommendat... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7534878965941766408) |
 | **D. E. Shaw** | Software Developer Intern (New York) ... | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) |
 | **D. E. Shaw** | Software Developer, Ph.D. Intern (New... | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) |
 | **D. E. Shaw** | Systems Administrator Intern (New York) | New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921) |
@@ -361,7 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Akuna Capital** | Quantitative Research Intern, Summer ... | Chicago, IL | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | **DRW** | Quantitative Research Intern | Chicago, New York... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | **TikTok** | Copyright Solution Product Manager Pr... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7657541997725288757) |
-| **TikTok** | Applied Scientist Intern - Trust and ... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7633670871815670069) |
+| **TikTok** | Research Scientist Intern – TikTok Re... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://lifeattiktok.com/position/7633668061979543813) |
 | **Jump Trading** | Campus AI Research Engineer – Researc... | Chicago; New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | **Jump Trading** | Campus AI Research Engineer - Deep Le... | Chicago; New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago; New York | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
@@ -531,6 +531,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Bosch Group** | UX Internship | Farmington Hills, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000138951058) |
+| **Virtu Financial** | Internship - Quantitative Trading | Austin, TX; Chica... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/virtu/jobs/8624408002) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
 | **ByteDance** | Backend Development Engineer Intern (... | San Jose, California | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7540396013748766984) |
@@ -629,8 +631,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sony** | Administration Internship, North Amer... | NA / Nashville 17... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/NA--Nashville-17th-Ave-375/Administration-Internship--North-America-Copyright_JR-119367) |
 | **Agilent Technologies** | Intern - Marketing Operations | Wilmington, DE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---Marketing-Operations_4037959) |
 | **GenScript** | IT Support Intern (Full-Time) | Piscataway, New J... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/genscript/jobs/5181777007) |
-| **VAST** | 2026 Fall Internship - Manufacturing | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006) |
-| **Bosch Group** | Sales Intern | Plymouth, MI | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000136305510) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -691,7 +691,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1336 current opportunities from 262 companies**
+**🎯 1338 current opportunities from 262 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
