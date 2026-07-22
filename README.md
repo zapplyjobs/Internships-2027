@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1351-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1349-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-662-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-262-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -226,7 +226,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PathAI** | Machine Learning Intern/Co-op (Fall 2... | Boston (Onsite), ... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.pathai.com/careers/8202342002?gh_jid=8202342002) |
 | **Neuralink** | Machine Learning Engineer Intern | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) |
 | **Samaya AI** | ML Research Intern | Mountain View, Ca... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/samayaai/jobs/4652765007) |
-| **Instacart** | Machine Learning Engineer, PhD Intern... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=5917202) |
 | **Docugami** | Data Science PhD Intern | Kirkland, Washing... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/docugami/jobs/4192122003) |
 
 <p align="center">Apply for more jobs at</p>
@@ -426,7 +425,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Fall 2026: Industrial Design Co-op (A... | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655076006) |
 | **Sila Nanotechnologies** | Battery Simulation & Computational Sc... | Alameda, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/silananotechnologies/jobs/7584168) |
 | **SharkNinja** | Fall 2026: Product Design Engineering... | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646272006) |
-| **Instacart** | Machine Learning PhD Intern, Economic... | Remote | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
 | **Ginkgo Bioworks** | Automation Scientist Intern, RAC Oper... | Boston, Massachus... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5022683007) |
 | **Neuralink** | Digital IC Design Engineer Intern | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) |
 | **SharkNinja** | Fall 2026: Industrial Design Intern (... | Needham, MA, Unit... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601610006) |
@@ -695,7 +693,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1351 current opportunities from 262 companies**
+**🎯 1349 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
