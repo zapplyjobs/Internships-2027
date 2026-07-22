@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1345-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1344-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-663-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-259-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -145,7 +145,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Rivian and Volkswagen Group Technologies** | Android Developer Intern (Fall 2026) | Palo Alto, Califo... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application) |
 | **TransMarket Group** | DevOps/SRE Intern | Chicago, Illinois... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) |
 | **Beacon Software** | Software Engineering Intern | San Francisco, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application) |
-| **GenBio AI** | Software Engineering Intern | Palo Alto, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply) |
 | **Phia** | Full Stack Engineer Intern | New York City | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application) |
 | **Base Power** | Software Engineering Intern | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) |
 | **PlusAI** | Systems Engineering Intern | Santa Clara, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astranis** | Flight Software Intern (Fall 2026) | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4619283006) |
 | **Astranis** | Environmental Test Engineer Associate... | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676910006) |
 | **Rainmaker** | Software Engineering Intern | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply) |
+| **ASM** | Software Engineering Intern (Spring 2... | > Arizona > Phoenix | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4830113101) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -693,7 +693,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1345 current opportunities from 260 companies**
+**🎯 1344 current opportunities from 259 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
