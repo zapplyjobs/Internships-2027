@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1349-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1348-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-672-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -114,7 +114,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Zipline** | Software Engineer Intern (Fall 2026) | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7787509003) |
 | **VAST** | 2026 Fall Internship - Supplier Quali... | Long Beach, Calif... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/vast/jobs/4691428006?gh_jid=4691428006) |
 | **Crane Co.** | Quality Engineering Co-op | Spartanburg, Sout... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Quality-Engineering-Co-op_JR101988) |
-| **Formlabs** | Manufacturing Test Software Intern (F... | Somerville, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) |
 | **Magna** | Software Engineering Co-op | Newmarket, Ontari... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013) |
 | **Agilent Technologies** | Intern - R&D Software Engineering (AI... | Wilmington, DE | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Intern---R-D-Software-Engineering--AI---Test-Automation-_4038437) |
 | **iHerb** | Software Development Intern | Remote / Home | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/iherb/jobs/7776154003) |
@@ -166,6 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Astranis** | Flight Software Intern (Fall 2026) | San Francisco | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4619283006) |
 | **Rainmaker** | Software Engineering Intern | El Segundo, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply) |
 | **ASM** | Software Engineering Intern (Spring 2... | > Arizona > Phoenix | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4830113101) |
+| **Hermeus** | Software Engineering Intern (Modeling... | Los Angeles, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -689,7 +689,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1349 current opportunities from 260 companies**
+**🎯 1348 current opportunities from 260 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
