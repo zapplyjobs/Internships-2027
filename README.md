@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1350-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1349-brightgreen?style=flat&logo=briefcase)
 ![Top: Other Internships](https://img.shields.io/badge/Other_Internships-672-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -295,7 +295,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nidec** | manufacturing engineering intern | North America/USA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaMankato-MN/manufacturing-engineering-intern_R0016035) |
 | **Nidec** | Electrical Engineer Intern | North America/USA... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984) |
 | **Copart** | Field Engineering Intern | Dallas, TX - Head... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR104026) |
-| **Saronic Technologies** | Electrical Engineer Intern (Fall 2026) | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519/application) |
 | **Lila Sciences** | Co-op, Mechanical Engineer | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | **Zipline** | Supplier Industrialization Engineerin... | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7766424003) |
 | **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
@@ -690,7 +689,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1350 current opportunities from 260 companies**
+**🎯 1349 current opportunities from 260 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
