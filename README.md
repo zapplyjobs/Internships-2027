@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1348-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-672-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1352-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-673-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -312,6 +312,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Hardware Undergrad Engineering Intern... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships) |
 | **Apple** | Hardware Technologies Masters Enginee... | United States | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships) |
 | **Rocket Lab** | Manufacturing Engineering Intern Fall... | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7733900003) |
+| **WSP** | Electrical Engineering Co-op - Fall 2... | Philadelphia, PA,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87098) |
+| **WSP** | Mechanical Engineering Co-op - Fall 2... | Philadelphia, PA,... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87100) |
 | **Rocket Lab** | Mechanical Engineering Intern Fall 2026 | Long Beach, CA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7728969003) |
 | **Rocket Lab** | R&D Engineering Intern Fall 2026 | Albuquerque, NM | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7736088003) |
 | **Base Power** | Manufacturing Engineering Intern | Austin, TX | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b/application) |
@@ -502,6 +504,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Curtiss-Wright** | Purchasing & Supply Chain Intern (6-m... | Middleburg Hts., OH | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1) |
 | **Eulerity** | Operations Intern | New York, NY | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/eulerity/jobs/4689890006) |
 | **Zipline** | Communications Intern (Fall 2026) | South San Francis... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7772003003) |
+| **Emerson Electric** | Material Planning and Inventory Intern | Knoxville, TN, Un... | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006476) |
 | **Gotion** | Logistics Intern | Manteno, Illinois | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/gotion/jobs/8582700002) |
 | **Formlabs** | Event Logistics Intern (Fall 2026) | Somerville, MA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.formlabs.com/job/7985796/apply/?gh_jid=7985796) |
 | **Flagship Pioneering** | Serif Biomedicines, Market Intelligen... | Cambridge, MA USA | Recently |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8580062002?gh_jid=8580062002) |
@@ -689,7 +692,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1348 current opportunities from 260 companies**
+**🎯 1352 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
