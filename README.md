@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1329-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-666-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-257-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1349-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-677-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-259-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -138,6 +138,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nidec** | Software Engineer Co-Op | North America/USA... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871) |
 | **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268) |
 | **SoloPulse** | Software Engineer Intern/Co-Op - Fall... | Peachtree Corners... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply) |
+| **Anduril** | 2027 Software Engineer Intern | Atlanta, Georgia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | **Circleback** | Software Engineering Intern (Summer 2... | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application) |
 | **Zipline** | Enterprise Systems Software Engineer ... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7767667003) |
 | **Centerfield** | Software Engineer Intern | Los Angeles, Cali... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application) |
@@ -151,7 +152,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PlusAI** | Systems Engineering Intern | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply) |
 | **PlusAI** | Systems Engineering Intern | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/43bad137-b976-4dfa-b72d-96918929e9db/apply) |
 | **PlusAI** | Systems Engineering Intern | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/bbdaa94b-6c29-4b1b-b810-05cda3c08d03/apply) |
+| **Oracle** | OCI Software Engineer Intern - OVIP | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333) |
+| **Oracle** | OCI Software Engineer Intern - OVIP | Seattle, WA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325) |
 | **Apple** | Software Engineering Masters Internships | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) |
+| **Oracle** | GDI Information Security Analyst Inte... | Reston, VA, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334389) |
 | **Etched** | Chip Simulation Software Intern | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) |
 | **Hermeus** | Subsystem Test Engineering Intern - F... | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e/apply) |
 | **Saronic Technologies** | Software Engineer Intern (Fall 2026) | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application) |
@@ -162,10 +166,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apptronik** | Robotics Software Intern – Real-Time ... | Austin, TX | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004) |
 | **Astranis** | Flight Software Intern (Fall 2026) | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4619283006) |
 | **Rainmaker** | Software Engineering Intern | El Segundo, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply) |
-| **ASM** | Software Engineering Intern (Spring 2... | > Arizona > Phoenix | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.asm.com/open-vacancies/?gh_jid=4830113101) |
-| **Hermeus** | Software Engineering Intern (Modeling... | Los Angeles, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) |
-| **Hermeus** | Software Engineering Intern (HIL) - F... | Atlanta, GA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) |
-| **Auctor** | Software Engineering Intern | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -211,6 +211,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PlusAI** | Machine Learning Engineer Intern | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/5d71c173-fef1-409f-b3f0-750e3b828266/apply) |
 | **Evolver** | Applied Data Science Intern | Palo Alto, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/evolver/jobs/4254540009) |
 | **PlusAI** | Machine Learning Engineer Intern - Pl... | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/plus-2/91a07eb1-2244-48bf-a65b-dc166a327ddc/apply) |
+| **Oracle** | GDI Business Analyst Intern - OVIP | Austin, TX, Unite... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334390) |
 | **Cresta** | Data Science Intern (Customer Success) | United States (Re... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | **XPENG Motors** | AI Intern – VLA Deployment | Santa Clara, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
 | **Integra FEC** | (FALL) Data Scientist Intern - PhD | Austin, Texas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/integra/jobs/5134592008) |
@@ -298,6 +299,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Copart** | Field Engineering Intern | Dallas, TX - Head... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR104026) |
 | **Lila Sciences** | Co-op, Mechanical Engineer | Cambridge, MA USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/lilasciences/jobs/4284223009) |
 | **Zipline** | Supplier Industrialization Engineerin... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7766424003) |
+| **Anduril** | 2027 Mechanical Engineer Intern | Atlanta, Georgia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) |
+| **Anduril** | 2027 Electrical Engineer Intern | Atlanta, Georgia,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) |
 | **Bosch Group** | Mechanical Design Engineering Intern | Fort Lauderdale, FL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000131662039) |
 | **Freeform** | Additive Engineering Internship (Fall... | Los Angeles, CA (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7767513003) |
 | **Freeform** | Process Engineering Internship (Fall ... | Los Angeles, CA (... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7765271003) |
@@ -412,6 +415,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Apple** | Hardware Technologies PhD Internships | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664414/hardware-technologies-phd-internships) |
 | **Apple** | Software PhD Internships | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200664323/software-phd-internships) |
 | **Sunwater Capital** | Fall Congressional Research Intern | North Bethesda, MD | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/sunwatercapital/af4d2018-b141-47b4-9a3c-e32d77dbecb7/apply) |
+| **Oracle** | OH Product Manager Intern - OVIP | Kansas City, MO, ... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348) |
 | **Auctor** | Visual Design Intern | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/auctor/4f3db71d-d7ed-4b4f-846a-6e0962ce2661/application) |
 | **Bosch Group** | Wireless Sensing Research Intern | Sunnyvale, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) |
 | **Neuralink** | Analog and Mixed-Signal IC Design Eng... | South San Francis... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) |
@@ -504,6 +508,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Walleye Capital** | Business Operations Intern (Summer 2027) | New York, New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4678723006) |
 | **Amazon.com Services LLC** | 2027 Amazon Finance Rotation Program ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10435671/2027-amazon-finance-rotation-program-accounting-intern) |
 | **Amazon.com Services LLC** | 2027 Amazon Finance Rotation Program ... | Seattle, WA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.amazon.jobs/en/jobs/10435672/2027-amazon-finance-rotation-program-business-unit-finance-intern) |
+| **Oracle** | CEGIU Demo Data Strategy Intern - OVIP | Redwood City, CA,... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396) |
 | **Rocket Lab** | Supply Chain Intern Fall 2026 | Long Beach, CA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7728092003) |
 | **Rocket Lab** | Supply Chain Intern Fall 2026 | Middle River, MD | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/rocketlab/jobs/7733795003) |
 | **Etched** | Finance Intern | San Jose | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/etched/a0a1671e-15d4-474c-8227-97fe16ade553/application) |
@@ -684,7 +689,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1329 current opportunities from 257 companies**
+**🎯 1349 current opportunities from 259 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
