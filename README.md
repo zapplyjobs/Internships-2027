@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1349-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-677-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-259-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1347-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-674-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-260-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -239,6 +239,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
+| **Reframe Systems** | Mechanical Engineer (Fall 2026 Co-op) | Andover, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/reframesystems/3e46ee10-3a7f-4c0d-91af-e38eb9dee4fc/application) |
 | **QuEra Computing** | Mechanical Engineering Co-Op - Fall 2026 | Boston, MA, USA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5370312008) |
 | **WSP** | Civil Engineering Intern- Fall 2026 | Worcester, MA, Un... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91537) |
 | **True Anomaly** | Avionics and Electrical Engineering F... | Denver, CO  Long... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007) |
@@ -534,9 +535,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
 | **Google** | Student Researcher, PhD, Fall 2026 | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
-| **NBCUniversal** | NBC Connecticut Newsroom Intern - Aca... | Hartford, Connect... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140052389) |
-| **NBCUniversal** | NBC Connecticut Newsroom Intern - Aca... | Hartford, Connect... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140049387) |
-| **NBCUniversal** | NBC Connecticut Newsroom Intern - Aca... | Hartford, Connect... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000140050190) |
 | **AbbVie** | 2027 Accounting & Finance Development... | North Chicago, IL | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014292926) |
 | **Apple** | Applied Data Solutions Program (Inter... | Austin | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships) |
 | **Stevens Capital Management** | Developer Internship | Radnor, PA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/scm/jobs/721888) |
@@ -621,7 +619,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Manhattan Associates** | A.I. Developer Co-Op (Boston, MA) | Home | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931) |
 | **Intuitive** | Global Customer Insights Intern | Peachtree Corners... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000136889780) |
 | **Astranis** | Recruiting Coordination Associate (Fa... | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4609434006) |
+| **NBCUniversal** | KVDA  Tech Ops Internship | San Antonio, TEXAS | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136875591) |
 | **Doctors Without Borders** | Public Engagement Intern | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/msfcareers/jobs/5316260008) |
+| **NBCUniversal** | KTMD Intern | Houston, TEXAS | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000136834628) |
 | **Sony** | Legal Intern | New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Legal-Intern_JR-119374) |
 | **Jump Trading** | Campus Quantitative Researcher, PhD (... | Chicago; New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8049938) |
 | **Jump Trading** | Campus Quantitative Researcher, UG/MS... | Chicago; New York | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=7982648) |
@@ -629,6 +629,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Fall 2026: CodeShark, DTC Digital Exp... | Needham, MA, Unit... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006) |
 | **SharkNinja** | Fall 2026: ShopShark Co-op, eCommerce... | New York, New Yor... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695621006) |
 | **Astranis** | Network Planning Sales Engineer Assoc... | San Francisco | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4693083006) |
+| **Nelnet** | Intern Corporate Accounts Payable | Lincoln, NE | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Corporate-Accounts-Payable_R22828) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -689,7 +690,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1349 current opportunities from 259 companies**
+**🎯 1347 current opportunities from 260 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
