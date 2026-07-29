@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1450-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-773-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-253-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1452-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-775-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-254-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -545,6 +545,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Product Management Internship (6-month) | Farmington Hills, MI | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000140457960) |
 | **Jabil** | Calibration Technician Intern - PartTime | Grand Junction, CO | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Grand-Junction-CO/Calibration-Technician-Intern---PartTime_J2458100) |
 | **Draper** | Electronics & Embedded Systems Intern... | Cambridge, MA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735) |
+| **Nokia** | Customer Engineering Co-Op | United States | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35969) |
 | **HNTB** | Returning New Grad Engineer I - Winte... | Philadelphia PA P... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Philadelphia-PA-Pennsylvania/Returning-New-Grad-Engineer-I---Winter-Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-30929-1) |
 | **HNTB** | Returning Intern Engineer  - Summer 2... | Atlanta, GA + 9 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930-1) |
 | **HNTB** | Returning New Grad Engineer I (Southe... | Tampa, FL + 3 more | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Returning-New-Grad-Engineer-I--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30928-1) |
@@ -627,7 +628,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Huntsman** | Chemist Intern | Texas | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemist-Intern_J-020029) |
 | **Tencent** | Cloud Media Services Intern | Bellevue | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794) |
 | **Intel** | New Mexico WPM Manufacturing Technici... | US, New Mexico, A... | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454) |
-| **Comcast** | Video Production Intern | Philadelphia, PA | Undated |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Video-Production-Intern_R440161) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -688,7 +688,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1450 current opportunities from 253 companies**
+**🎯 1452 current opportunities from 254 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
