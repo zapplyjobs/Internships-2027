@@ -79,7 +79,6 @@ The following are some worldwide research internship positions:
   * [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/student-internships), for all students. 
   * [Max Planck Institute for Software Systems](https://apply.mpi-sws.org/register/internship/)
   * [Warwick Statistics Internship Scheme](https://warwick.ac.uk/fac/sci/statistics/research/internships/), University of Warwick
-  * [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
   * [HZDR Dresden, Summer student program (Germany)](https://www.hzdr.de/db/Cms?pOid=34387&pNid=2519)
   * [MaxSIP (Max Planck Institute Summer Internship)](https://imprs-ls.opencampus.net/en/maxsip_application_info)
   * [UROP International](http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Angebote-fuer-Studierende/UROP/UROP-INternational/~wnr/Informationen-fuer-Studierende/?lidx=1), RWTH Aachen
@@ -196,7 +195,6 @@ The following are some worldwide research internship positions:
 * [Internship At CMI](https://www.cmi.ac.in/admissions/internships.php), Chennai Mathematical Institute
 * [Shastri Student Internship Project](https://www.shastriinstitute.org/Shastri_Student_Internship_Project), Eligible universities [here](https://www.shastriinstitute.org/member-council)
 * [Cisco Summer internship](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1295250?source=Pitt+CSC&tags=CDC+SnNG+students-and-new-graduate-programs)
-* [SSERD Research Intern](https://www.sserd.org/internship/) for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 * [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/), IISER Kolkata
 * [Bhaba Atomic Research Centre](http://www.barc.gov.in/student/)
 * [IIIT HYDERABAD](https://ihub-data.iiit.ac.in/programs/events/shristi-23/)
