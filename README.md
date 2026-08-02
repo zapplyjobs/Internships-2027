@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1033-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-540-informational?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-253-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1029-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-538-informational?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-252-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -66,9 +66,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **DRW** | Platform Engineer Intern | Chicago | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Head... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Software Engineering Intern | Dallas, TX - Head... | 3d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -107,8 +107,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Jump Trading** | Campus Software Engineer (Intern) | Chicago | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Jump Trading** | Campus UI Software Engineer (Intern) | Chicago | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **The Exploration Company** | Crew Systems Engineering Intern - Mec... | Houston, Texas | 4w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NVIDIA** | PhD Software Engineering Intern, Deci... | US, CA, Santa Clara | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **IDEXX** | Security Operations (Cybersecurity) i... | Westbrook, ME | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Sony** | Software Engineer Intern | San Diego | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Expedia Group** | Software Development Engineering Inte... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nidec** | Software Engineer Co-Op | North America/USA... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -177,10 +177,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Postman** | AI Engineer, Intern | Berkeley, Califor... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Postman** | AI Engineer, Intern | Berkeley, Califor... | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nelnet** | Agentic AI Intern- Marketing and Comm... | Lincoln, NE | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Modal** | ML Research Intern | New York | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Data Engineering Intern | Dallas, TX - Head... | 6d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -190,15 +190,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Capital One** | Current Master's - Data Science Inter... | McLean, VA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Moog** | Intern, IT Computer Science - Data An... | Buffalo, NY | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Jump Trading** | Campus Data Engineer (Intern) | Chicago | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Campbell Soup Company** | Business Analyst (Co-op), DA&AI | Remote | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NVIDIA** | PhD Research Intern, Generative AI - ... | US, CA, Santa Clara | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Equifax** | Data & Analytics Intern | Georgia | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ardian** | Data Scientist Intern | New York | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **InterDigital** | Generative AI Implementation Intern | Conshohocken, PA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nelnet** | Intern - AI Engineer | Lincoln, NE | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Marmon Holdings** | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | Agentic AI Engineer Co-Op | Remote | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Campbell Soup Company** | Business Analyst (Co-op), DA&AI | Remote | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Centerfield** | Data Science Intern | Los Angeles, Cali... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Doctors Without Borders** | Data Science Intern | New York, New Yor... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Institute for Foundation Models** | AI Research Internship - WM | Sunnyvale, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -266,6 +266,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Xsolla** | AI-First Engineering Intern | Los Angeles, Unit... | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Agilent Technologies** | Electrical Engineering Intern | Wilmington, DE | 3w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Jump Trading** | Campus FPGA Engineer (Intern) | Chicago | 3w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Bio-Techne** | Hardware Engineering Intern | San Jose, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Teledyne** | Computer Engineering Intern | Lincoln, NE | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Database Engineering Intern | Dallas, TX - Head... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Field Engineering Intern | Dallas, TX - Head... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -289,7 +290,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Marmon Holdings** | Engineering Intern Co-op | Chicago, IL | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Marmon Holdings** | Digital Production Engineering Intern... | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Marmon Holdings** | Mechanical Engineer Intern | United States of ... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Bio-Techne** | Hardware Engineering Intern | San Jose, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IMC Trading** | Hardware Engineer Intern - Summer 2027 | Chicago, United S... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zipline** | System Test Automation Intern (Fall 2... | South San Francis... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Stantec** | Civil Engineering Intern/Co-op - Tran... | Rochelle Park, NJ... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -346,9 +346,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Applied Research Intern- AI Safety Se... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 11m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Applied Research Intern- AI Safety Se... | San Jose, California | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 16m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Palantir** | Product Designer, Internship - US Gov... | Palo Alto, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **MKS Instruments** | Fall 2026 Technical Product Marketing... | Irvine, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Schweitzer Engineering Laboratories** | Designer/Drafter Intern | Fairview Heights | Date unknown | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -372,6 +372,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **NVIDIA** | Applied Deep Learning PhD Research In... | US, CA, Santa Clara | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NVIDIA** | Applied Research Intern, NLP - Fall 2026 | US, CA, Santa Clara | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **NVIDIA** | PhD Research Intern, Security and Pri... | US, CA, Santa Clara | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Astreya** | AI Infrastructure DC Design Intern | Remote, CA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Astreya** | AI Infrastructure DC Design Intern | Remote, CA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nissan** | Autonomous Driving Applications Resea... | Santa Clara, Cali... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Tencent** | Hunyuan Multimodal Reinforcement Lear... | Palo Alto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Copart** | Technology Product Analyst Intern | Dallas, TX - Head... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -384,8 +386,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Expedia Group** | 2023 PhD Intern - Machine Learning Sc... | Austin Domain 11 ... | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Ambarella** | ASIC Design Engineer Intern | Headquarters | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Carnegie Mellon University** | RF Cyber Lab Intern | Pittsburgh, PA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Astreya** | AI Infrastructure DC Design Intern | Remote, CA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Astreya** | AI Infrastructure DC Design Intern | Remote, CA | 1mo | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IMC Trading** | Quantitative Research Intern (PhD) - ... | Chicago, United S... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IMC Trading** | Quantitative Research Intern (BS/MS) ... | Chicago, United S... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **IMC Trading** | Machine Learning Research Intern - Su... | Chicago, United S... | 1mo | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -429,10 +429,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | AI Creator Operations Intern (CapCut)... | Los Angeles, Cali... | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | AI Creator Operations Intern (CapCut)... | Los Angeles, Cali... | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Relay** | Product & Strategy Intern (Summer 202... | Raleigh, NC | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Relay** | Product & Strategy Intern (Fall 2026 ... | Raleigh, NC | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Comcast** | Marketing Intern | Philadelphia, PA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Applied Materials** | Finance Intern (MBA - Austin, TX) | Austin,TX | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Applied Materials** | Finance Intern (MBA - Santa Clara, CA) | Santa Clara,CA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **BorgWarner** | Supply Chain Intern | North Carolina | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -470,7 +469,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Flow Traders** | Quantitative Trading Intern Summer 2027 | New York | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Nelnet** | Accounting Intern | Lincoln, NE | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eulerity** | Website Developer & Content Marketing... | New York, NY | 4w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Tencent** | Game Operations Intern | 2 Locations | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JM Family Enterprises** | Distribution Operations Intern | Norcross | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **JM Family Enterprises** | Accounting Intern | Deerfield Beach | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Regal Rexnord** | Supply Chain Co-Op | Florence, Kentuck... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Curtiss-Wright** | Purchasing & Supply Chain Intern (6-m... | Middleburg Hts., OH | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Magna** | Internship - Human Resources | Newaygo, Michigan... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -482,8 +482,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **BorgWarner** | HR Intern | North Carolina | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Logitech** | Category Marketing Intern - Personal ... | San Jose, Califor... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Marmon Holdings** | Product Management/Marketing Intern –... | Charlotte, NC | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **JM Family Enterprises** | Distribution Operations Intern | Norcross | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **JM Family Enterprises** | Accounting Intern | Deerfield Beach | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Caterpillar** | 2027 Summer Corporate Intern- Supply ... | Peoria Illinois | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Cloudflare** | Network Strategy Intern (Fall 2026) | Austin, TX | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Zipline** | Financial Analyst Intern (Fall 2026) | South San Francis... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -515,11 +513,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **ByteDance** | Marketing & KOL Cooperation Intern (C... | Los Angeles, Cali... | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Student Researcher, PhD, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 13m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **ByteDance** | Marketing & KOL Cooperation Intern (C... | Los Angeles, Cali... | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Student Researcher, PhD, Fall 2026 | United States | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 18m | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **GenScript** | LNP Production Intern (Full time) | Redmond, Washingt... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Eulerity** | Intern - Office of the CEO | New York, NY | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Adobe** | 2027 Intern - Adobe Sales Academy BDR | San Jose | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -573,7 +571,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CME Group** | Corporate Tax Intern - Year Round | Chicago | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Agilent Technologies** | Segment Marketing Communications & In... | Wilmington, DE | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Rockwell Automation** | Intern, Applied AI | Austin, Texas, Un... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Disney** | Walt Disney Television Labor Relation... | Burbank, CA, USA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **WSP** | Public Affairs Intern - Fall 2026 | New York, NY, Uni... | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Kognitos** | Forward Deployed Engineer Intern (Mou... | Mountain View | 4d | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Skydio** | Operations Program Management Intern | Hayward, Californ... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -602,7 +599,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Applied Materials** | 2026 Process Engineer Co-op - Adv Deg... | Gloucester,MA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Thornton Tomasetti** | Structural Engineer Intern | Miami, FL, USA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Carnegie Mellon University** | Security Services Intern - Fall Semester | Pittsburgh, PA | 1w | 🏛 H-1B Co. | [<img src="images/apply.png" width="80" alt="Apply">](#) |
-| **Disney** | Risk Management Intern, Fall 2026 | Burbank, CA, USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Warner Bros. Discovery** | WBD Academic Year Internships (WAY): ... | Atlanta, GA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Warner Bros. Discovery** | WBD Academic Year Internships (WAY): ... | Washington, DC | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Warner Bros. Discovery** | WBD Academic Year Internships (WAY): ... | New York, NY | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
@@ -615,6 +611,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Virtu Financial** | 2027 Internship - Quantitative Resear... | New York | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Delta Dental** | Internship- Utilization Management an... | Okemos, MI | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 | **Draper** | Acoustic and Vibration Technologies C... | Cambridge, MA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **Virtu Financial** | 2027 Internship - Quantitative Trading | Austin, TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
+| **AbbVie** | 2027 Packaging Co-Op (July - Dec) | North Chicago, IL | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](#) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -675,7 +673,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1033 current opportunities from 253 companies**
+**🎯 1029 current opportunities from 252 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
