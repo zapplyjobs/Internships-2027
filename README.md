@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-1209-brightgreen?style=flat&logo=briefcase)
-![Top: Other Internships](https://img.shields.io/badge/Other_Internships-668-informational?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-1205-brightgreen?style=flat&logo=briefcase)
+![Top: Other Internships](https://img.shields.io/badge/Other_Internships-667-informational?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-274-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -66,11 +66,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bosch Group** | Project Management / Test Engineering... | Plymouth, MI | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000141334799) |
+| **Bosch Group** | Project Management / Test Engineering... | Plymouth, MI | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000141334799) |
 | **Samsara** | Software Engineering Internship - San... | SF9 | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
-| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
-| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
-| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
+| **ByteDance** | Software Engineer Intern (Applied Mac... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7533045355162044690) |
+| **ByteDance** | Security Engineering Project Intern (... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7625759034518128901) |
+| **ByteDance** | Site Reliability Engineer Project Int... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7600174040255007029) |
 | **Uline** | Software Development Internship - Sum... | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684) |
 | **Uline** | Network Engineer Internship - Summer ... | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Network-Engineer-Internship---Summer-2027_R265689) |
 | **Microchip Technology** | Intern-Engineering (Software Developm... | Houston, TX | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26) |
@@ -178,9 +178,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Cloudflare** | Marketing Programs and Analytics Inte... | Austin, TX | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138) |
-| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538942403488188680) |
-| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
-| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
+| **ByteDance** | Machine Learning Engineer Intern (E-C... | Seattle, Washington | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7538942403488188680) |
+| **ByteDance** | Machine Learning Engineer Intern (Glo... | Seattle, Washington | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535951608832657682) |
+| **ByteDance** | Machine Learning Engineer Intern (E-c... | Seattle, Washington | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7535171166420453639) |
 | **Uline** | Financial Data Analyst Internship - S... | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665) |
 | **Uline** | Business Intelligence Developer Inter... | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685) |
 | **Boeing** | Boeing Summer 2027 Internship Program... | Everett, WA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) |
@@ -240,8 +240,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **Schweitzer Engineering Laboratories** | Engineering Intern | Houston | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278) |
 | **Bosch Group** | 2027 Spring Mechanical/Electrical Eng... | Charleston, SC | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000141338219) |
-| **Zipline** | Quality & Manufacturing Intern (Summe... | South San Francis... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7824316003) |
-| **Zipline** | Quality & Manufacturing Intern (Sprin... | South San Francis... | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7824311003) |
+| **Zipline** | Quality & Manufacturing Intern (Summe... | South San Francis... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7824316003) |
+| **Zipline** | Quality & Manufacturing Intern (Sprin... | South San Francis... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.zipline.com/open-roles?gh_jid=7824311003) |
 | **Bosch Group** | AI and SW Development Engineering Intern | Plymouth, MI | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) |
 | **Crane Co.** | Manufacturing Intern | Cincinnati, Ohio | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251) |
 | **WSP** | Overhead Transmission Line Design Eng... | Birmingham, AL, U... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869) |
@@ -262,7 +262,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **QuEra Computing** | Mechanical Engineering Co-Op - Fall 2026 | Boston, MA, USA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/queracomputinginc/jobs/5370312008) |
 | **Magna** | R&D- Computer Vision Engineering Intern | Troy, Michigan, US | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1) |
 | **WSP** | Civil Engineering Intern- Fall 2026 | Worcester, MA, Un... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91537) |
-| **Applied Materials** | 2026 Fall Mechanical Engineer Co-op -... | Gloucester,MA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501) |
 | **True Anomaly** | Avionics and Electrical Engineering F... | Denver, CO  Long... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007) |
 | **Contoro Robotics** | Robotics Engineer Intern - Test & Val... | Austin, TX | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5) |
 | **Smiths Group** | Mechanical Engineering Co-Op | Morton Grove, IL | 2w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594) |
@@ -280,9 +279,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Agilent Technologies** | Electrical Engineering Intern | Wilmington, DE | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526) |
 | **Jump Trading** | Campus FPGA Engineer (Intern) | Chicago | 3w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | **Thornton Tomasetti** | Mechanical Engineer Co-op | New York, NY, USA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tt.wd503.myworkdayjobs.com/thorntontomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868) |
+| **Nidec** | Nidec Aerospace Internship & Graduate... | Atlanta, GA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414) |
 | **Nidec** | manufacturing engineering intern | North America/USA... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaMankato-MN/manufacturing-engineering-intern_R0016035) |
 | **Nidec** | Electrical Engineer Intern | North America/USA... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSATennesseeLexington-TN/Electrical-Engineer-Intern_R0015984) |
-| **Nidec** | Nidec Aerospace Internship & Graduate... | Atlanta, GA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nidec.wd1.myworkdayjobs.com/nidec/job/Atlanta-GA/Nidec-Aerospace-Internship-Opportunities_R0010414) |
 | **Marmon Holdings** | Engineering Intern Co-op | Chicago, IL | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern-Co-op_JR0000026780-4) |
 | **Marmon Holdings** | Digital Production Engineering Intern... | Milwaukee, WI | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) |
 | **Marmon Holdings** | Mechanical Engineer Intern | United States of ... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1) |
@@ -345,9 +344,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ByteDance** | Applied Research Intern- AI Safety Se... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
-| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7654366987607542021) |
-| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642762054696896773) |
+| **ByteDance** | Applied Research Intern- AI Safety Se... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7645070235035044101) |
+| **ByteDance** | Research Intern (AML) - 2026 Start (PhD) | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7654366987607542021) |
+| **ByteDance** | Research Scientist Intern (Seed Respo... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642762054696896773) |
 | **Uline** | Product Marketing Internship - Summer... | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2027_R265897) |
 | **Salesforce** | Associate Product Manager (starting s... | San Francisco | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1) |
 | **Applied Materials** | Technology Market Research Intern, St... | Santa Clara,CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Technology-Market-Research-Intern--Strategy-and-Operations--Master-s--Santa-Clara--CA-_R2625128) |
@@ -378,16 +377,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Tencent** | Hunyuan Multimodal Reinforcement Lear... | Palo Alto | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Reinforcement-Learning-Research-Intern_R107084-1) |
 | **Sony** | Research Intern on Generative and Pro... | New York | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) |
 | **Sony** | Research Intern on Generative and Pro... | Michigan | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961) |
-| **NVIDIA** | Applied Deep Learning PhD Research In... | US, CA, Santa Clara | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) |
 | **NVIDIA** | Applied Research Intern, NLP - Fall 2026 | US, CA, Santa Clara | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) |
 | **NVIDIA** | PhD Research Intern, Security and Pri... | US, CA, Santa Clara | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) |
+| **NVIDIA** | Applied Deep Learning PhD Research In... | US, CA, Santa Clara | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) |
 | **Nissan** | Autonomous Driving Applications Resea... | Santa Clara, Cali... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383) |
+| **Menasha Corporation** | Custom Packaging Design Engineer Co-O... | Piedmont, South C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995) |
 | **Menasha Corporation** | Custom Packaging Design Engineer Co-O... | Piedmont, South C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Fall-2027-_R12881) |
 | **Menasha Corporation** | Custom Packaging Design Engineer Co-O... | Piedmont, South C... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Spring-2027-_R12880) |
-| **Menasha Corporation** | Custom Packaging Design Engineer Co-O... | Northwood, Ohio | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Northwood-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Fall-2027-_R12874) |
-| **Marvell** | Analog Design Intern - Master's Degre... | Westlake Village, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1) |
 | **Marvell** | Applied Machine Learning Scientist In... | Santa Clara, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) |
 | **Marvell** | Design/DSP/Verification Intern - PhD ... | Santa Clara, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1) |
+| **Marvell** | Digital Logic + Design Verification G... | Santa Clara, CA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-Logic---Design-Verification-Graduate-Co-Op-Program--US---Fall-2026-_2602858-1) |
 | **HNTB** | Co-op Engineer: Track Design/Rail - F... | Philadelphia PA P... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874) |
 | **Expedia Group** | 2023 PhD Intern - Machine Learning Sc... | Austin Domain 11 ... | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833) |
 | **Carnegie Mellon University** | RF Cyber Lab Intern | Pittsburgh, PA | 1mo |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/RF-Cyber-Lab-Intern_2024547) |
@@ -457,8 +456,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Live Nation** | Insomniac - Paid Fall Street Marketin... | Calabasas, CA, USA | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Street-Marketing-Internship_JR-92052-1) |
 | **Caterpillar** | Finance Intern | Tijuana Baja Cali... | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/Tijuana-Baja-California/Finance-Intern_R0000384384-1) |
 | **BorgWarner** | Supply Chain Intern | North Carolina | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Supply-Chain-Intern_R2026-3048-1) |
-| **Applied Materials** | Finance Intern (MBA - Austin, TX) | Austin,TX | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Finance-Intern--MBA---Austin--TX-_R2624934) |
-| **Applied Materials** | Finance Intern (MBA - Santa Clara, CA) | Santa Clara,CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Finance-Intern--MBA---Santa-Clara--CA-_R2624906) |
 | **NewsBreak** | MBA HR Intern | Mountain View, Ca... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/newsbreak/jobs/4700333006) |
 | **Crest Industries** | Mid-State Accounting Intern | Alexandria, Louis... | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/crestoperations/b155c903-f65d-489b-8ea0-d959af22c481) |
 | **SpaceX** | Recruiting Coordinator, Intern Progra... | Hawthorne, CA | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002) |
@@ -547,9 +544,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TransMarket Group** | Algorithmic Trader Intern | Chicago, Illinois... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151581007?gh_jid=5151581007) |
 | **AbbVie** | 2027 Pharmaceutical Sales Intern (Und... | Mettawa, IL | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/AbbVie/3743990014406212) |
 | **SharkNinja** | Fall 2026: Social Sharks, Social Cont... | New York, New Yor... | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701006006) |
-| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665469197580831029) |
-| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
-| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
+| **ByteDance** | Datacenter Procurement Project Intern... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7665469197580831029) |
+| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7642450978503641397) |
+| **ByteDance** | Payment Partnership Project Intern (G... | San Jose, California | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://joinbytedance.com/search/7655983362465990965) |
 | **Google** | Student Researcher, PhD, Fall 2026 | United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) |
 | **Google** | Student Researcher, BS/MS, Fall 2026 | United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) |
 | **PNC Financial Services** | Corporate & Institutional Banking Und... | Overland Park, KS | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://pnc.wd5.myworkdayjobs.com/External/job/KS---Overland-Park/Corporate---Institutional-Banking-Undergraduate-Intern---Midland-Loan-Services_R230913) |
@@ -570,10 +567,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **General Motors** | 2026 Fall Intern - Research & Develop... | Warren, Michigan,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development_JR-202613027) |
 | **HNTB** | WED - 2027 New Grad Engineer I (For C... | 3 Locations | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Los-Angeles-CA-Figueroa-Street/WED---2027-New-Grad-Engineer-I--For-Current---Recent-HNTB-Interns-Only-_R-31008-1) |
 | **HNTB** | Returning Intern/Co-op Planner/Projec... | Boston, MA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Boston-MA/Returning-Intern-Co-op-Planner-Project-Controls---NED-Summer-2026--For-current-previous-HNTB-interns-only-_R-31007-1) |
-| **Disney** | KTRK-TV (ABC13) News Intern, Fall 2026 | Houston, TX, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Houston-TX-USA/KTRK-TV--ABC13--News-Intern--Fall-2026_10152696) |
 | **CVS Health** | Pharmacy Intern | Henderson, NV | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NV---Henderson/Pharmacy-Intern_R0999114) |
 | **CVS Health** | Pharmacy Intern | Garden City, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Garden-City/Pharmacy-Intern_R0999115) |
 | **CVS Health** | Pharmacy Intern | Sun City, AZ | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Sun-City/Pharmacy-Intern_R0999108) |
+| **Disney** | KTRK-TV (ABC13) News Intern, Fall 2026 | Houston, TX, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Houston-TX-USA/KTRK-TV--ABC13--News-Intern--Fall-2026_10152696) |
 | **Draper** | Space GNC Co-Op (Fall 2026) | Houston, TX | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721) |
 | **Comcast** | Ticket Sales & Service Intern | Philadelphia, PA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-3601-S-Broad-St/Ticket-Sales---Service-Intern_R442046) |
 | **Capital One** | Commercial Internship Program - Summe... | McLean, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Commercial-Internship-Program---Summer-2027_R244239-1) |
@@ -695,7 +692,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1209 current opportunities from 274 companies**
+**🎯 1205 current opportunities from 274 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
