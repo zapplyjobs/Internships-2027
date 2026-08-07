@@ -15,19 +15,19 @@
 
 ## **Website & Autofill Extension**
 
-![Apply to jobs in seconds with Zapply.](images/zapply.png)
+[![Apply to jobs in seconds with Zapply.](images/apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=gh-research-internships)
 
 Explore Zapply's website and check out:
 
-- Our chrome extension that autofills your job applications in seconds.
-- A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
 
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/?ref=gh-research-internships"><img src="images/zapply-button-4.png" alt="Visit Our Website" width="700"></a>
+  <a href="https://app.zapply.jobs/onboarding/?ref=gh-research-internships"><img src="images/get-started-button.png" alt="Visit Zapply" width="500"></a>
 </p>
 
 ## Explore Around
