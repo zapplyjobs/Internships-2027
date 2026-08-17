@@ -110,6 +110,8 @@ The following are some worldwide research internship positions:
 #### <img src="images/flags/tr.png" alt="Turkish flag" width="15"> Turkey
   * [Koç Üniversitesi Research Program](https://vprd.ku.edu.tr/kusrp/)
   * [Sabancı Üniversitesi PURE Summer Research Program](https://pure.sabanciuniv.edu/)
+  * [Özyeğin Üniversitesi Undergraduate Research Summer Internship Program](https://www.ozyegin.edu.tr/en/research/summer-research-program/undergraduate-research-summer-internship-program/undergraduate)
+
 
 #### <img src="images/flags/ru.png" alt="Russian flag" width="15"> Russia
   * HSE University, Moscow [Computer Science Internships](https://cs.hse.ru/en/internships/)
