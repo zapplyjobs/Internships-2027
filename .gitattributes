@@ -1,0 +1,4 @@
+# Hide certain files from GitHub stats and contributors
+README.md linguist-generated=true
+*.js linguist-vendored=true
+companies.json linguist-generated=true
