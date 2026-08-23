@@ -1,0 +1,25 @@
+name: repo-guard
+on:
+  push:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - name: Checkout guard scanner
+        uses: actions/checkout@v5
+        with:
+          repository: zapplyjobs/.github
+          ref: main
+          path: repo-guard
+          persist-credentials: false
+      - name: Scan for known malware/injection shapes
+        run: python3 repo-guard/scripts/repo_guard_scan.py
