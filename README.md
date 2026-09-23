@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
-| **CACI** | Software Engineering Intern - Summer 2027 | Sterling, VA, US | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332386?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
+| **CACI** | Software Engineering Intern - Summer 2027 | Sterling, VA, US | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332386?s=gh-internships-2027) |
 | **Leidos** | Software Developer Intern | Annapolis Junction, MD | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00192858?s=gh-internships-2027) |
 | **Hermeus** | Propulsion Test Engineering Intern - Spring 2027 | Jacksonville, FL | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-hermeus-d2651ecb-9aab-4d84-8e69-cbcf7cece28d?s=gh-internships-2027) |
 | **Astranis** | Flight Software Intern (Winter 2027) | San Francisco | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704595006?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CACI** | Electrical Engineering Intern – Summer 2027 | Florham Park, NJ, US | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332470?s=gh-internships-2027) |
+| **CACI** | Electrical Engineering Intern – Summer 2027 | Florham Park, NJ, US | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-332470?s=gh-internships-2027) |
 | **ABB** | Manufacturing Engineering Intern - Summer 2027 | USA, NJ, Hackettstown | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00044977?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Electrical Engineering Intern | Florida - Wesley Chapel | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-22684?s=gh-internships-2027) |
 | **Hermeus** | Build Reliability Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-hermeus-ee3a4109-b6e7-4ed5-8981-a483b3936e5a?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CACI** | Business/Systems Analyst Intern - Summer 2027 | Remote | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331551?s=gh-internships-2027) |
+| **CACI** | Business/Systems Analyst Intern - Summer 2027 | Remote | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-331551?s=gh-internships-2027) |
 | **ABB** | Inside Technical Sales Intern - Summer 2027 | USA, NC, Cary | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00044477?s=gh-internships-2027) |
 | **ABB** | Electrification Sales Intern - Summer 2027 | USA, MA, Quincy | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00045169?s=gh-internships-2027) |
 | **ABB** | Electrification GA Sales Co-Op - Summer/Fall 2027 | Atlanta, Georgia, United States... | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00043332?s=gh-internships-2027) |
@@ -634,8 +634,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Harbinger Motors** | Intern, Marketing | Garden Grove, CA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-harbingermotors-5246809007?s=gh-internships-2027) |
 | **Redwood Materials** | Staff Recruiter, Early Career and Interns | McCarran, NV | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-redwoodmaterials-6199677004?s=gh-internships-2027) |
 | **Baker Hughes** | Intern - Engineering & Technology - 2026 Opportunities | AU-Queensland-Varsity Lakes | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169260?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MN - Maple Grove | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052744?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | NY - Staten Island | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052733?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MN - Maple Grove | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052744?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | NY - Staten Island | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052733?s=gh-internships-2027) |
 | **Veolia Environnement SA** | FP&A Intern | Trevose, PA | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151151479?s=gh-internships-2027) |
 | **Kroger** | PHARMACY/PHARMCST-INTERN | Auburn, AL, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-232844?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Cost Accounting Analyst - Intern | Minnetonka, MN | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151149689?s=gh-internships-2027) |
