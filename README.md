@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **FOX** | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-internships-2027) |
-| **Intuitive** | AI Research Intern | Sunnyvale, CA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151714759?s=gh-internships-2027) |
+| **FOX** | Spring 2027 FOX News Media Internship Program - Data Analytics - New York | New York, New York, USA | 53m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-internships-2027) |
+| **Intuitive** | AI Research Intern | Sunnyvale, CA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000151714759?s=gh-internships-2027) |
 | **PathAI** | Machine Learning Intern/Co-op | Boston, MA or Remote | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pathai-8843495002?s=gh-internships-2027) |
 | **Biogen** | Co-op, Data Science | Remote, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24211?s=gh-internships-2027) |
 | **Biogen** | Co-op, Data Science & AI Innovation | Remote, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **FOX** | Spring 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033952?s=gh-internships-2027) |
+| **FOX** | Spring 2027 FOX News Media Internship Program - Graphic Design - New York | New York, New York, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033952?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Designer Intern | Washington - Pullman | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23217?s=gh-internships-2027) |
 | **Astranis** | Harness Design Engineer Intern (Winter 2027) | San Francisco | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704778006?s=gh-internships-2027) |
 | **Astranis** | Harness Design Engineer Intern (Summer 2027) | San Francisco | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4704779006?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Veolia Environnement SA** | Procurement Intern | Glen Allen, VA | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151714789?s=gh-internships-2027) |
+| **Veolia Environnement SA** | Procurement Intern | Glen Allen, VA | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151714789?s=gh-internships-2027) |
 | **Voloridge Investment Management** | Quantitative Trading Intern 2027 | Jupiter, FL | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-voloridgeinvestmentmanagement-4405530009?s=gh-internships-2027) |
 | **AbbVie** | 2027 Global Supply Chain Intern (Undergraduate) | North Chicago, IL | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015636496?s=gh-internships-2027) |
 | **Zendesk** | Revenue Operations Business Operations Intern | Madison, Wisconsin, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zendesk-zendesk-R35533?s=gh-internships-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KLA** | Applications Engineering  Intern | Milpitas, CA | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641540?s=gh-internships-2027) |
-| **Disney** | KFSN-TV (ABC30) Newsroom Intern, Spring 2027 | Fresno, CA, USA | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10158273?s=gh-internships-2027) |
-| **FOX** | Spring 2027 FOX Corporation Internship Program - Business and Legal Affairs | Los Angeles, California, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033995?s=gh-internships-2027) |
-| **FOX** | Spring 2027 FOX Corporation Internship Program - Los Angeles, CA | Los Angeles, California, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033996?s=gh-internships-2027) |
-| **FOX** | Spring 2027 FOX Entertainment Internship Program - Los Angeles, CA | Los Angeles, California, USA | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033999?s=gh-internships-2027) |
+| **KLA** | Applications Engineering  Intern | Milpitas, CA | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641540?s=gh-internships-2027) |
+| **Disney** | KFSN-TV (ABC30) Newsroom Intern, Spring 2027 | Fresno, CA, USA | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10158273?s=gh-internships-2027) |
+| **FOX** | Spring 2027 FOX Corporation Internship Program - Business and Legal Affairs | Los Angeles, California, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033995?s=gh-internships-2027) |
+| **FOX** | Spring 2027 FOX Corporation Internship Program - Los Angeles, CA | Los Angeles, California, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033996?s=gh-internships-2027) |
+| **FOX** | Spring 2027 FOX Entertainment Internship Program - Los Angeles, CA | Los Angeles, California, USA | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033999?s=gh-internships-2027) |
 | **KeyBank** | Desktop Support Internship | Brooklyn, OH | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42369?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Business Operations Technical Project Manger Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2628088?s=gh-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 6h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027) |
@@ -638,8 +638,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Flagship Pioneering** | Pioneering Medicines: Biologic Formulations Technical Operations Co-Op | Cambridge, MA USA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8842350002?s=gh-internships-2027) |
 | **Audax Group** | IT Operations Co-Op NYC | New York, New York | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-audaxgroup-4737824005?s=gh-internships-2027) |
 | **Bosch Group** | 2027 Spring Logistics / Packaging Engineering Co-op / LOM | Charleston, SC | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000151687099?s=gh-internships-2027) |
-| **Spotify** | CoLM 2026 — Intern | New York, NY | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-spotify-ba2760c3-6461-45bf-b67b-0508d10c8659?s=gh-internships-2027) |
-| **Spotify** | RecSys 2026 — Intern | New York, NY | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-spotify-e7f6e680-bf86-4da6-8711-afe44b84fa41?s=gh-internships-2027) |
+| **Spotify** | CoLM 2026 — Intern | New York, NY | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-spotify-ba2760c3-6461-45bf-b67b-0508d10c8659?s=gh-internships-2027) |
+| **Spotify** | RecSys 2026 — Intern | New York, NY | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-spotify-e7f6e680-bf86-4da6-8711-afe44b84fa41?s=gh-internships-2027) |
 | **Olsson** | Accounting Student Internship | Omaha, NE | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5434137008?s=gh-internships-2027) |
 | **AMD** | 2027 Undergrad Program Management Intern/Co-op | Austin, TX, United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-92880?s=gh-internships-2027) |
 | **Fidelity Investments** | Intern, Investor Center - Dayton, OH | Beavercreek, OH | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2136201?s=gh-internships-2027) |
