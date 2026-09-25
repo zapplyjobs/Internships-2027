@@ -65,12 +65,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Snowflake** | Software Engineer Intern (AI / ML) - Spring 2027 | CA-Menlo Park | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-4be290ae-dd9d-488c-9d90-56fcd69101ca?s=gh-internships-2027) |
-| **Snowflake** | Software Engineer Intern (Database Engineering) - Spring 2027 | CA-Menlo Park | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-7bd393df-67d7-4009-ba4f-1cd79a82b0be?s=gh-internships-2027) |
-| **Snowflake** | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | CA-Menlo Park | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-5315b6f6-2c14-4cb9-a884-c2bae69f2c69?s=gh-internships-2027) |
+| **Snowflake** | Software Engineer Intern (AI / ML) - Spring 2027 | CA-Menlo Park | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-4be290ae-dd9d-488c-9d90-56fcd69101ca?s=gh-internships-2027) |
+| **Snowflake** | Software Engineer Intern (Database Engineering) - Spring 2027 | CA-Menlo Park | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-7bd393df-67d7-4009-ba4f-1cd79a82b0be?s=gh-internships-2027) |
+| **Snowflake** | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | CA-Menlo Park | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-snowflake-5315b6f6-2c14-4cb9-a884-c2bae69f2c69?s=gh-internships-2027) |
 | **Rocket Lab** | Test Engineering Intern Spring 2027 | Wallops Island, VA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8003533003?s=gh-internships-2027) |
-| **Rocket Lab** | Test Engineering Intern Summer 2027 | Wallops Island, VA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8003529003?s=gh-internships-2027) |
-| **Notion** | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, California | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-notion-2b587e66-deac-421a-a824-9415ba78b5a7?s=gh-internships-2027) |
+| **Rocket Lab** | Test Engineering Intern Summer 2027 | Wallops Island, VA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8003529003?s=gh-internships-2027) |
+| **Notion** | Software Engineer Intern, Mobile (Winter 2027) | San Francisco, California | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-notion-2b587e66-deac-421a-a824-9415ba78b5a7?s=gh-internships-2027) |
 | **Astranis** | Software Developer, Network Software Associate (Winter 2027) | San Francisco | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4705617006?s=gh-internships-2027) |
 | **Astranis** | Software Developer, Network Software Associate (Summer 2027) | San Francisco | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4705615006?s=gh-internships-2027) |
 | **Astranis** | Software Developer, Network Software Intern (Summer 2027) | San Francisco | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4705597006?s=gh-internships-2027) |
@@ -290,8 +290,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Reflect Orbital** | Mission Operations Engineering Intern | Hawthorne, CA | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-reflect-orbital-7ec00657-344f-4a53-b1b2-b6623a8b95bc?s=gh-internships-2027) |
 | **Aevex Aerospace** | Robotics Engineering Co-op | Tampa, Florida, United States | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-aevexaerospace-5415815008?s=gh-internships-2027) |
 | **Parsons** | Roadway Engineering Intern - Summer 2027 | FL, Fort Lauderdale, R186484 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R186484?s=gh-internships-2027) |
-| **Astranis** | RF Validation Intern (Winter 2027) | San Francisco | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716184006?s=gh-internships-2027) |
-| **Astranis** | RF Validation Intern (Summer 2027) | San Francisco | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716499006?s=gh-internships-2027) |
+| **Astranis** | RF Validation Intern (Winter 2027) | San Francisco | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716184006?s=gh-internships-2027) |
+| **Astranis** | RF Validation Intern (Summer 2027) | San Francisco | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716499006?s=gh-internships-2027) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8226602?s=gh-internships-2027) |
 | **iRhythm** | Mechanical Engineering Co-op Full Time Intern Jan - June 2027 | San Francisco, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1766?s=gh-internships-2027) |
 | **Rockwell Automation** | Co-op, Mechanical Engineering (Spring 2027) | Chelmsford, Massachusetts,... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-7257?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Regal Rexnord** | Manufacturing Supply Chain Co-Op | Florence, Kentucky, United States | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05084?s=gh-internships-2027) |
+| **Regal Rexnord** | Manufacturing Supply Chain Co-Op | Florence, Kentucky, United States | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05084?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Procurement Intern | Glen Allen, VA | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151714789?s=gh-internships-2027) |
 | **Voloridge Investment Management** | Quantitative Trading Intern 2027 | Jupiter, FL | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-voloridgeinvestmentmanagement-4405530009?s=gh-internships-2027) |
 | **Crane Co.** | HR Intern - Part Time | Jurupa Valley, California | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102625?s=gh-internships-2027) |
@@ -620,15 +620,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | 02540 - Ohio CVS Stores, L.L.C. | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052568?s=gh-internships-2027) |
-| **KeyBank** | Desktop Support Internship | Brooklyn, OH | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42369?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 02540 - Ohio CVS Stores, L.L.C. | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052568?s=gh-internships-2027) |
+| **KeyBank** | Desktop Support Internship | Brooklyn, OH | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42369?s=gh-internships-2027) |
 | **Disney** | KFSN-TV (ABC30) Newsroom Intern, Spring 2027 | Fresno, CA, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10158273?s=gh-internships-2027) |
 | **FOX** | Spring 2027 FOX Corporation Internship Program - Business and Legal Affairs | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033995?s=gh-internships-2027) |
 | **FOX** | Spring 2027 FOX Corporation Internship Program - Los Angeles, CA | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033996?s=gh-internships-2027) |
 | **FOX** | Spring 2027 FOX Entertainment Internship Program - Los Angeles, CA | Los Angeles, California, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fox-domestic-R50033999?s=gh-internships-2027) |
 | **KLA** | Applications Engineering  Intern | Milpitas, CA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641540?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Business Operations Technical Project Manger Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2628088?s=gh-internships-2027) |
-| **Microsoft** | Applied Sciences INTERN | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027) |
+| **Microsoft** | Applied Sciences INTERN | United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | FL - Winter Haven | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052743?s=gh-internships-2027) |
 | **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | TX - Edinburg | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1052740?s=gh-internships-2027) |
 | **Astranis** | IT Support Technician Associate (Winter 2027) | San Francisco | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astranis-4716175006?s=gh-internships-2027) |
