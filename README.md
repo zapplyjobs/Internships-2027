@@ -510,7 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Trane Technologies** | 2027 Operations Intern | Davidson North Carolina | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-7480?s=gh-internships-2027) |
-| **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-internships-2027) |
+| **Dow Jones** | Summer 2027 Internship Program – Communications Intern | NYC | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55870?s=gh-internships-2027) |
 | **AstraZeneca** | US Medical Affairs Digital Innovation & Medical Communications Intern (PharmD) | Boston - MA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-263163?s=gh-internships-2027) |
 | **Motorola Solutions** | Program Manager Intern - Summer 2027 | Plantation, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69762?s=gh-internships-2027) |
 | **NVIDIA** | Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028642?s=gh-internships-2027) |
