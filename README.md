@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Software Engineer Co-op (January 2027) | MA-MARLBOROUGH-MA2 | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885371?s=gh-internships-2027) |
+| **RTX** | Software Engineer Co-op (January 2027) | MA-MARLBOROUGH-MA2 | 23m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885371?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Systems Engineer Intern - Woodland Hills CA | United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10249319?s=gh-internships-2027) |
 | **RTX** | Systems Engineering Intern, St. Petersburg, FL (Onsite) | FL-ST PETERSBURG | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01886197?s=gh-internships-2027) |
 | **Rocket Lab** | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8042092003?s=gh-internships-2027) |
@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Oncology Discovery Scientist Intern | Spring House, Pennsylvania,... | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099898?s=gh-internships-2027) |
-| **Johnson & Johnson** | Oncology Clinical Scientist Intern | Spring House, Pennsylvania,... | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099892?s=gh-internships-2027) |
+| **Johnson & Johnson** | Oncology Discovery Scientist Intern | Spring House, Pennsylvania,... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099898?s=gh-internships-2027) |
+| **Johnson & Johnson** | Oncology Clinical Scientist Intern | Spring House, Pennsylvania,... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-099892?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - Speech Processing | Redmond, Washington, United States | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065196?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - Foundational Models & Agent | Redmond, Washington, United States | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200065169?s=gh-internships-2027) |
 | **CapTech Consulting** | Consulting Internship: UX/Product Design (Summer 2027) | Richmond, VA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-CapTechConsulting-744000159182656?s=gh-internships-2027) |
@@ -620,18 +620,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Travelers Companies** | Legal Intern | CA - Walnut Creek | 20m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53515?s=gh-internships-2027) |
-| **Bristol Myers Squibb** | Manufacturing Science and Technology Process Engineering Co-Op | Summit West - NJ - US | 20m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608131?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 01672 - Pennsylvania CVS... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996158?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 01665 - Pennsylvania CVS... | 21m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996155?s=gh-internships-2027) |
-| **Eurofins** | Intern | Lancaster, PA | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159388175?s=gh-internships-2027) |
-| **Thomson Reuters** | Reuters News Internship Program 2027 (Temp Guild) - Finance & Markets, New York | New York, New York | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ204984?s=gh-internships-2027) |
-| **JM Family Enterprises** | Workplace Inclusion Programs Lead Intern | Florida - Deerfield Beach | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105177?s=gh-internships-2027) |
+| **The Travelers Companies** | Legal Intern | CA - Walnut Creek | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53515?s=gh-internships-2027) |
+| **Bristol Myers Squibb** | Manufacturing Science and Technology Process Engineering Co-Op | Summit West - NJ - US | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608131?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 01672 - Pennsylvania CVS... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996158?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 01665 - Pennsylvania CVS... | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996155?s=gh-internships-2027) |
+| **Eurofins** | Intern | Lancaster, PA | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159388175?s=gh-internships-2027) |
+| **Thomson Reuters** | Reuters News Internship Program 2027 (Temp Guild) - Finance & Markets, New York | New York, New York | 33m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-JREQ204984?s=gh-internships-2027) |
+| **JM Family Enterprises** | Workplace Inclusion Programs Lead Intern | Florida - Deerfield Beach | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jmfamily-jmfamily-external-JR105177?s=gh-internships-2027) |
 | **CrowdStrike** | Global Programs Intern (Summer 2027) | USA - Austin, TX | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30217?s=gh-internships-2027) |
 | **ASML** | Co-op - Test and Measurement Facility Engineer (Internship) | Wilton, CT, USA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356415?s=gh-internships-2027) |
 | **Leidos** | Intern Engineer | 2 Locations | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196094?s=gh-internships-2027) |
 | **JLL** | Leasing Summer 2027 Internship - Irvine, CA | Irvine, CA | 6h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540051?s=gh-internships-2027) |
-| **PNC Financial Services** | Product Innovation Undergraduate Intern | PA Pittsburgh 15222 | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R230925?s=gh-internships-2027) |
+| **PNC Financial Services** | Product Innovation Undergraduate Intern | PA Pittsburgh 15222 | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pnc-external-R230925?s=gh-internships-2027) |
 | **GDIT** | GDIT Summer Internship Program – 2027 Business Analysis Associate Internship | USA VA Arlington | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230432?s=gh-internships-2027) |
 | **Boston Scientific** | Urology Field Sales Internship Summer 2027 | Marlborough US-MA, United... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813872715?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | CA - Long Beach | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1093894?s=gh-internships-2027) |
