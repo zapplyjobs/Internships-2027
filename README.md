@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Uline** | Financial Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268901?s=gh-internships-2027) |
+| **Uline** | Financial Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268901?s=gh-internships-2027) |
 | **Jabil** | EH&S / HR Intern | Grand Junction, CO | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2467946?s=gh-internships-2027) |
 | **Avis Budget Group** | Accelerate - Procurement Intern Summer 2027 | 379 Interpace Pkwy, Parsippany,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0191236?s=gh-internships-2027) |
 | **Avis Budget Group** | Accelerate - IT Solutions and Operations Intern - Summer 2027 | 379 Interpace Pkwy, Parsippany,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0190462?s=gh-internships-2027) |
@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | FL-JUPITER-ADR | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883840?s=gh-internships-2027) |
-| **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
-| **Uline** | Business Process Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268900?s=gh-internships-2027) |
+| **RTX** | Intern: Summer 2027 - Control/Diagnostic Software (Onsite) | FL-JUPITER-ADR | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883840?s=gh-internships-2027) |
+| **RTX** | Platform Intern (Summer 2027) | TX-RICHARDSON-C27 | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874068?s=gh-internships-2027) |
+| **Uline** | Business Process Analyst Internship - Summer 2027 | Pleasant Prairie, WI | 51m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268900?s=gh-internships-2027) |
 | **Highmark Health** | Clinical Support Intern | Erie PA, 16502 | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284268?s=gh-internships-2027) |
 | **CACI** | Technical Project Manager Intern - Summer 2027 | High Point, NC, US | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333955?s=gh-internships-2027) |
 | **CACI** | Technical Project Manager Intern - Summer 2027 | High Point, NC, US | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333027?s=gh-internships-2027) |
@@ -636,7 +636,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Project Coordinator Intern | Texas - Houston | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24423?s=gh-internships-2027) |
 | **Albertsons** | Pharmacy Student Intern | Chicago, IL, United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-789100?s=gh-internships-2027) |
 | **Nokia** | Optoelectronics Test Mech Development Intern | United States | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-nokia-41694?s=gh-internships-2027) |
-| **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove US-MN, United... | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813584308?s=gh-internships-2027) |
+| **Boston Scientific** | Equipment Engineering AI Vision Engineer Intern | Maple Grove US-MN, United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813584308?s=gh-internships-2027) |
 | **Boston Scientific** | Equipment Engineering Controls Engineer Intern | Maple Grove US-MN, United... | 12h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813768759?s=gh-internships-2027) |
 | **Boston Scientific** | Industrial Engineer Intern | Maple Grove US-MN, United... | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813519130?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | MI - Howell | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1094406?s=gh-internships-2027) |
@@ -652,7 +652,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **SharkNinja** | Spring 2027:Technical Project Management Co-op (January to June) | Needham, MA, United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4721697006?s=gh-internships-2027) |
 | **The New York Times** | Advertising Marketing Measurement Intern | New York, NY | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750498005?s=gh-internships-2027) |
 | **Toyota Research Institute** | Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern | Los Altos, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-44812007-50a8-49e6-87ed-3fac9fa6b418?s=gh-internships-2027) |
-| **Formlabs** | Print Production Intern (Winter/Spring 2027) | Somerville, MA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8337242?s=gh-internships-2027) |
+| **Formlabs** | Print Production Intern (Winter/Spring 2027) | Somerville, MA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8337242?s=gh-internships-2027) |
 | **Parsons** | STRUCTURAL ENGINEER INTERN | Remote (Any Location), R188008 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R188008?s=gh-internships-2027) |
 | **KnowBe4** | Security Awareness Content Specialist Summer Internship (Hybrid) | Clearwater, Florida | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-knowbe4-8928056002?s=gh-internships-2027) |
 | **Eurofins** | Intern | Lancaster, PA | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000159388175?s=gh-internships-2027) |
