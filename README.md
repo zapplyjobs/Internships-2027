@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern | CA - Rialto | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0989432?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Summer 2027 Intern | Sandy Springs ("Atlanta"), GA, USA | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003354?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | CA - Rialto | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0989432?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Summer 2027 Intern | Sandy Springs ("Atlanta"), GA, USA | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003354?s=gh-internships-2027) |
 | **Ascension** | Nursing Intern | Nashville, TN | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1281173?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Project Coordinator Intern | Pennsylvania - King of Prussia | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24618?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | OH - Pataskala | 23h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097845?s=gh-internships-2027) |
