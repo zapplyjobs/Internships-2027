@@ -314,7 +314,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Scientific** | Quality Intern | Arden Hills US-MN, United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813783098?s=gh-internships-2027) |
 | **Vertiv** | Electrical Engineering Intern (Summer 2027) | United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20278502?s=gh-internships-2027) |
 | **Danaher** | Firmware Engineer Co-op | Indianapolis, Indiana | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1321509?s=gh-internships-2027) |
-| **HPE (University)** | Electrical Engineering Intern | Spring, Texas, United States of... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213393?s=gh-internships-2027) |
+| **HPE (University)** | Electrical Engineering Intern | Spring, Texas, United States of... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213393?s=gh-internships-2027) |
 | **NVIDIA** | Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 | CA Santa Clara | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028260?s=gh-internships-2027) |
 | **Sierra Nevada Corporation** | Firmware Engineer Intern (Summer 2027) | Sparks, NV | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031233?s=gh-internships-2027) |
 | **GE Aerospace** | Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 | Bohemia | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042754?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Marvell** | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | 36m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603788?s=gh-internships-2027) |
+| **Marvell** | Design For Test Intern, MS - Summer 2027 | Santa Clara, CA | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2603788?s=gh-internships-2027) |
 | **Uline** | UX Design Internship - Summer 2027 | Pleasant Prairie, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268775?s=gh-internships-2027) |
 | **Dandy** | Summer 2027 Internship - PhD Research Intern | USA - New York NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-52bcfe21-dfa6-4669-8b58-b995c6e97b31?s=gh-internships-2027) |
 | **Brunswick** | Mercury Marine: Industrial Design Intern | Fond du Lac, WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-051217?s=gh-internships-2027) |
