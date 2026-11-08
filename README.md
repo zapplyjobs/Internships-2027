@@ -420,7 +420,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Ntop** | Aircraft Design Fellow (Summer 2027 Internship) | New York, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/gem-ntop-am9icG9zdDqsw8QdEms1JsLoDfdV18NX?s=gh-internships-2027) |
 | **Leidos** | Physiology Research Intern | San Diego, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196376?s=gh-internships-2027) |
 | **AMD** | Summer/Fall 2027 PhD Photonics Design and Engineering Co-Op | San Jose, CA, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-90710?s=gh-internships-2027) |
-| **SharkNinja** | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4720355006?s=gh-internships-2027) |
+| **SharkNinja** | Summer 2027: Industrial Design Intern (May through August) | Needham, MA, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4720355006?s=gh-internships-2027) |
 | **NVIDIA** | Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 | US, CA, Santa Clara | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027548?s=gh-internships-2027) |
 | **SharkNinja** | Spring 2027: Design & Engineering Co-op (January through June) | Needham, MA, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4726759006?s=gh-internships-2027) |
 | **Intel** | Robotics PhD Intern | Oregon Hillsboro | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-intel-external-JR0288833?s=gh-internships-2027) |
@@ -511,7 +511,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **GE Aerospace** | Supply Chain Operations Intern – US – Summer 2027 | Evendale | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029660?s=gh-internships-2027) |
 | **Zoox** | Program Manager, Infrastructure Operations Intern \[Summer 2027\] | Foster City, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-affbfa7d-30c5-4639-aa56-2ba138200bd8?s=gh-internships-2027) |
-| **Epic Games** | Player Marketing Intern (MBA) | Cary,North Carolina,United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6218206004?s=gh-internships-2027) |
+| **Epic Games** | Player Marketing Intern (MBA) | Cary,North Carolina,United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-epicgames-6218206004?s=gh-internships-2027) |
 | **Carrier Global** | Supply Chain Intern - Summer | CAN03: Carrier-Charlotte, 9701... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30221778?s=gh-internships-2027) |
 | **Lucid Software** | GTM Operations & Strategy Intern | Salt Lake City, UT | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidsoftware-6250081004?s=gh-internships-2027) |
 | **RTX** | Digital Technologies Project Management Office Operations Intern (Summer 2027) | IA-CEDAR RAPIDS | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884834?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608267?s=gh-internships-2027) |
+| **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608267?s=gh-internships-2027) |
 | **Ascension** | Radiology Intern Clinical Support | Murfreesboro, TN | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19914?s=gh-internships-2027) |
 | **Ascension** | Nursing Intern | Nashville, TN | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1281173?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Edgewood, Maryland | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
