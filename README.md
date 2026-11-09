@@ -116,7 +116,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) | San Francisco, CA • New York, NY | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6241542004?s=gh-internships-2027) |
 | **Parsons** | Software Engineering Intern (Summer 2027) | AL, Huntsville, R187299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187299?s=gh-internships-2027) |
 | **Boston Scientific** | Urology R&D Software Engineering Co-op | Maple Grove US-MN, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813743813?s=gh-internships-2027) |
-| **Bosch Group** | Project Management / Test Engineering Intern | Plymouth, MI | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000159649749?s=gh-internships-2027) |
+| **Bosch Group** | Project Management / Test Engineering Intern | Plymouth, MI | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000159649749?s=gh-internships-2027) |
 | **AeroVironment** | Software Engineering Intern | Melbourne, FL | 5d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-8613?s=gh-internships-2027) |
 | **CACI** | Software Engineering Co-op/Intern - Summer 2027 | Rochester, NY, US | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334160?s=gh-internships-2027) |
 | **CACI** | Systems Engineering Co-op/Intern - Summer 2027 | Rochester, NY, US | 5d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-334157?s=gh-internships-2027) |
@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **The Travelers Companies** | Legal Intern | CT - Hartford | 4m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53660?s=gh-internships-2027) |
-| **RTX** | CFD High School Intern | GA-MIDLAND-MPC | 4m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885576?s=gh-internships-2027) |
+| **The Travelers Companies** | Legal Intern | CT - Hartford | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-travelers-external-R-53660?s=gh-internships-2027) |
+| **RTX** | CFD High School Intern | GA-MIDLAND-MPC | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885576?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | PA - McKees Rocks | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099066?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | FL - Lakeland | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-internships-2027) |
 | **Microsoft** | Business Program Management INTERN | United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062099?s=gh-internships-2027) |
 | **Cisco** | Sustainability Analyst I (Intern) - United States GSC/GSM ETR | San Jose, California, US | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2027214?s=gh-internships-2027) |
-| **Microsoft** | Cloud Solution Architecture INTERN | United States | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062098?s=gh-internships-2027) |
+| **Microsoft** | Cloud Solution Architecture INTERN | United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062098?s=gh-internships-2027) |
 | **Stantec** | Building Science Co-op/Intern (Summer 2027) | San Francisco, CA, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008756?s=gh-internships-2027) |
 | **Kroger** | PHARMACIST INTERN | Las Vegas, NV, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250481?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | DeSoto, Texas | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
