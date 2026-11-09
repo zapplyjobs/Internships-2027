@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608267?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MA - Brookline | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098945?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MA - Brookline | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098944?s=gh-internships-2027) |
+| **Bristol Myers Squibb** | 2027 Summer Internship: Law & Leadership Program | Princeton - NJ - US | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608267?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Brookline | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098945?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MA - Brookline | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098944?s=gh-internships-2027) |
 | **Zoetis** | Environment Health and Safety Intern | Kalamazoo - Downtown Portage Street | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021714?s=gh-internships-2027) |
-| **Kroger** | PHARMACIST INTERN | Las Vegas, NV, United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250481?s=gh-internships-2027) |
+| **Kroger** | PHARMACIST INTERN | Las Vegas, NV, United States | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250481?s=gh-internships-2027) |
 | **Brown & Brown Insurance** | Summer 2027 Intern | Sandy Springs ("Atlanta"), GA, USA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003354?s=gh-internships-2027) |
 | **Ascension** | Radiology Intern Clinical Support | Murfreesboro, TN | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-19914?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | DeSoto, Texas | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
