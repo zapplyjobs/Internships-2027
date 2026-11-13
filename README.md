@@ -178,8 +178,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Fresenius Medical Care** | Agentic AI Analytics Co-op | Lawrence, MA, USA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277797?s=gh-internships-2027) |
-| **Zoox** | Data Scientist Intern \[Summer 2027\] | Foster City, CA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027) |
-| **Pinterest** | Sales Analytics Intern 2027 (USA) | San Francisco, CA, US | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027) |
+| **Zoox** | Data Scientist Intern \[Summer 2027\] | Foster City, CA | 15h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027) |
+| **Pinterest** | Sales Analytics Intern 2027 (USA) | San Francisco, CA, US | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027) |
 | **Bosch Group** | AI Research Intern – Time Series Foundation Models | Sunnyvale, California | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000161339309?s=gh-internships-2027) |
 | **SharkNinja** | Summer 2027: Data Science Intern (May to August) | Needham, MA, United States | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4727539006?s=gh-internships-2027) |
 | **Philips** | Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027 | Nashville, Tennessee, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593012?s=gh-internships-2027) |
@@ -510,7 +510,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Caterpillar** | 2027 Summer Corporate Internship - Human Resources | Peoria Illinois | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000380177?s=gh-internships-2027) |
+| **Caterpillar** | 2027 Summer Corporate Internship - Human Resources | Peoria Illinois | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000380177?s=gh-internships-2027) |
 | **BAE Systems** | Logistics Intern III, (Onsite) | Austin, Texas | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-129220BR?s=gh-internships-2027) |
 | **BAE Systems** | Finance Internship Summer 2027 | Maple Grove, Minnesota | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132219BR?s=gh-internships-2027) |
 | **BAE Systems** | Learning and Development/HR Intern - Summer 2027 | Fort Wayne, Indiana | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132187BR?s=gh-internships-2027) |
@@ -621,10 +621,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **State Street** | Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027) | Quincy, Massachusetts | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801091?s=gh-internships-2027) |
+| **State Street** | Cyber Security Operations Center Analyst, Full-time Internship (Jan - June 2027) | Quincy, Massachusetts | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-statestreet-global-R-801091?s=gh-internships-2027) |
 | **Shield AI** | 2027 Summer Intern - Future Concepts - 6539 | Washington, D.C. | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-cf89556f-a5ea-4a3a-81c7-944890f76ade?s=gh-internships-2027) |
-| **Shield AI** | 2027 Summer Intern - Human Machine Teaming - 6532 | Washington, D.C. | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-a737063e-e831-49e1-98c3-25be44faac30?s=gh-internships-2027) |
-| **Fidelity Investments** | Strategic Advisers Research Associate (summer 2027 start) | Boston, MA | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2138214?s=gh-internships-2027) |
+| **Shield AI** | 2027 Summer Intern - Human Machine Teaming - 6532 | Washington, D.C. | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-shieldai-a737063e-e831-49e1-98c3-25be44faac30?s=gh-internships-2027) |
+| **Fidelity Investments** | Strategic Advisers Research Associate (summer 2027 start) | Boston, MA | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2138214?s=gh-internships-2027) |
 | **Northrop Grumman** | SkillBridge Internship Opportunity - Seeking Enlisted-Active Military Applicants - Engineering... | United States-Arizona-Chandler | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10260399?s=gh-internships-2027) |
 | **GDIT** | JMSC-P Boundary Enclave Administrator Intern | USA HI Schofield | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ231969?s=gh-internships-2027) |
 | **Samsung Semiconductor** | Intern, Compiler Engineer | San Jose, California, United States | 5h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8202902003?s=gh-internships-2027) |
@@ -648,7 +648,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Xcimer Energy** | Summer 2027 Internship - Experimental Lasers (Undergraduate) | Denver, CO | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-xcimer-2bfa2587-23ab-4e40-a6eb-c003c072b3cd?s=gh-internships-2027) |
 | **Boston Scientific** | Endoscopy Commercial Strategy & Excellence Intern 2027 | Marlborough US-MA, United... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813674227?s=gh-internships-2027) |
 | **John Deere** | 2027 Intern - Product Engineering | Various... | 15h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137482769212?s=gh-internships-2027) |
-| **Microsoft** | Applied Science: Internship Opportunities - Redmond | Redmond, Washington, United States | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200053346?s=gh-internships-2027) |
+| **Microsoft** | Applied Science: Internship Opportunities - Redmond | Redmond, Washington, United States | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200053346?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, Prototyping and Research Operations | Cambridge, MA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-4f1efb39-385b-4ff9-8e82-1459a6b22628?s=gh-internships-2027) |
 | **SharkNinja** | Spring 2027: Digital & Website Technology Intern | Needham, MA, United States | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4728326006?s=gh-internships-2027) |
 | **Microsoft** | Customer Success Account Mgmt INTERN | United States | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200062105?s=gh-internships-2027) |
