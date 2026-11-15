@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Samsara** | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) |
+| **Samsara** | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) |
 | **Bloomberg Industry Group** | Engineering Intern | Arlington, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bloomberg-bloombergindustrygroup-externa-145704?s=gh-internships-2027) |
 | **Moog** | Intern, Electrical Engineering | Buffalo, NY | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21409?s=gh-internships-2027) |
 | **RTX** | Composite Engineering Intern (Summer 2027)(Onsite) | CT-MIDDLETOWN | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887784?s=gh-internships-2027) |
@@ -428,7 +428,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Toyota Research Institute** | Future Product Innovation Research Intern, Human Computer Interaction | Los Altos, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-e01def2d-0ee0-4f24-bf38-0b52a8047ea7?s=gh-internships-2027) |
 | **Toyota Research Institute** | Future Product Innovation Research Intern, Human-AI Computational Design | Los Altos, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-ad346610-e4a6-4cd2-a357-11d731b136a2?s=gh-internships-2027) |
 | **Microsoft** | Product Manager: Internship Opportunities | Redmond, Washington, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200046365?s=gh-internships-2027) |
-| **Lightmatter** | Packaging Mechanical Design Internship - Summer 2027 | Mountain View, CA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lightmatter-5479684008?s=gh-internships-2027) |
+| **Lightmatter** | Packaging Mechanical Design Internship - Summer 2027 | Mountain View, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lightmatter-5479684008?s=gh-internships-2027) |
 | **Samsung Semiconductor** | Intern, AI System Architecture Research Scientist | San Jose, California, United States | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8197305003?s=gh-internships-2027) |
 | **Nasdaq** | Technical Research Intern - 2027 Summer Internship | USA - Richmond - Virginia | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nasdaq-global-external-site-R0027292?s=gh-internships-2027) |
 | **PTC** | UI/UX Design Intern (Summer 2027) | USA-San Mateo, CA | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112956?s=gh-internships-2027) |
