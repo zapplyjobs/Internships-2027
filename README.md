@@ -88,8 +88,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Texas Instruments** | Test Engineering intern - PhD | United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-texas-instruments-25019536?s=gh-internships-2027) |
 | **BAE Systems** | Software Engineering Intern IV, (Summer 2027) Onsite | Nashua, New Hampshire | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-128055BR?s=gh-internships-2027) |
 | **BAE Systems** | F-35 Program Quality Engineer Intern III, (Summer 2027) Nashua, NH | Nashua, New Hampshire | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-131945BR?s=gh-internships-2027) |
-| **Muon Space** | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5293973007?s=gh-internships-2027) |
-| **Muon Space** | Security Engineering Intern (Summer 2027) | Mountain View, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5294028007?s=gh-internships-2027) |
+| **Muon Space** | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5293973007?s=gh-internships-2027) |
+| **Muon Space** | Security Engineering Intern (Summer 2027) | Mountain View, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5294028007?s=gh-internships-2027) |
 | **CACI** | Embedded Software Development Intern - Summer 2027 | Denver, CO, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-caci-external-333147?s=gh-internships-2027) |
 | **Ancestry** | Software Engineer – Observability, Co-op | Draper, Utah | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ancestry-careers-R003434?s=gh-internships-2027) |
 | **Eversource Energy** | 2027 Gas Systems Engineering Co-op | MA Westborough Technology Dr | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-032513?s=gh-internships-2027) |
@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ServiceNow** | Sr Outbound Product Manager Intern (MBA Summer 2027) | San Diego, CALIFORNIA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161590090?s=gh-internships-2027) |
+| **ServiceNow** | Sr Outbound Product Manager Intern (MBA Summer 2027) | San Diego, CALIFORNIA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161590090?s=gh-internships-2027) |
 | **Analog Devices** | Design Evaluation Engineer - Summer 2027 | US, CA, San Jose, Rio Robles | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R266633?s=gh-internships-2027) |
 | **ServiceNow** | Sr Inbound Product Manager Intern (MBA Summer 2027) | San Diego, CALIFORNIA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000161584449?s=gh-internships-2027) |
 | **Entegris** | Associate Product Manager Intern | Chaska, MN | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-entegris-entegriscareers-REQ-15844?s=gh-internships-2027) |
