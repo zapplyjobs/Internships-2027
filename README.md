@@ -193,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cisco** | Business Analyst I (Intern) United States | San Jose, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-cisco-2024552?s=gh-internships-2027) |
 | **BAE Systems** | AI/ML Engineer Intern, Summer 2027 | Rockville, Maryland | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-bae-systems-132319BR?s=gh-internships-2027) |
 | **Zoox** | Data Scientist Intern \[Summer 2027\] | Foster City, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-zoox-0f42ac76-3821-4805-8b59-446477d1e1db?s=gh-internships-2027) |
-| **Pinterest** | Sales Analytics Intern 2027 (USA) | San Francisco, CA, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027) |
+| **Pinterest** | Sales Analytics Intern 2027 (USA) | San Francisco, CA, US | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-pinterest-8214783?s=gh-internships-2027) |
 | **ASML** | Internship - Data Scientist | Wilton, CT, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356462?s=gh-internships-2027) |
 | **Arch Capital Group** | Data Analytics Intern | Greensboro, NC United States of... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1137?s=gh-internships-2027) |
 | **Stanley Black & Decker** | Intern, Data Analyst & BI, Summer 2027 | Towson, MD, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000052481?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Samsara** | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) |
+| **Samsara** | Product Design (Mechanical Engineering) Co-Op | San Francisco - SF9 | 57m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsara-8214590?s=gh-internships-2027) |
 | **RTX** | Composite Engineering Intern (Summer 2027)(Onsite) | CT-MIDDLETOWN | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01887784?s=gh-internships-2027) |
 | **Bloom Energy** | Engineering Intern | San Jose, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25266?s=gh-internships-2027) |
 | **Bloom Energy** | Electrical Engineering Intern | Fremont, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bloomenergy-bloomenergycareers-JR-25271?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
-| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
+| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-internships-2027) |
 | **Eight Sleep** | Field Service Engineer (Contract or Intern) | San Francisco | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-aeff9ae3-ce36-49ba-916d-d8f07c75997f?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Orange | 13h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104724?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104722?s=gh-internships-2027) |
