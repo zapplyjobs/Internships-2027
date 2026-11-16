@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-internships-2027) |
+| **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-internships-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
 | **Carnegie Mellon University** | Cybersecurity Engineer Intern (Spring 2027) | Pittsburgh, PA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-cmu-2025347?s=gh-internships-2027) |
 | **Amazon Data Services, Inc.** | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amazon-4bc4467d-b1e3-4335-be56-4b3d02ced463?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 14m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
 | **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-internships-2027) |
 | **Eight Sleep** | Field Service Engineer (Contract or Intern) | San Francisco | 16h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-aeff9ae3-ce36-49ba-916d-d8f07c75997f?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104722?s=gh-internships-2027) |
