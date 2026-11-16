@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Air Liquide** | Internship - Seppic - Market Analysis Intern - Pharmaceutical Excipients M/F | France, La Garenne-Colombes | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103399?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | TX - The Colony | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105967?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MN - Bloomington | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105968?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | MT - Bozeman | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105969?s=gh-internships-2027) |
-| **GDIT** | Summer 2027 Engineering (General) Internship | VA Falls Church | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323?s=gh-internships-2027) |
+| **Air Liquide** | Internship - Seppic - Market Analysis Intern - Pharmaceutical Excipients M/F | France, La Garenne-Colombes | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103399?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | TX - The Colony | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105967?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MN - Bloomington | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105968?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | MT - Bozeman | 23m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1105969?s=gh-internships-2027) |
+| **GDIT** | Summer 2027 Engineering (General) Internship | VA Falls Church | 52m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323?s=gh-internships-2027) |
 | **Vertex Pharmaceuticals** | Summer Intern 2027, Process Chemistry - San Diego | San Diego, CA | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-vrtx-vertex-careers-REQ-31307?s=gh-internships-2027) |
 | **Ascension** | Spring 2027 Nurse Extern | TULSA, OK | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-18707?s=gh-internships-2027) |
 | **Ascension** | Respiratory Therapy Intern | Wichita, KS | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1297270?s=gh-internships-2027) |
