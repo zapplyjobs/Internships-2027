@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | 2027 Summer Intern - Software Engineering - Onsite | CA-EL SEGUNDO-E04 | 5m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885225?s=gh-internships-2027) |
-| **RTX** | Systems Engineering Intern (Summer 2027) - Onsite | IA-CEDAR RAPIDS | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889105?s=gh-internships-2027) |
-| **RTX** | Systems Engineering - Summer Intern 2027 - Onsite | IA-CEDAR RAPIDS | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873971?s=gh-internships-2027) |
+| **RTX** | 2027 Summer Intern - Software Engineering - Onsite | CA-EL SEGUNDO-E04 | 13m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885225?s=gh-internships-2027) |
+| **RTX** | Systems Engineering Intern (Summer 2027) - Onsite | IA-CEDAR RAPIDS | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01889105?s=gh-internships-2027) |
+| **RTX** | Systems Engineering - Summer Intern 2027 - Onsite | IA-CEDAR RAPIDS | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873971?s=gh-internships-2027) |
 | **Viavi Solutions** | Software Engineering Co-op | Germantown, MD USA | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-viavisolutions-careers-260005308?s=gh-internships-2027) |
 | **PTC** | Onshape Software Engineer Intern (Summer 2027) | Boston, MA, USA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112943?s=gh-internships-2027) |
 | **Avis Budget Group** | Accelerate - IT Engineering Intern | 379 Interpace Pkwy, Parsippany,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avisbudget-abg-careers-R0190464?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
+| **Philips** | Intern – Upstream Product Management (MBA / PhD) – Bedford, MA – Summer 2027 | Bedford, Massachusetts, United... | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593145?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | TX - Crowley | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074370?s=gh-internships-2027) |
 | **GDIT** | Summer 2027 Engineering (General) Internship | VA Falls Church | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232323?s=gh-internships-2027) |
 | **Ascension** | Clinical Intern | Nashville, TN | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-13486?s=gh-internships-2027) |
 | **Ascension** | Imaging Intern | Milwaukee, WI | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1315939?s=gh-internships-2027) |
