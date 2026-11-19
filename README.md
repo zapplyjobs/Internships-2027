@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **PTC** | Creo Software Engineering Intern (Summer 2027) | Boston, MA, USA | 22m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR113015?s=gh-internships-2027) |
+| **PTC** | Creo Software Engineering Intern (Summer 2027) | Boston, MA, USA | 29m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR113015?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Propulsion Test Engineer Intern - Edwards AFB CA | United... | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261436?s=gh-internships-2027) |
 | **Truveta** | Winter Software Engineering Intern | Seattle, WA | 14h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-truveta-6249810004?s=gh-internships-2027) |
 | **Boston Scientific** | Urology R&D Software Engineering Co-op | United States  US-MN-Maple Grove | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813900562?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 6m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-internships-2027) |
+| **GE Aerospace** | Manufacturing Engineering Intern – US – Summer 2027 | Evendale | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5029659?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Electrical Engineering Intern | California - Irvine | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-24990?s=gh-internships-2027) |
 | **Samsung Semiconductor** | Intern, SSD Firmware Engineer | San Jose, California, United States | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8208662003?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Engineering Intern | Texas - Houston | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-23647?s=gh-internships-2027) |
@@ -658,14 +658,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Scientific** | Finance Co-op | United States   N/A | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813830828?s=gh-internships-2027) |
 | **Trace3** | Business Development Intern | Colorado Springs, CO | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8399428?s=gh-internships-2027) |
 | **Flagship Pioneering** | Pioneering Medicines: Drug Substance (Process Modeling) Co-Op | Cambridge, MA USA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8948840002?s=gh-internships-2027) |
-| **Veolia Environnement SA** | Field Service Representative -Intern | Atlanta, GA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162338193?s=gh-internships-2027) |
+| **Veolia Environnement SA** | Field Service Representative -Intern | Atlanta, GA | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162338193?s=gh-internships-2027) |
 | **Trane Technologies** | Engineering Co-Op | Tyler, Texas | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14080?s=gh-internships-2027) |
 | **NBCUniversal** | Legal Internships – Summer 2027 | New York, NY | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000162337339?s=gh-internships-2027) |
 | **Veolia Environnement SA** | Cost Accounting Analyst Intern | Minnetonka, MN | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000162337189?s=gh-internships-2027) |
 | **AppLovin** | Platform Partnerships Intern | Palo Alto, CA | 20h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-applovin-4730428006?s=gh-internships-2027) |
 | **NBCUniversal** | NBC Connecticut, CT LIVE! Lifestyle Program Intern - Summer 2027 | Hartford, Connecticut | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000162317315?s=gh-internships-2027) |
 | **John Deere** | 2027 Intern - Product Engineering | Various... | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-johndeere-137482769212?s=gh-internships-2027) |
-| **Toyota Research Institute** | Robotics Intern, Prototyping and Robotics Operations | Cambridge, MA | 21h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-b2bed6be-16bd-48ee-ba71-215307fa2ab8?s=gh-internships-2027) |
+| **Toyota Research Institute** | Robotics Intern, Prototyping and Robotics Operations | Cambridge, MA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-b2bed6be-16bd-48ee-ba71-215307fa2ab8?s=gh-internships-2027) |
 | **Federal Reserve System** | 2027 Summer Internship Program - Facilities Intern | Miami, FL | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rb-frs-R-0000034087?s=gh-internships-2027) |
 | **Insulet Corporation** | Intern, Corporate Communications: June-August 2027 (Hybrid) | Acton, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-insulet-insuletcareers-REQ-2026-19271?s=gh-internships-2027) |
 | **CME Group** | Cyber Defense Response Intern - Summer 2027 | Chicago 20 S Wacker | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmegroup-cme-careers-35062?s=gh-internships-2027) |
