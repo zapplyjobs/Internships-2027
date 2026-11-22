@@ -620,12 +620,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-internships-2027) |
+| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-internships-2027) |
 | **Neros Technologies** | Autonomy Intern - Summer 2027 | Torrance, California, United States | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273167007?s=gh-internships-2027) |
 | **Target** | Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Phoenix, AZ | Phoenix, AZ | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450404?s=gh-internships-2027) |
 | **Target** | Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center - Minneapolis, MN | Minneapolis, MN | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450437?s=gh-internships-2027) |
 | **Johnson Controls** | Production Engineering Co-Op | Burlington-Massachusetts-United... | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-EB00075404?s=gh-internships-2027) |
-| **Etched** | SI/PI Intern | San Jose | 23h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-etched-45639738-0414-43e2-a5e7-b4acc928d62d?s=gh-internships-2027) |
+| **Etched** | SI/PI Intern | San Jose | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-etched-45639738-0414-43e2-a5e7-b4acc928d62d?s=gh-internships-2027) |
 | **NVIDIA** | Accounting AI Solution Engineer Intern - Summer 2027 | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2029155?s=gh-internships-2027) |
 | **Allegion** | 2027 Summer Intern - Multi-Family Sales & Business Development | Wilmington, DE | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR37713?s=gh-internships-2027) |
 | **Zebra** | 2027 Summer Internship (US) - Security | Lincolnshire, Illinois | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103608?s=gh-internships-2027) |
