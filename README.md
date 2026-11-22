@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-internships-2027) |
+| **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-internships-2027) |
 | **Jabil** | Software Engineering Intern | Austin, TX | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jabil-jabil-careers-J2472697?s=gh-internships-2027) |
 | **Booz Allen Hamilton** | University - 2027 Summer Games Systems Engineer Intern - McLean, VA | McLean, VA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248361?s=gh-internships-2027) |
 | **Rockwell Automation** | Intern, Content IDE Software Development (LCS) | Mayfield Heights, Ohio, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-rockwellautomation-external-rockwell-aut-R26-5010?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 12m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-internships-2027) |
+| **Daimler Truck** | Corporate Safety Intern | Gastonia, NC US | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20391?s=gh-internships-2027) |
 | **Neros Technologies** | Autonomy Intern - Summer 2027 | Torrance, California, United States | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5273167007?s=gh-internships-2027) |
 | **Target** | Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Phoenix, AZ | Phoenix, AZ | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450404?s=gh-internships-2027) |
 | **Target** | Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center - Minneapolis, MN | Minneapolis, MN | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000450437?s=gh-internships-2027) |
