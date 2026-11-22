@@ -541,7 +541,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Macy's 2027 Summer Internship, Human Resources - Compensation | New York, NY, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-92295?s=gh-internships-2027) |
 | **Hunt Oil Company** | HR Intern | Tuscaloosa, AL, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fa-eqcd-saasfaprod1-1111?s=gh-internships-2027) |
 | **NBCUniversal** | Program Management & Operations Internships – Summer 2027 | Universal City, CA | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000162407819?s=gh-internships-2027) |
-| **Formlabs** | 2027 (Summer) Marketing - Social Media Intern | Somerville, MA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8400491?s=gh-internships-2027) |
+| **Formlabs** | 2027 (Summer) Marketing - Social Media Intern | Somerville, MA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-formlabs-8400491?s=gh-internships-2027) |
 | **Dow Jones** | Summer 2027 Internship Program -- B2B Risk Marketing Intern | New York City | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_56543?s=gh-internships-2027) |
 | **T-Mobile** | Summer 2027 Corporate Development Internship | Bellevue, Washington | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ381316?s=gh-internships-2027) |
 | **Zoetis** | Supply Chain Management Intern | Charles City | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00022137?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-internships-2027) |
+| **AMD** | Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op | Austin, TX, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-89557?s=gh-internships-2027) |
 | **Ascension** | Nursing Intern | Nashville, TN | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1281173?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
 | **Ascension** | Sonography Clinical Intern | Nashville, TN | 20h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26665?s=gh-internships-2027) |
@@ -637,7 +637,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **MITRE** | Underwater Sensors Engineer Intern | Bedford, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R118077?s=gh-internships-2027) |
 | **Fluor** | Part Time Civil/Structural Intern | Aliso Viejo, US-CA, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-fluor-1099557279690?s=gh-internships-2027) |
 | **Target** | Operations Manager (Starting Summer 2027) Flow Distribution Center-Hampton, GA | Hampton, GA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000448732?s=gh-internships-2027) |
-| **Lucid Motors** | Power Electronics Control Engineer Intern, Summer 2027 | Newark, CA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290949007?s=gh-internships-2027) |
+| **Lucid Motors** | Power Electronics Control Engineer Intern, Summer 2027 | Newark, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290949007?s=gh-internships-2027) |
 | **Lucid Motors** | Intern, Vehicle Motion Controls Engineer, Summer 2027 | Newark, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5290899007?s=gh-internships-2027) |
 | **LLNL** | Government Funded Student Intern (WDTS) - Spring 2027 | Livermore, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-llnl-3743990017013616?s=gh-internships-2027) |
 | **Flagship Pioneering** | Fathem: Protein Sciences Co-Op | Cambridge, MA USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-fspco-op012325-8954135002?s=gh-internships-2027) |
