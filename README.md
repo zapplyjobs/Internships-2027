@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HPE (University)** | Networking & Cybersecurity Intern | San Jose, California, United... | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058?s=gh-internships-2027) |
-| **HPE (University)** | Networking & Cybersecurity Intern | Westford, Massachusetts, United... | 35m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214057?s=gh-internships-2027) |
+| **HPE (University)** | Networking & Cybersecurity Intern | San Jose, California, United... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058?s=gh-internships-2027) |
+| **HPE (University)** | Networking & Cybersecurity Intern | Westford, Massachusetts, United... | 42m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214057?s=gh-internships-2027) |
 | **Neros Technologies** | Firmware/Embedded Software Engineer Intern - Summer 2027 | Torrance, California, United States | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-nerostechnologies-5278981007?s=gh-internships-2027) |
 | **MITRE** | Systems Engineer Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117611?s=gh-internships-2027) |
 | **MITRE** | Systems Engineering Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117634?s=gh-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 54m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-internships-2027) |
 | **MITRE** | AI Engineering Intern | Bedford, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117620?s=gh-internships-2027) |
 | **Cisco** | Data Science Analyst II (Intern) – Untied States | San Jose, California, US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2032691?s=gh-internships-2027) |
@@ -620,17 +620,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst (Coverage/M&A) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137802?s=gh-internships-2027) |
-| **Barclays** | Credit Research Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 5m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139046?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Communications and Community | Harrison, NJ | 26m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163141169?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Field Marketing & Community Impact | Harrison, NJ | 29m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140999?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Youth Programs Marketing | Harrison, NJ | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140739?s=gh-internships-2027) |
-| **HPE (University)** | Masters Tech Intern - Customer Experience & Business Process Innovation | Spring, Texas, United States of... | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213078?s=gh-internships-2027) |
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-internships-2027) |
-| **ASML** | Internship - Finance Analyst | Wilton, CT, USA | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358071?s=gh-internships-2027) |
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 47m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-internships-2027) |
-| **Aerospace Corporation** | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | 47m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017011?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst (Coverage/M&A) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137802?s=gh-internships-2027) |
+| **Barclays** | Credit Research Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000139046?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Communications and Community | Harrison, NJ | 33m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163141169?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Field Marketing & Community Impact | Harrison, NJ | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140999?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Youth Programs Marketing | Harrison, NJ | 39m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140739?s=gh-internships-2027) |
+| **HPE (University)** | Masters Tech Intern - Customer Experience & Business Process Innovation | Spring, Texas, United States of... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213078?s=gh-internships-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-internships-2027) |
+| **ASML** | Internship - Finance Analyst | Wilton, CT, USA | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358071?s=gh-internships-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 55m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-internships-2027) |
+| **Aerospace Corporation** | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | 55m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017011?s=gh-internships-2027) |
 | **Ascension** | Sonography Clinical Intern | Nashville, TN | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-26665?s=gh-internships-2027) |
 | **MITRE** | Internships in Generative and Agentic AI | McLean, Virginia | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117796?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 5h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
