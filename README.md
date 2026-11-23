@@ -408,7 +408,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Microsoft** | Research Intern - AI /Machine Learning Numerics & Efficiency | Mountain View, California,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068214?s=gh-internships-2027) |
 | **Toyota Research Institute** | Robotics Intern, UX Design | Los Altos, CA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-tri-2d9833d5-a940-4862-b13b-a1ecc9378fea?s=gh-internships-2027) |
 | **Chan Zuckerberg Biohub** | AI Research Scientist Intern | New York, NY (Hybrid) | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-biohub-8400682?s=gh-internships-2027) |
-| **Samsung Semiconductor** | Intern, Serdes Analog Design Engineer | San Jose, California, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8197312003?s=gh-internships-2027) |
+| **Samsung Semiconductor** | Intern, Serdes Analog Design Engineer | San Jose, California, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-samsungsemiconductor-8197312003?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Hardware ASIC Design | US, CA, Santa Clara | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023486?s=gh-internships-2027) |
 | **LabCorp** | Intern - Product Owner | Durham NC | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638059?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Pivotal Software** | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) |
+| **Pivotal Software** | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) |
 | **Stryker** | Summer 2027 Internship - Sales Operations Intern - San Jose, CA | San Jose, California | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R572806?s=gh-internships-2027) |
 | **Crane Co.** | Finance Intern | Piqua, Ohio | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102893?s=gh-internships-2027) |
 | **Applied Materials** | Summer 2027 Supply Chain Buyer Intern- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amat-external-R2627066?s=gh-internships-2027) |
