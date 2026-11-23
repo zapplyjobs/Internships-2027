@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 22m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-internships-2027) |
 | **MITRE** | Internships in Cybersecurity and Information Security | McLean, Virginia | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117314?s=gh-internships-2027) |
 | **HPE (University)** | Networking & Cybersecurity Intern | San Jose, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058?s=gh-internships-2027) |
 | **HPE (University)** | Networking & Cybersecurity Intern | Westford, Massachusetts, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214057?s=gh-internships-2027) |
@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 3h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 4h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-internships-2027) |
 | **MITRE** | AI Engineering Intern | Bedford, Massachusetts | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117620?s=gh-internships-2027) |
 | **Leidos** | Data Engineer Intern | Fort Belvoir, VA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-leidos-external-R-00196994?s=gh-internships-2027) |
@@ -620,14 +620,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | DC - Washington | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112378?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Miami | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112379?s=gh-internships-2027) |
-| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 6m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst Summer Internship Program 2028 San Francisco | San Francisco, Four Embarcadero | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137795?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst Summer Internship Program 2028 Chicago | Chicago, 190 South LaSalle Street | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137785?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
-| **Microchip Technology** | Intern-Equipment Technician | OR - Gresham | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4577-26?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | DC - Washington | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112378?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Miami | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112379?s=gh-internships-2027) |
+| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 13m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst Summer Internship Program 2028 San Francisco | San Francisco, Four Embarcadero | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137795?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst Summer Internship Program 2028 Chicago | Chicago, 190 South LaSalle Street | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137785?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 32m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
+| **Microchip Technology** | Intern-Equipment Technician | OR - Gresham | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4577-26?s=gh-internships-2027) |
 | **Microsoft** | Applied Sciences INTERN | United States | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-internships-2027) |
 | **Red Bull** | 2027 Internship, Spring - Communications and Community | Harrison, NJ | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163141169?s=gh-internships-2027) |
 | **Red Bull** | 2027 Internship, Spring - Field Marketing & Community Impact | Harrison, NJ | 3h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140999?s=gh-internships-2027) |
