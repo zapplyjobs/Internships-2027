@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-internships-2027) |
+| **Northrop Grumman** | 2027 Software Test Engineering Intern - Roy UT | United States-Utah-Roy | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261728?s=gh-internships-2027) |
 | **MITRE** | Internships in Cybersecurity and Information Security | McLean, Virginia | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117314?s=gh-internships-2027) |
 | **HPE (University)** | Networking & Cybersecurity Intern | San Jose, California, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214058?s=gh-internships-2027) |
 | **HPE (University)** | Networking & Cybersecurity Intern | Westford, Massachusetts, United... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214057?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Unisys** | Field Marketing Intern   US | Blue Bell, PA, United States of... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ577240?s=gh-internships-2027) |
+| **Unisys** | Field Marketing Intern   US | Blue Bell, PA, United States of... | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-unisys-external-REQ577240?s=gh-internships-2027) |
 | **Pivotal Software** | Internship, Supply Chain Analyst (Summer 2027) | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-pivotal-711d6c44-a1f9-4ab4-943f-b6e8d53194be?s=gh-internships-2027) |
 | **Trace3** | Social Media Intern | Irvine, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-trace3-8274822?s=gh-internships-2027) |
 | **Boston Scientific** | Supply Chain Material Management Intern | Maple Grove US-MN, United... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813519128?s=gh-internships-2027) |
@@ -620,22 +620,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Microchip Technology** | Intern-Equipment Technician | OR - Gresham | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4577-26?s=gh-internships-2027) |
-| **Moog** | Intern, Manufacturing & Industrial Engineering | Buffalo, NY | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21458?s=gh-internships-2027) |
-| **RTX** | Contracts Intern (Summer 2027) | GA-REMOTE | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890708?s=gh-internships-2027) |
-| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 10m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-internships-2027) |
-| **Johnson Controls** | Intern Ugrad Tech US/CA | New Freedom-Pennsylvania-United... | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30286070?s=gh-internships-2027) |
-| **Baker Hughes** | Intern/Co-op - Manufacturing - Spring 2027 Opportunities | LA-BROUSSARD | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169443?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Lake Butler | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1029580?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Alachua | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1022603?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Jacksonville | 11m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1082498?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst Summer Internship Program 2028 San Francisco | San Francisco, Four Embarcadero | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137795?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst Summer Internship Program 2028 Chicago | Chicago, 190 South LaSalle Street | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137785?s=gh-internships-2027) |
-| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
-| **Menasha Corporation** | Student Intern | Orion, Michigan | 43m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-menasha-menashacorp-R16926?s=gh-internships-2027) |
-| **Microsoft** | Applied Sciences INTERN | United States | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Communications and Community | Harrison, NJ | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163141169?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Field Marketing & Community Impact | Harrison, NJ | 8h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140999?s=gh-internships-2027) |
+| **Microchip Technology** | Intern-Equipment Technician | OR - Gresham | 16m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-microchiphr-external-R4577-26?s=gh-internships-2027) |
+| **Moog** | Intern, Manufacturing & Industrial Engineering | Buffalo, NY | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21458?s=gh-internships-2027) |
+| **RTX** | Contracts Intern (Summer 2027) | GA-REMOTE | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01890708?s=gh-internships-2027) |
+| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-internships-2027) |
+| **Johnson Controls** | Intern Ugrad Tech US/CA | New Freedom-Pennsylvania-United... | 17m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30286070?s=gh-internships-2027) |
+| **Baker Hughes** | Intern/Co-op - Manufacturing - Spring 2027 Opportunities | LA-BROUSSARD | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-bakerhughes-bakerhughes-R169443?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Lake Butler | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1029580?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Alachua | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1022603?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Jacksonville | 18m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1082498?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst Summer Internship Program 2028 San Francisco | San Francisco, Four Embarcadero | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137795?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst Summer Internship Program 2028 Chicago | Chicago, 190 South LaSalle Street | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137785?s=gh-internships-2027) |
+| **Barclays** | Banking Analyst (Capital Markets) Summer Internship Program 2028 New York City | New York, 745 7th Avenue | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-barclays-external-career-site-barclays-JR-0000137800?s=gh-internships-2027) |
+| **Menasha Corporation** | Student Intern | Orion, Michigan | 50m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-menasha-menashacorp-R16926?s=gh-internships-2027) |
+| **Microsoft** | Applied Sciences INTERN | United States | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200041777?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Communications and Community | Harrison, NJ | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163141169?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Field Marketing & Community Impact | Harrison, NJ | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140999?s=gh-internships-2027) |
 | **Red Bull** | 2027 Internship, Spring - Youth Programs Marketing | Harrison, NJ | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163140739?s=gh-internships-2027) |
 | **Stantec** | Hydrogeology Intern – Energy & Resources (Summer 2027) | Salt Lake City, UT, United States | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008923?s=gh-internships-2027) |
 | **Ascension** | Nursing Intern | Nashville, TN | 14h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1281173?s=gh-internships-2027) |
