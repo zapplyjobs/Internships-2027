@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-internships-2027) |
-| **ASML** | Internship - Finance Analyst | Wilton, CT, USA | 37m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358071?s=gh-internships-2027) |
-| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 37m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-internships-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00357865?s=gh-internships-2027) |
+| **ASML** | Internship - Finance Analyst | Wilton, CT, USA | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358071?s=gh-internships-2027) |
+| **ASML** | Internship - Mechatronics Engineer | Wilton, CT, USA | 46m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358112?s=gh-internships-2027) |
 | **Aerospace Corporation** | 2027 Defensive Cyber Operations Undergrad Intern | El Segundo, CA | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017011?s=gh-internships-2027) |
 | **HPE (University)** | Masters Tech Intern - Customer Experience & Business Process Innovation | Spring, Texas, United States of... | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1213078?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | Plainfield, Indiana | 4h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
