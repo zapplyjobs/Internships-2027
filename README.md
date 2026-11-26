@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HeyGen** | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | 6h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5309913007?s=gh-internships-2027) |
-| **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 10h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
+| **HeyGen** | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5309913007?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 11h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
 | **Eversource Energy** | 2027 Co-op: Substation Design Engineering | Westwood, MA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-031701?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Mixed Signal Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023502?s=gh-internships-2027) |
@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 19m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 55m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 55m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
+| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 25m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
 | **Regal Rexnord** | Reliability Lab Co-Op (Summer 2027) | Fort Wayne, Indiana, United States | 3h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_06207?s=gh-internships-2027) |
 | **Moog** | Intern, HR - Student & Early Career Team | Buffalo, NY | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-21059?s=gh-internships-2027) |
 | **Moog** | Intern, Manufacturing and Industrial Engineering | Torrance, CA | 3h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-moog-moog-external-career-site-R-26-19823?s=gh-internships-2027) |
@@ -649,7 +649,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eight Sleep** | New Grad - Business Functions (internship) | New York City | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-2db07e1f-ef43-4efa-852d-ac22b11426d0?s=gh-internships-2027) |
 | **Eight Sleep** | New Grad - Engineering (internship) | New York City | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-3291df7a-cf2b-45f4-af52-34f00065255a?s=gh-internships-2027) |
 | **Nominal** | Mission Dev Engineer, U.S. Government - New Grad (Summer 2027) | Washington, United States | 17h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDoFP5uU7jgZ2aBuEwXN2-Vd?s=gh-internships-2027) |
-| **Boston Scientific** | Process Development Intern - Arden Hills, MN | United States   N/A | 18h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813563399?s=gh-internships-2027) |
+| **Boston Scientific** | Process Development Intern - Arden Hills, MN | United States   N/A | 19h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813563399?s=gh-internships-2027) |
 | **Motorola Solutions** | Global Education Intern (Summer 2027 Internship) | Chicago, IL, More... | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70403?s=gh-internships-2027) |
 | **Eversource Energy** | 2027 Co-op: Capital Projects | Westwood, MA | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-eversource-externalsite-R-031700?s=gh-internships-2027) |
 | **Bread Financial** | Intern - Talent Optimization | Columbus, OH | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-alliancedata-breadfinancial-us-R1013368?s=gh-internships-2027) |
