@@ -398,8 +398,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **HeyGen** | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | 9h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5309913007?s=gh-internships-2027) |
-| **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 13h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
+| **HeyGen** | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | 10h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5309913007?s=gh-internships-2027) |
+| **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 14h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Digital Circuit Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023504?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Hardware ASIC Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023486?s=gh-internships-2027) |
 | **NVIDIA** | NVIDIA 2027 Internships: Mixed Signal Design | US, CA, Santa Clara | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2023502?s=gh-internships-2027) |
@@ -620,10 +620,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 7m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
-| **Lucid Motors** | Logistics Operation Intern | Amsterdam, NH | 16m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306584007?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 46m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 46m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
+| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 14m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
+| **Lucid Motors** | Logistics Operation Intern | Amsterdam, NH | 23m | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306584007?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 53m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 53m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Laurel | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114751?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Greenbelt | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114745?s=gh-internships-2027) |
 | **CVS Health** | Pharmacy Intern - Grad | MD - Wheaton | 7h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114735?s=gh-internships-2027) |
@@ -648,7 +648,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eight Sleep** | New Grad - Business Functions (internship) | New York City | 20h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-2db07e1f-ef43-4efa-852d-ac22b11426d0?s=gh-internships-2027) |
 | **Eight Sleep** | New Grad - Engineering (internship) | New York City | 20h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/ashby-eightsleep-3291df7a-cf2b-45f4-af52-34f00065255a?s=gh-internships-2027) |
 | **Nominal** | Mission Dev Engineer, U.S. Government - New Grad (Summer 2027) | Washington, United States | 20h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDoFP5uU7jgZ2aBuEwXN2-Vd?s=gh-internships-2027) |
-| **Boston Scientific** | Process Development Intern - Arden Hills, MN | United States   N/A | 21h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813563399?s=gh-internships-2027) |
+| **Boston Scientific** | Process Development Intern - Arden Hills, MN | United States   N/A | 22h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813563399?s=gh-internships-2027) |
 | **Lumentum** | Internship - Sales Support and Market Analyst | USA - CA - San Jose | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lumentum-lite-20261647?s=gh-internships-2027) |
 | **Arch Capital Group** | E&S Property Underwriting Intern | New York, NY United States of... | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_1055?s=gh-internships-2027) |
 | **Bristol Myers Squibb** | Summer Intern, Translational Medicine & Clinical Pharmacology – Pharmacometrics | Princeton NJ US | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608952?s=gh-internships-2027) |
