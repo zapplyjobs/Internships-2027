@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Lucid Motors** | Instructional Designer Intern | Amsterdam, NH | 21h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306676007?s=gh-internships-2027) |
+| **Lucid Motors** | Instructional Designer Intern | Amsterdam, NH | 22h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306676007?s=gh-internships-2027) |
 | **HeyGen** | Product Marketing MBA Intern (Contract) | Los Angeles, San Francisco | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-heygen-5309913007?s=gh-internships-2027) |
 | **General Atomics** | Intern - Aircraft Design Engineer | Adelanto, California | 1d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/brassring-general-atomics-5238580?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - Machine Learning for Biology and Healthcare | Redmond, Washington, United States | 1d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200068907?s=gh-internships-2027) |
@@ -620,10 +620,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland (Credit) | Cleveland, OH | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41396?s=gh-internships-2027) |
-| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland | Cleveland, OH | 5m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41393?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003876?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Sales Intern | Plano, TX, USA | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003912?s=gh-internships-2027) |
+| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland (Credit) | Cleveland, OH | 12m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41396?s=gh-internships-2027) |
+| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland | Cleveland, OH | 12m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41393?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 42m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003876?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Sales Intern | Plano, TX, USA | 42m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003912?s=gh-internships-2027) |
 | **Kohl's** | Early Talent - 2027 - E-Fulfillment Centers - Leadership Management Internship | DeSoto, Texas | 15h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-kohl-s-R508039?s=gh-internships-2027) |
 | **Ascension** | Nursing Intern | Nashville, TN | 15h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1281173?s=gh-internships-2027) |
 | **Intuitive** | HEOR Intern | Sunnyvale, CA | 22h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000163908429?s=gh-internships-2027) |
