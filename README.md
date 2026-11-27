@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships across tech, business, healthcare, and more for students, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-14238-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-14236-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Hardware%20%26%20Engineering-1644-2F81F7?style=flat&logo=briefcase" height="30" alt="Hardware & Engineering">
   <img src="https://img.shields.io/badge/Companies-595-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -92,7 +92,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | 2027 Software Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado... | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10261918?s=gh-internships-2027) |
 | **Neuralink** | Electrical Test Engineer Intern | South San Francisco,... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-neuralink-8197808003?s=gh-internships-2027) |
 | **Lockheed Martin** | Systems Engineer - Intern | Owego, NY | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-lockheedmartin-996478149799?s=gh-internships-2027) |
-| **Aerospace Corporation** | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA | 2d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017321?s=gh-internships-2027) |
+| **Aerospace Corporation** | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017321?s=gh-internships-2027) |
 | **General Motors** | 2027 Summer Intern – Software Engineer, AV/AI Platform | 3 Locations | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202621696?s=gh-internships-2027) |
 | **Aerospace Corporation** | 2027 Power and Analog Circuit Engineering Undergrad Intern | El Segundo, CA | 3d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-aero-external-R017288?s=gh-internships-2027) |
 | **Motorola Solutions** | Software Engineering Intern - 2027 Internship Program | Salt Lake City, UT | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70950?s=gh-internships-2027) |
@@ -620,8 +620,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland (Credit) | Cleveland, OH | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41396?s=gh-internships-2027) |
-| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland | Cleveland, OH | 13m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41393?s=gh-internships-2027) |
+| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland (Credit) | Cleveland, OH | 22m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41396?s=gh-internships-2027) |
+| **KeyBank** | 2027 Summer Commercial Bank Internship - Cleveland | Cleveland, OH | 22m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41393?s=gh-internships-2027) |
 | **JLL** | Property Engineering Summer 2027 Internship -  Minneapolis, MN | Minneapolis, MN | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ540465?s=gh-internships-2027) |
 | **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003876?s=gh-internships-2027) |
 | **Brown & Brown Insurance** | Sales Intern | Plano, TX, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003912?s=gh-internships-2027) |
@@ -806,7 +806,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 14238 current opportunities from 595 companies**
+**🎯 14236 current opportunities from 595 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
