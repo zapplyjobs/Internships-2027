@@ -203,7 +203,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ASML** | Internship/Co-Op: AI Engineer | San Jose, CA, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358477?s=gh-internships-2027) |
 | **ASML** | Internship/Co-Op: AI Engineer | San Diego, CA, USA | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-asml-asmlext1-J-00358475?s=gh-internships-2027) |
 | **Danaher** | IT Data Analyst Intern | Brea, California | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-danaher-R1316675?s=gh-internships-2027) |
-| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 3d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
+| **Red Bull** | 2027 Internship, Spring - Data Science | Morristown, NJ | 4d | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000163139699?s=gh-internships-2027) |
 | **Stantec** | Data Scientist Intern - Water (Summer 2027) | San Diego, CA, United States | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1009005?s=gh-internships-2027) |
 | **MITRE** | Data Science Intern | McLean, Virginia | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117632?s=gh-internships-2027) |
 | **MITRE** | AI Engineering Intern | Bedford, Massachusetts | 4d |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/phenom-mitre-R117620?s=gh-internships-2027) |
@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 30m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 55m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
-| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 55m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
+| **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 36m |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003863?s=gh-internships-2027) |
+| **Brown & Brown Insurance** | Intern | Brentwood, TN, USA | 1h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003875?s=gh-internships-2027) |
 | **Intuitive** | HEOR Intern | Sunnyvale, CA | 12h |  | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000163908429?s=gh-internships-2027) |
 | **Lucid Motors** | Salesforce Engineer Intern | Amsterdam, NH | 14h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306844007?s=gh-internships-2027) |
 | **Lucid Motors** | Financial Planning & Analysis Intern | Amsterdam, NH | 14h | ✅ Sponsor | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-lucidmotors-5306601007?s=gh-internships-2027) |
